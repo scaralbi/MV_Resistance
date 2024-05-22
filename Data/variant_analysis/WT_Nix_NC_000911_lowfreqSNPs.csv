@@ -1,0 +1,237 @@
+Name,Minimum,Maximum,Length,Change,Polymorphism Type,Variant Nucleotide(s),Sequence,Reference Nucleotide(s),Amino Acid Change,CDS,CDS Position,Codon Change,Coverage,Protein Effect,Reference Frequency,Variant Frequency
+A,2,2,1,G -> A,SNP (transition),A,G,G,A -> T,sds CDS,202,GCG -> ACG,80,Substitution,18.8%,5.0%
+G,983796,983796,1,A -> G,SNP (transition),G,A,A,,,,,248,,94.4%,5.2%
+G,1201470,1201470,1,A -> G,SNP (transition),G,A,A,,,,,94,,91.5%,5.3%
+C,1405624,1405624,1,A -> C,SNP (transversion),C,A,A,K -> N,rhodanese-like domain-containing protein CDS,189,AAA -> AAC,207,Substitution,94.7%,5.3%
+G,2551152,2551152,1,T -> G,SNP (transversion),G,T,T,L -> V,carbon dioxide-concentrating mechanism protein CDS,400,TTG -> GTG,243,Substitution,94.7%,5.3%
+G,833854,833854,1,T -> G,SNP (transversion),G,T,T,E -> D,rplO CDS,411,GAA -> GAC,234,Substitution,94.4%,5.6%
+A,2049573,2049573,1,C -> A,SNP (transversion),A,C,C,,,,,304,,93.8%,5.6%
+A,2049582,2049582,1,T -> A,SNP (transversion),A,T,T,,,,,323,,91.3%,5.6%
+G,3063657,3063657,1,A -> G,SNP (transition),G,A,A,,rppB CDS,1269,GTT -> GTC,569,None,94.4%,5.6%
+T,983794,983794,1,G -> T,SNP (transversion),T,G,G,,,,,244,,91.0%,5.7%
+C,3298829,3298829,1,A -> C,SNP (transversion),C,A,A,K -> N,sulfate ABC transporter substrate-binding protein CDS,504,AAA -> AAC,229,Substitution,94.3%,5.7%
+G,16204,16204,1,C -> G,SNP (transversion),G,C,C,Q -> E,ABC transporter ATP-binding protein CDS,268,CAA -> GAA,156,Substitution,94.2%,5.8%
+A,1444036,1444036,1,G -> A,SNP (transition),A,G,G,S -> F,response regulator CDS,11,TCC -> TTC,189,Substitution,94.2%,5.8%
+T,3063665,3063665,1,G -> T,SNP (transversion),T,G,G,Q -> K,rppB CDS,1261,CAA -> AAA,615,Substitution,53.2%,5.9%
+T,1200318,1200318,1,A -> T,SNP (transversion),T,A,A,N -> I,hypothetical protein CDS,458,AAT -> ATT,131,Substitution,92.4%,6.1%
+G,3066287,3066287,1,T -> G,SNP (transversion),G,T,T,,,,,460,,92.4%,6.1%
+T,365954,365954,1,G -> T,SNP (transversion),T,G,G,S -> I,glycosyltransferase CDS,239,AGT -> ATT,274,Substitution,93.8%,6.2%
+G,3048367,3048367,1,T -> G,SNP (transversion),G,T,T,,,,,398,,91.5%,6.5%
+A,2049579,2049579,1,T -> A,SNP (transversion),A,T,T,,,,,318,,82.1%,6.6%
+G,386411,386411,1,A -> G,SNP (transition),G,A,A,S -> G,hypothetical protein CDS,235,AGT -> GGT,165,Substitution,58.8%,6.7%
+G,1514383,1514383,1,T -> G,SNP (transversion),G,T,T,K -> T,coaBC CDS,956,AAA -> ACA,251,Substitution,93.2%,6.8%
+G,1757256,1757256,1,T -> G,SNP (transversion),G,T,T,,,,,232,,93.1%,6.9%
+G,501554,501554,1,T -> G,SNP (transversion),G,T,T,N -> T,pentapeptide repeat-containing protein CDS,413,AAT -> ACT,230,Substitution,93.0%,7.0%
+C,645125,645125,1,A -> C,SNP (transversion),C,A,A,F -> V,S-(hydroxymethyl)glutathione dehydrogenase/classIII alcohol dehydrogenase CDS,373,TTT -> GTT,244,Substitution,93.0%,7.0%
+A,1311355,1311355,1,C -> A,SNP (transversion),A,C,C,,,,,243,,93.0%,7.0%
+G,2942648,2942648,1,T -> G,SNP (transversion),G,T,T,K -> T,AI-2E family transporter CDS,236,AAA -> ACA,227,Substitution,93.0%,7.0%
+A,3066283,3066283,1,T -> A,SNP (transversion),A,T,T,,,,,483,,93.0%,7.0%
+T,3573469,3573469,1,A -> T,SNP (transversion),T,A,A,T -> S,sds CDS,199,ACG -> TCG,57,Substitution,28.1%,7.0%
+A,1200319,1200319,1,T -> A,SNP (transversion),A,T,T,N -> K,hypothetical protein CDS,459,AAT -> AAA,126,Substitution,92.9%,7.1%
+A,2048426,2048426,1,T -> A,SNP (transversion),A,T,T,,,,,112,,86.6%,7.1%
+A,3400334,3400334,1,G -> A,SNP (transition),A,G,G,S -> F,ATP-binding protein CDS,17,TCT -> TTT,85,Substitution,76.5%,7.1%
+A,1200328,1200328,1,T -> A,SNP (transversion),A,T,T,,hypothetical protein CDS,468,,110,Truncation,92.7%,7.3%
+A,1200329,1200329,1,G -> A,SNP (transition),A,G,G,V -> I,hypothetical protein CDS,469,GTA -> ATA,109,Substitution,86.2%,7.3%
+A,1201475,1201475,1,T -> A,SNP (transversion),A,T,T,,,,,110,,77.3%,7.3%
+A,3066284,3066284,1,C -> A,SNP (transversion),A,C,C,,,,,480,,83.8%,7.3%
+G,3395730,3395730,1,T -> G,SNP (transversion),G,T,T,,,,,206,,92.7%,7.3%
+C,1752690,1752690,1,A -> C,SNP (transversion),C,A,A,K -> T,hypothetical protein CDS,740,AAA -> ACA,243,Substitution,92.6%,7.4%
+C,233036,233036,1,G -> C,SNP (transversion),C,G,G,,bchD CDS,1029,CCG -> CCC,160,None,91.9%,7.5%
+G,723081,723081,1,T -> G,SNP (transversion),G,T,T,F -> C,serS CDS,512,TTT -> TGT,279,Substitution,92.5%,7.5%
+G,2049576,2049576,1,C -> G,SNP (transversion),G,C,C,,,,,307,,91.2%,7.5%
+C,3400344,3400344,1,A -> C,SNP (transversion),C,A,A,F -> V,ATP-binding protein CDS,7,TTC -> GTC,93,Substitution,87.1%,7.5%
+C,3401485,3401485,1,A -> C,SNP (transversion),C,A,A,Y -> D,PAS domain S-box protein CDS,1417,TAT -> GAT,173,Substitution,92.5%,7.5%
+C,1365005,1365005,1,A -> C,SNP (transversion),C,A,A,,tetratricopeptide repeat protein CDS,444,GCT -> GCG,238,None,92.4%,7.6%
+A,2297457,2297457,1,C -> A,SNP (transversion),A,C,C,A -> S,DNA double-strand break repair nuclease NurA CDS,1114,GCC -> TCC,211,Substitution,92.4%,7.6%
+T,2048413,2048413,1,A -> T,SNP (transversion),T,A,A,,,,,115,,89.6%,7.8%
+C,3095835,3095835,1,A -> C,SNP (transversion),C,A,A,,,,,270,,92.2%,7.8%
+C,724422,724422,1,A -> C,SNP (transversion),C,A,A,,,,,229,,92.1%,7.9%
+T,3066285,3066285,1,A -> T,SNP (transversion),T,A,A,,,,,478,,92.1%,7.9%
+C,2011417,2011417,1,A -> C,SNP (transversion),C,A,A,,,,,211,,91.9%,8.1%
+G,2048425,2048425,1,A -> G,SNP (transition),G,A,A,,,,,111,,91.9%,8.1%
+C,2586371,2586371,1,A -> C,SNP (transversion),C,A,A,,AI-2E family transporter CDS,153,GCT -> GCG,246,None,91.9%,8.1%
+G,3019464,3019464,1,T -> G,SNP (transversion),G,T,T,,TVP38/TMEM64 family protein CDS,204,GCT -> GCG,294,None,91.2%,8.2%
+G,101952,101952,1,T -> G,SNP (transversion),G,T,T,N -> H,ispE CDS,880,AAC -> CAC,181,Substitution,91.7%,8.3%
+C,1603733,1603733,1,A -> C,SNP (transversion),C,A,A,L -> V,psb29 CDS,427,TTA -> GTA,241,Substitution,91.7%,8.3%
+G,1201469,1201469,1,C -> G,SNP (transversion),G,C,C,,,,,94,,87.2%,8.5%
+G,2048419,2048419,1,T -> G,SNP (transversion),G,T,T,,,,,105,,66.7%,8.6%
+C,1201458,1201458,1,T -> C,SNP (transition),C,T,T,,,,,112,,91.1%,8.9%
+G,3066284,3066284,1,C -> G,SNP (transversion),G,C,C,,,,,480,,83.8%,9.0%
+T,3400336,3400336,1,A -> T,SNP (transversion),T,A,A,D -> E,ATP-binding protein CDS,15,GAT -> GAA,78,Substitution,37.2%,9.0%
+C,2049579,2049579,1,T -> C,SNP (transition),C,T,T,,,,,318,,82.1%,9.1%
+G,3573468,3573468,1,A -> G,SNP (transition),G,A,A,,sds CDS,198,TTA -> TTG,65,None,36.9%,9.2%
+T,1211794,1211794,1,C -> T,SNP (transition),T,C,C,,Rpn family recombination-promoting nuclease/putative transposase CDS,627,GAG -> GAA,2231,None,89.1%,9.3%
+A,2048412,2048412,1,G -> A,SNP (transition),A,G,G,,,,,117,,79.5%,9.4%
+G,1007846,1007846,1,T -> G,SNP (transversion),G,T,T,K -> T,nitrate ABC transporter ATP-binding protein CDS,401,AAA -> ACA,198,Substitution,90.4%,9.6%
+C,1408947,1408947,1,A -> C,SNP (transversion),C,A,A,Y -> D,GntR family transcriptional regulator CDS,703,TAT -> GAT,227,Substitution,90.3%,9.7%
+T,2049583,2049583,1,G -> T,SNP (transversion),T,G,G,,,,,325,,83.7%,9.8%
+G,83741,83741,1,T -> G,SNP (transversion),G,T,T,K -> T,efflux RND transporter periplasmic adaptor subunit CDS,113,AAA -> ACA,229,Substitution,90.0%,10.0%
+G,1853327,1853327,1,A -> G,SNP (transition),G,A,A,L -> P,peptidase domain-containing ABC transporter CDS,416,CTA -> CCA,318,Substitution,89.6%,10.4%
+T,365959,365959,1,G -> T,SNP (transversion),T,G,G,V -> F,glycosyltransferase CDS,244,GTT -> TTT,273,Substitution,89.4%,10.6%
+C,871563,871563,1,A -> C,SNP (transversion),C,A,A,L -> V,smc CDS,1708,TTG -> GTG,259,Substitution,89.2%,10.8%
+C,1201475,1201475,1,T -> C,SNP (transition),C,T,T,,,,,110,,77.3%,10.9%
+G,3185897,3185897,1,T -> G,SNP (transversion),G,T,T,L -> V,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase CDS",1165,TTG -> GTG,258,Substitution,89.1%,10.9%
+T,3573470,3573470,1,C -> T,SNP (transition),T,C,C,T -> M,sds CDS,200,ACG -> ATG,46,Substitution,54.3%,10.9%
+T,1031114,1031114,1,C -> T,SNP (transition),T,C,C,,,,,316,,88.9%,11.1%
+T,2048412,2048412,1,G -> T,SNP (transversion),T,G,G,,,,,117,,79.5%,11.1%
+G,2048416,2048416,1,T -> G,SNP (transversion),G,T,T,,,,,99,,57.6%,11.1%
+A,2048423,2048423,1,C -> A,SNP (transversion),A,C,C,,,,,106,,88.7%,11.3%
+A,3401503,3401503,1,C -> A,SNP (transversion),A,C,C,,PAS domain S-box protein CDS,1399,,151,Truncation,45.7%,11.3%
+G,2591316,2591316,1,T -> G,SNP (transversion),G,T,T,F -> C,GspE/PulE family protein CDS,1466,TTT -> TGT,193,Substitution,88.6%,11.4%
+T,983797,983797,1,G -> T,SNP (transversion),T,G,G,,,,,249,,87.6%,11.6%
+C,233033,233033,1,G -> C,SNP (transversion),C,G,G,,bchD CDS,1026,CCG -> CCC,159,None,87.4%,11.9%
+G,3400346,3400346,1,C -> G,SNP (transversion),G,C,C,R -> P,ATP-binding protein CDS,5,CGA -> CCA,91,Substitution,79.1%,12.1%
+G,386422,386422,1,C -> G,SNP (transversion),G,C,C,S -> R,hypothetical protein CDS,246,AGC -> AGG,146,Substitution,84.2%,12.3%
+G,1013921,1013921,1,T -> G,SNP (transversion),G,T,T,E -> D,ftsZ CDS,417,GAA -> GAC,302,Substitution,87.4%,12.6%
+A,1211821,1211821,1,G -> A,SNP (transition),A,G,G,,Rpn family recombination-promoting nuclease/putative transposase CDS,600,TCC -> TCT,2451,None,87.1%,12.7%
+G,134737,134737,1,C -> G,SNP (transversion),G,C,C,P -> A,infB CDS,301,CCC -> GCC,109,Substitution,87.2%,12.8%
+T,2042170,2042170,1,C -> T,SNP (transition),T,C,C,,RluA family pseudouridine synthase CDS,172,,354,Truncation,87.0%,13.0%
+A,2049580,2049580,1,T -> A,SNP (transversion),A,T,T,,,,,320,,86.9%,13.1%
+A,3348887,3348887,1,T -> A,SNP (transversion),A,T,T,,acnB CDS,198,GGT -> GGA,410,None,86.3%,13.2%
+A,2998711,2998711,1,G -> A,SNP (transition),A,G,G,S -> F,IS701 family transposase CDS,215,TCT -> TTT,822,Substitution,86.1%,13.6%
+T,1201461,1201461,1,C -> T,SNP (transition),T,C,C,,,,,109,,85.3%,13.8%
+A,386380,386380,1,T -> A,SNP (transversion),A,T,T,,hypothetical protein CDS,204,CCT -> CCA,170,None,85.9%,14.1%
+C,1670673,1670673,1,A -> C,SNP (transversion),C,A,A,K -> N,beta-ketoacyl-ACP synthase CDS,24,AAA -> AAC,250,Substitution,85.6%,14.4%
+C,3528961,3528961,1,A -> C,SNP (transversion),C,A,A,T -> P,hypothetical protein CDS,697,ACC -> CCC,139,Substitution,85.6%,14.4%
+A,386393,386393,1,C -> A,SNP (transversion),A,C,C,L -> M,hypothetical protein CDS,217,CTG -> ATG,186,Substitution,73.1%,14.5%
+T,1200324,1200324,1,C -> T,SNP (transition),T,C,C,T -> I,hypothetical protein CDS,464,ACT -> ATT,121,Substitution,67.8%,14.9%
+T,386387,386387,1,C -> T,SNP (transition),T,C,C,,hypothetical protein CDS,211,CTA -> TTA,173,None,81.5%,15.0%
+C,3503939,3503939,1,A -> C,SNP (transversion),C,A,A,F -> V,SRPBCC family protein CDS,154,TTT -> GTT,247,Substitution,85.0%,15.0%
+A,3348884,3348884,1,G -> A,SNP (transition),A,G,G,,acnB CDS,195,GCG -> GCA,405,None,84.9%,15.1%
+T,386386,386386,1,G -> T,SNP (transversion),T,G,G,,hypothetical protein CDS,210,CGG -> CGT,168,None,84.5%,15.5%
+G,386381,386381,1,T -> G,SNP (transversion),G,T,T,W -> G,hypothetical protein CDS,205,TGG -> GGG,171,Substitution,84.2%,15.8%
+A,983801,983801,1,G -> A,SNP (transition),A,G,G,,,,,257,,84.0%,16.0%
+A,983803,983803,1,C -> A,SNP (transversion),A,C,C,,,,,257,,82.9%,16.0%
+G,1211625,1211625,1,A -> G,SNP (transition),G,A,A,,UPF0175 family protein CDS,225,,1158,Extension,84.0%,16.0%
+G,1211630,1211630,1,T -> G,SNP (transversion),G,T,T,,,,,1240,,84.0%,16.0%
+A,1211708,1211708,1,G -> A,SNP (transition),A,G,G,A -> V,Rpn family recombination-promoting nuclease/putative transposase CDS,713,GCC -> GTC,2140,Substitution,83.8%,16.1%
+C,2579853,2579853,1,A -> C,SNP (transversion),C,A,A,F -> V,amino acid ABC transporter substrate-binding protein CDS,283,TTT -> GTT,260,Substitution,83.8%,16.2%
+A,2048420,2048420,1,G -> A,SNP (transition),A,G,G,,,,,109,,83.5%,16.5%
+A,1201474,1201474,1,C -> A,SNP (transversion),A,C,C,,,,,110,,46.4%,17.3%
+T,1211636,1211636,1,C -> T,SNP (transition),T,C,C,,,,,1292,,82.6%,17.3%
+C,1201464,1201464,1,T -> C,SNP (transition),C,T,T,,,,,109,,81.7%,17.4%
+C,1510870,1510870,1,A -> C,SNP (transversion),C,A,A,K -> T,NAD(P)H-quinone oxidoreductase subunit H CDS,881,AAA -> ACA,198,Substitution,82.3%,17.7%
+G,1211686,1211686,1,A -> G,SNP (transition),G,A,A,,Rpn family recombination-promoting nuclease/putative transposase CDS,735,GAT -> GAC,1933,None,81.8%,18.1%
+C,983807,983807,1,T -> C,SNP (transition),C,T,T,,sigma-70 family RNA polymerase sigma factor CDS,4,TTG -> CTG,255,None,81.2%,18.8%
+G,3048404,3048404,1,A -> G,SNP (transition),G,A,A,,UmuC protein CDS,6,GGA -> GGG,466,None,80.5%,19.5%
+G,3063627,3063627,1,T -> G,SNP (transversion),G,T,T,,rppB CDS,1299,GGA -> GGC,406,None,80.5%,19.5%
+C,3348606,3348606,1,T -> C,SNP (transition),C,T,T,,,,,395,,80.3%,19.5%
+C,1212079,1212079,1,T -> C,SNP (transition),C,T,T,,Rpn family recombination-promoting nuclease/putative transposase CDS,342,TTA -> TTG,1622,None,22.4%,19.7%
+A,2049581,2049581,1,C -> A,SNP (transversion),A,C,C,,,,,320,,80.3%,19.7%
+A,3048590,3048590,1,G -> A,SNP (transition),A,G,G,,UmuC protein CDS,192,ACG -> ACA,504,None,80.2%,19.8%
+A,1201465,1201465,1,C -> A,SNP (transversion),A,C,C,,,,,104,,76.0%,20.2%
+T,3063630,3063630,1,C -> T,SNP (transition),T,C,C,,rppB CDS,1296,CAG -> CAA,412,None,78.9%,21.1%
+G,1353019,1353019,1,T -> G,SNP (transversion),G,T,T,L -> R,purT CDS,764,CTG -> CGG,208,Substitution,78.4%,21.6%
+T,3348863,3348863,1,C -> T,SNP (transition),T,C,C,,acnB CDS,174,GAC -> GAT,450,None,77.6%,22.4%
+C,1972372,1972372,1,T -> C,SNP (transition),C,T,T,,IS701 family transposase CDS,312,GCT -> GCC,1245,None,77.3%,22.7%
+T,3048572,3048572,1,C -> T,SNP (transition),T,C,C,,UmuC protein CDS,174,ACC -> ACT,545,None,76.9%,23.1%
+G,134871,134871,1,T -> G,SNP (transversion),G,T,T,,infB CDS,435,GCT -> GCG,56,None,76.8%,23.2%
+A,1201472,1201472,1,C -> A,SNP (transversion),A,C,C,,,,,103,,46.6%,23.3%
+C,1273773,1273773,1,A -> C,SNP (transversion),C,A,A,E -> D,hypothetical protein CDS,366,GAA -> GAC,212,Substitution,76.4%,23.6%
+C,1640347,1640347,1,A -> C,SNP (transversion),C,A,A,K -> T,hypothetical protein CDS,404,AAA -> ACA,274,Substitution,76.3%,23.7%
+C,3063633,3063633,1,A -> C,SNP (transversion),C,A,A,,rppB CDS,1293,GGT -> GGG,431,None,76.3%,23.7%
+C,2048418,2048418,1,T -> C,SNP (transition),C,T,T,,,,,105,,72.4%,23.8%
+A,1201476,1201476,1,T -> A,SNP (transversion),A,T,T,,,,,109,,69.7%,23.9%
+C,3348620,3348620,1,T -> C,SNP (transition),C,T,T,,,,,401,,75.8%,24.2%
+G,2998317,2998317,1,A -> G,SNP (transition),G,A,A,,IS701 family transposase CDS,609,GCT -> GCC,687,None,75.1%,24.7%
+A,2048419,2048419,1,T -> A,SNP (transversion),A,T,T,,,,,105,,66.7%,24.8%
+G,3048424,3048424,1,C -> G,SNP (transversion),G,C,C,P -> R,UmuC protein CDS,26,CCA -> CGA,508,Substitution,74.6%,25.4%
+A,2048415,2048415,1,G -> A,SNP (transition),A,G,G,,,,,105,,74.3%,25.7%
+G,3048563,3048563,1,C -> G,SNP (transversion),G,C,C,,UmuC protein CDS,165,CTC -> CTG,566,None,74.2%,25.8%
+G,3066282,3066282,1,C -> G,SNP (transversion),G,C,C,,,,,482,,72.0%,26.1%
+T,2998905,2998905,1,C -> T,SNP (transition),T,C,C,,IS701 family transposase CDS,21,GCG -> GCA,546,None,73.3%,26.7%
+G,3048435,3048435,1,A -> G,SNP (transition),G,A,A,K -> E,UmuC protein CDS,37,AAG -> GAG,525,Substitution,73.0%,27.0%
+A,3065146,3065146,1,G -> A,SNP (transition),A,G,G,,rppA CDS,465,GCC -> GCT,503,None,73.0%,27.0%
+A,2048416,2048416,1,T -> A,SNP (transversion),A,T,T,,,,,99,,57.6%,27.3%
+G,3048557,3048557,1,C -> G,SNP (transversion),G,C,C,,UmuC protein CDS,159,GCC -> GCG,581,None,72.5%,27.5%
+T,2998658,2998658,1,C -> T,SNP (transition),T,C,C,V -> I,IS701 family transposase CDS,268,GTT -> ATT,1176,Substitution,71.4%,28.6%
+T,3348843,3348843,1,C -> T,SNP (transition),T,C,C,R -> W,acnB CDS,154,CGG -> TGG,441,Substitution,70.5%,29.5%
+T,2998262,2998262,1,C -> T,SNP (transition),T,C,C,G -> S,IS701 family transposase CDS,664,GGC -> AGC,690,Substitution,70.0%,30.0%
+T,3065143,3065143,1,C -> T,SNP (transition),T,C,C,,rppA CDS,468,AAG -> AAA,534,None,69.9%,30.1%
+A,3065170,3065170,1,C -> A,SNP (transversion),A,C,C,E -> D,rppA CDS,441,GAG -> GAT,502,Substitution,69.7%,30.3%
+G,3401496,3401496,1,A -> G,SNP (transition),G,A,A,L -> S,PAS domain S-box protein CDS,1406,TTG -> TCG,145,Substitution,66.2%,31.7%
+T,1201474,1201474,1,C -> T,SNP (transition),T,C,C,,,,,110,,46.4%,31.8%
+T,3065140,3065140,1,C -> T,SNP (transition),T,C,C,,rppA CDS,471,GAG -> GAA,553,None,67.8%,32.2%
+T,3400332,3400332,1,C -> T,SNP (transition),T,C,C,A -> T,ATP-binding protein CDS,19,GCC -> ACC,83,Substitution,66.3%,33.7%
+A,2998074,2998074,1,G -> A,SNP (transition),A,G,G,,transposase CDS,7,,686,Truncation,65.9%,34.1%
+T,3066280,3066280,1,A -> T,SNP (transversion),T,A,A,,,,,487,,64.9%,35.1%
+C,3065176,3065176,1,G -> C,SNP (transversion),C,G,G,,rppA CDS,435,ACC -> ACG,537,None,64.8%,35.2%
+T,2998822,2998822,1,C -> T,SNP (transition),T,C,C,R -> K,IS701 family transposase CDS,104,AGA -> AAA,579,Substitution,64.4%,35.6%
+A,3065137,3065137,1,G -> A,SNP (transition),A,G,G,,rppA CDS,474,TTC -> TTT,576,None,64.1%,35.9%
+T,3048527,3048527,1,C -> T,SNP (transition),T,C,C,,UmuC protein CDS,129,CCC -> CCT,608,None,63.8%,36.2%
+C,3063648,3063648,1,T -> C,SNP (transition),C,T,T,,rppB CDS,1278,GTA -> GTG,516,None,63.6%,36.4%
+C,2998803,2998803,1,T -> C,SNP (transition),C,T,T,I -> M,IS701 family transposase CDS,123,ATA -> ATG,600,Substitution,63.0%,36.7%
+T,2998002,2998002,1,C -> T,SNP (transition),T,C,C,E -> K,transposase CDS,79,GAG -> AAG,691,Substitution,63.1%,36.9%
+A,3348818,3348818,1,G -> A,SNP (transition),A,G,G,,acnB CDS,129,GAG -> GAA,437,None,62.2%,37.5%
+C,3063651,3063651,1,A -> C,SNP (transversion),C,A,A,,rppB CDS,1275,ACT -> ACG,522,None,61.9%,38.1%
+T,2998024,2998024,1,C -> T,SNP (transition),T,C,C,,transposase CDS,57,AGG -> AGA,699,None,61.7%,38.3%
+A,1212145,1212145,1,G -> A,SNP (transition),A,G,G,,Rpn family recombination-promoting nuclease/putative transposase CDS,276,GTC -> GTT,1203,None,46.8%,38.8%
+C,386401,386401,1,T -> C,SNP (transition),C,T,T,,hypothetical protein CDS,225,AAT -> AAC,177,None,61.0%,39.0%
+T,3063654,3063654,1,C -> T,SNP (transition),T,C,C,,rppB CDS,1272,TTG -> TTA,534,None,59.6%,39.0%
+T,2998688,2998688,1,C -> T,SNP (transition),T,C,C,E -> K,IS701 family transposase CDS,238,GAA -> AAA,1001,Substitution,60.5%,39.4%
+A,1212124,1212124,1,G -> A,SNP (transition),A,G,G,,Rpn family recombination-promoting nuclease/putative transposase CDS,297,AAC -> AAT,1323,None,59.7%,40.1%
+C,386402,386402,1,T -> C,SNP (transition),C,T,T,Y -> H,hypothetical protein CDS,226,TAC -> CAC,178,Substitution,59.6%,40.4%
+T,1972813,1972813,1,C -> T,SNP (transition),T,C,C,P -> S,transposase CDS,253,CCG -> TCG,708,Substitution,59.0%,41.0%
+T,3400333,3400333,1,A -> T,SNP (transversion),T,A,A,,ATP-binding protein CDS,18,TCT -> TCA,86,None,58.1%,41.9%
+C,2998753,2998753,1,T -> C,SNP (transition),C,T,T,E -> G,IS701 family transposase CDS,173,GAA -> GGA,646,Substitution,58.0%,42.0%
+C,3063660,3063660,1,A -> C,SNP (transversion),C,A,A,,rppB CDS,1266,GGT -> GGG,590,None,57.1%,42.9%
+G,3348685,3348685,1,A -> G,SNP (transition),G,A,A,,,,,532,,57.1%,42.9%
+T,3348689,3348689,1,C -> T,SNP (transition),T,C,C,,,,,541,,56.6%,43.4%
+T,3065128,3065128,1,C -> T,SNP (transition),T,C,C,,rppA CDS,483,TTG -> TTA,643,None,55.7%,44.3%
+A,3065186,3065186,1,G -> A,SNP (transition),A,G,G,A -> V,rppA CDS,425,GCG -> GTG,620,Substitution,55.5%,44.4%
+G,2922010,2922010,1,C -> G,SNP (transversion),G,C,C,,IS5 family transposase CDS,351,GGC -> GGG,579,None,54.7%,45.1%
+C,1211608,1211608,1,T -> C,SNP (transition),C,T,T,S -> P,UPF0175 family protein CDS,208,TCA -> CCA,848,Substitution,54.5%,45.5%
+G,3348700,3348700,1,C -> G,SNP (transversion),G,C,C,A -> G,acnB CDS,11,GCC -> GGC,563,Substitution,53.6%,46.0%
+T,2997706,2997706,1,C -> T,SNP (transition),T,C,C,,,,,812,,53.3%,46.7%
+C,1211941,1211941,1,T -> C,SNP (transition),C,T,T,,Rpn family recombination-promoting nuclease/putative transposase CDS,480,GAA -> GAG,2194,None,52.6%,47.4%
+A,3400339,3400339,1,G -> A,SNP (transition),A,G,G,,ATP-binding protein CDS,12,AAC -> AAT,80,None,51.2%,47.5%
+T,2997717,2997717,1,C -> T,SNP (transition),T,C,C,,,,,839,,51.6%,48.2%
+A,386406,386406,1,T -> A,SNP (transversion),A,T,T,V -> D,hypothetical protein CDS,230,GTT -> GAT,176,Substitution,51.1%,48.3%
+T,285612,285612,1,C -> T,SNP (transition),T,C,C,,Rpn family recombination-promoting nuclease/putative transposase CDS,327,CAG -> CAA,1050,None,50.3%,49.6%
+A,3065122,3065122,1,G -> A,SNP (transition),A,G,G,,rppA CDS,489,TAC -> TAT,705,None,50.1%,49.9%
+C,3348773,3348773,1,T -> C,SNP (transition),C,T,T,,acnB CDS,84,ACT -> ACC,433,None,49.4%,50.6%
+A,3065119,3065119,1,G -> A,SNP (transition),A,G,G,,rppA CDS,492,TTC -> TTT,732,None,48.9%,51.1%
+A,3348720,3348720,1,G -> A,SNP (transition),A,G,G,D -> N,acnB CDS,31,GAT -> AAT,577,Substitution,48.4%,51.5%
+C,3348715,3348715,1,T -> C,SNP (transition),C,T,T,V -> A,acnB CDS,26,GTT -> GCT,573,Substitution,48.0%,51.8%
+T,3065203,3065203,1,C -> T,SNP (transition),T,C,C,,rppA CDS,408,TTG -> TTA,746,None,47.6%,52.3%
+A,1972665,1972665,1,G -> A,SNP (transition),A,G,G,,transposase CDS,105,AGG -> AGA,912,None,46.9%,53.1%
+G,2997751,2997751,1,A -> G,SNP (transition),G,A,A,,,,,902,,46.9%,53.1%
+A,1972708,1972708,1,G -> A,SNP (transition),A,G,G,G -> R,transposase CDS,148,GGA -> AGA,972,Substitution,45.7%,54.3%
+G,527513,527513,1,A -> G,SNP (transition),G,A,A,,CHAT domain-containing protein CDS,3132,GAA -> GAG,22,None,,54.5%
+C,1972727,1972727,1,T -> C,SNP (transition),C,T,T,V -> A,transposase CDS,167,GTA -> GCA,956,Substitution,45.2%,54.7%
+C,3065113,3065113,1,T -> C,SNP (transition),C,T,T,,rppA CDS,498,AAA -> AAG,784,None,45.0%,55.0%
+C,1972606,1972606,1,G -> C,SNP (transversion),C,G,G,V -> L,transposase CDS,46,GTA -> CTA,969,Substitution,44.2%,55.8%
+T,1972615,1972615,1,C -> T,SNP (transition),T,C,C,,transposase CDS,55,,938,Truncation,44.1%,55.9%
+A,2998700,2998700,1,G -> A,SNP (transition),A,G,G,,IS701 family transposase CDS,226,CTA -> TTA,891,None,43.8%,56.1%
+C,1211770,1211770,1,T -> C,SNP (transition),C,T,T,,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,1921,None,37.9%,57.9%
+A,2049593,2049593,1,C -> A,SNP (transversion),A,C,C,,,,,276,,42.0%,58.0%
+T,1972516,1972516,1,C -> T,SNP (transition),T,C,C,,IS701 family transposase CDS,456,ATC -> ATT,1057,None,41.6%,58.4%
+T,3065104,3065104,1,C -> T,SNP (transition),T,C,C,,rppA CDS,507,CAG -> CAA,874,None,41.5%,58.4%
+A,1972582,1972582,1,G -> A,SNP (transition),A,G,G,E -> K,transposase CDS,22,GAG -> AAG,962,Substitution,41.2%,58.7%
+A,1211634,1211634,1,G -> A,SNP (transition),A,G,G,,,,,1274,,40.9%,59.1%
+G,2049590,2049590,1,C -> G,SNP (transversion),G,C,C,,,,,279,,35.8%,59.9%
+A,2049591,2049591,1,G -> A,SNP (transition),A,G,G,,,,,275,,38.5%,60.4%
+T,1972534,1972534,1,C -> T,SNP (transition),T,C,C,,IS701 family transposase CDS,474,GGC -> GGT,1004,None,37.5%,60.9%
+T,285750,285750,1,C -> T,SNP (transition),T,C,C,,Rpn family recombination-promoting nuclease/putative transposase CDS,189,GAG -> GAA,876,None,38.0%,61.8%
+G,1972493,1972493,1,A -> G,SNP (transition),G,A,A,R -> G,IS701 family transposase CDS,433,AGA -> GGA,1100,Substitution,35.4%,64.6%
+T,2049586,2049586,1,C -> T,SNP (transition),T,C,C,,,,,296,,28.7%,65.2%
+G,1212178,1212178,1,A -> G,SNP (transition),G,A,A,,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,1081,None,34.6%,65.3%
+C,3096187,3096187,1,T -> C,SNP (transition),C,T,T,I -> T,IS630 transposase-related protein CDS,140,ATA -> ACA,501,Substitution,34.3%,65.7%
+A,3063738,3063738,1,G -> A,SNP (transition),A,G,G,,rppB CDS,1188,GAC -> GAT,1117,None,31.4%,68.5%
+A,1212076,1212076,1,G -> A,SNP (transition),A,G,G,,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,1660,None,29.0%,71.0%
+G,3065296,3065296,1,A -> G,SNP (transition),G,A,A,,rppA CDS,315,TTT -> TTC,1354,None,24.8%,75.2%
+A,3065305,3065305,1,G -> A,SNP (transition),A,G,G,,rppA CDS,306,ATC -> ATT,1382,None,24.6%,75.4%
+A,1200306,1200306,1,C -> A,SNP (transversion),A,C,C,P -> Q,hypothetical protein CDS,446,CCA -> CAA,142,Substitution,19.7%,80.3%
+G,1212015,1212015,1,A -> G,SNP (transition),G,A,A,,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,2015,None,17.9%,82.1%
+C,1212010,1212010,1,T -> C,SNP (transition),C,T,T,,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,2017,None,17.6%,82.4%
+C,1211827,1211827,1,T -> C,SNP (transition),C,T,T,,Rpn family recombination-promoting nuclease/putative transposase CDS,594,AAA -> AAG,2445,None,16.3%,83.6%
+T,1211923,1211923,1,C -> T,SNP (transition),T,C,C,,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,2390,None,15.6%,84.3%
+T,1455444,1455444,1,C -> T,SNP (transition),T,C,C,,Rpn family recombination-promoting nuclease/putative transposase CDS,543,ATC -> ATT,2012,None,15.6%,84.4%
+G,1819788,1819788,1,A -> G,SNP (transition),G,A,A,,psbA CDS,210,TCT -> TCC,371,None,12.1%,87.9%
+T,3110114,3110114,1,G -> T,SNP (transversion),T,G,G,,IS5 family transposase CDS,447,GCC -> GCA,401,None,3.0%,96.8%
+A,3110189,3110189,1,G -> A,SNP (transition),A,G,G,,IS5 family transposase CDS,372,GGC -> GGT,303,None,2.3%,97.7%
+T,2748897,2748897,1,C -> T,SNP (transition),T,C,C,,,,,362,,,99.7%
+C,1014492,1014492,1,G -> C,SNP (transversion),C,G,G,,,,,326,,,100.0%
+G,1364187,1364187,1,A -> G,SNP (transition),G,A,A,,pyrF CDS,346,TTG -> CTG,324,None,,100.0%
+T,2092571,2092571,1,A -> T,SNP (transversion),T,A,A,,isoaspartyl peptidase/L-asparaginase CDS,938,,338,Truncation,,100.0%
+G,2301721,2301721,1,A -> G,SNP (transition),G,A,A,K -> E,DUF4114 domain-containing protein CDS,1207,AAG -> GAG,339,Substitution,,100.0%

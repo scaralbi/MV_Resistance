@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}{1}{section.1}%
+\contentsline {section}{\numberline {2}Adaptation to methyl viologen is not due to its abiotic degration over time}{2}{section.2}%
+\contentsline {section}{\numberline {3}Spot plates of Strains Grown in BG11 without or with MV (6 $\mu $M)}{4}{section.3}%
+\contentsline {section}{\numberline {4}Chronoamperometries strain by strain}{6}{section.4}%
+\contentsline {section}{\numberline {5}Quantification of methyl viologen resistance in adapted strains}{6}{section.5}%
+\contentsline {section}{\numberline {6}Addition of methyl viologen at various growth phases}{7}{section.6}%
+\contentsline {section}{\numberline {7}PrqA is not essential for spontaneous evolution of MV resistance}{8}{section.7}%
+\contentsline {section}{\numberline {8}Comparative Genomic Analysis of Wild-Type and Methyl Viologen Resistant Strains}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Genome Sequencing QC Report}{10}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Sequenced Strains Compared to Various Substrains}{14}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}SNPs Polimorphism}{16}{subsection.8.3}%

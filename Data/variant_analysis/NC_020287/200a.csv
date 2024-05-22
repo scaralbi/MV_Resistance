@@ -1,0 +1,80 @@
+Name,Minimum,Maximum,Length,CDS,product,CDS Position,Change,locus_tag,Polymorphism Type,Protein Effect,Variant Nucleotide(s),Variant Frequency,Type,protein_id,Reference Nucleotide(s),Amino Acid Change,Codon Change,Reference Frequency
+A,69099,69099,1,,,,C -> A,,SNP (transversion),,A,79.6%,Polymorphism,,C,,,9.3%
+C,69095,69095,1,,,,G -> C,,SNP (transversion),,C,68.0%,Polymorphism,,G,,,12.6%
+CT,69092,69093,2,,,,GG -> CT,,Substitution,,CT,66.3% -> 66.8%,Polymorphism,,GG,,,
+C,69088,69088,1,,,,A -> C,,SNP (transversion),,C,57.5%,Polymorphism,,A,,,13.0%
+CC,69087,69086,0,,,,+CC,,Insertion,,CC,53.3%,Polymorphism,,,,,
+TTTT,69082,69085,4,,,,GGCG -> TTTT,,Substitution,,TTTT,54.3% -> 55.8%,Polymorphism,,GGCG,,,
+C,69027,69027,1,,,,T -> C,,SNP (transition),,C,50.7%,Polymorphism,,T,,,41.0%
+CTAGCCTTTGTGG,69009,69021,13,,,,AACATGGCCACAA -> CTAGCCTTTGTGG,,Substitution,,CTAGCCTTTGTGG,49.1% -> 52.8%,Polymorphism,,AACATGGCCACAA,,,
+,66855,66931,77,,,,-AACACCCTCTTTTCCCCGTCAGGGGACTGAAACGTCACACCTCTTCACGAATCCTCACATCATGAATAAGCTGCACA,,Deletion,,,49.8% -> 94.7%,Polymorphism,,AACACCCTCTTTTCCCCGTCAGGGGACTGAAACGTCACACCTCTTCACGAATCCTCACATCATGAATAAGCTGCACA,,,
+C,46294,46294,1,HNH endonuclease CDS,HNH endonuclease,263,T -> C,MYO_RS17455,SNP (transition),Substitution,C,57.0%,Polymorphism,WP_011153727.1,T,I -> T,ATA -> ACA,43.0%
+AC,46267,46268,2,HNH endonuclease CDS,HNH endonuclease,236,TT -> AC,MYO_RS17455,Substitution,Substitution,AC,66.0% -> 66.4%,Polymorphism,WP_011153727.1,TT,F -> Y,TTT -> TAC,
+TTA,46242,46244,2,HNH endonuclease CDS,HNH endonuclease,211,CTT -> TTA,MYO_RS17455,Substitution,None,TTA,56.3% -> 57.3%,Polymorphism,WP_011153727.1,CTT,,CTT -> TTA,
+T,46237,46237,1,HNH endonuclease CDS,HNH endonuclease,206,A -> T,MYO_RS17455,SNP (transversion),Substitution,T,73.6%,Polymorphism,WP_011153727.1,A,K -> M,AAG -> ATG,26.3%
+G,46235,46235,1,HNH endonuclease CDS,HNH endonuclease,204,A -> G,MYO_RS17455,SNP (transition),None,G,74.1%,Polymorphism,WP_011153727.1,A,,TTA -> TTG,25.8%
+A,46212,46212,1,HNH endonuclease CDS,HNH endonuclease,181,G -> A,MYO_RS17455,SNP (transition),Substitution,A,62.3%,Polymorphism,WP_011153727.1,G,G -> S,GGT -> AGT,37.7%
+T,46193,46193,1,HNH endonuclease CDS,HNH endonuclease,162,C -> T,MYO_RS17455,SNP (transition),None,T,79.7%,Polymorphism,WP_011153727.1,C,,CAC -> CAT,20.3%
+G,46187,46187,1,HNH endonuclease CDS,HNH endonuclease,156,A -> G,MYO_RS17455,SNP (transition),None,G,66.3%,Polymorphism,WP_011153727.1,A,,GCA -> GCG,33.6%
+A,46166,46166,1,HNH endonuclease CDS,HNH endonuclease,135,T -> A,MYO_RS17455,SNP (transversion),Substitution,A,63.6%,Polymorphism,WP_011153727.1,T,D -> E,GAT -> GAA,36.3%
+AG,46162,46163,2,HNH endonuclease CDS,HNH endonuclease,131,GC -> AG,MYO_RS17455,Substitution,Substitution,AG,52.1% -> 52.4%,Polymorphism,WP_011153727.1,GC,G -> E,GGC -> GAG,
+AG,46159,46160,2,HNH endonuclease CDS,HNH endonuclease,128,CC -> AG,MYO_RS17455,Substitution,Substitution,AG,63.1% -> 63.3%,Polymorphism,WP_011153727.1,CC,T -> K,ACC -> AAG,
+T,46156,46156,1,HNH endonuclease CDS,HNH endonuclease,125,C -> T,MYO_RS17455,SNP (transition),Substitution,T,62.6%,Polymorphism,WP_011153727.1,C,S -> L,TCA -> TTA,37.3%
+G,46151,46151,1,HNH endonuclease CDS,HNH endonuclease,120,T -> G,MYO_RS17455,SNP (transversion),None,G,78.6%,Polymorphism,WP_011153727.1,T,,GGT -> GGG,21.4%
+G,46142,46142,1,HNH endonuclease CDS,HNH endonuclease,111,A -> G,MYO_RS17455,SNP (transition),None,G,64.9%,Polymorphism,WP_011153727.1,A,,GAA -> GAG,34.8%
+G,46133,46133,1,HNH endonuclease CDS,HNH endonuclease,102,A -> G,MYO_RS17455,SNP (transition),None,G,61.9%,Polymorphism,WP_011153727.1,A,,AAA -> AAG,37.9%
+TC,46102,46103,2,HNH endonuclease CDS,HNH endonuclease,71,CT -> TC,MYO_RS17455,Substitution,Substitution,TC,68.5% -> 68.6%,Polymorphism,WP_011153727.1,CT,A -> V,GCT -> GTC,
+T,46094,46094,1,HNH endonuclease CDS,HNH endonuclease,63,C -> T,MYO_RS17455,SNP (transition),None,T,65.3%,Polymorphism,WP_011153727.1,C,,GTC -> GTT,34.6%
+C,46073,46073,1,HNH endonuclease CDS,HNH endonuclease,42,T -> C,MYO_RS17455,SNP (transition),None,C,53.7%,Polymorphism,WP_011153727.1,T,,GCT -> GCC,46.2%
+,17027,17038,12,,,,-AGCATGGAGGTG,,Deletion,,,49.2% -> 53.6%,Polymorphism,,AGCATGGAGGTG,,,
+,16585,16598,14,,,,-TAGCGATGAATGTG,,Deletion,,,61.8% -> 80.0%,Polymorphism,,TAGCGATGAATGTG,,,
+,16563,16584,22,,,,-TCGTAACTACCTTCTAAGTCTG,,Deletion,,,54.0% -> 79.2%,Polymorphism,,TCGTAACTACCTTCTAAGTCTG,,,
+G,2914,2914,1,site-specific integrase CDS,site-specific integrase,516,C -> G,MYO_RS17205,SNP (transversion),None,G,50.4%,Polymorphism,WP_011153674.1,C,,CTC -> CTG,49.6%
+C,2908,2908,1,site-specific integrase CDS,site-specific integrase,510,T -> C,MYO_RS17205,SNP (transition),None,C,53.6%,Polymorphism,WP_011153674.1,T,,CAT -> CAC,46.3%
+T,2905,2905,1,site-specific integrase CDS,site-specific integrase,507,C -> T,MYO_RS17205,SNP (transition),None,T,55.2%,Polymorphism,WP_011153674.1,C,,TCC -> TCT,44.6%
+C,2900,2900,1,site-specific integrase CDS,site-specific integrase,502,T -> C,MYO_RS17205,SNP (transition),None,C,58.1%,Polymorphism,WP_011153674.1,T,,TTA -> CTA,41.7%
+T,2884,2884,1,site-specific integrase CDS,site-specific integrase,486,C -> T,MYO_RS17205,SNP (transition),None,T,65.9%,Polymorphism,WP_011153674.1,C,,CAC -> CAT,34.1%
+T,2881,2881,1,site-specific integrase CDS,site-specific integrase,483,C -> T,MYO_RS17205,SNP (transition),None,T,67.5%,Polymorphism,WP_011153674.1,C,,GGC -> GGT,32.5%
+A,2857,2857,1,site-specific integrase CDS,site-specific integrase,459,G -> A,MYO_RS17205,SNP (transition),None,A,91.1%,Polymorphism,WP_011153674.1,G,,CTG -> CTA,8.7%
+C,2848,2848,1,site-specific integrase CDS,site-specific integrase,450,G -> C,MYO_RS17205,SNP (transversion),None,C,80.0%,Polymorphism,WP_011153674.1,G,,GGG -> GGC,6.5%
+C,2842,2842,1,site-specific integrase CDS,site-specific integrase,444,G -> C,MYO_RS17205,SNP (transversion),None,C,78.5%,Polymorphism,WP_011153674.1,G,,CGG -> CGC,21.5%
+C,2830,2830,1,site-specific integrase CDS,site-specific integrase,432,G -> C,MYO_RS17205,SNP (transversion),None,C,65.6%,Polymorphism,WP_011153674.1,G,,ACG -> ACC,16.2%
+A,2824,2824,1,site-specific integrase CDS,site-specific integrase,426,G -> A,MYO_RS17205,SNP (transition),None,A,60.2%,Polymorphism,WP_011153674.1,G,,GCG -> GCA,18.5%
+T,2800,2800,1,site-specific integrase CDS,site-specific integrase,402,A -> T,MYO_RS17205,SNP (transversion),None,T,51.7%,Polymorphism,WP_011153674.1,A,,TCA -> TCT,48.3%
+GAA,2783,2785,3,site-specific integrase CDS,site-specific integrase,385,AGC -> GAA,MYO_RS17205,Substitution,Substitution,GAA,75.0% -> 75.8%,Polymorphism,WP_011153674.1,AGC,S -> E,AGC -> GAA,
+G,2779,2779,1,site-specific integrase CDS,site-specific integrase,381,A -> G,MYO_RS17205,SNP (transition),None,G,53.1%,Polymorphism,WP_011153674.1,A,,AGA -> AGG,46.9%
+T,2767,2767,1,site-specific integrase CDS,site-specific integrase,369,C -> T,MYO_RS17205,SNP (transition),None,T,76.3%,Polymorphism,WP_011153674.1,C,,GCC -> GCT,23.7%
+A,2764,2764,1,site-specific integrase CDS,site-specific integrase,366,G -> A,MYO_RS17205,SNP (transition),None,A,76.5%,Polymorphism,WP_011153674.1,G,,AAG -> AAA,23.5%
+A,2728,2728,1,site-specific integrase CDS,site-specific integrase,330,C -> A,MYO_RS17205,SNP (transversion),None,A,86.1%,Polymorphism,WP_011153674.1,C,,TCC -> TCA,13.9%
+A,2704,2704,1,site-specific integrase CDS,site-specific integrase,306,C -> A,MYO_RS17205,SNP (transversion),None,A,83.8%,Polymorphism,WP_011153674.1,C,,GTC -> GTA,16.2%
+T,2690,2690,1,site-specific integrase CDS,site-specific integrase,292,C -> T,MYO_RS17205,SNP (transition),Substitution,T,63.9%,Polymorphism,WP_011153674.1,C,P -> S,CCA -> TCA,36.1%
+GCT,2679,2681,3,site-specific integrase CDS,site-specific integrase,281,TTG -> GCT,MYO_RS17205,Substitution,Substitution,GCT,62.5% -> 63.7%,Polymorphism,WP_011153674.1,TTG,FV -> CF,"TTT,GTT -> TGC,TTT",
+,2669,2671,3,site-specific integrase CDS,site-specific integrase,271,-GCC,MYO_RS17205,Deletion,Deletion,,59.2% -> 59.7%,Polymorphism,WP_011153674.1,GCC,A -> ,GCC -> ,
+T,2662,2662,1,site-specific integrase CDS,site-specific integrase,264,C -> T,MYO_RS17205,SNP (transition),None,T,63.1%,Polymorphism,WP_011153674.1,C,,TAC -> TAT,36.9%
+C,2590,2590,1,site-specific integrase CDS,site-specific integrase,192,T -> C,MYO_RS17205,SNP (transition),None,C,54.1%,Polymorphism,WP_011153674.1,T,,ATT -> ATC,45.8%
+G,2561,2561,1,site-specific integrase CDS,site-specific integrase,163,A -> G,MYO_RS17205,SNP (transition),Substitution,G,78.1%,Polymorphism,WP_011153674.1,A,I -> V,ATC -> GTC,21.9%
+T,2551,2551,1,site-specific integrase CDS,site-specific integrase,153,C -> T,MYO_RS17205,SNP (transition),None,T,78.4%,Polymorphism,WP_011153674.1,C,,GCC -> GCT,21.6%
+T,2545,2545,1,site-specific integrase CDS,site-specific integrase,147,C -> T,MYO_RS17205,SNP (transition),None,T,78.6%,Polymorphism,WP_011153674.1,C,,TCC -> TCT,21.3%
+C,2539,2539,1,site-specific integrase CDS,site-specific integrase,141,T -> C,MYO_RS17205,SNP (transition),None,C,52.3%,Polymorphism,WP_011153674.1,T,,GCT -> GCC,47.7%
+G,2536,2536,1,site-specific integrase CDS,site-specific integrase,138,A -> G,MYO_RS17205,SNP (transition),None,G,52.0%,Polymorphism,WP_011153674.1,A,,GAA -> GAG,48.0%
+A,2533,2533,1,site-specific integrase CDS,site-specific integrase,135,G -> A,MYO_RS17205,SNP (transition),None,A,52.1%,Polymorphism,WP_011153674.1,G,,GGG -> GGA,47.9%
+T,2524,2524,1,site-specific integrase CDS,site-specific integrase,126,C -> T,MYO_RS17205,SNP (transition),None,T,78.9%,Polymorphism,WP_011153674.1,C,,TGC -> TGT,21.1%
+T,2506,2506,1,site-specific integrase CDS,site-specific integrase,108,C -> T,MYO_RS17205,SNP (transition),None,T,77.5%,Polymorphism,WP_011153674.1,C,,ATC -> ATT,22.4%
+T,2503,2503,1,site-specific integrase CDS,site-specific integrase,105,C -> T,MYO_RS17205,SNP (transition),None,T,50.5%,Polymorphism,WP_011153674.1,C,,GGC -> GGT,49.5%
+AGG,2483,2485,2,site-specific integrase CDS,site-specific integrase,85,CGC -> AGG,MYO_RS17205,Substitution,None,AGG,50.2% -> 51.2%,Polymorphism,WP_011153674.1,CGC,,CGC -> AGG,
+T,2482,2482,1,site-specific integrase CDS,site-specific integrase,84,C -> T,MYO_RS17205,SNP (transition),None,T,51.3%,Polymorphism,WP_011153674.1,C,,CCC -> CCT,48.6%
+G,2476,2476,1,site-specific integrase CDS,site-specific integrase,78,C -> G,MYO_RS17205,SNP (transversion),None,G,79.5%,Polymorphism,WP_011153674.1,C,,CTC -> CTG,20.5%
+TATC,2464,2467,3,site-specific integrase CDS,site-specific integrase,66,CGTT -> TATC,MYO_RS17205,Substitution,Substitution,TATC,77.8% -> 79.2%,Polymorphism,WP_011153674.1,CGTT,TV -> TI,"ACC,GTT -> ACT,ATC",
+C,2452,2452,1,site-specific integrase CDS,site-specific integrase,54,T -> C,MYO_RS17205,SNP (transition),None,C,78.6%,Polymorphism,WP_011153674.1,T,,CAT -> CAC,21.4%
+G,2440,2440,1,site-specific integrase CDS,site-specific integrase,42,A -> G,MYO_RS17205,SNP (transition),None,G,78.9%,Polymorphism,WP_011153674.1,A,,GAA -> GAG,20.9%
+G,2428,2428,1,site-specific integrase CDS,site-specific integrase,30,A -> G,MYO_RS17205,SNP (transition),None,G,79.1%,Polymorphism,WP_011153674.1,A,,AAA -> AAG,20.8%
+T,2413,2413,1,site-specific integrase CDS,site-specific integrase,15,C -> T,MYO_RS17205,SNP (transition),None,T,80.0%,Polymorphism,WP_011153674.1,C,,CGC -> CGT,19.9%
+C,2385,2385,1,,,,A -> C,,SNP (transversion),,C,79.3%,Polymorphism,,A,,,19.7%
+C,2371,2371,1,,,,T -> C,,SNP (transition),,C,61.5%,Polymorphism,,T,,,38.4%
+G,2337,2337,1,,,,A -> G,,SNP (transition),,G,77.1%,Polymorphism,,A,,,22.8%
+G,2331,2331,1,,,,A -> G,,SNP (transition),,G,77.0%,Polymorphism,,A,,,22.9%
+G,2283,2283,1,,,,A -> G,,SNP (transition),,G,58.6%,Polymorphism,,A,,,41.4%
+A,2281,2281,1,,,,G -> A,,SNP (transition),,A,58.9%,Polymorphism,,G,,,27.0%
+T,2278,2278,1,,,,G -> T,,SNP (transversion),,T,71.5%,Polymorphism,,G,,,27.7%
+C,2234,2234,1,,,,T -> C,,SNP (transition),,C,59.7%,Polymorphism,,T,,,40.2%
+G,2186,2186,1,,,,A -> G,,SNP (transition),,G,51.9%,Polymorphism,,A,,,48.1%

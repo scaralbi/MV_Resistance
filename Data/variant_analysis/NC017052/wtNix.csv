@@ -1,0 +1,463 @@
+Strain,Name,Minimum,Maximum,Length,Change,Coverage,Polymorphism Type,Variant Nucleotide(s),Type,Sequence,Reference Nucleotide(s),Reference Frequency,Amino Acid Change,Variant Frequency,product,CDS,CDS Position,Codon Change,Protein Effect,locus_tag
+wt_Nixon,CTCA,781842,781844,1,TCC -> CTCA,26 -> 32,Insertion,CTCA,Polymorphism,-C,TCC,,,46.9% -> 57.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+wt_Nixon,C,3346589,3346589,1,T -> C,433,SNP (transition),C,Polymorphism,T,T,49.40%,,50.60%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+wt_Nixon,A,3062936,3062936,1,G -> A,732,SNP (transition),A,Polymorphism,G,G,48.90%,,51.10%,two-component system response regulator RppA,two-component system response regulator RppA CDS,492,TTC -> TTT,None,SYNPCCN_RS14270
+wt_Nixon,A,2919523,2919523,1,G -> A,721,SNP (transition),A,Polymorphism,G,G,48.70%,,51.30%,IS5 family transposase,IS5 family transposase CDS,47,,Truncation,SYNPCCN_RS13635
+wt_Nixon,A,3346536,3346536,1,G -> A,577,SNP (transition),A,Polymorphism,G,G,48.40%,D -> N,51.50%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,31,GAT -> AAT,Substitution,SYNPCCN_RS15525
+wt_Nixon,C,3346531,3346531,1,T -> C,573,SNP (transition),C,Polymorphism,T,T,48.00%,V -> A,51.80%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,26,GTT -> GCT,Substitution,SYNPCCN_RS15525
+wt_Nixon,TCG,3063023,3063025,2,CCA -> TCG,773 -> 794,Substitution,TCG,Polymorphism,CA,CCA,,W -> R,51.8% -> 53.2%,two-component system response regulator RppA,two-component system response regulator RppA CDS,403,TGG -> CGA,Substitution,SYNPCCN_RS14270
+wt_Nixon,T,3063020,3063020,1,C -> T,746,SNP (transition),T,Polymorphism,C,C,47.60%,,52.30%,two-component system response regulator RppA,two-component system response regulator RppA CDS,408,TTG -> TTA,None,SYNPCCN_RS14270
+wt_Nixon,A,1971681,1971681,1,G -> A,912,SNP (transition),A,Polymorphism,G,G,46.90%,,53.10%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+wt_Nixon,G,2995568,2995568,1,A -> G,902,SNP (transition),G,Polymorphism,A,A,46.90%,,53.10%,,,,,,
+wt_Nixon,A,1971724,1971724,1,G -> A,972,SNP (transition),A,Polymorphism,G,G,45.70%,G -> R,54.30%,transposase,transposase CDS,148,GGA -> AGA,Substitution,SYNPCCN_RS17235
+wt_Nixon,G,527603,527603,1,A -> G,22,SNP (transition),G,Polymorphism,A,A,,,54.50%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3132,GAA -> GAG,None,SYNPCCN_RS02455
+wt_Nixon,C,1971743,1971743,1,T -> C,956,SNP (transition),C,Polymorphism,T,T,45.20%,V -> A,54.70%,transposase,transposase CDS,167,GTA -> GCA,Substitution,SYNPCCN_RS17235
+wt_Nixon,A,781715,781714,0,+A,62,Insertion,A,Polymorphism,-,,,,54.80%,,,,,,
+wt_Nixon,G,781715,781715,1,T -> G,62,SNP (transversion),G,Polymorphism,T,T,32.30%,,54.80%,,,,,,
+wt_Nixon,C,781726,781726,1,T -> C,31,SNP (transition),C,Polymorphism,T,T,32.30%,,54.80%,,,,,,
+wt_Nixon,C,3062930,3062930,1,T -> C,784,SNP (transition),C,Polymorphism,T,T,45.00%,,55.00%,two-component system response regulator RppA,two-component system response regulator RppA CDS,498,AAA -> AAG,None,SYNPCCN_RS14270
+wt_Nixon,GTC,3063029,3063031,2,TTG -> GTC,827 -> 847,Substitution,GTC,Polymorphism,TG,TTG,,Q -> D,55.1% -> 56.5%,two-component system response regulator RppA,two-component system response regulator RppA CDS,397,CAA -> GAC,Substitution,SYNPCCN_RS14270
+wt_Nixon,ACGGCG,5,4,0,+ACGGCG,83,Insertion,ACGGCG,Polymorphism,------,,, -> TA,55.40%,solanesyl diphosphate synthase,sds CDS,205," -> ACG,GCG",Insertion,SYNPCCN_RS00005
+wt_Nixon,GG,781732,781733,2,AA -> GG,9,Substitution,GG,Polymorphism,AA,AA,,,55.60%,,,,,,
+wt_Nixon,C,1971622,1971622,1,G -> C,969,SNP (transversion),C,Polymorphism,G,G,44.20%,V -> L,55.80%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+wt_Nixon,T,1971631,1971631,1,C -> T,938,SNP (transition),T,Polymorphism,C,C,44.10%,,55.90%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+wt_Nixon,A,2996517,2996517,1,G -> A,891,SNP (transition),A,Polymorphism,G,G,43.80%,,56.10%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+wt_Nixon,C,1210830,1210830,1,T -> C,1921,SNP (transition),C,Polymorphism,T,T,37.90%,,57.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,None,SYNPCCN_RS05640
+wt_Nixon,CAC,1211139,1211141,2,TAA -> CAC,1613 -> 1622,Substitution,CAC,Polymorphism,TA,TAA,,L -> V,57.9% -> 58.7%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,340,TTA -> GTG,Substitution,SYNPCCN_RS05640
+wt_Nixon,T,1971532,1971532,1,C -> T,1057,SNP (transition),T,Polymorphism,C,C,41.60%,,58.40%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+wt_Nixon,T,3062921,3062921,1,C -> T,874,SNP (transition),T,Polymorphism,C,C,41.50%,,58.40%,two-component system response regulator RppA,two-component system response regulator RppA CDS,507,CAG -> CAA,None,SYNPCCN_RS14270
+wt_Nixon,A,1971598,1971598,1,G -> A,962,SNP (transition),A,Polymorphism,G,G,41.20%,E -> K,58.70%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+wt_Nixon,A,1210694,1210694,1,G -> A,1274,SNP (transition),A,Polymorphism,G,G,40.90%,,59.10%,,,,,,
+wt_Nixon,A,781850,781850,1,T -> A,60,SNP (transversion),A,Polymorphism,T,T,16.70%,D -> E,60.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,GAT -> GAA,Substitution,SYNPCCN_RS03645
+wt_Nixon,T,1971550,1971550,1,C -> T,1004,SNP (transition),T,Polymorphism,C,C,37.50%,,60.90%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+wt_Nixon,T,285738,285738,1,C -> T,876,SNP (transition),T,Polymorphism,C,C,38.00%,,61.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,189,GAG -> GAA,None,SYNPCCN_RS01350
+wt_Nixon,A,1,1,1,G -> A,51,SNP (transition),A,Polymorphism,G,G,21.60%,,62.70%,solanesyl diphosphate synthase,sds CDS,201,ACG -> ACA,None,SYNPCCN_RS00005
+wt_Nixon,T,781715,781714,0,(T)3 -> (T)4,62,Insertion (tandem repeat),T,Polymorphism,-,,,,62.90%,,,,,,
+wt_Nixon,TG,781846,781847,2,CC -> TG,37 -> 45,Substitution,TG,Polymorphism,C------C,CC,,T -> M,64.4% -> 64.9%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+wt_Nixon,G,1971509,1971509,1,A -> G,1100,SNP (transition),G,Polymorphism,A,A,35.40%,R -> G,64.60%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+wt_Nixon,AAA,781835,781837,3,CTT -> AAA,12 -> 17,Substitution,AAA,Polymorphism,CT--T,CTT,,SL -> RK,64.7% -> 68.8%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,27,"AGC,TTA -> AGA,AAA",Substitution,SYNPCCN_RS03645
+wt_Nixon,G,1211238,1211238,1,A -> G,1081,SNP (transition),G,Polymorphism,A,A,34.60%,,65.30%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+wt_Nixon,G,781718,781718,1,A -> G,57,SNP (transition),G,Polymorphism,A,A,19.30%,,68.40%,,,,,,
+wt_Nixon,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,367,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,68.40%,,,,,,
+wt_Nixon,A,3061555,3061555,1,G -> A,1117,SNP (transition),A,Polymorphism,G,G,31.40%,,68.50%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,1188,GAC -> GAT,None,SYNPCCN_RS14265
+wt_Nixon,A,1211136,1211136,1,G -> A,1660,SNP (transition),A,Polymorphism,G,G,29.00%,,71.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+wt_Nixon,,386837,386848,12,-GAACTGTCCATC,322 -> 343,Deletion,,Polymorphism,GAACTGTCC---A---------T-C,GAACTGTCCATC,,ELSI -> ,72.3% -> 77.0%,glycosyltransferase family 4 protein,glycosyltransferase family 4 protein CDS,67,"GAA,CTG,TCC,ATC -> ",Deletion,SYNPCCN_RS01875
+wt_Nixon,A,781715,781714,0,+A,62,Insertion,A,Polymorphism,-,,,,72.60%,,,,,,
+wt_Nixon,TTT,781715,781714,0,+TTT,62,Insertion,TTT,Polymorphism,---,,,,72.60%,,,,,,
+wt_Nixon,G,3063113,3063113,1,A -> G,1354,SNP (transition),G,Polymorphism,A,A,24.80%,,75.20%,two-component system response regulator RppA,two-component system response regulator RppA CDS,315,TTT -> TTC,None,SYNPCCN_RS14270
+wt_Nixon,A,3063122,3063122,1,G -> A,1382,SNP (transition),A,Polymorphism,G,G,24.60%,,75.40%,two-component system response regulator RppA,two-component system response regulator RppA CDS,306,ATC -> ATT,None,SYNPCCN_RS14270
+wt_Nixon,C,781725,781725,1,A -> C,34,SNP (transversion),C,Polymorphism,A,A,2.90%,,76.50%,,,,,,
+wt_Nixon,T,781729,781729,1,A -> T,17,SNP (transversion),T,Polymorphism,A,A,23.50%,,76.50%,,,,,,
+wt_Nixon,ATAT,2047399,2047398,0,+ATAT,367,Insertion,ATAT,Polymorphism,----,,,,79.30%,,,,,,
+wt_Nixon,C,781722,781722,1,G -> C,39,SNP (transversion),C,Polymorphism,G,G,2.60%,,82.10%,,,,,,
+wt_Nixon,G,1211075,1211075,1,A -> G,2015,SNP (transition),G,Polymorphism,A,A,17.90%,,82.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+wt_Nixon,C,1211070,1211070,1,T -> C,2017,SNP (transition),C,Polymorphism,T,T,17.60%,,82.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+wt_Nixon,C,1210887,1210887,1,T -> C,2445,SNP (transition),C,Polymorphism,T,T,16.30%,,83.60%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,594,AAA -> AAG,None,SYNPCCN_RS05640
+wt_Nixon,CATGGA,3107936,3107935,0,+CATGGA,519,Insertion,CATGGA,Polymorphism,------,,,G -> VHG,84.00%,IS5 family transposase,IS5 family transposase CDS,443,"GGT -> GTC,CAT,GGT",Insertion,SYNPCCN_RS17065
+wt_Nixon,T,1210983,1210983,1,C -> T,2390,SNP (transition),T,Polymorphism,C,C,15.60%,,84.30%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+wt_Nixon,T,1454460,1454460,1,C -> T,2012,SNP (transition),T,Polymorphism,C,C,15.60%,,84.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,543,ATC -> ATT,None,SYNPCCN_RS06825
+wt_Nixon,,1821207,1821207,1,(G)8 -> (G)7,358,Deletion (tandem repeat),,Polymorphism,G,G,,,89.10%,hypothetical protein,hypothetical protein CDS,430,,Frame Shift,SYNPCCN_RS08625
+wt_Nixon,CTA,1454323,1454325,2,TTG -> CTA,3074 -> 3093,Substitution,CTA,Polymorphism,TG,TTG,,,90.20%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTG -> CTA,None,SYNPCCN_RS06825
+wt_Nixon,,1422356,1422356,1,-A,327,Deletion,,Polymorphism,A,A,,,93.90%,bluetail domain-containing putative surface protein,bluetail domain-containing putative surface protein CDS,45,,Frame Shift,SYNPCCN_RS06695
+wt_Nixon,,1422356,1422356,1,-A,327,Deletion,,Polymorphism,A,A,,,93.90%,calcium-binding protein,calcium-binding protein CDS,4312,,Extension,SYNPCCN_RS06700
+wt_Nixon,,2734330,2734330,1,(T)4 -> (T)3,347,Deletion (tandem repeat),,Polymorphism,T,T,,,93.90%,ABC transporter ATP-binding protein/permease,ABC transporter ATP-binding protein/permease CDS,1278,,Frame Shift,SYNPCCN_RS12795
+wt_Nixon,T,781840,781840,1,C -> T,17,SNP (transition),T,Polymorphism,C,C,,P -> L,94.10%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+wt_Nixon,T,731457,731456,0,+T,357,Insertion,T,Polymorphism,-,,,,97.20%,serine/threonine-protein kinase,serine/threonine-protein kinase CDS,308,,Frame Shift,SYNPCCN_RS03410
+wt_Nixon,T,3107931,3107931,1,G -> T,523,SNP (transversion),T,Polymorphism,G,G,1.70%,,98.10%,IS5 family transposase,IS5 family transposase CDS,447,GCC -> GCA,None,SYNPCCN_RS17065
+wt_Nixon,A,781855,781855,1,T -> A,74,SNP (transversion),A,Polymorphism,T,T,1.40%,V -> D,98.60%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+wt_Nixon,T,781857,781857,1,A -> T,82,SNP (transversion),T,Polymorphism,A,A,1.20%,I -> F,98.80%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+wt_Nixon,A,1436405,1436405,1,G -> A,338,SNP (transition),A,Polymorphism,G,G,,,99.70%,,,,,,
+wt_Nixon,CGG,781738,781737,0,+CGG,4,Insertion,CGG,Polymorphism,---,,,,100.00%,,,,,,
+wt_Nixon,G,781740,781740,1,A -> G,4,SNP (transition),G,Polymorphism,A,A,,,100.00%,,,,,,
+wt_Nixon,T,781833,781833,1,A -> T,3,SNP (transversion),T,Polymorphism,A,A,,S -> C,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGC,Substitution,SYNPCCN_RS03645
+wt_Nixon,A,781861,781861,1,C -> A,85,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+wt_Nixon,C,1014735,1014735,1,G -> C,326,SNP (transversion),C,Polymorphism,G,G,,,100.00%,,,,,,
+wt_Nixon,A,1193226,1193226,1,C -> A,313,SNP (transversion),A,Polymorphism,C,C,,P -> T,100.00%,AGE family epimerase/isomerase,AGE family epimerase/isomerase CDS,499,CCC -> ACC,Substitution,SYNPCCN_RS05570
+wt_Nixon,G,1763014,1763014,1,C -> G,316,SNP (transversion),G,Polymorphism,C,C,,D -> E,100.00%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+wt_Nixon,C,1811435,1811435,1,T -> C,374,SNP (transition),C,Polymorphism,T,T,,V -> A,100.00%,SpoIIE family protein phosphatase,SpoIIE family protein phosphatase CDS,674,GTG -> GCG,Substitution,SYNPCCN_RS08580
+wt_Nixon,T,2518827,2518827,1,C -> T,376,SNP (transition),T,Polymorphism,C,C,,S -> F,100.00%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+wt_Nixon,T,3012482,3012482,1,C -> T,358,SNP (transition),T,Polymorphism,C,C,,,100.00%,diguanylate cyclase,diguanylate cyclase CDS,276,ACC -> ACT,None,SYNPCCN_RS14055
+mvR1_Nixon,CTCA,781842,781844,1,TCC -> CTCA,25 -> 32,Insertion,CTCA,Polymorphism,-C,TCC,,,43.8% -> 56.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+mvR1_Nixon,A,1971724,1971724,1,G -> A,1204,SNP (transition),A,Polymorphism,G,G,49.80%,G -> R,50.00%,transposase,transposase CDS,148,GGA -> AGA,Substitution,SYNPCCN_RS17235
+mvR1_Nixon,GTC,3063029,3063031,2,TTG -> GTC,1010 -> 1035,Substitution,GTC,Polymorphism,TG,TTG,,Q -> D,50.0% -> 50.8%,two-component system response regulator RppA,two-component system response regulator RppA CDS,397,CAA -> GAC,Substitution,SYNPCCN_RS14270
+mvR1_Nixon,CAC,1211139,1211141,2,TAA -> CAC,1780,Substitution,CAC,Polymorphism,TA,TAA,,L -> V,50.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,340,TTA -> GTG,Substitution,SYNPCCN_RS05640
+mvR1_Nixon,A,1971681,1971681,1,G -> A,1182,SNP (transition),A,Polymorphism,G,G,49.70%,,50.20%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+mvR1_Nixon,C,1971743,1971743,1,T -> C,1182,SNP (transition),C,Polymorphism,T,T,49.70%,V -> A,50.30%,transposase,transposase CDS,167,GTA -> GCA,Substitution,SYNPCCN_RS17235
+mvR1_Nixon,G,2995568,2995568,1,A -> G,1253,SNP (transition),G,Polymorphism,A,A,48.80%,,51.00%,,,,,,
+mvR1_Nixon,A,1,1,1,G -> A,64,SNP (transition),A,Polymorphism,G,G,9.40%,,51.60%,solanesyl diphosphate synthase,sds CDS,201,ACG -> ACA,None,SYNPCCN_RS00005
+mvR1_Nixon,T,781715,781714,0,(T)3 -> (T)4,95,Insertion (tandem repeat),T,Polymorphism,-,,,,51.60%,,,,,,
+mvR1_Nixon,A,2995693,2995693,1,G -> A,1076,SNP (transition),A,Polymorphism,G,G,48.30%,P -> S,51.60%,transposase,transposase CDS,205,CCG -> TCG,Substitution,SYNPCCN_RS17745
+mvR1_Nixon,C,1210830,1210830,1,T -> C,1932,SNP (transition),C,Polymorphism,T,T,43.80%,,51.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,None,SYNPCCN_RS05640
+mvR1_Nixon,C,1971622,1971622,1,G -> C,1157,SNP (transversion),C,Polymorphism,G,G,47.50%,V -> L,52.50%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+mvR1_Nixon,T,1971631,1971631,1,C -> T,1147,SNP (transition),T,Polymorphism,C,C,47.10%,,52.80%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+mvR1_Nixon,C,3346589,3346589,1,T -> C,649,SNP (transition),C,Polymorphism,T,T,45.80%,,54.10%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+mvR1_Nixon,A,1971598,1971598,1,G -> A,1185,SNP (transition),A,Polymorphism,G,G,45.70%,E -> K,54.20%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+mvR1_Nixon,T,1971532,1971532,1,C -> T,1257,SNP (transition),T,Polymorphism,C,C,45.40%,,54.50%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+mvR1_Nixon,A,1210694,1210694,1,G -> A,1545,SNP (transition),A,Polymorphism,G,G,44.50%,,55.50%,,,,,,
+mvR1_Nixon,G,2995666,2995666,1,A -> G,1238,SNP (transition),G,Polymorphism,A,A,44.40%,Y -> H,55.60%,transposase,transposase CDS,232,TAT -> CAT,Substitution,SYNPCCN_RS17745
+mvR1_Nixon,G,781718,781718,1,A -> G,87,SNP (transition),G,Polymorphism,A,A,26.40%,,56.30%,,,,,,
+mvR1_Nixon,G,781735,781735,1,C -> G,7,SNP (transversion),G,Polymorphism,C,C,42.90%,,57.10%,,,,,,
+mvR1_Nixon,A,1210875,1210875,1,G -> A,2460,SNP (transition),A,Polymorphism,G,G,42.30%,,57.60%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,606,GTC -> GTT,None,SYNPCCN_RS05640
+mvR1_Nixon,G,1211238,1211238,1,A -> G,1312,SNP (transition),G,Polymorphism,A,A,41.30%,,58.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+mvR1_Nixon,C,2995629,2995629,1,T -> C,1418,SNP (transition),C,Polymorphism,T,T,39.80%,,60.20%,transposase,transposase CDS,269,,Extension,SYNPCCN_RS17745
+mvR1_Nixon,G,1971509,1971509,1,A -> G,1312,SNP (transition),G,Polymorphism,A,A,38.00%,R -> G,61.90%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+mvR1_Nixon,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,478,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,63.40%,,,,,,
+mvR1_Nixon,C,781722,781722,1,G -> C,65,SNP (transversion),C,Polymorphism,G,G,12.30%,,64.60%,,,,,,
+mvR1_Nixon,T,3062581,3062581,1,C -> T,1462,SNP (transition),T,Polymorphism,C,C,34.50%,,65.40%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,162,GGG -> GGA,None,SYNPCCN_RS14265
+mvR1_Nixon,T,781727,781727,1,G -> T,32,SNP (transversion),T,Polymorphism,G,G,,,65.60%,,,,,,
+mvR1_Nixon,A,1211136,1211136,1,G -> A,1799,SNP (transition),A,Polymorphism,G,G,33.50%,,66.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+mvR1_Nixon,A,3063638,3063638,1,C -> A,1754,SNP (transversion),A,Polymorphism,C,C,33.20%,E -> D,66.70%,DUF305 domain-containing protein,DUF305 domain-containing protein CDS,387,GAG -> GAT,Substitution,SYNPCCN_RS14275
+mvR1_Nixon,A,781850,781850,1,T -> A,79,SNP (transversion),A,Polymorphism,T,T,15.20%,D -> E,68.40%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,GAT -> GAA,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,C,1971430,1971430,1,T -> C,1566,SNP (transition),C,Polymorphism,T,T,31.60%,,68.40%,IS701 family transposase,IS701 family transposase CDS,354,AGT -> AGC,None,SYNPCCN_RS09355
+mvR1_Nixon,A,781715,781714,0,+A,95,Insertion,A,Polymorphism,-,,,,69.50%,,,,,,
+mvR1_Nixon,TTT,781715,781714,0,+TTT,95,Insertion,TTT,Polymorphism,---,,,,69.50%,,,,,,
+mvR1_Nixon,C,1454089,1454089,1,T -> C,3807,SNP (transition),C,Polymorphism,T,T,25.40%,,74.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,172,TTG -> CTG,None,SYNPCCN_RS06825
+mvR1_Nixon,G,1454055,1454055,1,A -> G,3972,SNP (transition),G,Polymorphism,A,A,23.90%,,76.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,138,CTA -> CTG,None,SYNPCCN_RS06825
+mvR1_Nixon,TG,781846,781847,2,CC -> TG,41 -> 51,Substitution,TG,Polymorphism,C------C,CC,,T -> M,76.5% -> 82.9%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,C,1211070,1211070,1,T -> C,2226,SNP (transition),C,Polymorphism,T,T,22.60%,,77.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+mvR1_Nixon,G,1211075,1211075,1,A -> G,2220,SNP (transition),G,Polymorphism,A,A,22.40%,,77.60%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+mvR1_Nixon,ATAT,2047399,2047398,0,+ATAT,478,Insertion,ATAT,Polymorphism,----,,,,77.80%,,,,,,
+mvR1_Nixon,C,1210887,1210887,1,T -> C,2534,SNP (transition),C,Polymorphism,T,T,19.90%,,80.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,594,AAA -> AAG,None,SYNPCCN_RS05640
+mvR1_Nixon,GG,781732,781733,2,AA -> GG,11 -> 15,Substitution,GG,Polymorphism,AA,AA,,,81.8% -> 86.7%,,,,,,
+mvR1_Nixon,T,1210983,1210983,1,C -> T,2707,SNP (transition),T,Polymorphism,C,C,17.70%,,82.30%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+mvR1_Nixon,AAA,781835,781837,3,CTT -> AAA,7 -> 14,Substitution,AAA,Polymorphism,CTT,CTT,,SL -> RK,83.3% -> 85.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,27,"AGC,TTA -> AGA,AAA",Substitution,SYNPCCN_RS03645
+mvR1_Nixon,C,781725,781725,1,A -> C,43,SNP (transversion),C,Polymorphism,A,A,7.00%,,83.70%,,,,,,
+mvR1_Nixon,A,527609,527609,1,G -> A,13,SNP (transition),A,Polymorphism,G,G,15.40%,,84.60%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3138,GAG -> GAA,None,SYNPCCN_RS02455
+mvR1_Nixon,CATGGA,3107936,3107935,0,+CATGGA,633,Insertion,CATGGA,Polymorphism,------,,,G -> VHG,84.80%,IS5 family transposase,IS5 family transposase CDS,443,"GGT -> GTC,CAT,GGT",Insertion,SYNPCCN_RS17065
+mvR1_Nixon,G,527606,527606,1,C -> G,13,SNP (transversion),G,Polymorphism,C,C,7.70%,,92.30%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3135,CCC -> CCG,None,SYNPCCN_RS02455
+mvR1_Nixon,G,527603,527603,1,A -> G,15,SNP (transition),G,Polymorphism,A,A,6.70%,,93.30%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3132,GAA -> GAG,None,SYNPCCN_RS02455
+mvR1_Nixon,T,781840,781840,1,C -> T,15,SNP (transition),T,Polymorphism,C,C,,P -> L,93.30%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,T,731457,731456,0,+T,461,Insertion,T,Polymorphism,-,,,,95.40%,serine/threonine-protein kinase,serine/threonine-protein kinase CDS,308,,Frame Shift,SYNPCCN_RS03410
+mvR1_Nixon,T,781729,781729,1,A -> T,27,SNP (transversion),T,Polymorphism,A,A,3.70%,,96.30%,,,,,,
+mvR1_Nixon,T,3096524,3096524,1,C -> T,367,SNP (transition),T,Polymorphism,C,C,3.30%,R -> C,96.70%,transposase,transposase CDS,400,CGT -> TGT,Substitution,SYNPCCN_RS14430
+mvR1_Nixon,T,3107931,3107931,1,G -> T,642,SNP (transversion),T,Polymorphism,G,G,1.70%,,98.30%,IS5 family transposase,IS5 family transposase CDS,447,GCC -> GCA,None,SYNPCCN_RS17065
+mvR1_Nixon,G,488320,488320,1,T -> G,518,SNP (transversion),G,Polymorphism,T,T,0.20%,F -> C,99.60%,AMP-binding protein,AMP-binding protein CDS,764,TTC -> TGC,Substitution,SYNPCCN_RS02320
+mvR1_Nixon,T,2518827,2518827,1,C -> T,515,SNP (transition),T,Polymorphism,C,C,0.20%,S -> F,99.60%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+mvR1_Nixon,TA,2578440,2578441,2,AG -> TA,503 -> 505,Substitution,TA,Polymorphism,AG,AG,,,99.60%,,,,,,
+mvR1_Nixon,T,1031357,1031357,1,C -> T,464,SNP (transition),T,Polymorphism,C,C,,,99.80%,,,,,,
+mvR1_Nixon,T,1596073,1596073,1,G -> T,472,SNP (transversion),T,Polymorphism,G,G,0.20%,G -> V,99.80%,phosphate acyltransferase PlsX,plsX CDS,263,GGG -> GTG,Substitution,SYNPCCN_RS07470
+mvR1_Nixon,A,781855,781855,1,T -> A,100,SNP (transversion),A,Polymorphism,T,T,,V -> D,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,T,781857,781857,1,A -> T,106,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,A,781861,781861,1,C -> A,118,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+mvR1_Nixon,C,1014735,1014735,1,G -> C,561,SNP (transversion),C,Polymorphism,G,G,,,100.00%,,,,,,
+mvR1_Nixon,A,1193226,1193226,1,C -> A,454,SNP (transversion),A,Polymorphism,C,C,,P -> T,100.00%,AGE family epimerase/isomerase,AGE family epimerase/isomerase CDS,499,CCC -> ACC,Substitution,SYNPCCN_RS05570
+mvR1_Nixon,G,1203676,1203676,1,A -> G,571,SNP (transition),G,Polymorphism,A,A,,Y -> C,100.00%,ABC transporter substrate-binding protein,ABC transporter substrate-binding protein CDS,341,TAT -> TGT,Substitution,SYNPCCN_RS05610
+mvR1_Nixon,G,1763014,1763014,1,C -> G,395,SNP (transversion),G,Polymorphism,C,C,,D -> E,100.00%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+mvR1_Nixon,G,1852343,1852343,1,A -> G,470,SNP (transition),G,Polymorphism,A,A,,L -> P,100.00%,peptidase domain-containing ABC transporter,peptidase domain-containing ABC transporter CDS,416,CTA -> CCA,Substitution,SYNPCCN_RS08795
+mvR1_Nixon,T,3012482,3012482,1,C -> T,589,SNP (transition),T,Polymorphism,C,C,,,100.00%,diguanylate cyclase,diguanylate cyclase CDS,276,ACC -> ACT,None,SYNPCCN_RS14055
+mvR2_Nixon,A,1971681,1971681,1,G -> A,1657,SNP (transition),A,Polymorphism,G,G,49.80%,,50.20%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+mvR2_Nixon,A,2995693,2995693,1,G -> A,1490,SNP (transition),A,Polymorphism,G,G,49.60%,P -> S,50.40%,transposase,transposase CDS,205,CCG -> TCG,Substitution,SYNPCCN_RS17745
+mvR2_Nixon,AACGGCG,5,4,0,+AACGGCG,107,Insertion,AACGGCG,Polymorphism,-------,,,,50.50%,solanesyl diphosphate synthase,sds CDS,205,,Frame Shift,SYNPCCN_RS00005
+mvR2_Nixon,A,2996517,2996517,1,G -> A,1476,SNP (transition),A,Polymorphism,G,G,49.40%,,50.50%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+mvR2_Nixon,T,1971631,1971631,1,C -> T,1652,SNP (transition),T,Polymorphism,C,C,49.20%,,50.80%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+mvR2_Nixon,A,1971724,1971724,1,G -> A,1623,SNP (transition),A,Polymorphism,G,G,48.90%,G -> R,51.10%,transposase,transposase CDS,148,GGA -> AGA,Substitution,SYNPCCN_RS17235
+mvR2_Nixon,C,1971622,1971622,1,G -> C,1682,SNP (transversion),C,Polymorphism,G,G,48.80%,V -> L,51.20%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+mvR2_Nixon,C,1971743,1971743,1,T -> C,1579,SNP (transition),C,Polymorphism,T,T,48.50%,V -> A,51.40%,transposase,transposase CDS,167,GTA -> GCA,Substitution,SYNPCCN_RS17235
+mvR2_Nixon,GTC,3063029,3063031,2,TTG -> GTC,1040 -> 1053,Substitution,GTC,Polymorphism,TG,TTG,,Q -> D,51.4% -> 52.0%,two-component system response regulator RppA,two-component system response regulator RppA CDS,397,CAA -> GAC,Substitution,SYNPCCN_RS14270
+mvR2_Nixon,AA,781836,781837,2,TT -> AA,27 -> 29,Substitution,AA,Polymorphism,T--T,TT,,L -> K,51.7% -> 55.6%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,28,TTA -> AAA,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,C,3346589,3346589,1,T -> C,685,SNP (transition),C,Polymorphism,T,T,47.60%,,52.10%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+mvR2_Nixon,A,1971598,1971598,1,G -> A,1683,SNP (transition),A,Polymorphism,G,G,47.50%,E -> K,52.30%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+mvR2_Nixon,A,781715,781714,0,+A,95,Insertion,A,Polymorphism,-,,,,52.60%,,,,,,
+mvR2_Nixon,G,781715,781715,1,T -> G,95,SNP (transversion),G,Polymorphism,T,T,38.90%,,52.60%,,,,,,
+mvR2_Nixon,CTCA,781842,781844,1,TCC -> CTCA,44 -> 51,Insertion,CTCA,Polymorphism,-C,TCC,,,52.9% -> 61.4%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+mvR2_Nixon,T,285642,285642,1,C -> T,1668,SNP (transition),T,Polymorphism,C,C,46.50%,,53.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,285,CTG -> CTA,None,SYNPCCN_RS01350
+mvR2_Nixon,T,3062921,3062921,1,C -> T,1098,SNP (transition),T,Polymorphism,C,C,46.80%,,53.10%,two-component system response regulator RppA,two-component system response regulator RppA CDS,507,CAG -> CAA,None,SYNPCCN_RS14270
+mvR2_Nixon,T,1971532,1971532,1,C -> T,1821,SNP (transition),T,Polymorphism,C,C,46.70%,,53.20%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+mvR2_Nixon,CAC,1211139,1211141,2,TAA -> CAC,2041 -> 2043,Substitution,CAC,Polymorphism,TA,TAA,,L -> V,53.3% -> 53.9%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,340,TTA -> GTG,Substitution,SYNPCCN_RS05640
+mvR2_Nixon,T,1971550,1971550,1,C -> T,1672,SNP (transition),T,Polymorphism,C,C,44.40%,,54.50%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+mvR2_Nixon,G,3062912,3062912,1,A -> G,1174,SNP (transition),G,Polymorphism,A,A,42.80%,,57.10%,two-component system response regulator RppA,two-component system response regulator RppA CDS,516,CTT -> CTC,None,SYNPCCN_RS14270
+mvR2_Nixon,G,1211238,1211238,1,A -> G,1427,SNP (transition),G,Polymorphism,A,A,41.20%,,58.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+mvR2_Nixon,A,1210875,1210875,1,G -> A,3191,SNP (transition),A,Polymorphism,G,G,39.50%,,60.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,606,GTC -> GTT,None,SYNPCCN_RS05640
+mvR2_Nixon,T,3062900,3062900,1,C -> T,1294,SNP (transition),T,Polymorphism,C,C,39.40%,,60.50%,two-component system response regulator RppA,two-component system response regulator RppA CDS,528,CAG -> CAA,None,SYNPCCN_RS14270
+mvR2_Nixon,G,1971509,1971509,1,A -> G,1890,SNP (transition),G,Polymorphism,A,A,39.10%,R -> G,60.80%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+mvR2_Nixon,T,781715,781714,0,(T)3 -> (T)4,95,Insertion (tandem repeat),T,Polymorphism,-,,,,61.10%,,,,,,
+mvR2_Nixon,A,781850,781850,1,T -> A,95,SNP (transversion),A,Polymorphism,T,T,15.80%,D -> E,62.10%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,GAT -> GAA,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,TG,781846,781847,2,CC -> TG,57 -> 70,Substitution,TG,Polymorphism,C------C,CC,,T -> M,62.9% -> 64.9%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,TGG,781833,781835,2,AGC -> TGG,6 -> 14,Substitution,TGG,Polymorphism,AC,AGC,,S -> W,64.3% -> 100.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGG,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,A,3061606,3061606,1,G -> A,1742,SNP (transition),A,Polymorphism,G,G,35.50%,,64.40%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,1137,GGC -> GGT,None,SYNPCCN_RS14265
+mvR2_Nixon,GGGGGACA,2047399,2047398,0,+GGGGGACA,573,Insertion,GGGGGACA,Polymorphism,--------,,,,65.60%,,,,,,
+mvR2_Nixon,GGGTA,2047399,2047398,0,+GGGTA,573,Insertion,GGGTA,Polymorphism,-----,,,,66.10%,,,,,,
+mvR2_Nixon,G,527603,527603,1,A -> G,12,SNP (transition),G,Polymorphism,A,A,16.70%,,66.70%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3132,GAA -> GAG,None,SYNPCCN_RS02455
+mvR2_Nixon,C,1971430,1971430,1,T -> C,2392,SNP (transition),C,Polymorphism,T,T,32.80%,,67.00%,IS701 family transposase,IS701 family transposase CDS,354,AGT -> AGC,None,SYNPCCN_RS09355
+mvR2_Nixon,A,1211136,1211136,1,G -> A,2094,SNP (transition),A,Polymorphism,G,G,31.30%,,68.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+mvR2_Nixon,G,781718,781718,1,A -> G,88,SNP (transition),G,Polymorphism,A,A,23.90%,,69.30%,,,,,,
+mvR2_Nixon,G,527606,527606,1,C -> G,10,SNP (transversion),G,Polymorphism,C,C,10.00%,,70.00%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3135,CCC -> CCG,None,SYNPCCN_RS02455
+mvR2_Nixon,A,527609,527609,1,G -> A,10,SNP (transition),A,Polymorphism,G,G,30.00%,,70.00%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3138,GAG -> GAA,None,SYNPCCN_RS02455
+mvR2_Nixon,T,781729,781729,1,A -> T,18,SNP (transversion),T,Polymorphism,A,A,27.80%,,72.20%,,,,,,
+mvR2_Nixon,C,781725,781725,1,A -> C,42,SNP (transversion),C,Polymorphism,A,A,2.40%,,73.80%,,,,,,
+mvR2_Nixon,A,781715,781714,0,+A,95,Insertion,A,Polymorphism,-,,,,74.70%,,,,,,
+mvR2_Nixon,TTT,781715,781714,0,+TTT,95,Insertion,TTT,Polymorphism,---,,,,74.70%,,,,,,
+mvR2_Nixon,C,781722,781722,1,G -> C,58,SNP (transversion),C,Polymorphism,G,G,8.60%,,75.90%,,,,,,
+mvR2_Nixon,G,1211075,1211075,1,A -> G,2848,SNP (transition),G,Polymorphism,A,A,20.00%,,79.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+mvR2_Nixon,C,1211070,1211070,1,T -> C,2844,SNP (transition),C,Polymorphism,T,T,19.80%,,80.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+mvR2_Nixon,T,1210983,1210983,1,C -> T,3427,SNP (transition),T,Polymorphism,C,C,17.00%,,83.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+mvR2_Nixon,CATGGA,3107936,3107935,0,+CATGGA,742,Insertion,CATGGA,Polymorphism,------,,,G -> VHG,86.90%,IS5 family transposase,IS5 family transposase CDS,443,"GGT -> GTC,CAT,GGT",Insertion,SYNPCCN_RS17065
+mvR2_Nixon,,1821207,1821207,1,(G)8 -> (G)7,470,Deletion (tandem repeat),,Polymorphism,G,G,,,88.50%,hypothetical protein,hypothetical protein CDS,430,,Frame Shift,SYNPCCN_RS08625
+mvR2_Nixon,T,781840,781840,1,C -> T,33,SNP (transition),T,Polymorphism,C,C,,P -> L,90.90%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,,1422356,1422356,1,-A,483,Deletion,,Polymorphism,A,A,,,94.60%,bluetail domain-containing putative surface protein,bluetail domain-containing putative surface protein CDS,45,,Frame Shift,SYNPCCN_RS06695
+mvR2_Nixon,,1422356,1422356,1,-A,483,Deletion,,Polymorphism,A,A,,,94.60%,calcium-binding protein,calcium-binding protein CDS,4312,,Extension,SYNPCCN_RS06700
+mvR2_Nixon,,2734330,2734330,1,(T)4 -> (T)3,479,Deletion (tandem repeat),,Polymorphism,T,T,,,94.60%,ABC transporter ATP-binding protein/permease,ABC transporter ATP-binding protein/permease CDS,1278,,Frame Shift,SYNPCCN_RS12795
+mvR2_Nixon,T,3107931,3107931,1,G -> T,762,SNP (transversion),T,Polymorphism,G,G,2.40%,,97.60%,IS5 family transposase,IS5 family transposase CDS,447,GCC -> GCA,None,SYNPCCN_RS17065
+mvR2_Nixon,A,781855,781855,1,T -> A,110,SNP (transversion),A,Polymorphism,T,T,0.90%,V -> D,99.10%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,A,1193226,1193226,1,C -> A,431,SNP (transversion),A,Polymorphism,C,C,,P -> T,99.80%,AGE family epimerase/isomerase,AGE family epimerase/isomerase CDS,499,CCC -> ACC,Substitution,SYNPCCN_RS05570
+mvR2_Nixon,G,1852343,1852343,1,A -> G,458,SNP (transition),G,Polymorphism,A,A,,L -> P,99.80%,peptidase domain-containing ABC transporter,peptidase domain-containing ABC transporter CDS,416,CTA -> CCA,Substitution,SYNPCCN_RS08795
+mvR2_Nixon,CGG,781738,781737,0,+CGG,4,Insertion,CGG,Polymorphism,---,,,,100.00%,,,,,,
+mvR2_Nixon,G,781740,781740,1,A -> G,4,SNP (transition),G,Polymorphism,A,A,,,100.00%,,,,,,
+mvR2_Nixon,T,781857,781857,1,A -> T,117,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,A,781861,781861,1,C -> A,128,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+mvR2_Nixon,A,1436405,1436405,1,G -> A,510,SNP (transition),A,Polymorphism,G,G,,,100.00%,,,,,,
+mvR2_Nixon,G,1763014,1763014,1,C -> G,448,SNP (transversion),G,Polymorphism,C,C,,D -> E,100.00%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+mvR2_Nixon,C,1811435,1811435,1,T -> C,693,SNP (transition),C,Polymorphism,T,T,,V -> A,100.00%,SpoIIE family protein phosphatase,SpoIIE family protein phosphatase CDS,674,GTG -> GCG,Substitution,SYNPCCN_RS08580
+mvR2_Nixon,T,2518827,2518827,1,C -> T,607,SNP (transition),T,Polymorphism,C,C,,S -> F,100.00%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+mvR2_Nixon,TA,2578440,2578441,2,AG -> TA,569 -> 570,Substitution,TA,Polymorphism,AG,AG,,,100.00%,,,,,,
+mvR3_Nixon,CGA,781850,781850,1,T -> CGA,75 -> 84,Insertion,CGA,Polymorphism,#NAME?,T,,,45.2% -> 50.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,,Frame Shift,SYNPCCN_RS03645
+mvR3_Nixon,CAC,1211139,1211141,2,TAA -> CAC,1537 -> 1543,Substitution,CAC,Polymorphism,TA,TAA,,L -> V,49.8% -> 50.6%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,340,TTA -> GTG,Substitution,SYNPCCN_RS05640
+mvR3_Nixon,T,781727,781727,1,G -> T,38,SNP (transversion),T,Polymorphism,G,G,5.30%,,50.00%,,,,,,
+mvR3_Nixon,G,781735,781735,1,C -> G,10,SNP (transversion),G,Polymorphism,C,C,50.00%,,50.00%,,,,,,
+mvR3_Nixon,G,3063025,3063025,1,A -> G,800,SNP (transition),G,Polymorphism,A,A,49.90%,W -> R,50.10%,two-component system response regulator RppA,two-component system response regulator RppA CDS,403,TGG -> CGG,Substitution,SYNPCCN_RS14270
+mvR3_Nixon,A,1971681,1971681,1,G -> A,1135,SNP (transition),A,Polymorphism,G,G,49.60%,,50.40%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+mvR3_Nixon,A,2995693,2995693,1,G -> A,1093,SNP (transition),A,Polymorphism,G,G,48.90%,P -> S,51.10%,transposase,transposase CDS,205,CCG -> TCG,Substitution,SYNPCCN_RS17745
+mvR3_Nixon,GTC,3063029,3063031,2,TTG -> GTC,843 -> 865,Substitution,GTC,Polymorphism,TG,TTG,,Q -> D,51.6% -> 52.6%,two-component system response regulator RppA,two-component system response regulator RppA CDS,397,CAA -> GAC,Substitution,SYNPCCN_RS14270
+mvR3_Nixon,C,3346589,3346589,1,T -> C,532,SNP (transition),C,Polymorphism,T,T,48.30%,,51.70%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+mvR3_Nixon,T,285642,285642,1,C -> T,1274,SNP (transition),T,Polymorphism,C,C,47.70%,,51.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,285,CTG -> CTA,None,SYNPCCN_RS01350
+mvR3_Nixon,A,781715,781714,0,+A,85,Insertion,A,Polymorphism,-,,,,52.90%,,,,,,
+mvR3_Nixon,TG,781715,781715,1,T -> TG,85,Insertion,TG,Polymorphism,#NAME?,T,,,52.90%,,,,,,
+mvR3_Nixon,A,2919523,2919523,1,G -> A,806,SNP (transition),A,Polymorphism,G,G,47.00%,,52.90%,IS5 family transposase,IS5 family transposase CDS,47,,Truncation,SYNPCCN_RS13635
+mvR3_Nixon,T,1971631,1971631,1,C -> T,1209,SNP (transition),T,Polymorphism,C,C,46.70%,,53.30%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+mvR3_Nixon,A,2996517,2996517,1,G -> A,1076,SNP (transition),A,Polymorphism,G,G,46.70%,,53.30%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+mvR3_Nixon,A,1971598,1971598,1,G -> A,1274,SNP (transition),A,Polymorphism,G,G,46.30%,E -> K,53.50%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+mvR3_Nixon,C,1971622,1971622,1,G -> C,1227,SNP (transversion),C,Polymorphism,G,G,46.40%,V -> L,53.50%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+mvR3_Nixon,CTCA,781842,781844,1,TCC -> CTCA,27 -> 35,Insertion,CTCA,Polymorphism,-C,TCC,,,54.3% -> 70.4%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+mvR3_Nixon,GG,781732,781733,2,AA -> GG,11 -> 19,Substitution,GG,Polymorphism,AA,AA,,,54.5% -> 73.7%,,,,,,
+mvR3_Nixon,T,1971550,1971550,1,C -> T,1311,SNP (transition),T,Polymorphism,C,C,43.50%,,55.70%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+mvR3_Nixon,G,2995666,2995666,1,A -> G,1218,SNP (transition),G,Polymorphism,A,A,43.80%,Y -> H,56.10%,transposase,transposase CDS,232,TAT -> CAT,Substitution,SYNPCCN_RS17745
+mvR3_Nixon,A,1210694,1210694,1,G -> A,1395,SNP (transition),A,Polymorphism,G,G,42.50%,,57.40%,,,,,,
+mvR3_Nixon,G,1211238,1211238,1,A -> G,1058,SNP (transition),G,Polymorphism,A,A,42.10%,,57.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+mvR3_Nixon,C,1210830,1210830,1,T -> C,1846,SNP (transition),C,Polymorphism,T,T,36.70%,,57.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,None,SYNPCCN_RS05640
+mvR3_Nixon,G,1971509,1971509,1,A -> G,1308,SNP (transition),G,Polymorphism,A,A,41.10%,R -> G,58.80%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+mvR3_Nixon,A,1210875,1210875,1,G -> A,2347,SNP (transition),A,Polymorphism,G,G,38.10%,,61.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,606,GTC -> GTT,None,SYNPCCN_RS05640
+mvR3_Nixon,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,395,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,65.80%,,,,,,
+mvR3_Nixon,A,1211136,1211136,1,G -> A,1575,SNP (transition),A,Polymorphism,G,G,32.80%,,67.20%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+mvR3_Nixon,A,781715,781714,0,+A,85,Insertion,A,Polymorphism,-,,,,68.20%,,,,,,
+mvR3_Nixon,TTT,781715,781714,0,+TTT,85,Insertion,TTT,Polymorphism,---,,,,68.20%,,,,,,
+mvR3_Nixon,TGG,781833,781835,2,AGC -> TGG,6 -> 13,Substitution,TGG,Polymorphism,AC,AGC,,S -> W,69.2% -> 100.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGG,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,G,781718,781718,1,A -> G,69,SNP (transition),G,Polymorphism,A,A,18.80%,,69.60%,,,,,,
+mvR3_Nixon,C,781725,781725,1,A -> C,49,SNP (transversion),C,Polymorphism,A,A,10.20%,,73.50%,,,,,,
+mvR3_Nixon,TG,781846,781847,2,CC -> TG,43 -> 54,Substitution,TG,Polymorphism,C------C,CC,,T -> M,74.1% -> 86.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,C,1454089,1454089,1,T -> C,3514,SNP (transition),C,Polymorphism,T,T,24.90%,,75.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,172,TTG -> CTG,None,SYNPCCN_RS06825
+mvR3_Nixon,G,1454055,1454055,1,A -> G,3645,SNP (transition),G,Polymorphism,A,A,23.50%,,76.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,138,CTA -> CTG,None,SYNPCCN_RS06825
+mvR3_Nixon,G,1211075,1211075,1,A -> G,1999,SNP (transition),G,Polymorphism,A,A,21.50%,,78.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+mvR3_Nixon,C,781722,781722,1,G -> C,56,SNP (transversion),C,Polymorphism,G,G,10.70%,,78.60%,,,,,,
+mvR3_Nixon,C,1211070,1211070,1,T -> C,1988,SNP (transition),C,Polymorphism,T,T,21.20%,,78.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+mvR3_Nixon,AT,2047399,2047398,0,+AT,395,Insertion,AT,Polymorphism,--,,,,79.00%,,,,,,
+mvR3_Nixon,G,527603,527603,1,A -> G,10,SNP (transition),G,Polymorphism,A,A,10.00%,,80.00%,CHAT domain-containing protein,CHAT domain-containing protein CDS,3132,GAA -> GAG,None,SYNPCCN_RS02455
+mvR3_Nixon,T,1210983,1210983,1,C -> T,2513,SNP (transition),T,Polymorphism,C,C,17.20%,,82.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+mvR3_Nixon,CATGGA,3107936,3107935,0,+CATGGA,586,Insertion,CATGGA,Polymorphism,------,,,G -> VHG,83.80%,IS5 family transposase,IS5 family transposase CDS,443,"GGT -> GTC,CAT,GGT",Insertion,SYNPCCN_RS17065
+mvR3_Nixon,T,781729,781729,1,A -> T,28,SNP (transversion),T,Polymorphism,A,A,14.30%,,85.70%,,,,,,
+mvR3_Nixon,G,1454175,1454175,1,A -> G,3227,SNP (transition),G,Polymorphism,A,A,12.50%,,87.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,258,AAA -> AAG,None,SYNPCCN_RS06825
+mvR3_Nixon,,1821207,1821207,1,(G)8 -> (G)7,354,Deletion (tandem repeat),,Polymorphism,G,G,,,89.80%,hypothetical protein,hypothetical protein CDS,430,,Frame Shift,SYNPCCN_RS08625
+mvR3_Nixon,T,731457,731456,0,+T,401,Insertion,T,Polymorphism,-,,,,94.50%,serine/threonine-protein kinase,serine/threonine-protein kinase CDS,308,,Frame Shift,SYNPCCN_RS03410
+mvR3_Nixon,,1422356,1422356,1,-A,379,Deletion,,Polymorphism,A,A,,,95.80%,bluetail domain-containing putative surface protein,bluetail domain-containing putative surface protein CDS,45,,Frame Shift,SYNPCCN_RS06695
+mvR3_Nixon,,1422356,1422356,1,-A,379,Deletion,,Polymorphism,A,A,,,95.80%,calcium-binding protein,calcium-binding protein CDS,4312,,Extension,SYNPCCN_RS06700
+mvR3_Nixon,,2734330,2734330,1,(T)4 -> (T)3,420,Deletion (tandem repeat),,Polymorphism,T,T,,,96.70%,ABC transporter ATP-binding protein/permease,ABC transporter ATP-binding protein/permease CDS,1278,,Frame Shift,SYNPCCN_RS12795
+mvR3_Nixon,T,3107931,3107931,1,G -> T,589,SNP (transversion),T,Polymorphism,G,G,1.40%,,98.50%,IS5 family transposase,IS5 family transposase CDS,447,GCC -> GCA,None,SYNPCCN_RS17065
+mvR3_Nixon,G,1763014,1763014,1,C -> G,325,SNP (transversion),G,Polymorphism,C,C,,D -> E,99.10%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+mvR3_Nixon,T,842303,842303,1,C -> T,340,SNP (transition),T,Polymorphism,C,C,0.30%,R -> Q,99.70%,50S ribosomal protein L3,rplC CDS,554,CGG -> CAG,Substitution,SYNPCCN_RS03985
+mvR3_Nixon,T,1031357,1031357,1,C -> T,353,SNP (transition),T,Polymorphism,C,C,,,99.70%,,,,,,
+mvR3_Nixon,T,1596073,1596073,1,G -> T,360,SNP (transversion),T,Polymorphism,G,G,0.30%,G -> V,99.70%,phosphate acyltransferase PlsX,plsX CDS,263,GGG -> GTG,Substitution,SYNPCCN_RS07470
+mvR3_Nixon,A,1436405,1436405,1,G -> A,402,SNP (transition),A,Polymorphism,G,G,0.20%,,99.80%,,,,,,
+mvR3_Nixon,G,488320,488320,1,T -> G,383,SNP (transversion),G,Polymorphism,T,T,,F -> C,100.00%,AMP-binding protein,AMP-binding protein CDS,764,TTC -> TGC,Substitution,SYNPCCN_RS02320
+mvR3_Nixon,CGG,781738,781737,0,+CGG,5,Insertion,CGG,Polymorphism,---,,,,100.00%,,,,,,
+mvR3_Nixon,G,781740,781740,1,A -> G,5,SNP (transition),G,Polymorphism,A,A,,,100.00%,,,,,,
+mvR3_Nixon,A,781837,781837,1,T -> A,18,SNP (transversion),A,Polymorphism,T,T,,,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,29,,Truncation,SYNPCCN_RS03645
+mvR3_Nixon,T,781840,781840,1,C -> T,19,SNP (transition),T,Polymorphism,C,C,,P -> L,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,A,781855,781855,1,T -> A,97,SNP (transversion),A,Polymorphism,T,T,,V -> D,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,T,781857,781857,1,A -> T,98,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,A,781861,781861,1,C -> A,113,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+mvR3_Nixon,C,1014735,1014735,1,G -> C,459,SNP (transversion),C,Polymorphism,G,G,,,100.00%,,,,,,
+mvR3_Nixon,G,1634405,1634405,1,C -> G,409,SNP (transversion),G,Polymorphism,C,C,,S -> R,100.00%,acylneuraminate cytidylyltransferase,acylneuraminate cytidylyltransferase CDS,318,AGC -> AGG,Substitution,SYNPCCN_RS07700
+mvR3_Nixon,G,1852343,1852343,1,A -> G,366,SNP (transition),G,Polymorphism,A,A,,L -> P,100.00%,peptidase domain-containing ABC transporter,peptidase domain-containing ABC transporter CDS,416,CTA -> CCA,Substitution,SYNPCCN_RS08795
+mvR3_Nixon,T,2518827,2518827,1,C -> T,529,SNP (transition),T,Polymorphism,C,C,,S -> F,100.00%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+mvR6_Nixon,AAA,781835,781837,3,CTT -> AAA,29 -> 33,Substitution,AAA,Polymorphism,CT--T,CTT,,SL -> RK,48.5% -> 55.2%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,27,"AGC,TTA -> AGA,AAA",Substitution,SYNPCCN_RS03645
+mvR6_Nixon,T,1971550,1971550,1,C -> T,1038,SNP (transition),T,Polymorphism,C,C,48.80%,,50.10%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+mvR6_Nixon,T,1971532,1971532,1,C -> T,1108,SNP (transition),T,Polymorphism,C,C,49.80%,,50.20%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+mvR6_Nixon,G,2995568,2995568,1,A -> G,1110,SNP (transition),G,Polymorphism,A,A,49.20%,,50.80%,,,,,,
+mvR6_Nixon,C,781726,781726,1,T -> C,43,SNP (transition),C,Polymorphism,T,T,44.20%,,51.20%,,,,,,
+mvR6_Nixon,A,781715,781714,0,+A,120,Insertion,A,Polymorphism,-,,,,51.70%,,,,,,
+mvR6_Nixon,TG,781715,781715,1,T -> TG,120,Insertion,TG,Polymorphism,#NAME?,T,,,51.70%,,,,,,
+mvR6_Nixon,C,1210830,1210830,1,T -> C,2066,SNP (transition),C,Polymorphism,T,T,44.60%,,51.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,None,SYNPCCN_RS05640
+mvR6_Nixon,A,2996517,2996517,1,G -> A,967,SNP (transition),A,Polymorphism,G,G,46.90%,,52.90%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+mvR6_Nixon,T,3062900,3062900,1,C -> T,1160,SNP (transition),T,Polymorphism,C,C,46.40%,,53.40%,two-component system response regulator RppA,two-component system response regulator RppA CDS,528,CAG -> CAA,None,SYNPCCN_RS14270
+mvR6_Nixon,G,2995666,2995666,1,A -> G,1078,SNP (transition),G,Polymorphism,A,A,46.00%,Y -> H,53.70%,transposase,transposase CDS,232,TAT -> CAT,Substitution,SYNPCCN_RS17745
+mvR6_Nixon,T,781727,781727,1,G -> T,31,SNP (transversion),T,Polymorphism,G,G,3.20%,,54.80%,,,,,,
+mvR6_Nixon,CGA,781850,781850,1,T -> CGA,100 -> 102,Insertion,CGA,Polymorphism,#NAME?,T,,,55.9% -> 57.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,,Frame Shift,SYNPCCN_RS03645
+mvR6_Nixon,A,1210875,1210875,1,G -> A,2570,SNP (transition),A,Polymorphism,G,G,42.50%,,57.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,606,GTC -> GTT,None,SYNPCCN_RS05640
+mvR6_Nixon,G,1971509,1971509,1,A -> G,1194,SNP (transition),G,Polymorphism,A,A,41.90%,R -> G,58.00%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+mvR6_Nixon,C,2995629,2995629,1,T -> C,1234,SNP (transition),C,Polymorphism,T,T,41.70%,,58.30%,transposase,transposase CDS,269,,Extension,SYNPCCN_RS17745
+mvR6_Nixon,CTCA,781842,781844,1,TCC -> CTCA,51 -> 58,Insertion,CTCA,Polymorphism,-C,TCC,,,58.6% -> 66.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+mvR6_Nixon,A,3061555,3061555,1,G -> A,1303,SNP (transition),A,Polymorphism,G,G,39.30%,,60.70%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,1188,GAC -> GAT,None,SYNPCCN_RS14265
+mvR6_Nixon,G,1211238,1211238,1,A -> G,1399,SNP (transition),G,Polymorphism,A,A,39.00%,,61.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+mvR6_Nixon,A,3061606,3061606,1,G -> A,1517,SNP (transition),A,Polymorphism,G,G,37.20%,,62.70%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,1137,GGC -> GGT,None,SYNPCCN_RS14265
+mvR6_Nixon,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,603,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,63.70%,,,,,,
+mvR6_Nixon,A,1,1,1,G -> A,72,SNP (transition),A,Polymorphism,G,G,13.90%,,63.90%,solanesyl diphosphate synthase,sds CDS,201,ACG -> ACA,None,SYNPCCN_RS00005
+mvR6_Nixon,G,781718,781718,1,A -> G,109,SNP (transition),G,Polymorphism,A,A,22.90%,,64.20%,,,,,,
+mvR6_Nixon,G,3063113,3063113,1,A -> G,1424,SNP (transition),G,Polymorphism,A,A,35.80%,,64.20%,two-component system response regulator RppA,two-component system response regulator RppA CDS,315,TTT -> TTC,None,SYNPCCN_RS14270
+mvR6_Nixon,A,3063122,3063122,1,G -> A,1456,SNP (transition),A,Polymorphism,G,G,35.40%,,64.60%,two-component system response regulator RppA,two-component system response regulator RppA CDS,306,ATC -> ATT,None,SYNPCCN_RS14270
+mvR6_Nixon,A,1211136,1211136,1,G -> A,2013,SNP (transition),A,Polymorphism,G,G,34.80%,,65.20%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+mvR6_Nixon,GG,781732,781733,2,AA -> GG,6 -> 9,Substitution,GG,Polymorphism,AA,AA,,,66.7% -> 77.8%,,,,,,
+mvR6_Nixon,C,1211139,1211139,1,T -> C,1968,SNP (transition),C,Polymorphism,T,T,29.30%,,70.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,342,TTA -> TTG,None,SYNPCCN_RS05640
+mvR6_Nixon,TG,781846,781847,2,CC -> TG,71 -> 83,Substitution,TG,Polymorphism,C------C,CC,,T -> M,72.3% -> 76.1%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,A,781715,781714,0,+A,120,Insertion,A,Polymorphism,-,,,,72.50%,,,,,,
+mvR6_Nixon,TTT,781715,781714,0,+TTT,120,Insertion,TTT,Polymorphism,---,,,,72.50%,,,,,,
+mvR6_Nixon,C,781722,781722,1,G -> C,80,SNP (transversion),C,Polymorphism,G,G,16.30%,,73.80%,,,,,,
+mvR6_Nixon,G,1211075,1211075,1,A -> G,2449,SNP (transition),G,Polymorphism,A,A,24.90%,,75.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+mvR6_Nixon,C,781725,781725,1,A -> C,61,SNP (transversion),C,Polymorphism,A,A,14.80%,,75.40%,,,,,,
+mvR6_Nixon,C,1211070,1211070,1,T -> C,2473,SNP (transition),C,Polymorphism,T,T,24.30%,,75.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+mvR6_Nixon,ATAT,2047399,2047398,0,+ATAT,603,Insertion,ATAT,Polymorphism,----,,,,77.30%,,,,,,
+mvR6_Nixon,C,1210887,1210887,1,T -> C,2647,SNP (transition),C,Polymorphism,T,T,20.10%,,79.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,594,AAA -> AAG,None,SYNPCCN_RS05640
+mvR6_Nixon,T,1210983,1210983,1,C -> T,2860,SNP (transition),T,Polymorphism,C,C,19.10%,,80.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+mvR6_Nixon,A,1943945,1943945,1,G -> A,559,SNP (transition),A,Polymorphism,G,G,18.80%,R -> H,81.20%,ABC-2 family transporter protein,ABC-2 family transporter protein CDS,344,CGC -> CAC,Substitution,SYNPCCN_RS09240
+mvR6_Nixon,G,1848023,1848023,1,A -> G,421,SNP (transition),G,Polymorphism,A,A,16.60%,L -> P,83.10%,HlyD family efflux transporter periplasmic adaptor subunit,HlyD family efflux transporter periplasmic adaptor subunit CDS,1544,CTG -> CCG,Substitution,SYNPCCN_RS08790
+mvR6_Nixon,CTA,1454323,1454325,2,TTG -> CTA,3351 -> 3358,Substitution,CTA,Polymorphism,TG,TTG,,,84.0% -> 84.1%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTG -> CTA,None,SYNPCCN_RS06825
+mvR6_Nixon,CATGGA,3107936,3107935,0,+CATGGA,858,Insertion,CATGGA,Polymorphism,------,,,G -> VHG,85.00%,IS5 family transposase,IS5 family transposase CDS,443,"GGT -> GTC,CAT,GGT",Insertion,SYNPCCN_RS17065
+mvR6_Nixon,T,781840,781840,1,C -> T,39,SNP (transition),T,Polymorphism,C,C,,P -> L,89.70%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,,1422356,1422356,1,-A,500,Deletion,,Polymorphism,A,A,,,92.20%,bluetail domain-containing putative surface protein,bluetail domain-containing putative surface protein CDS,45,,Frame Shift,SYNPCCN_RS06695
+mvR6_Nixon,,1422356,1422356,1,-A,500,Deletion,,Polymorphism,A,A,,,92.20%,calcium-binding protein,calcium-binding protein CDS,4312,,Extension,SYNPCCN_RS06700
+mvR6_Nixon,T,3107931,3107931,1,G -> T,880,SNP (transversion),T,Polymorphism,G,G,1.90%,,97.80%,IS5 family transposase,IS5 family transposase CDS,447,GCC -> GCA,None,SYNPCCN_RS17065
+mvR6_Nixon,A,1193226,1193226,1,C -> A,509,SNP (transversion),A,Polymorphism,C,C,0.20%,P -> T,99.60%,AGE family epimerase/isomerase,AGE family epimerase/isomerase CDS,499,CCC -> ACC,Substitution,SYNPCCN_RS05570
+mvR6_Nixon,TA,2578440,2578441,2,AG -> TA,595 -> 596,Substitution,TA,Polymorphism,AG,AG,,,99.8% -> 100.0%,,,,,,
+mvR6_Nixon,G,69849,69849,1,A -> G,529,SNP (transition),G,Polymorphism,A,A,,Q -> R,100.00%,GDSL-type esterase/lipase family protein,GDSL-type esterase/lipase family protein CDS,566,CAG -> CGG,Substitution,SYNPCCN_RS00290
+mvR6_Nixon,G,488320,488320,1,T -> G,619,SNP (transversion),G,Polymorphism,T,T,,F -> C,100.00%,AMP-binding protein,AMP-binding protein CDS,764,TTC -> TGC,Substitution,SYNPCCN_RS02320
+mvR6_Nixon,T,781729,781729,1,A -> T,22,SNP (transversion),T,Polymorphism,A,A,,,100.00%,,,,,,
+mvR6_Nixon,T,781833,781833,1,A -> T,8,SNP (transversion),T,Polymorphism,A,A,,S -> C,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGC,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,A,781855,781855,1,T -> A,118,SNP (transversion),A,Polymorphism,T,T,,V -> D,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,T,781857,781857,1,A -> T,123,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,A,781861,781861,1,C -> A,138,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+mvR6_Nixon,C,1014735,1014735,1,G -> C,534,SNP (transversion),C,Polymorphism,G,G,,,100.00%,,,,,,
+mvR6_Nixon,G,1763014,1763014,1,C -> G,452,SNP (transversion),G,Polymorphism,C,C,,D -> E,100.00%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+mvR6_Nixon,C,1811435,1811435,1,T -> C,512,SNP (transition),C,Polymorphism,T,T,,V -> A,100.00%,SpoIIE family protein phosphatase,SpoIIE family protein phosphatase CDS,674,GTG -> GCG,Substitution,SYNPCCN_RS08580
+mvR6_Nixon,T,2518827,2518827,1,C -> T,489,SNP (transition),T,Polymorphism,C,C,,S -> F,100.00%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+wt_Howe,AA,781836,781837,2,TT -> AA,30 -> 35,Substitution,AA,Polymorphism,T--T,TT,,L -> K,42.9% -> 50.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,28,TTA -> AAA,Substitution,SYNPCCN_RS03645
+wt_Howe,T,2995534,2995534,1,C -> T,1354,SNP (transition),T,Polymorphism,C,C,49.90%,,50.10%,,,,,,
+wt_Howe,A,2919523,2919523,1,G -> A,1016,SNP (transition),A,Polymorphism,G,G,49.80%,,50.20%,IS5 family transposase,IS5 family transposase CDS,47,,Truncation,SYNPCCN_RS13635
+wt_Howe,CGGCG,5,4,0,+CGGCG,155,Insertion,CGGCG,Polymorphism,-----,,,,50.30%,solanesyl diphosphate synthase,sds CDS,205,,Frame Shift,SYNPCCN_RS00005
+wt_Howe,A,781715,781714,0,+A,108,Insertion,A,Polymorphism,-,,,,50.90%,,,,,,
+wt_Howe,TG,781715,781715,1,T -> TG,108,Insertion,TG,Polymorphism,#NAME?,T,,,50.90%,,,,,,
+wt_Howe,CGA,781850,781850,1,T -> CGA,95 -> 100,Insertion,CGA,Polymorphism,#NAME?,T,,,51.0% -> 53.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,,Frame Shift,SYNPCCN_RS03645
+wt_Howe,CTCA,781842,781844,1,TCC -> CTCA,51 -> 58,Insertion,CTCA,Polymorphism,-C,TCC,,,51.7% -> 58.8%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+wt_Howe,A,2995693,2995693,1,G -> A,1437,SNP (transition),A,Polymorphism,G,G,47.70%,P -> S,52.30%,transposase,transposase CDS,205,CCG -> TCG,Substitution,SYNPCCN_RS17745
+wt_Howe,TGG,781833,781835,2,AGC -> TGG,8 -> 19,Substitution,TGG,Polymorphism,AC,AGC,,S -> W,52.6% -> 87.5%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGG,Substitution,SYNPCCN_RS03645
+wt_Howe,A,2996517,2996517,1,G -> A,1363,SNP (transition),A,Polymorphism,G,G,46.30%,,53.40%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+wt_Howe,G,2995568,2995568,1,A -> G,1476,SNP (transition),G,Polymorphism,A,A,46.30%,,53.50%,,,,,,
+wt_Howe,T,1971631,1971631,1,C -> T,1527,SNP (transition),T,Polymorphism,C,C,46.40%,,53.60%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+wt_Howe,A,1971681,1971681,1,G -> A,1597,SNP (transition),A,Polymorphism,G,G,45.80%,,54.10%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+wt_Howe,A,781837,781837,1,T -> A,35,SNP (transversion),A,Polymorphism,T,T,2.90%,,54.30%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,29,,Truncation,SYNPCCN_RS03645
+wt_Howe,T,3062921,3062921,1,C -> T,1155,SNP (transition),T,Polymorphism,C,C,45.50%,,54.40%,two-component system response regulator RppA,two-component system response regulator RppA CDS,507,CAG -> CAA,None,SYNPCCN_RS14270
+wt_Howe,C,1971622,1971622,1,G -> C,1533,SNP (transversion),C,Polymorphism,G,G,45.10%,V -> L,54.90%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+wt_Howe,CAC,1211139,1211141,2,TAA -> CAC,2227 -> 2234,Substitution,CAC,Polymorphism,TA,TAA,,L -> V,55.1% -> 55.7%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,340,TTA -> GTG,Substitution,SYNPCCN_RS05640
+wt_Howe,T,1971532,1971532,1,C -> T,1596,SNP (transition),T,Polymorphism,C,C,44.50%,,55.50%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+wt_Howe,C,3346589,3346589,1,T -> C,742,SNP (transition),C,Polymorphism,T,T,44.50%,,55.50%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+wt_Howe,C,1210830,1210830,1,T -> C,2490,SNP (transition),C,Polymorphism,T,T,40.40%,,55.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,651,GAA -> GAG,None,SYNPCCN_RS05640
+wt_Howe,A,1971724,1971724,1,G -> A,1577,SNP (transition),A,Polymorphism,G,G,44.10%,G -> R,55.70%,transposase,transposase CDS,148,GGA -> AGA,Substitution,SYNPCCN_RS17235
+wt_Howe,G,2995666,2995666,1,A -> G,1605,SNP (transition),G,Polymorphism,A,A,44.30%,Y -> H,55.70%,transposase,transposase CDS,232,TAT -> CAT,Substitution,SYNPCCN_RS17745
+wt_Howe,C,1971743,1971743,1,T -> C,1535,SNP (transition),C,Polymorphism,T,T,43.10%,V -> A,56.90%,transposase,transposase CDS,167,GTA -> GCA,Substitution,SYNPCCN_RS17235
+wt_Howe,A,1,1,1,G -> A,84,SNP (transition),A,Polymorphism,G,G,16.70%,,57.10%,solanesyl diphosphate synthase,sds CDS,201,ACG -> ACA,None,SYNPCCN_RS00005
+wt_Howe,A,1971598,1971598,1,G -> A,1563,SNP (transition),A,Polymorphism,G,G,42.40%,E -> K,57.50%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+wt_Howe,T,1971550,1971550,1,C -> T,1537,SNP (transition),T,Polymorphism,C,C,40.70%,,58.00%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+wt_Howe,G,3062912,3062912,1,A -> G,1274,SNP (transition),G,Polymorphism,A,A,41.40%,,58.60%,two-component system response regulator RppA,two-component system response regulator RppA CDS,516,CTT -> CTC,None,SYNPCCN_RS14270
+wt_Howe,A,1210875,1210875,1,G -> A,3154,SNP (transition),A,Polymorphism,G,G,39.00%,,60.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,606,GTC -> GTT,None,SYNPCCN_RS05640
+wt_Howe,C,2995629,2995629,1,T -> C,1815,SNP (transition),C,Polymorphism,T,T,38.40%,,61.40%,transposase,transposase CDS,269,,Extension,SYNPCCN_RS17745
+wt_Howe,T,3062900,3062900,1,C -> T,1422,SNP (transition),T,Polymorphism,C,C,38.20%,,61.70%,two-component system response regulator RppA,two-component system response regulator RppA CDS,528,CAG -> CAA,None,SYNPCCN_RS14270
+wt_Howe,G,781718,781718,1,A -> G,96,SNP (transition),G,Polymorphism,A,A,15.60%,,63.50%,,,,,,
+wt_Howe,G,1971509,1971509,1,A -> G,1710,SNP (transition),G,Polymorphism,A,A,35.60%,R -> G,64.40%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+wt_Howe,TG,781846,781847,2,CC -> TG,69 -> 76,Substitution,TG,Polymorphism,C------C,CC,,T -> M,64.5% -> 69.6%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+wt_Howe,A,781715,781714,0,+A,108,Insertion,A,Polymorphism,-,,,,64.80%,,,,,,
+wt_Howe,TTT,781715,781714,0,+TTT,108,Insertion,TTT,Polymorphism,---,,,,64.80%,,,,,,
+wt_Howe,G,1211238,1211238,1,A -> G,1486,SNP (transition),G,Polymorphism,A,A,32.80%,,67.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+wt_Howe,A,1211136,1211136,1,G -> A,2267,SNP (transition),A,Polymorphism,G,G,31.40%,,68.50%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+wt_Howe,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,513,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,69.40%,,,,,,
+wt_Howe,C,3062524,3062524,1,T -> C,1732,SNP (transition),C,Polymorphism,T,T,28.70%,,71.30%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,219,TCA -> TCG,None,SYNPCCN_RS14265
+wt_Howe,C,3062542,3062542,1,T -> C,1686,SNP (transition),C,Polymorphism,T,T,28.20%,,71.80%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,201,CCA -> CCG,None,SYNPCCN_RS14265
+wt_Howe,G,3062565,3062565,1,A -> G,1653,SNP (transition),G,Polymorphism,A,A,28.10%,,71.90%,two-component system sensor histidine kinase RppB,two-component system sensor histidine kinase RppB CDS,178,TTG -> CTG,None,SYNPCCN_RS14265
+wt_Howe,G,1454055,1454055,1,A -> G,5200,SNP (transition),G,Polymorphism,A,A,22.90%,,77.00%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,138,CTA -> CTG,None,SYNPCCN_RS06825
+wt_Howe,ATAT,2047399,2047398,0,+ATAT,513,Insertion,ATAT,Polymorphism,----,,,,80.10%,,,,,,
+wt_Howe,G,1211075,1211075,1,A -> G,2814,SNP (transition),G,Polymorphism,A,A,19.00%,,80.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+wt_Howe,C,1211070,1211070,1,T -> C,2814,SNP (transition),C,Polymorphism,T,T,18.40%,,81.60%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+wt_Howe,C,781722,781722,1,G -> C,61,SNP (transversion),C,Polymorphism,G,G,16.40%,,82.00%,,,,,,
+wt_Howe,C,1210887,1210887,1,T -> C,3187,SNP (transition),C,Polymorphism,T,T,17.50%,,82.40%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,594,AAA -> AAG,None,SYNPCCN_RS05640
+wt_Howe,T,781840,781840,1,C -> T,40,SNP (transition),T,Polymorphism,C,C,2.50%,P -> L,82.50%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+wt_Howe,C,781725,781725,1,A -> C,52,SNP (transversion),C,Polymorphism,A,A,11.50%,,82.70%,,,,,,
+wt_Howe,T,1210983,1210983,1,C -> T,3405,SNP (transition),T,Polymorphism,C,C,16.10%,,83.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+wt_Howe,G,1454223,1454223,1,A -> G,4327,SNP (transition),G,Polymorphism,A,A,13.90%,,86.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,306,TTA -> TTG,None,SYNPCCN_RS06825
+wt_Howe,CTA,1454323,1454325,2,TTG -> CTA,4045 -> 4081,Substitution,CTA,Polymorphism,TG,TTG,,,86.70%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTG -> CTA,None,SYNPCCN_RS06825
+wt_Howe,G,781732,781732,1,A -> G,10,SNP (transition),G,Polymorphism,A,A,,,90.00%,,,,,,
+wt_Howe,,2734330,2734330,1,(T)4 -> (T)3,442,Deletion (tandem repeat),,Polymorphism,T,T,,,93.20%,ABC transporter ATP-binding protein/permease,ABC transporter ATP-binding protein/permease CDS,1278,,Frame Shift,SYNPCCN_RS12795
+wt_Howe,,1422356,1422356,1,-A,515,Deletion,,Polymorphism,A,A,,,95.00%,bluetail domain-containing putative surface protein,bluetail domain-containing putative surface protein CDS,45,,Frame Shift,SYNPCCN_RS06695
+wt_Howe,,1422356,1422356,1,-A,515,Deletion,,Polymorphism,A,A,,,95.00%,calcium-binding protein,calcium-binding protein CDS,4312,,Extension,SYNPCCN_RS06700
+wt_Howe,T,781729,781729,1,A -> T,25,SNP (transversion),T,Polymorphism,A,A,4.00%,,96.00%,,,,,,
+wt_Howe,TA,2578440,2578441,2,AG -> TA,548 -> 558,Substitution,TA,Polymorphism,AG,AG,,,99.50%,,,,,,
+wt_Howe,T,2518827,2518827,1,C -> T,564,SNP (transition),T,Polymorphism,C,C,,S -> F,99.60%,PAS domain S-box protein,PAS domain S-box protein CDS,2693,TCT -> TTT,Substitution,SYNPCCN_RS11750
+wt_Howe,C,1811435,1811435,1,T -> C,600,SNP (transition),C,Polymorphism,T,T,,V -> A,99.70%,SpoIIE family protein phosphatase,SpoIIE family protein phosphatase CDS,674,GTG -> GCG,Substitution,SYNPCCN_RS08580
+wt_Howe,A,1436405,1436405,1,G -> A,500,SNP (transition),A,Polymorphism,G,G,,,99.80%,,,,,,
+wt_Howe,T,1596073,1596073,1,G -> T,506,SNP (transversion),T,Polymorphism,G,G,,G -> V,99.80%,phosphate acyltransferase PlsX,plsX CDS,263,GGG -> GTG,Substitution,SYNPCCN_RS07470
+wt_Howe,G,488320,488320,1,T -> G,589,SNP (transversion),G,Polymorphism,T,T,,F -> C,100.00%,AMP-binding protein,AMP-binding protein CDS,764,TTC -> TGC,Substitution,SYNPCCN_RS02320
+wt_Howe,A,781855,781855,1,T -> A,119,SNP (transversion),A,Polymorphism,T,T,,V -> D,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+wt_Howe,T,781857,781857,1,A -> T,121,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645
+wt_Howe,A,781861,781861,1,C -> A,136,SNP (transversion),A,Polymorphism,C,C,,P -> H,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+wt_Howe,A,1193226,1193226,1,C -> A,500,SNP (transversion),A,Polymorphism,C,C,,P -> T,100.00%,AGE family epimerase/isomerase,AGE family epimerase/isomerase CDS,499,CCC -> ACC,Substitution,SYNPCCN_RS05570
+wt_Howe,G,1763014,1763014,1,C -> G,477,SNP (transversion),G,Polymorphism,C,C,,D -> E,100.00%,TRAP transporter substrate-binding protein,TRAP transporter substrate-binding protein CDS,273,GAC -> GAG,Substitution,SYNPCCN_RS08385
+wt_Howe,T,3012482,3012482,1,C -> T,563,SNP (transition),T,Polymorphism,C,C,,,100.00%,diguanylate cyclase,diguanylate cyclase CDS,276,ACC -> ACT,None,SYNPCCN_RS14055
+mvR9_Howe,A,1,1,1,G -> A,74,SNP (transition),A,Polymorphism,G,G,13.50%,,50.00%,solanesyl diphosphate synthase,sds CDS,201,ACG -> ACA,None,SYNPCCN_RS00005
+mvR9_Howe,CGGCG,5,4,0,+CGGCG,126,Insertion,CGGCG,Polymorphism,-----,,,,50.00%,solanesyl diphosphate synthase,sds CDS,205,,Frame Shift,SYNPCCN_RS00005
+mvR9_Howe,AA,781836,781837,2,TT -> AA,28 -> 32,Substitution,AA,Polymorphism,T--T,TT,,L -> K,50.0% -> 57.1%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,28,TTA -> AAA,Substitution,SYNPCCN_RS03645
+mvR9_Howe,T,2995534,2995534,1,C -> T,1382,SNP (transition),T,Polymorphism,C,C,49.60%,,50.40%,,,,,,
+mvR9_Howe,A,2996517,2996517,1,G -> A,1340,SNP (transition),A,Polymorphism,G,G,48.90%,,50.70%,IS701 family transposase,IS701 family transposase CDS,226,CTA -> TTA,None,SYNPCCN_RS17750
+mvR9_Howe,C,3346531,3346531,1,T -> C,1022,SNP (transition),C,Polymorphism,T,T,48.90%,V -> A,51.00%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,26,GTT -> GCT,Substitution,SYNPCCN_RS15525
+mvR9_Howe,C,1971743,1971743,1,T -> C,1383,SNP (transition),C,Polymorphism,T,T,48.60%,V -> A,51.30%,transposase,transposase CDS,167,GTA -> GCA,Substitution,SYNPCCN_RS17235
+mvR9_Howe,T,3062921,3062921,1,C -> T,1123,SNP (transition),T,Polymorphism,C,C,48.50%,,51.30%,two-component system response regulator RppA,two-component system response regulator RppA CDS,507,CAG -> CAA,None,SYNPCCN_RS14270
+mvR9_Howe,A,1971724,1971724,1,G -> A,1390,SNP (transition),A,Polymorphism,G,G,48.60%,G -> R,51.40%,transposase,transposase CDS,148,GGA -> AGA,Substitution,SYNPCCN_RS17235
+mvR9_Howe,C,3346589,3346589,1,T -> C,753,SNP (transition),C,Polymorphism,T,T,48.30%,,51.50%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,84,ACT -> ACC,None,SYNPCCN_RS15525
+mvR9_Howe,G,2995568,2995568,1,A -> G,1486,SNP (transition),G,Polymorphism,A,A,48.10%,,51.70%,,,,,,
+mvR9_Howe,A,3346536,3346536,1,G -> A,1042,SNP (transition),A,Polymorphism,G,G,48.00%,D -> N,51.90%,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,acnB CDS,31,GAT -> AAT,Substitution,SYNPCCN_RS15525
+mvR9_Howe,A,1971681,1971681,1,G -> A,1441,SNP (transition),A,Polymorphism,G,G,47.10%,,52.90%,transposase,transposase CDS,105,AGG -> AGA,None,SYNPCCN_RS17235
+mvR9_Howe,G,781718,781718,1,A -> G,122,SNP (transition),G,Polymorphism,A,A,28.70%,,53.30%,,,,,,
+mvR9_Howe,G,2995666,2995666,1,A -> G,1593,SNP (transition),G,Polymorphism,A,A,46.70%,Y -> H,53.30%,transposase,transposase CDS,232,TAT -> CAT,Substitution,SYNPCCN_RS17745
+mvR9_Howe,G,3062912,3062912,1,A -> G,1210,SNP (transition),G,Polymorphism,A,A,45.50%,,54.30%,two-component system response regulator RppA,two-component system response regulator RppA CDS,516,CTT -> CTC,None,SYNPCCN_RS14270
+mvR9_Howe,C,1971622,1971622,1,G -> C,1557,SNP (transversion),C,Polymorphism,G,G,45.20%,V -> L,54.50%,transposase,transposase CDS,46,GTA -> CTA,Substitution,SYNPCCN_RS17235
+mvR9_Howe,T,1971631,1971631,1,C -> T,1508,SNP (transition),T,Polymorphism,C,C,45.50%,,54.50%,transposase,transposase CDS,55,,Truncation,SYNPCCN_RS17235
+mvR9_Howe,T,1971532,1971532,1,C -> T,1632,SNP (transition),T,Polymorphism,C,C,44.50%,,55.40%,IS701 family transposase,IS701 family transposase CDS,456,ATC -> ATT,None,SYNPCCN_RS09355
+mvR9_Howe,G,1211238,1211238,1,A -> G,1474,SNP (transition),G,Polymorphism,A,A,44.00%,,55.90%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,243,CGT -> CGC,None,SYNPCCN_RS05640
+mvR9_Howe,TGG,781833,781835,2,AGC -> TGG,6 -> 16,Substitution,TGG,Polymorphism,AC,AGC,,S -> W,56.3% -> 100.0%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,25,AGC -> TGG,Substitution,SYNPCCN_RS03645
+mvR9_Howe,A,1971598,1971598,1,G -> A,1579,SNP (transition),A,Polymorphism,G,G,43.30%,E -> K,56.50%,transposase,transposase CDS,22,GAG -> AAG,Substitution,SYNPCCN_RS17235
+mvR9_Howe,T,3062900,3062900,1,C -> T,1338,SNP (transition),T,Polymorphism,C,C,42.50%,,57.50%,two-component system response regulator RppA,two-component system response regulator RppA CDS,528,CAG -> CAA,None,SYNPCCN_RS14270
+mvR9_Howe,T,1971550,1971550,1,C -> T,1602,SNP (transition),T,Polymorphism,C,C,39.80%,,59.10%,IS701 family transposase,IS701 family transposase CDS,474,GGC -> GGT,None,SYNPCCN_RS09355
+mvR9_Howe,C,781722,781722,1,G -> C,75,SNP (transversion),C,Polymorphism,G,G,22.70%,,60.00%,,,,,,
+mvR9_Howe,GG,781732,781733,2,AA -> GG,15,Substitution,GG,Polymorphism,AA,AA,,,60.00%,,,,,,
+mvR9_Howe,A,781715,781714,0,+A,133,Insertion,A,Polymorphism,-,,,,60.90%,,,,,,
+mvR9_Howe,TTT,781715,781714,0,+TTT,133,Insertion,TTT,Polymorphism,---,,,,60.90%,,,,,,
+mvR9_Howe,CTCA,781842,781844,1,TCC -> CTCA,46 -> 52,Insertion,CTCA,Polymorphism,-C,TCC,,,61.5% -> 69.6%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,34,,Frame Shift,SYNPCCN_RS03645
+mvR9_Howe,C,781725,781725,1,A -> C,60,SNP (transversion),C,Polymorphism,A,A,15.00%,,61.70%,,,,,,
+mvR9_Howe,G,1971509,1971509,1,A -> G,1643,SNP (transition),G,Polymorphism,A,A,37.60%,R -> G,62.30%,IS701 family transposase,IS701 family transposase CDS,433,AGA -> GGA,Substitution,SYNPCCN_RS09355
+mvR9_Howe,A,781850,781850,1,T -> A,98,SNP (transversion),A,Polymorphism,T,T,15.30%,D -> E,63.30%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,42,GAT -> GAA,Substitution,SYNPCCN_RS03645
+mvR9_Howe,A,1211136,1211136,1,G -> A,2072,SNP (transition),A,Polymorphism,G,G,35.20%,,64.80%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,345,CAC -> CAT,None,SYNPCCN_RS05640
+mvR9_Howe,G,3062864,3062864,1,A -> G,1625,SNP (transition),G,Polymorphism,A,A,35.20%,,64.80%,two-component system response regulator RppA,two-component system response regulator RppA CDS,564,TCT -> TCC,None,SYNPCCN_RS14270
+mvR9_Howe,TG,781846,781847,2,CC -> TG,62 -> 72,Substitution,TG,Polymorphism,C------C,CC,,T -> M,66.7% -> 67.7%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,38,ACC -> ATG,Substitution,SYNPCCN_RS03645
+mvR9_Howe,GGGTAAGGGGGACA,2047399,2047398,0,+GGGTAAGGGGGACA,602,Insertion,GGGTAAGGGGGACA,Polymorphism,--------------,,,,68.10%,,,,,,
+mvR9_Howe,C,1211139,1211139,1,T -> C,2044,SNP (transition),C,Polymorphism,T,T,30.90%,,69.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,342,TTA -> TTG,None,SYNPCCN_RS05640
+mvR9_Howe,G,1211075,1211075,1,A -> G,2668,SNP (transition),G,Polymorphism,A,A,24.90%,,75.10%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTA -> CTA,None,SYNPCCN_RS05640
+mvR9_Howe,C,1211070,1211070,1,T -> C,2700,SNP (transition),C,Polymorphism,T,T,24.20%,,75.60%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,411,TTA -> TTG,None,SYNPCCN_RS05640
+mvR9_Howe,T,781729,781729,1,A -> T,28,SNP (transversion),T,Polymorphism,A,A,21.40%,,78.60%,,,,,,
+mvR9_Howe,ATAT,2047399,2047398,0,+ATAT,602,Insertion,ATAT,Polymorphism,----,,,,78.70%,,,,,,
+mvR9_Howe,T,1210983,1210983,1,C -> T,3309,SNP (transition),T,Polymorphism,C,C,17.80%,,82.20%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,498,CGG -> CGA,None,SYNPCCN_RS05640
+mvR9_Howe,CGG,781738,781737,0,+CGG,6,Insertion,CGG,Polymorphism,---,,,,83.30%,,,,,,
+mvR9_Howe,CTA,1454323,1454325,2,TTG -> CTA,3987 -> 3994,Substitution,CTA,Polymorphism,TG,TTG,,,85.1% -> 85.2%,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putative transposase CDS,406,TTG -> CTA,None,SYNPCCN_RS06825
+mvR9_Howe,T,781840,781840,1,C -> T,38,SNP (transition),T,Polymorphism,C,C,,P -> L,89.50%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,32,CCG -> CTG,Substitution,SYNPCCN_RS03645
+mvR9_Howe,,2734330,2734330,1,(T)4 -> (T)3,528,Deletion (tandem repeat),,Polymorphism,T,T,,,93.90%,ABC transporter ATP-binding protein/permease,ABC transporter ATP-binding protein/permease CDS,1278,,Frame Shift,SYNPCCN_RS12795
+mvR9_Howe,T,3096524,3096524,1,C -> T,424,SNP (transition),T,Polymorphism,C,C,3.30%,R -> C,96.50%,transposase,transposase CDS,400,CGT -> TGT,Substitution,SYNPCCN_RS14430
+mvR9_Howe,A,781861,781861,1,C -> A,156,SNP (transversion),A,Polymorphism,C,C,,P -> H,99.40%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,53,CCC -> CAC,Substitution,SYNPCCN_RS03645
+mvR9_Howe,A,1436405,1436405,1,G -> A,624,SNP (transition),A,Polymorphism,G,G,,,99.70%,,,,,,
+mvR9_Howe,A,2368013,2368013,1,G -> A,568,SNP (transition),A,Polymorphism,G,G,,A -> T,99.80%,NAD-dependent succinate-semialdehyde dehydrogenase,NAD-dependent succinate-semialdehyde dehydrogenase CDS,916,GCC -> ACC,Substitution,SYNPCCN_RS11070
+mvR9_Howe,TA,2578440,2578441,2,AG -> TA,622,Substitution,TA,Polymorphism,AG,AG,,,99.80%,,,,,,
+mvR9_Howe,G,781740,781740,1,A -> G,6,SNP (transition),G,Polymorphism,A,A,,,100.00%,,,,,,
+mvR9_Howe,A,781855,781855,1,T -> A,120,SNP (transversion),A,Polymorphism,T,T,,V -> D,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,47,GTT -> GAT,Substitution,SYNPCCN_RS03645
+mvR9_Howe,T,781857,781857,1,A -> T,128,SNP (transversion),T,Polymorphism,A,A,,I -> F,100.00%,PP2C family protein-serine/threonine phosphatase,PP2C family protein-serine/threonine phosphatase CDS,49,ATT -> TTT,Substitution,SYNPCCN_RS03645

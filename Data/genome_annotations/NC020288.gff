@@ -1,0 +1,103 @@
+##gff-version 3
+##source-version geneious 2023.0.3
+##sequence-region	NC_020288	1	44343
+NC_020288	Geneious	region	1	44343	.	+	0	Is_circular=true
+NC_020288	Geneious	source	1	44343	.	+	.	Name=Moscow wildtype genome source Synechocystis sp. PCC 6803
+NC_020288	Geneious	gene	1	1914	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585685542.61
+NC_020288	Geneious	gene	43288	44343	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585685542.61
+NC_020288	Geneious	CDS	1	1914	.	-	0	Name=type I restriction endonuclease subunit R CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585685542.62
+NC_020288	Geneious	CDS	43288	44343	.	-	0	Name=type I restriction endonuclease subunit R CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585685542.62
+NC_020288	Geneious	gene	1920	2966	.	-	.	
+NC_020288	Geneious	CDS	1920	2966	.	-	0	Name=macro domain-containing protein CDS
+NC_020288	Geneious	gene	2983	3621	.	-	.	
+NC_020288	Geneious	CDS	2983	3621	.	-	0	Name=DUF4433 domain-containing protein CDS
+NC_020288	Geneious	gene	3660	3839	.	-	.	
+NC_020288	Geneious	CDS	3660	3839	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	3836	4372	.	-	.	
+NC_020288	Geneious	CDS	3836	4372	.	-	0	Name=zeta toxin family protein CDS
+NC_020288	Geneious	gene	4365	4655	.	-	.	
+NC_020288	Geneious	CDS	4365	4655	.	-	0	Name=nucleotidyltransferase family protein CDS
+NC_020288	Geneious	gene	4652	6046	.	-	.	
+NC_020288	Geneious	CDS	4652	6046	.	-	0	Name=restriction endonuclease subunit S CDS
+NC_020288	Geneious	gene	6043	6393	.	-	.	
+NC_020288	Geneious	CDS	6043	6393	.	-	0	Name=DUF5615 family PIN-like protein CDS
+NC_020288	Geneious	gene	6377	6601	.	-	.	
+NC_020288	Geneious	CDS	6377	6601	.	-	0	Name=DUF433 domain-containing protein CDS
+NC_020288	Geneious	gene	6652	8619	.	-	.	
+NC_020288	Geneious	CDS	6652	8619	.	-	0	Name=type I restriction-modification system subunit M CDS
+NC_020288	Geneious	gene	8821	9195	.	-	.	
+NC_020288	Geneious	CDS	8821	9195	.	-	0	Name=DUF5615 family PIN-like protein CDS
+NC_020288	Geneious	gene	9205	9621	.	-	.	
+NC_020288	Geneious	CDS	9205	9621	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	9713	9940	.	+	.	
+NC_020288	Geneious	CDS	9713	9940	.	+	0	Name=DUF2281 domain-containing protein CDS
+NC_020288	Geneious	gene	9948	10373	.	+	.	
+NC_020288	Geneious	CDS	9948	10373	.	+	0	Name=PIN domain-containing protein CDS
+NC_020288	Geneious	gene	10395	10994	.	+	.	
+NC_020288	Geneious	CDS	10395	10994	.	+	0	Name=ParA family protein CDS
+NC_020288	Geneious	gene	10998	11867	.	+	.	
+NC_020288	Geneious	CDS	10998	11867	.	+	0	Name=ParB/RepB/Spo0J family partition protein CDS
+NC_020288	Geneious	gene	12618	13181	.	-	.	
+NC_020288	Geneious	CDS	12618	13181	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	13695	15104	.	-	.	
+NC_020288	Geneious	CDS	13695	15104	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	15590	16915	.	-	.	
+NC_020288	Geneious	CDS	15590	16915	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	17687	18409	.	-	.	
+NC_020288	Geneious	CDS	17687	18409	.	-	0	Name=Crp/Fnr family transcriptional regulator CDS
+NC_020288	Geneious	gene	18529	19311	.	+	.	
+NC_020288	Geneious	CDS	18529	19311	.	+	0	Name=class I SAM-dependent methyltransferase CDS
+NC_020288	Geneious	gene	19356	19691	.	+	.	
+NC_020288	Geneious	CDS	19356	19691	.	+	0	Name=cupin domain-containing protein CDS
+NC_020288	Geneious	gene	19938	21278	.	+	.	
+NC_020288	Geneious	CDS	19938	21278	.	+	0	Name=carboxylesterase family protein CDS
+NC_020288	Geneious	gene	21810	22325	.	-	.	
+NC_020288	Geneious	CDS	21810	22325	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	22461	22985	.	+	.	
+NC_020288	Geneious	CDS	22461	22985	.	+	0	Name=MarR family transcriptional regulator CDS
+NC_020288	Geneious	gene	23434	23859	.	-	.	
+NC_020288	Geneious	CDS	23434	23859	.	-	0	Name=putative toxin-antitoxin system toxin component%2CPIN family CDS
+NC_020288	Geneious	gene	23856	24077	.	-	.	
+NC_020288	Geneious	CDS	23856	24077	.	-	0	Name=AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS
+NC_020288	Geneious	gene	24295	24861	.	+	.	
+NC_020288	Geneious	CDS	24295	24861	.	+	0	Name=recombinase family protein CDS
+NC_020288	Geneious	gene	25147	27345	.	+	.	
+NC_020288	Geneious	CDS	25147	27345	.	+	0	Name=DUF839 domain-containing protein CDS
+NC_020288	Geneious	gene	27353	28012	.	-	.	Name=nuoB gene
+NC_020288	Geneious	CDS	27353	28012	.	-	0	Name=nuoB CDS
+NC_020288	Geneious	gene	28120	28461	.	-	.	
+NC_020288	Geneious	CDS	28120	28461	.	-	0	Name=YdhR family protein CDS
+NC_020288	Geneious	gene	28521	28823	.	-	.	
+NC_020288	Geneious	CDS	28521	28823	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	29006	30040	.	-	.	
+NC_020288	Geneious	CDS	29006	30040	.	-	0	Name=nitronate monooxygenase CDS
+NC_020288	Geneious	gene	30084	30587	.	-	.	
+NC_020288	Geneious	CDS	30084	30587	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	30954	31376	.	+	.	
+NC_020288	Geneious	CDS	30954	31376	.	+	0	Name=GNAT family N-acetyltransferase CDS
+NC_020288	Geneious	gene	31402	31830	.	+	.	
+NC_020288	Geneious	CDS	31402	31830	.	+	0	Name=GNAT family N-acetyltransferase CDS
+NC_020288	Geneious	gene	31993	32598	.	+	.	
+NC_020288	Geneious	CDS	31993	32598	.	+	0	Name=transglutaminase family protein CDS
+NC_020288	Geneious	gene	32698	36411	.	+	.	
+NC_020288	Geneious	CDS	32698	36411	.	+	0	Name=WD40 repeat domain-containing protein CDS
+NC_020288	Geneious	gene	36679	36978	.	-	.	
+NC_020288	Geneious	CDS	36679	36978	.	-	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	37299	38048	.	-	.	
+NC_020288	Geneious	CDS	37299	38048	.	-	0	Name=HNH endonuclease CDS
+NC_020288	Geneious	gene	38411	38557	.	+	.	
+NC_020288	Geneious	CDS	38411	38557	.	+	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	38568	39146	.	-	.	
+NC_020288	Geneious	CDS	38568	39146	.	-	0	Name=transposase CDS
+NC_020288	Geneious	gene	39056	39415	.	-	.	
+NC_020288	Geneious	CDS	39056	39415	.	-	0	Name=IS630 transposase-related protein CDS
+NC_020288	Geneious	gene	39500	40969	.	+	.	
+NC_020288	Geneious	CDS	39500	40969	.	+	0	Name=hypothetical protein CDS
+NC_020288	Geneious	gene	41056	41415	.	+	.	
+NC_020288	Geneious	CDS	41056	41415	.	+	0	Name=IS630 transposase-related protein CDS
+NC_020288	Geneious	gene	41325	41903	.	+	.	
+NC_020288	Geneious	CDS	41325	41903	.	+	0	Name=transposase CDS
+NC_020288	Geneious	gene	42203	42913	.	-	.	
+NC_020288	Geneious	CDS	42203	42913	.	-	0	Name=SprT family zinc-dependent metalloprotease CDS
+NC_020288	Geneious	gene	42903	43241	.	-	.	
+NC_020288	Geneious	CDS	42903	43241	.	-	0	Name=hypothetical protein CDS

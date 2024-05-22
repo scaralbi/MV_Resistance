@@ -1,0 +1,125 @@
+Name,Minimum,Maximum,Length,CDS,product,CDS Position,Change,Polymorphism Type,Protein Effect,Variant Nucleotide(s),Variant Frequency,protein_id,Reference Nucleotide(s),Amino Acid Change,Codon Change,Reference Frequency,locus_tag
+C,285611,285611,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,328,A -> C,SNP (transversion),Substitution,C,51.2%,WP_010871467.1,A,L -> V,TTG -> GTG,48.8%,SYNPCCP_RS01355
+A,781862,781862,1,PP2C family protein-serine/threonine phosphatase CDS,PP2C family protein-serine/threonine phosphatase,42,T -> A,SNP (transversion),Substitution,A,51.9%,WP_231848823.1,T,D -> E,GAT -> GAA,29.6%,SYNPCCP_RS03650
+TCG,3063034,3063036,2,two-component system response regulator RppA CDS,two-component system response regulator RppA,403,CCA -> TCG,Substitution,Substitution,TCG,51.9% -> 52.4%,WP_010873936.1,CCA,W -> R,TGG -> CGA,,SYNPCCP_RS14280
+G,1905028,1905028,1,,,,A -> G,SNP (transition),,G,52.7%,,A,,,47.3%,
+T,1971562,1971562,1,IS701 family transposase CDS,IS701 family transposase,474,C -> T,SNP (transition),None,T,52.7%,WP_071822654.1,C,,GGC -> GGT,46.7%,SYNPCCP_RS09365
+T,1971544,1971544,1,IS701 family transposase CDS,IS701 family transposase,456,C -> T,SNP (transition),None,T,53.0%,WP_071822654.1,C,,ATC -> ATT,47.0%,SYNPCCP_RS09365
+T,1971643,1971643,1,transposase CDS,transposase,55,C -> T,SNP (transition),Truncation,T,53.5%,WP_230401110.1,C,,,46.5%,SYNPCCP_RS17240
+C,3346600,3346600,1,acnB CDS,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,84,T -> C,SNP (transition),None,C,53.5%,WP_010874171.1,T,,ACT -> ACC,46.5%,SYNPCCP_RS15530
+G,781730,781730,1,,,,A -> G,SNP (transition),,G,53.6%,,A,,,32.1%,
+GTC,3063040,3063042,2,two-component system response regulator RppA CDS,two-component system response regulator RppA,397,TTG -> GTC,Substitution,Substitution,GTC,53.7% -> 53.8%,WP_010873936.1,TTG,Q -> D,CAA -> GAC,,SYNPCCP_RS14280
+T,781739,781739,1,,,,G -> T,SNP (transversion),,T,53.8%,,G,,,7.7%,
+C,1971634,1971634,1,transposase CDS,transposase,46,G -> C,SNP (transversion),Substitution,C,53.8%,WP_230401110.1,G,V -> L,GTA -> CTA,46.2%,SYNPCCP_RS17240
+G,1211250,1211250,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,243,A -> G,SNP (transition),None,G,54.4%,WP_010872295.1,A,,CGT -> CGC,45.6%,SYNPCCP_RS05650
+G,1971521,1971521,1,IS701 family transposase CDS,IS701 family transposase,433,A -> G,SNP (transition),Substitution,G,54.4%,WP_071822654.1,A,R -> G,AGA -> GGA,45.6%,SYNPCCP_RS09365
+T,1971437,1971437,1,IS701 family transposase CDS,IS701 family transposase,349,C -> T,SNP (transition),Substitution,T,54.6%,WP_071822654.1,C,R -> W,CGG -> TGG,45.4%,SYNPCCP_RS09365
+A,1971693,1971693,1,transposase CDS,transposase,105,G -> A,SNP (transition),None,A,54.6%,WP_230401110.1,G,,AGG -> AGA,45.2%,SYNPCCP_RS17240
+G,3062923,3062923,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,516,A -> G,SNP (transition),None,G,54.7%,WP_010873936.1,A,,CTT -> CTC,45.3%,SYNPCCP_RS14280
+A,1971610,1971610,1,transposase CDS,transposase,22,G -> A,SNP (transition),Substitution,A,55.0%,WP_230401110.1,G,E -> K,GAG -> AAG,45.0%,SYNPCCP_RS17240
+C,1971755,1971755,1,transposase CDS,transposase,167,T -> C,SNP (transition),Substitution,C,55.2%,WP_230401110.1,T,V -> A,GTA -> GCA,44.8%,SYNPCCP_RS17240
+A,1971736,1971736,1,transposase CDS,transposase,148,G -> A,SNP (transition),Substitution,A,55.5%,WP_230401110.1,G,G -> R,GGA -> AGA,44.5%,SYNPCCP_RS17240
+C,2995640,2995640,1,transposase CDS,transposase,269,T -> C,SNP (transition),Extension,C,55.8%,WP_010873882.1,T,,,44.0%,SYNPCCP_RS17725
+CGGCG,5,4,0,sds CDS,solanesyl diphosphate synthase,205,+CGGCG,Insertion,Frame Shift,CGGCG,56.5%,WP_010871207.1,,,,,SYNPCCP_RS00005
+A,1210706,1210706,1,,,,G -> A,SNP (transition),,A,56.9%,,G,,,43.1%,
+A,1454190,1454190,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,261,G -> A,SNP (transition),None,A,57.1%,WP_010872524.1,G,,ACG -> ACA,41.2%,SYNPCCP_RS06835
+T,1454151,1454151,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,222,C -> T,SNP (transition),None,T,57.2%,WP_010872524.1,C,,GAC -> GAT,42.8%,SYNPCCP_RS06835
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+T,2047411,2047410,0,,,,+T,Insertion,,T,59.0%,,,,,,
+A,2047411,2047410,0,,,,+A,Insertion,,A,59.0%,,,,,,
+A,2047411,2047410,0,,,,+A,Insertion,,A,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+G,2047411,2047410,0,,,,(G)2 -> (G)3,Insertion (tandem repeat),,G,59.0%,,,,,,
+A,2047411,2047410,0,,,,+A,Insertion,,A,59.0%,,,,,,
+C,2047411,2047410,0,,,,+C,Insertion,,C,59.0%,,,,,,
+A,2047411,2047410,0,,,,+A,Insertion,,A,59.0%,,,,,,
+T,3062911,3062911,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,528,C -> T,SNP (transition),None,T,59.0%,WP_010873936.1,C,,CAG -> CAA,41.0%,SYNPCCP_RS14280
+G,2996422,2996422,1,IS701 family transposase CDS,IS701 family transposase,332,A -> G,SNP (transition),Substitution,G,59.2%,WP_010873883.1,A,I -> T,ATA -> ACA,40.8%,SYNPCCP_RS17730
+T,1210764,1210764,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,729,C -> T,SNP (transition),None,T,60.2%,WP_010872295.1,C,,GAG -> GAA,39.8%,SYNPCCP_RS05650
+A,1210887,1210887,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,606,G -> A,SNP (transition),None,A,61.0%,WP_010872295.1,G,,GTC -> GTT,39.0%,SYNPCCP_RS05650
+A,1211148,1211148,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,345,G -> A,SNP (transition),None,A,62.4%,WP_010872295.1,G,,CAC -> CAT,37.6%,SYNPCCP_RS05650
+TG,781858,781859,2,PP2C family protein-serine/threonine phosphatase CDS,PP2C family protein-serine/threonine phosphatase,38,CC -> TG,Substitution,Substitution,TG,62.5% -> 66.7%,WP_231848823.1,CC,T -> M,ACC -> ATG,,SYNPCCP_RS03650
+G,1454403,1454403,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,474,A -> G,SNP (transition),None,G,63.4%,WP_010872524.1,A,,GTA -> GTG,36.6%,SYNPCCP_RS06835
+C,1454404,1454404,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,475,T -> C,SNP (transition),None,C,63.5%,WP_010872524.1,T,,TTG -> CTG,36.5%,SYNPCCP_RS06835
+G,3062589,3062589,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,165,A -> G,SNP (transition),None,G,63.6%,WP_010873935.1,A,,ACT -> ACC,36.4%,SYNPCCP_RS14275
+T,3062592,3062592,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,162,C -> T,SNP (transition),None,T,63.9%,WP_010873935.1,C,,GGG -> GGA,36.1%,SYNPCCP_RS14275
+A,3062600,3062600,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,154,G -> A,SNP (transition),None,A,63.9%,WP_010873935.1,G,,CTA -> TTA,36.1%,SYNPCCP_RS14275
+A,3062601,3062601,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,153,G -> A,SNP (transition),None,A,63.9%,WP_010873935.1,G,,TCC -> TCT,36.1%,SYNPCCP_RS14275
+A,3062863,3062863,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,576,G -> A,SNP (transition),None,A,64.0%,WP_010873936.1,G,,GTC -> GTT,36.0%,SYNPCCP_RS14280
+A,781727,781726,0,,,,+A,Insertion,,A,64.1%,,,,,,
+T,781727,781726,0,,,,(T)3 -> (T)4,Insertion (tandem repeat),,T,64.1%,,,,,,
+T,781727,781726,0,,,,(T)3 -> (T)4,Insertion (tandem repeat),,T,64.1%,,,,,,
+T,781727,781726,0,,,,(T)3 -> (T)4,Insertion (tandem repeat),,T,64.1%,,,,,,
+G,3062875,3062875,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,564,A -> G,SNP (transition),None,G,64.1%,WP_010873936.1,A,,TCT -> TCC,35.9%,SYNPCCP_RS14280
+T,3062595,3062595,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,159,C -> T,SNP (transition),None,T,64.3%,WP_010873935.1,C,,GCG -> GCA,35.7%,SYNPCCP_RS14275
+A,3062794,3062794,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,645,G -> A,SNP (transition),None,A,64.3%,WP_010873936.1,G,,ACC -> ACT,35.7%,SYNPCCP_RS14280
+A,3061566,3061566,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,1188,G -> A,SNP (transition),None,A,64.4%,WP_010873935.1,G,,GAC -> GAT,35.6%,SYNPCCP_RS14275
+TAA,3062607,3062609,2,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,145,AAG -> TAA,Substitution,None,TAA,64.4% -> 65.3%,WP_010873935.1,AAG,,CTT -> TTA,,SYNPCCP_RS14275
+G,3062576,3062576,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,178,A -> G,SNP (transition),None,G,64.6%,WP_010873935.1,A,,TTG -> CTG,35.4%,SYNPCCP_RS14275
+G,3062604,3062604,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,150,A -> G,SNP (transition),None,G,65.4%,WP_010873935.1,A,,ACT -> ACC,34.6%,SYNPCCP_RS14275
+T,3062610,3062610,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,144,C -> T,SNP (transition),None,T,65.6%,WP_010873935.1,C,,GAG -> GAA,34.4%,SYNPCCP_RS14275
+C,3062825,3062825,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,614,T -> C,SNP (transition),Substitution,C,66.2%,WP_010873936.1,T,E -> G,GAG -> GGG,33.8%,SYNPCCP_RS14280
+C,3062553,3062553,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,201,T -> C,SNP (transition),None,C,66.6%,WP_010873935.1,T,,CCA -> CCG,33.3%,SYNPCCP_RS14275
+C,1211151,1211151,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,342,T -> C,SNP (transition),None,C,66.7%,WP_010872295.1,T,,TTA -> TTG,33.3%,SYNPCCP_RS05650
+A,3061617,3061617,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,1137,G -> A,SNP (transition),None,A,66.7%,WP_010873935.1,G,,GGC -> GGT,33.3%,SYNPCCP_RS14275
+C,3063295,3063295,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,144,G -> C,SNP (transversion),None,C,66.8%,WP_010873936.1,G,,ACC -> ACG,33.2%,SYNPCCP_RS14280
+C,1971442,1971442,1,IS701 family transposase CDS,IS701 family transposase,354,T -> C,SNP (transition),None,C,67.0%,WP_071822654.1,T,,AGT -> AGC,33.0%,SYNPCCP_RS09365
+T,3063292,3063292,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,147,C -> T,SNP (transition),None,T,67.2%,WP_010873936.1,C,,CTG -> CTA,32.8%,SYNPCCP_RS14280
+C,3062535,3062535,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,219,T -> C,SNP (transition),None,C,67.4%,WP_010873935.1,T,,TCA -> TCG,32.6%,SYNPCCP_RS14275
+C,1454169,1454169,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,240,T -> C,SNP (transition),None,C,68.0%,WP_010872524.1,T,,TAT -> TAC,32.0%,SYNPCCP_RS06835
+G,3063103,3063103,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,336,A -> G,SNP (transition),None,G,68.4%,WP_010873936.1,A,,GCT -> GCC,31.6%,SYNPCCP_RS14280
+A,3062682,3062682,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,72,T -> A,SNP (transversion),None,A,68.6%,WP_010873935.1,T,,CTA -> CTT,31.4%,SYNPCCP_RS14275
+G,3063175,3063175,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,264,A -> G,SNP (transition),None,G,68.6%,WP_010873936.1,A,,GAT -> GAC,31.4%,SYNPCCP_RS14280
+T,3062685,3062685,1,two-component system sensor histidine kinase RppB CDS,two-component system sensor histidine kinase RppB,69,C -> T,SNP (transition),None,T,68.7%,WP_010873935.1,C,,GGG -> GGA,31.1%,SYNPCCP_RS14275
+G,3063124,3063124,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,315,A -> G,SNP (transition),None,G,69.0%,WP_010873936.1,A,,TTT -> TTC,31.0%,SYNPCCP_RS14280
+A,3063133,3063133,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,306,G -> A,SNP (transition),None,A,69.0%,WP_010873936.1,G,,ATC -> ATT,31.0%,SYNPCCP_RS14280
+C,3063259,3063259,1,two-component system response regulator RppA CDS,two-component system response regulator RppA,180,T -> C,SNP (transition),None,C,69.3%,WP_010873936.1,T,,TCA -> TCG,30.7%,SYNPCCP_RS14280
+A,3063649,3063649,1,DUF305 domain-containing protein CDS,DUF305 domain-containing protein,387,C -> A,SNP (transversion),Substitution,A,71.9%,WP_010873937.1,C,E -> D,GAG -> GAT,28.1%,SYNPCCP_RS14285
+G,1454028,1454028,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,99,A -> G,SNP (transition),None,G,72.2%,WP_010872524.1,A,,CCA -> CCG,27.8%,SYNPCCP_RS06835
+G,3063875,3063875,1,DUF305 domain-containing protein CDS,DUF305 domain-containing protein,161,A -> G,SNP (transition),Substitution,G,72.2%,WP_010873937.1,A,I -> T,ATT -> ACT,27.8%,SYNPCCP_RS14285
+C,1454232,1454232,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,303,T -> C,SNP (transition),None,C,74.0%,WP_010872524.1,T,,GAT -> GAC,26.0%,SYNPCCP_RS06835
+A,2047411,2047410,0,,,,+A,Insertion,,A,74.5%,,,,,,
+T,2047411,2047410,0,,,,+T,Insertion,,T,74.5%,,,,,,
+T,1454472,1454472,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,543,C -> T,SNP (transition),None,T,74.7%,WP_010872524.1,C,,ATC -> ATT,25.3%,SYNPCCP_RS06835
+C,1454055,1454055,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,126,G -> C,SNP (transversion),None,C,75.2%,WP_010872524.1,G,,CGG -> CGC,24.8%,SYNPCCP_RS06835
+C,1211082,1211082,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,411,T -> C,SNP (transition),None,C,75.4%,WP_010872295.1,T,,TTA -> TTG,24.4%,SYNPCCP_RS05650
+G,1211087,1211087,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,406,A -> G,SNP (transition),None,G,75.8%,WP_010872295.1,A,,TTA -> CTA,24.2%,SYNPCCP_RS05650
+A,2047411,2047410,0,,,,+A,Insertion,,A,76.0%,,,,,,
+C,1454101,1454101,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,172,T -> C,SNP (transition),None,C,76.8%,WP_010872524.1,T,,TTG -> CTG,23.2%,SYNPCCP_RS06835
+C,781737,781737,1,,,,A -> C,SNP (transversion),,C,77.3%,,A,,,13.6%,
+C,1210899,1210899,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,594,T -> C,SNP (transition),None,C,77.4%,WP_010872295.1,T,,AAA -> AAG,22.5%,SYNPCCP_RS05650
+T,1210995,1210995,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,498,C -> T,SNP (transition),None,T,77.4%,WP_010872295.1,C,,CGG -> CGA,22.6%,SYNPCCP_RS05650
+G,1454067,1454067,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,138,A -> G,SNP (transition),None,G,77.9%,WP_010872524.1,A,,CTA -> CTG,22.1%,SYNPCCP_RS06835
+C,781734,781734,1,,,,G -> C,SNP (transversion),,C,79.3%,,G,,,10.3%,
+G,1454235,1454235,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,306,A -> G,SNP (transition),None,G,79.3%,WP_010872524.1,A,,TTA -> TTG,20.7%,SYNPCCP_RS06835
+G,1454187,1454187,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,258,A -> G,SNP (transition),None,G,80.9%,WP_010872524.1,A,,AAA -> AAG,19.1%,SYNPCCP_RS06835
+CTA,1454335,1454337,2,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,406,TTG -> CTA,Substitution,None,CTA,81.1% -> 81.6%,WP_010872524.1,TTG,,TTG -> CTA,,SYNPCCP_RS06835
+C,1453983,1453983,1,Rpn family recombination-promoting nuclease/putative transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,54,T -> C,SNP (transition),None,C,81.4%,WP_010872524.1,T,,GCT -> GCC,18.6%,SYNPCCP_RS06835
+T,2047411,2047410,0,,,,+T,Insertion,,T,82.0%,,,,,,
+,1422368,1422368,1,bluetail domain-containing putative surface protein CDS,bluetail domain-containing putative surface protein,45,-A,Deletion,Frame Shift,,91.3%,WP_148275190.1,A,,,,SYNPCCP_RS06705
+,1422368,1422368,1,calcium-binding protein CDS,calcium-binding protein,4312,-A,Deletion,Extension,,91.3%,WP_014407174.1,A,,,,SYNPCCP_RS06710
+T,3096535,3096535,1,transposase CDS,transposase,400,C -> T,SNP (transition),Substitution,T,92.4%,,C,R -> C,CGT -> TGT,7.6%,SYNPCCP_RS14440
+,2734342,2734342,1,ABC transporter ATP-binding protein/permease CDS,ABC transporter ATP-binding protein/permease,1278,(T)4 -> (T)3,Deletion (tandem repeat),Frame Shift,,92.8%,,T,,,,SYNPCCP_RS12805
+T,731469,731468,0,serine/threonine-protein kinase CDS,serine/threonine-protein kinase,308,+T,Insertion,Frame Shift,T,96.3%,WP_014407170.1,,,,,SYNPCCP_RS03415
+C,1811447,1811447,1,SpoIIE family protein phosphatase CDS,SpoIIE family protein phosphatase,674,T -> C,SNP (transition),Substitution,C,99.6%,WP_014407176.1,T,V -> A,GTG -> GCG,0.4%,SYNPCCP_RS08590
+G,125218,125218,1,ATP-binding protein CDS,ATP-binding protein,1226,A -> G,SNP (transition),Substitution,G,100.0%,WP_014407169.1,A,M -> T,ATG -> ACG,,SYNPCCP_RS00565
+C,126257,126257,1,ATP-binding protein CDS,ATP-binding protein,187,T -> C,SNP (transition),Substitution,C,100.0%,WP_014407169.1,T,N -> D,AAT -> GAT,,SYNPCCP_RS00565
+G,488332,488332,1,AMP-binding protein CDS,AMP-binding protein,764,T -> G,SNP (transversion),Substitution,G,100.0%,WP_014407070.1,T,F -> C,TTC -> TGC,,SYNPCCP_RS02325
+A,781867,781867,1,PP2C family protein-serine/threonine phosphatase CDS,PP2C family protein-serine/threonine phosphatase,47,T -> A,SNP (transversion),Substitution,A,100.0%,WP_231848823.1,T,V -> D,GTT -> GAT,,SYNPCCP_RS03650
+T,781869,781869,1,PP2C family protein-serine/threonine phosphatase CDS,PP2C family protein-serine/threonine phosphatase,49,A -> T,SNP (transversion),Substitution,T,100.0%,WP_231848823.1,A,I -> F,ATT -> TTT,,SYNPCCP_RS03650
+A,781873,781873,1,PP2C family protein-serine/threonine phosphatase CDS,PP2C family protein-serine/threonine phosphatase,53,C -> A,SNP (transversion),Substitution,A,100.0%,WP_231848823.1,C,P -> H,CCC -> CAC,,SYNPCCP_RS03650
+C,831902,831902,1,,,,T -> C,SNP (transition),,C,100.0%,,T,,,,
+T,842315,842315,1,rplC CDS,50S ribosomal protein L3,554,C -> T,SNP (transition),Substitution,T,100.0%,WP_010871979.1,C,R -> Q,CGG -> CAG,,SYNPCCP_RS03990
+A,1193238,1193238,1,AGE family epimerase/isomerase CDS,AGE family epimerase/isomerase,499,C -> A,SNP (transversion),Substitution,A,100.0%,WP_014407095.1,C,P -> T,CCC -> ACC,,SYNPCCP_RS05580
+G,1203688,1203688,1,ABC transporter substrate-binding protein CDS,ABC transporter substrate-binding protein,341,A -> G,SNP (transition),Substitution,G,100.0%,WP_014407172.1,A,Y -> C,TAT -> TGT,,SYNPCCP_RS05620
+G,1436164,1436164,1,glutathione peroxidase CDS,glutathione peroxidase,438,A -> G,SNP (transition),None,G,100.0%,WP_010872510.1,A,,AAA -> AAG,,SYNPCCP_RS06760
+A,1436417,1436417,1,,,,G -> A,SNP (transition),,A,100.0%,,G,,,,
+G,1943956,1943956,1,ABC-2 family transporter protein CDS,ABC-2 family transporter protein,343,C -> G,SNP (transversion),Substitution,G,100.0%,WP_010872970.1,C,R -> G,CGC -> GGC,,SYNPCCP_RS09250
+T,2518839,2518839,1,PAS domain S-box protein CDS,PAS domain S-box protein,2693,C -> T,SNP (transition),Substitution,T,100.0%,WP_014407177.1,C,S -> F,TCT -> TTT,,SYNPCCP_RS11760
+C,2671935,2671935,1,VWA domain-containing protein CDS,VWA domain-containing protein,8,T -> C,SNP (transition),Substitution,C,100.0%,WP_014407178.1,T,V -> A,GTT -> GCT,,SYNPCCP_RS12520
+T,3012493,3012493,1,diguanylate cyclase CDS,diguanylate cyclase,276,C -> T,SNP (transition),None,T,100.0%,WP_010873896.1,C,,ACC -> ACT,,SYNPCCP_RS14065

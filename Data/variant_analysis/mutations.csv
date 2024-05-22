@@ -1,0 +1,28 @@
+﻿Strain,Name,Minimum,Maximum,Length,CDS,product,CDS Position,Change,Amino Acid Change,Codon Change,Coverage,locus_tag,Polymorphism Type,Protein Effect,Variant Nucleotide(s),Variant Frequency,Variant P-Value (approximate),Variant Raw Frequency
+wt_Nixon,,3260090,3260090,1,non coding,,,(C)7 -> (C)6,,,335,,Deletion (tandem repeat),,,85.10%,0,285
+wt_Nixon,A,3110189,3110189,1,IS5 family transposase CDS,IS5 family transposase,372,G -> A,,GGC -> GGT,322,SGL_RS19115,SNP (transition),None,A,98.10%,6.60E-179,316
+wt_Nixon,CATGGA,3110119,3110118,0,IS5 family transposase CDS,IS5 family transposase,443,CATGGA,G -> VHG,"GGT -> GTC,CAT,GGT",413,SGL_RS19115,Insertion,Insertion,CATGGA,82.30%,1.20E-164,340
+wt_Nixon,T,3110114,3110114,1,IS5 family transposase CDS,IS5 family transposase,447,G -> T,,GCC -> GCA,411,SGL_RS19115,SNP (transversion),None,T,97.30%,1.10E-260,400
+wt_Nixon,T,2748897,2748897,1,non coding,,,C -> T,,,375,,SNP (transition),,T,99.70%,0,374
+wt_Nixon,C,2544045,2544044,0,DUF4335 domain-containing protein CDS,DUF4335 domain-containing protein,280,+C,,,323,SGL_RS13700,Insertion,Frame Shift,C,95.40%,0,308
+wt_Nixon,,2419398,2419398,1,MCE family protein CDS,MCE family protein,497,#NAME?,,,289,SGL_RS13160,Deletion,Frame Shift,,91.30%,0,264
+wt_Nixon,C,2360246,2360245,0,Ig-like domain-containing protein CDS,Ig-like domain-containing protein,8924,+C,,,316,SGL_RS12890,Insertion,Frame Shift,C,94.60%,0.00E+00,299
+wt_Nixon,A,2350286,2350285,0,non coding,,,#NAME?,,,347,,Insertion,,A,92.80%,0.00E+00,322
+wt_Nixon,G,2301721,2301721,1,DUF4114 domain-containing protein CDS,DUF4114 domain-containing protein,1207,A -> G,K -> E,AAG -> GAG,352,SGL_RS12680,SNP (transition),Substitution,G,100.00%,0.00E+00,352
+wt_Nixon,,2204576,2204576,1,type II secretion system protein CDS,type II secretion system F family protein,420,(G)9 -> (G)8,,,311,SGL_RS18945,Deletion (tandem repeat),Frame Shift,,87.50%,0.00E+00,272
+wt_Nixon,T,2092571,2092571,1,isoaspartyl peptidase/L-asparaginase CDS,isoaspartyl peptidase/L-asparaginase,938,A -> T,,,359,SGL_RS11775,SNP (transversion),Truncation,T,100.00%,0.00E+00,359
+wt_Nixon,,1822191,1822191,1,hypothetical protein CDS,hypothetical protein,430,(G)8 -> (G)7,,,380,SGL_RS10460,Deletion (tandem repeat),Frame Shift,,90.00%,0.00E+00,342
+wt_Nixon,G,1799788,1819788,1,psbA CDS,photosystem II q(b) protein,210,A -> G,,TCT -> TCC,384,SGL_RS10440,SNP (transition),None,G,89.60%,0,344
+wt_Nixon,T,1455444,1455444,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,543,C -> T,,ATC -> ATT,2077,SGL_RS08690,SNP (transition),None,T,84.40%,3.00E-09,1754
+wt_Nixon,CTA,1455307,1455309,2,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,406,TTG -> CTA,,TTG -> CTA,3203 -> 3210,SGL_RS08690,Substitution,None,CTA,90.10%,1.10E-61,2887 -> 2892
+wt_Nixon,G,1364187,1364187,1,pyrF CDS,orotidine-5'-phosphate decarboxylase,346,A -> G,,TTG -> CTG,337,SGL_RS08270,SNP (transition),None,G,99.70%,0,336
+wt_Nixon,G,1343020,1353019,0,purT CDS,phosphoribosylglycinamide formyltransferase 2,765,(G)8 -> (G)9,,,294,SGL_RS08220,Insertion (tandem repeat),Frame Shift,G,88.10%,0,259
+wt_Nixon,C,1212079,1212079,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,342,T -> C,,TTA -> TTG,1693,SGL_RS07505,SNP (transition),None,C,76.70%,5.20E-112,1299
+wt_Nixon,G,1212015,1212015,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,406,A -> G,,TTA -> CTA,2080,SGL_RS07505,SNP (transition),None,G,82.00%,1.80E-201,1706
+wt_Nixon,C,1212010,1212010,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,411,T -> C,,TTA -> TTG,2083,SGL_RS07505,SNP (transition),None,C,82.30%,4.40E-206,1715
+wt_Nixon,T,1211923,1211923,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,498,C -> T,,CGG -> CGA,2493,SGL_RS07505,SNP (transition),None,T,84.10%,0,2097
+wt_Nixon,C,1211827,1211827,1,Rpn family transposase CDS,Rpn family recombination-promoting nuclease/putative transposase,594,T -> C,,AAA -> AAG,2531,SGL_RS07505,SNP (transition),None,C,83.30%,0,2109
+wt_Nixon,A,1200306,1200306,1,non coding,,,C -> A,,,151,,SNP (transversion),,A,82.10%,7.90E-306,124
+wt_Nixon,C,1014492,1014492,1,non coding,,,G -> C,,,345,,SNP (transversion),,C,100.00%,0,345
+wt_Nixon,T,1012958,1012958,1,non coding,,,G -> T,,,355,,SNP (transversion),,T,99.40%,0,353
+wt_Nixon,,386747,386757,11,glycosyltransferase protein CDS,glycosyltransferase family 4 protein,67,#NAME?,,,330 -> 348,SGL_RS03745,Deletion,Frame Shift,,79.10%,0,261

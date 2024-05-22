@@ -1,0 +1,1027 @@
+##gff-version 3
+##source-version geneious 2023.0.3
+##sequence-region	NC_020296	1	118712
+NC_020296	Geneious	region	1	118712	.	+	0	Is_circular=true
+NC_020296	Geneious	source	1	118712	.	+	.	Name=Moscow wildtype genome source Synechocystis sp. PCC 6803
+NC_020296	Geneious	gene	1	27	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.14
+NC_020296	Geneious	gene	116886	118712	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.14
+NC_020296	Geneious	CDS	1	27	.	-	0	Name=DUF262 domain-containing protein CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.15
+NC_020296	Geneious	CDS	116886	118712	.	-	0	Name=DUF262 domain-containing protein CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.15
+NC_020296	Geneious	gene	574	1017	.	-	.	
+NC_020296	Geneious	CDS	574	1017	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	1136	1570	.	-	.	
+NC_020296	Geneious	CDS	1136	1570	.	-	0	Name=DUF5615 family PIN-like protein CDS
+NC_020296	Geneious	gene	1515	1700	.	-	.	
+NC_020296	Geneious	CDS	1515	1700	.	-	0	Name=DUF433 domain-containing protein CDS
+NC_020296	Geneious	gene	2528	13921	.	+	.	
+NC_020296	Geneious	CDS	2528	13921	.	+	0	Name=FG-GAP-like repeat-containing protein CDS
+NC_020296	Geneious	gene	14340	14639	.	-	.	
+NC_020296	Geneious	CDS	14340	14639	.	-	0	Name=ATP-binding protein CDS
+NC_020296	Geneious	Polymorphism	14403	14403	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	14403	14403	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	14406	14406	.	.	.	Name=CGC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.16
+NC_020296	Geneious	Polymorphism	14408	14408	.	.	.	Name=CGC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.16
+NC_020296	Geneious	Polymorphism	14406	14406	.	.	.	Name=CGC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.17
+NC_020296	Geneious	Polymorphism	14408	14408	.	.	.	Name=CGC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667247.17
+NC_020296	Geneious	Polymorphism	14415	14415	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	14415	14415	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	14438	14439	.	.	.	Name=AG
+NC_020296	Geneious	Polymorphism	14438	14439	.	.	.	Name=AG
+NC_020296	Geneious	Polymorphism	14478	14478	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	14478	14478	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	14535	14535	.	.	.	Name=GGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667248.18
+NC_020296	Geneious	Polymorphism	14537	14537	.	.	.	Name=GGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667248.18
+NC_020296	Geneious	Polymorphism	14535	14535	.	.	.	Name=GGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667248.19
+NC_020296	Geneious	Polymorphism	14537	14537	.	.	.	Name=GGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667248.19
+NC_020296	Geneious	gene	14579	15133	.	-	.	
+NC_020296	Geneious	CDS	14579	15133	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	14592	14592	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	14592	14592	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	14592	14592	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	14592	14592	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15180	15180	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15180	15180	.	.	.	Name=G
+NC_020296	Geneious	gene	15233	15481	.	-	.	
+NC_020296	Geneious	CDS	15233	15481	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	15272	15272	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15272	15272	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15428	15428	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15428	15428	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15483	15483	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15483	15483	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15534	15534	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15534	15534	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15577	15577	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15577	15577	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15584	15584	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15584	15584	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15588	15588	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15588	15588	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15593	15593	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15593	15593	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15604	15604	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15604	15604	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15607	15607	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15607	15607	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15703	15703	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15703	15703	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15704	15704	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15735	15735	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15735	15735	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15753	15753	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15753	15753	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15790	15790	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15790	15790	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15832	15832	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15832	15832	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15873	15873	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15873	15873	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	15875	15875	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15875	15875	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15878	15878	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15878	15878	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15882	15882	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15882	15882	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	15884	15884	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15884	15884	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	15894	15895	.	.	.	Name=TA
+NC_020296	Geneious	Polymorphism	15894	15895	.	.	.	Name=TA
+NC_020296	Geneious	Polymorphism	15897	15897	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15897	15897	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	15900	15900	.	.	.	Name=T
+NC_020296	Geneious	gene	15996	16235	.	+	.	
+NC_020296	Geneious	CDS	15996	16235	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	16374	16374	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16374	16374	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16381	16381	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16381	16381	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16395	16395	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16395	16395	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16454	16454	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	16454	16454	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	16475	16475	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	16480	16480	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16501	16501	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16501	16501	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16575	16575	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16575	16575	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16590	16590	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16593	16595	.	.	.	Name=ATT
+NC_020296	Geneious	Polymorphism	16593	16595	.	.	.	Name=ATT
+NC_020296	Geneious	gene	16603	17166	.	+	.	
+NC_020296	Geneious	CDS	16603	17166	.	+	0	Name=site-specific integrase CDS
+NC_020296	Geneious	Polymorphism	16686	16686	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16707	16707	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16821	16821	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16834	16834	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16839	16839	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16896	16896	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16896	16896	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16914	16914	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16914	16914	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	16932	16932	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16932	16932	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	16980	16980	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16980	16980	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16995	16995	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	16995	16995	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	17001	17001	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17016	17016	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17016	17016	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17019	17019	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17019	17019	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17025	17025	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	17025	17025	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	17028	17028	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	17028	17028	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	17031	17031	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17031	17031	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17043	17043	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17049	17049	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17055	17055	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17055	17055	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17059	17059	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17059	17059	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	17067	17067	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17067	17067	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17082	17082	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17085	17085	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	17101	17101	.	.	.	Name=CTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667252.20
+NC_020296	Geneious	Polymorphism	17103	17103	.	.	.	Name=CTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667252.20
+NC_020296	Geneious	gene	17218	17439	.	+	.	
+NC_020296	Geneious	CDS	17218	17439	.	+	0	Name=DUF167 domain-containing protein CDS
+NC_020296	Geneious	gene	17880	18800	.	+	.	
+NC_020296	Geneious	CDS	17880	18800	.	+	0	Name=DUF4007 family protein CDS
+NC_020296	Geneious	gene	18822	20513	.	+	.	
+NC_020296	Geneious	CDS	18822	20513	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	20523	21479	.	-	.	
+NC_020296	Geneious	CDS	20523	21479	.	-	0	Name=LAGLIDADG endonuclease CDS
+NC_020296	Geneious	gene	21479	21760	.	-	.	
+NC_020296	Geneious	CDS	21479	21760	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	21843	23219	.	+	.	
+NC_020296	Geneious	CDS	21843	23219	.	+	0	Name=HNH endonuclease domain-containing protein CDS
+NC_020296	Geneious	gene	23255	23572	.	+	.	
+NC_020296	Geneious	CDS	23255	23572	.	+	0	Name=nucleotidyltransferase domain-containing protein CDS
+NC_020296	Geneious	gene	23562	23903	.	+	.	
+NC_020296	Geneious	CDS	23562	23903	.	+	0	Name=DUF86 domain-containing protein CDS
+NC_020296	Geneious	gene	23890	24099	.	+	.	
+NC_020296	Geneious	CDS	23890	24099	.	+	0	Name=aminotransferase class V-fold PLP-dependent enzyme CDS
+NC_020296	Geneious	gene	24181	24462	.	+	.	
+NC_020296	Geneious	CDS	24181	24462	.	+	0	Name=type II toxin-antitoxin system RelE/ParE family toxin CDS
+NC_020296	Geneious	gene	24473	24787	.	+	.	
+NC_020296	Geneious	CDS	24473	24787	.	+	0	Name=HigA family addiction module antitoxin CDS
+NC_020296	Geneious	gene	24798	25955	.	+	.	
+NC_020296	Geneious	CDS	24798	25955	.	+	0	Name=cysteine desulfurase family protein CDS
+NC_020296	Geneious	gene	25994	27175	.	+	.	
+NC_020296	Geneious	CDS	25994	27175	.	+	0	Name=AAA family ATPase CDS
+NC_020296	Geneious	gene	27175	27735	.	+	.	
+NC_020296	Geneious	CDS	27175	27735	.	+	0	Name=DUF4276 family protein CDS
+NC_020296	Geneious	gene	27859	28053	.	-	.	
+NC_020296	Geneious	CDS	27859	28053	.	-	0	Name=DUF433 domain-containing protein CDS
+NC_020296	Geneious	gene	28096	30168	.	-	.	
+NC_020296	Geneious	CDS	28096	30168	.	-	0	Name=DNA phosphorothioation-associated putative methyltransferase CDS
+NC_020296	Geneious	gene	30281	30574	.	-	.	
+NC_020296	Geneious	CDS	30281	30574	.	-	0	Name=HNH endonuclease CDS
+NC_020296	Geneious	Polymorphism	30455	30455	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	30455	30455	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	30464	30464	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	30470	30470	.	.	.	Name=T
+NC_020296	Geneious	gene	30677	31183	.	-	.	
+NC_020296	Geneious	CDS	30677	31183	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	31397	32062	.	+	.	
+NC_020296	Geneious	CDS	31397	32062	.	+	0	Name=IS701 family transposase CDS
+NC_020296	Geneious	gene	32015	32836	.	-	.	
+NC_020296	Geneious	CDS	32015	32836	.	-	0	Name=ARMT1-like domain-containing protein CDS
+NC_020296	Geneious	gene	32865	33350	.	-	.	
+NC_020296	Geneious	CDS	32865	33350	.	-	0	Name=DUF4079 domain-containing protein CDS
+NC_020296	Geneious	gene	33422	33961	.	-	.	
+NC_020296	Geneious	CDS	33422	33961	.	-	0	Name=DUF3122 domain-containing protein CDS
+NC_020296	Geneious	gene	34001	34624	.	-	.	
+NC_020296	Geneious	CDS	34001	34624	.	-	0	Name=DUF3365 domain-containing protein CDS
+NC_020296	Geneious	gene	34736	35005	.	-	.	
+NC_020296	Geneious	CDS	34736	35005	.	-	0	Name=metalloregulator ArsR/SmtB family transcription factor CDS
+NC_020296	Geneious	gene	35079	36365	.	-	.	
+NC_020296	Geneious	CDS	35079	36365	.	-	0	Name=FAD-dependent oxidoreductase CDS
+NC_020296	Geneious	gene	36483	36866	.	+	.	
+NC_020296	Geneious	CDS	36483	36866	.	+	0	Name=DUF302 domain-containing protein CDS
+NC_020296	Geneious	gene	36906	38144	.	+	.	Name=chrA gene
+NC_020296	Geneious	CDS	36906	38144	.	+	0	Name=chrA CDS
+NC_020296	Geneious	gene	38437	38730	.	-	.	
+NC_020296	Geneious	CDS	38437	38730	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	38498	38498	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38498	38498	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38501	38503	.	.	.	Name=GAC
+NC_020296	Geneious	Polymorphism	38501	38503	.	.	.	Name=GAC
+NC_020296	Geneious	Polymorphism	38511	38511	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38511	38511	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38518	38518	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38518	38518	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38537	38537	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38537	38537	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38539	38540	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	38539	38540	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	38548	38548	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38548	38548	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38554	38554	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38554	38554	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38557	38557	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38557	38557	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	38560	38560	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38560	38560	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38569	38569	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38569	38569	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38608	38608	.	.	.	Name=AAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667292.21
+NC_020296	Geneious	Polymorphism	38610	38610	.	.	.	Name=AAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667292.21
+NC_020296	Geneious	Polymorphism	38608	38608	.	.	.	Name=AAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667292.22
+NC_020296	Geneious	Polymorphism	38610	38610	.	.	.	Name=AAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667292.22
+NC_020296	Geneious	Polymorphism	38622	38622	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38622	38622	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38644	38644	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38644	38644	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38661	38661	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38661	38661	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38683	38683	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38683	38683	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38689	38689	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38689	38689	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	38692	38693	.	.	.	Name=CT
+NC_020296	Geneious	Polymorphism	38692	38693	.	.	.	Name=CT
+NC_020296	Geneious	Polymorphism	38707	38707	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38707	38707	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	38710	38710	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38710	38710	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	38734	38735	.	.	.	Name=GG
+NC_020296	Geneious	gene	38907	39641	.	+	.	
+NC_020296	Geneious	CDS	38907	39641	.	+	0	Name=IS5 family transposase CDS
+NC_020296	Geneious	gene	39663	40259	.	-	.	
+NC_020296	Geneious	CDS	39663	40259	.	-	0	Name=transposase CDS
+NC_020296	Geneious	gene	40411	41253	.	-	.	
+NC_020296	Geneious	CDS	40411	41253	.	-	0	Name=sulfotransferase CDS
+NC_020296	Geneious	gene	41411	42397	.	-	.	
+NC_020296	Geneious	CDS	41411	42397	.	-	0	Name=glycosyltransferase family 2 protein CDS
+NC_020296	Geneious	gene	42442	43161	.	-	.	
+NC_020296	Geneious	CDS	42442	43161	.	-	0	Name=glycosyltransferase family 25 protein CDS
+NC_020296	Geneious	gene	43343	44293	.	-	.	
+NC_020296	Geneious	CDS	43343	44293	.	-	0	Name=sulfotransferase CDS
+NC_020296	Geneious	gene	44338	45855	.	-	.	
+NC_020296	Geneious	CDS	44338	45855	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	45852	46940	.	-	.	
+NC_020296	Geneious	CDS	45852	46940	.	-	0	Name=glycosyltransferase family 4 protein CDS
+NC_020296	Geneious	gene	46945	48288	.	-	.	
+NC_020296	Geneious	CDS	46945	48288	.	-	0	Name=oligosaccharide flippase family protein CDS
+NC_020296	Geneious	gene	48291	49505	.	-	.	
+NC_020296	Geneious	CDS	48291	49505	.	-	0	Name=glycosyltransferase CDS
+NC_020296	Geneious	gene	49707	50099	.	+	.	
+NC_020296	Geneious	CDS	49707	50099	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	50111	52333	.	-	.	
+NC_020296	Geneious	CDS	50111	52333	.	-	0	Name=cellulose synthase operon protein YhjQ/BcsQ CDS
+NC_020296	Geneious	gene	52594	52992	.	+	.	
+NC_020296	Geneious	CDS	52594	52992	.	+	0	Name=cyanoexosortase A system-associated protein CDS
+NC_020296	Geneious	gene	53037	54026	.	+	.	
+NC_020296	Geneious	CDS	53037	54026	.	+	0	Name=glycosyltransferase CDS
+NC_020296	Geneious	gene	54119	54910	.	+	.	
+NC_020296	Geneious	CDS	54119	54910	.	+	0	Name=WecB/TagA/CpsF family glycosyltransferase CDS
+NC_020296	Geneious	gene	54911	56281	.	+	.	
+NC_020296	Geneious	CDS	54911	56281	.	+	0	Name=glycosyltransferase family 2 protein CDS
+NC_020296	Geneious	gene	56357	56617	.	-	.	
+NC_020296	Geneious	CDS	56357	56617	.	-	0	Name=IS1 family transposase CDS
+NC_020296	Geneious	gene	56854	57807	.	-	.	
+NC_020296	Geneious	CDS	56854	57807	.	-	0	Name=sugar transferase CDS
+NC_020296	Geneious	gene	57972	60323	.	+	.	
+NC_020296	Geneious	CDS	57972	60323	.	+	0	Name=NACHT domain-containing NTPase CDS
+NC_020296	Geneious	gene	60291	61199	.	-	.	
+NC_020296	Geneious	CDS	60291	61199	.	-	0	Name=response regulator CDS
+NC_020296	Geneious	gene	61202	64831	.	-	.	
+NC_020296	Geneious	CDS	61202	64831	.	-	0	Name=response regulator CDS
+NC_020296	Geneious	gene	64868	65245	.	-	.	
+NC_020296	Geneious	CDS	64868	65245	.	-	0	Name=PAS domain S-box protein CDS
+NC_020296	Geneious	gene	65331	65786	.	-	.	
+NC_020296	Geneious	CDS	65331	65786	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	65758	66480	.	-	.	
+NC_020296	Geneious	CDS	65758	66480	.	-	0	Name=transposase CDS
+NC_020296	Geneious	gene	66782	67072	.	-	.	
+NC_020296	Geneious	CDS	66782	67072	.	-	0	Name=HNH endonuclease CDS
+NC_020296	Geneious	Polymorphism	66878	66878	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	66878	66878	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	66908	66908	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	66908	66908	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	66962	66962	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	66962	66962	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	67003	67003	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	67003	67003	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	67008	67009	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	67008	67009	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	67013	67013	.	.	.	Name=AGCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667295.23
+NC_020296	Geneious	Polymorphism	67015	67016	.	.	.	Name=AGCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667295.23
+NC_020296	Geneious	Polymorphism	67013	67013	.	.	.	Name=AGCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667295.24
+NC_020296	Geneious	Polymorphism	67015	67016	.	.	.	Name=AGCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667295.24
+NC_020296	Geneious	Polymorphism	67025	67028	.	.	.	Name=TTGT
+NC_020296	Geneious	Polymorphism	67025	67028	.	.	.	Name=TTGT
+NC_020296	Geneious	Polymorphism	67034	67034	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	67034	67034	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	67040	67040	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	67040	67040	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	67058	67058	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	67058	67058	.	.	.	Name=A
+NC_020296	Geneious	gene	67163	67378	.	-	.	
+NC_020296	Geneious	CDS	67163	67378	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	67362	67976	.	-	.	
+NC_020296	Geneious	CDS	67362	67976	.	-	0	Name=ParA family protein CDS
+NC_020296	Geneious	gene	68050	68574	.	-	.	
+NC_020296	Geneious	CDS	68050	68574	.	-	0	Name=ATP-binding protein CDS
+NC_020296	Geneious	gene	68904	69296	.	-	.	
+NC_020296	Geneious	CDS	68904	69296	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	68972	68972	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	68972	68972	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	68978	68978	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	68978	68978	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	68994	68994	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	68994	68994	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	68997	68997	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	68997	68997	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69006	69006	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	69006	69006	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	69015	69015	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69015	69015	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69030	69030	.	.	.	Name=CAGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667296.25
+NC_020296	Geneious	Polymorphism	69032	69033	.	.	.	Name=CAGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667296.25
+NC_020296	Geneious	Polymorphism	69030	69030	.	.	.	Name=CAGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667296.26
+NC_020296	Geneious	Polymorphism	69032	69033	.	.	.	Name=CAGT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667296.26
+NC_020296	Geneious	Polymorphism	69036	69036	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69036	69036	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69039	69039	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	69039	69039	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	69042	69042	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69042	69042	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69063	69063	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69063	69063	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	69072	69072	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	69075	69075	.	.	.	Name=A
+NC_020296	Geneious	gene	69244	69408	.	-	.	
+NC_020296	Geneious	CDS	69244	69408	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	69335	70810	.	-	.	
+NC_020296	Geneious	CDS	69335	70810	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	71474	71818	.	+	.	
+NC_020296	Geneious	CDS	71474	71818	.	+	0	Name=helix-turn-helix transcriptional regulator CDS
+NC_020296	Geneious	Polymorphism	71941	71942	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	71941	71942	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	71944	71944	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	71944	71944	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	71948	71948	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71948	71948	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71950	71951	.	.	.	Name=TC
+NC_020296	Geneious	Polymorphism	71950	71951	.	.	.	Name=TC
+NC_020296	Geneious	Polymorphism	71957	71957	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71957	71957	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71960	71961	.	.	.	Name=TG
+NC_020296	Geneious	Polymorphism	71960	71961	.	.	.	Name=TG
+NC_020296	Geneious	Polymorphism	71963	71963	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71963	71963	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71965	71965	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71965	71965	.	.	.	Name=C
+NC_020296	Geneious	gene	71972	72238	.	+	.	
+NC_020296	Geneious	CDS	71972	72238	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	71976	71976	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71976	71976	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71981	71981	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71981	71981	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	71990	71990	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	71990	71990	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	72001	72001	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	72001	72001	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	72011	72011	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	72011	72011	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	72017	72017	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72017	72017	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72083	72083	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72083	72083	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72104	72104	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72104	72104	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72125	72125	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.27
+NC_020296	Geneious	Polymorphism	72127	72127	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.27
+NC_020296	Geneious	Polymorphism	72125	72125	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.28
+NC_020296	Geneious	Polymorphism	72127	72127	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.28
+NC_020296	Geneious	Polymorphism	72131	72131	.	.	.	Name=CAAA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.29
+NC_020296	Geneious	Polymorphism	72133	72134	.	.	.	Name=CAAA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.29
+NC_020296	Geneious	Polymorphism	72131	72131	.	.	.	Name=CAAA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.30
+NC_020296	Geneious	Polymorphism	72133	72134	.	.	.	Name=CAAA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667298.30
+NC_020296	Geneious	Polymorphism	72137	72137	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72137	72137	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72143	72143	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72143	72143	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72149	72149	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72149	72149	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	72203	72203	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72203	72203	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	72209	72209	.	.	.	Name=TAAC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.31
+NC_020296	Geneious	Polymorphism	72211	72212	.	.	.	Name=TAAC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.31
+NC_020296	Geneious	Polymorphism	72209	72209	.	.	.	Name=TAAC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.32
+NC_020296	Geneious	Polymorphism	72211	72212	.	.	.	Name=TAAC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.32
+NC_020296	Geneious	gene	72425	73159	.	+	.	
+NC_020296	Geneious	CDS	72425	73159	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	73270	73485	.	+	.	
+NC_020296	Geneious	CDS	73270	73485	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	73728	74147	.	-	.	
+NC_020296	Geneious	CDS	73728	74147	.	-	0	Name=VOC family protein CDS
+NC_020296	Geneious	gene	74510	75055	.	-	.	
+NC_020296	Geneious	CDS	74510	75055	.	-	0	Name=dihydrofolate reductase family protein CDS
+NC_020296	Geneious	gene	75147	75929	.	+	.	
+NC_020296	Geneious	CDS	75147	75929	.	+	0	Name=Rpn family recombination-promoting nuclease/putative transposase CDS
+NC_020296	Geneious	gene	76050	76988	.	+	.	
+NC_020296	Geneious	CDS	76050	76988	.	+	0	Name=ion channel CDS
+NC_020296	Geneious	gene	77192	77944	.	-	.	
+NC_020296	Geneious	CDS	77192	77944	.	-	0	Name=glucose 1-dehydrogenase CDS
+NC_020296	Geneious	gene	78057	78881	.	-	.	
+NC_020296	Geneious	CDS	78057	78881	.	-	0	Name=alpha/beta hydrolase CDS
+NC_020296	Geneious	gene	79505	80293	.	-	.	
+NC_020296	Geneious	CDS	79505	80293	.	-	0	Name=YwqG family protein CDS
+NC_020296	Geneious	gene	80783	81613	.	+	.	
+NC_020296	Geneious	CDS	80783	81613	.	+	0	Name=Rpn family recombination-promoting nuclease/putative transposase CDS
+NC_020296	Geneious	gene	81723	81878	.	-	.	
+NC_020296	Geneious	CDS	81723	81878	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	82309	84186	.	-	.	
+NC_020296	Geneious	CDS	82309	84186	.	-	0	Name=AAA family ATPase CDS
+NC_020296	Geneious	gene	84439	84966	.	-	.	
+NC_020296	Geneious	CDS	84439	84966	.	-	0	Name=thermonuclease family protein CDS
+NC_020296	Geneious	Polymorphism	84453	84454	.	.	.	Name=TC
+NC_020296	Geneious	Polymorphism	84453	84454	.	.	.	Name=TC
+NC_020296	Geneious	Polymorphism	84460	84460	.	.	.	Name=GTC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.33
+NC_020296	Geneious	Polymorphism	84462	84462	.	.	.	Name=GTC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667299.33
+NC_020296	Geneious	Polymorphism	84460	84460	.	.	.	Name=GTC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667300.34
+NC_020296	Geneious	Polymorphism	84462	84462	.	.	.	Name=GTC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667300.34
+NC_020296	Geneious	Polymorphism	84466	84466	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84466	84466	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84469	84469	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84469	84469	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84472	84472	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84472	84472	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84475	84475	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84475	84475	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84481	84481	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84481	84481	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84506	84508	.	.	.	Name=TTG
+NC_020296	Geneious	Polymorphism	84506	84508	.	.	.	Name=TTG
+NC_020296	Geneious	Polymorphism	84511	84511	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84511	84511	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84514	84514	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84514	84514	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84523	84523	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84523	84523	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84559	84559	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84559	84559	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84562	84562	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84562	84562	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84570	84571	.	.	.	Name=GGCC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667332.35
+NC_020296	Geneious	Polymorphism	84573	84573	.	.	.	Name=GGCC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667332.35
+NC_020296	Geneious	Polymorphism	84570	84571	.	.	.	Name=GGCC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667332.36
+NC_020296	Geneious	Polymorphism	84573	84573	.	.	.	Name=GGCC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667332.36
+NC_020296	Geneious	Polymorphism	84586	84586	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84586	84586	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84610	84610	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84610	84610	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84616	84616	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84616	84616	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84619	84619	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84619	84619	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84625	84625	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84625	84625	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84631	84631	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84631	84631	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84643	84643	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84643	84643	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84646	84646	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84646	84646	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84679	84679	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84679	84679	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84682	84682	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84682	84682	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84689	84689	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84689	84689	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84691	84691	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84691	84691	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84726	84726	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84726	84726	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84731	84732	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	84731	84732	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	84745	84745	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.37
+NC_020296	Geneious	Polymorphism	84747	84748	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.37
+NC_020296	Geneious	Polymorphism	84750	84750	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.37
+NC_020296	Geneious	Polymorphism	84745	84745	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.38
+NC_020296	Geneious	Polymorphism	84747	84748	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.38
+NC_020296	Geneious	Polymorphism	84750	84750	.	.	.	Name=ACGGGA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.38
+NC_020296	Geneious	Polymorphism	84754	84754	.	.	.	Name=AATG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.39
+NC_020296	Geneious	Polymorphism	84756	84757	.	.	.	Name=AATG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.39
+NC_020296	Geneious	Polymorphism	84754	84754	.	.	.	Name=AATG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.40
+NC_020296	Geneious	Polymorphism	84756	84757	.	.	.	Name=AATG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.40
+NC_020296	Geneious	Polymorphism	84760	84760	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84760	84760	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84763	84763	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84763	84763	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84769	84769	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.41
+NC_020296	Geneious	Polymorphism	84771	84772	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.41
+NC_020296	Geneious	Polymorphism	84774	84774	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.41
+NC_020296	Geneious	Polymorphism	84769	84769	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.42
+NC_020296	Geneious	Polymorphism	84771	84772	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.42
+NC_020296	Geneious	Polymorphism	84774	84774	.	.	.	Name=CTTAAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667334.42
+NC_020296	Geneious	Polymorphism	84778	84778	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84778	84778	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84790	84790	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84790	84790	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84796	84796	.	.	.	Name=GAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667335.43
+NC_020296	Geneious	Polymorphism	84798	84798	.	.	.	Name=GAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667335.43
+NC_020296	Geneious	Polymorphism	84796	84796	.	.	.	Name=GAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667335.44
+NC_020296	Geneious	Polymorphism	84798	84798	.	.	.	Name=GAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667335.44
+NC_020296	Geneious	Polymorphism	84814	84814	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84814	84814	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84817	84817	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84817	84817	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84823	84823	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84823	84823	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84835	84835	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84835	84835	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84850	84850	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84850	84850	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	84859	84859	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84859	84859	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84862	84862	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84862	84862	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	84865	84865	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84865	84865	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84910	84910	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84910	84910	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	84918	84918	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84918	84918	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84945	84945	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	84945	84945	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	85004	85004	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	85004	85004	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	85010	85010	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85010	85010	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85012	85012	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85012	85012	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85045	85045	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	85045	85045	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	85095	85095	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85095	85095	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85158	85159	.	.	.	Name=AT
+NC_020296	Geneious	Polymorphism	85158	85159	.	.	.	Name=AT
+NC_020296	Geneious	gene	85167	85469	.	+	.	
+NC_020296	Geneious	CDS	85167	85469	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	85208	85208	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85208	85208	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	85221	85221	.	.	.	Name=ATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667336.45
+NC_020296	Geneious	Polymorphism	85223	85223	.	.	.	Name=ATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667336.45
+NC_020296	Geneious	Polymorphism	85221	85221	.	.	.	Name=ATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667336.46
+NC_020296	Geneious	Polymorphism	85223	85223	.	.	.	Name=ATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667336.46
+NC_020296	Geneious	gene	85552	86997	.	-	.	
+NC_020296	Geneious	CDS	85552	86997	.	-	0	Name=PLP-dependent aminotransferase family protein CDS
+NC_020296	Geneious	gene	87601	88020	.	+	.	
+NC_020296	Geneious	CDS	87601	88020	.	+	0	Name=DUF2267 domain-containing protein CDS
+NC_020296	Geneious	gene	88114	88830	.	+	.	
+NC_020296	Geneious	CDS	88114	88830	.	+	0	Name=SDR family oxidoreductase CDS
+NC_020296	Geneious	gene	88902	89759	.	-	.	
+NC_020296	Geneious	CDS	88902	89759	.	-	0	Name=metal-dependent hydrolase CDS
+NC_020296	Geneious	Polymorphism	88956	88956	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	88992	88992	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	88992	88992	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	88995	88995	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	88995	88995	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	88998	88998	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	88998	88998	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89002	89003	.	.	.	Name=GC
+NC_020296	Geneious	Polymorphism	89002	89003	.	.	.	Name=GC
+NC_020296	Geneious	Polymorphism	89005	89005	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89005	89007	.	.	.	Name=GAGAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667337.47
+NC_020296	Geneious	Polymorphism	89009	89009	.	.	.	Name=GAGAT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667337.47
+NC_020296	Geneious	Polymorphism	89014	89016	.	.	.	Name=TTA
+NC_020296	Geneious	Polymorphism	89014	89016	.	.	.	Name=TTA
+NC_020296	Geneious	Polymorphism	89019	89019	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89019	89019	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89022	89022	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89022	89022	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89034	89034	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	89034	89034	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	89040	89040	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89047	89047	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89047	89047	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89103	89103	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89106	89106	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89117	89117	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89127	89127	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89127	89127	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89178	89178	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89178	89178	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89190	89190	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	89208	89208	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89232	89232	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89232	89232	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89244	89244	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89244	89244	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89247	89247	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89247	89247	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89250	89250	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89250	89250	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89259	89259	.	.	.	Name=GAG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667338.48
+NC_020296	Geneious	Polymorphism	89261	89261	.	.	.	Name=GAG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667338.48
+NC_020296	Geneious	Polymorphism	89261	89261	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89270	89270	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89270	89270	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89286	89286	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89286	89286	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89289	89289	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	89289	89289	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	89292	89297	.	.	.	Name=CATGGC
+NC_020296	Geneious	Polymorphism	89292	89297	.	.	.	Name=CATGGC
+NC_020296	Geneious	Polymorphism	89307	89308	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	89307	89308	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	89310	89310	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89310	89310	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89313	89316	.	.	.	Name=ACTG
+NC_020296	Geneious	Polymorphism	89313	89316	.	.	.	Name=ACTG
+NC_020296	Geneious	Polymorphism	89321	89322	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	89321	89322	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	89325	89325	.	.	.	Name=TAGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667372.49
+NC_020296	Geneious	Polymorphism	89327	89328	.	.	.	Name=TAGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667372.49
+NC_020296	Geneious	Polymorphism	89325	89325	.	.	.	Name=TAGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667372.50
+NC_020296	Geneious	Polymorphism	89327	89328	.	.	.	Name=TAGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667372.50
+NC_020296	Geneious	Polymorphism	89331	89331	.	.	.	Name=GAAACTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.51
+NC_020296	Geneious	Polymorphism	89333	89337	.	.	.	Name=GAAACTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.51
+NC_020296	Geneious	Polymorphism	89331	89331	.	.	.	Name=GAAACTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.52
+NC_020296	Geneious	Polymorphism	89333	89337	.	.	.	Name=GAAACTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.52
+NC_020296	Geneious	Polymorphism	89340	89340	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89340	89340	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	89343	89343	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89355	89355	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89355	89355	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	89367	89369	.	.	.	Name=ACT
+NC_020296	Geneious	Polymorphism	89367	89369	.	.	.	Name=ACT
+NC_020296	Geneious	Polymorphism	89373	89373	.	.	.	Name=CCG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.53
+NC_020296	Geneious	Polymorphism	89375	89375	.	.	.	Name=CCG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.53
+NC_020296	Geneious	Polymorphism	89373	89373	.	.	.	Name=CCG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.54
+NC_020296	Geneious	Polymorphism	89375	89375	.	.	.	Name=CCG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667373.54
+NC_020296	Geneious	gene	89699	90253	.	-	.	
+NC_020296	Geneious	CDS	89699	90253	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	89954	89954	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	89954	89954	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90083	90083	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90083	90083	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90086	90086	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	90086	90086	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	90092	90092	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	90092	90092	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	90211	90211	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90211	90211	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90257	90257	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	90257	90257	.	.	.	Name=C
+NC_020296	Geneious	gene	90353	90601	.	-	.	
+NC_020296	Geneious	CDS	90353	90601	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	90603	90603	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90603	90603	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90707	90707	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	90707	90707	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	90724	90724	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	90724	90724	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	90727	90727	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	90727	90727	.	.	.	Name=A
+NC_020296	Geneious	gene	90973	91218	.	+	.	
+NC_020296	Geneious	CDS	90973	91218	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	91355	92692	.	+	.	
+NC_020296	Geneious	CDS	91355	92692	.	+	0	Name=NAD(P)/FAD-dependent oxidoreductase CDS
+NC_020296	Geneious	gene	92805	93236	.	-	.	
+NC_020296	Geneious	CDS	92805	93236	.	-	0	Name=type II toxin-antitoxin system VapC family toxin CDS
+NC_020296	Geneious	gene	93233	93520	.	-	.	
+NC_020296	Geneious	CDS	93233	93520	.	-	0	Name=type II toxin-antitoxin system prevent-host-death family antitoxin CDS
+NC_020296	Geneious	gene	93656	93865	.	-	.	
+NC_020296	Geneious	CDS	93656	93865	.	-	0	Name=recombinase family protein CDS
+NC_020296	Geneious	gene	93862	94866	.	-	.	
+NC_020296	Geneious	CDS	93862	94866	.	-	0	Name=WYL domain-containing transcriptional regulator CDS
+NC_020296	Geneious	Polymorphism	95021	95021	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95021	95021	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95024	95024	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95024	95024	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95030	95030	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95030	95030	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95032	95033	.	.	.	Name=CG
+NC_020296	Geneious	Polymorphism	95032	95033	.	.	.	Name=CG
+NC_020296	Geneious	Polymorphism	95036	95036	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95036	95036	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95038	95038	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95038	95038	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95048	95048	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95048	95048	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95051	95051	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95051	95051	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95057	95057	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95057	95057	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95060	95060	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95060	95060	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95066	95066	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95066	95066	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95083	95084	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	95083	95084	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	95090	95091	.	.	.	Name=AT
+NC_020296	Geneious	Polymorphism	95090	95091	.	.	.	Name=AT
+NC_020296	Geneious	Polymorphism	95093	95093	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95093	95093	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95096	95096	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95096	95096	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95098	95098	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95098	95098	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	95128	95128	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95128	95128	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	95134	95134	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95134	95134	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95150	95150	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95150	95150	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95154	95154	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95154	95154	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95178	95178	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95180	95181	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	95184	95184	.	.	.	Name=C
+NC_020296	Geneious	gene	95256	95549	.	-	.	
+NC_020296	Geneious	CDS	95256	95549	.	-	0	Name=HNH endonuclease CDS
+NC_020296	Geneious	Polymorphism	95405	95405	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95405	95405	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	95418	95418	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	95418	95418	.	.	.	Name=C
+NC_020296	Geneious	gene	95697	95903	.	-	.	
+NC_020296	Geneious	CDS	95697	95903	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	96124	96561	.	+	.	
+NC_020296	Geneious	CDS	96124	96561	.	+	0	Name=DUF6088 family protein CDS
+NC_020296	Geneious	gene	96554	97156	.	+	.	
+NC_020296	Geneious	CDS	96554	97156	.	+	0	Name=nucleotidyl transferase AbiEii/AbiGii toxin family protein CDS
+NC_020296	Geneious	gene	97277	97492	.	+	.	
+NC_020296	Geneious	CDS	97277	97492	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	97648	97648	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	97648	97648	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	97652	97652	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	97652	97652	.	.	.	Name=A
+NC_020296	Geneious	gene	97790	98212	.	-	.	
+NC_020296	Geneious	CDS	97790	98212	.	-	0	Name=arsenate reductase family protein CDS
+NC_020296	Geneious	Polymorphism	97826	97826	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	97826	97826	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98069	98069	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98069	98069	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98080	98080	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	98080	98080	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	98362	98369	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	98362	98369	.	.	.	Name=
+NC_020296	Geneious	gene	98614	99219	.	+	.	
+NC_020296	Geneious	CDS	98614	99219	.	+	0	Name=ParA family protein CDS
+NC_020296	Geneious	Polymorphism	98790	98790	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98790	98790	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98865	98865	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98865	98865	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98874	98874	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	98874	98874	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	98907	98907	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98907	98907	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98913	98913	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98913	98913	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	98922	98922	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98922	98922	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98926	98926	.	.	.	Name=CTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667377.55
+NC_020296	Geneious	Polymorphism	98928	98928	.	.	.	Name=CTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667377.55
+NC_020296	Geneious	Polymorphism	98926	98926	.	.	.	Name=CTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667377.56
+NC_020296	Geneious	Polymorphism	98928	98928	.	.	.	Name=CTG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667377.56
+NC_020296	Geneious	Polymorphism	98934	98935	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	98934	98935	.	.	.	Name=CC
+NC_020296	Geneious	Polymorphism	98940	98941	.	.	.	Name=GC
+NC_020296	Geneious	Polymorphism	98940	98941	.	.	.	Name=GC
+NC_020296	Geneious	Polymorphism	98946	98946	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	98946	98946	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	98956	98956	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98956	98956	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	98985	98985	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	98985	98985	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99135	99135	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99135	99135	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99207	99207	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99207	99207	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99215	99215	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99215	99215	.	.	.	Name=C
+NC_020296	Geneious	gene	99216	99449	.	+	.	
+NC_020296	Geneious	CDS	99216	99449	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	99264	99264	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99264	99264	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99278	99278	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99278	99278	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99282	99282	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667378.57
+NC_020296	Geneious	Polymorphism	99284	99284	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667378.57
+NC_020296	Geneious	Polymorphism	99282	99282	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667378.58
+NC_020296	Geneious	Polymorphism	99284	99284	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667378.58
+NC_020296	Geneious	Polymorphism	99292	99292	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99292	99292	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99296	99296	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99296	99296	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99299	99299	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99299	99299	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99308	99308	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99308	99308	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99320	99320	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99320	99320	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99356	99356	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99356	99356	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99392	99393	.	.	.	Name=AA
+NC_020296	Geneious	Polymorphism	99392	99393	.	.	.	Name=AA
+NC_020296	Geneious	Polymorphism	99398	99398	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99398	99398	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99401	99401	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99401	99401	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99404	99404	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99404	99404	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99410	99410	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99410	99410	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99416	99417	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	99416	99417	.	.	.	Name=GG
+NC_020296	Geneious	Polymorphism	99423	99423	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99423	99423	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99439	99439	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99439	99439	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99446	99446	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99446	99446	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99450	99453	.	.	.	Name=AGCA
+NC_020296	Geneious	Polymorphism	99450	99453	.	.	.	Name=AGCA
+NC_020296	Geneious	Polymorphism	99465	99465	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99465	99465	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99472	99472	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99472	99472	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99474	99474	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99474	99474	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99478	99478	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99478	99478	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99482	99482	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	99482	99482	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	99484	99484	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99484	99484	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99522	99522	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	99522	99522	.	.	.	Name=G
+NC_020296	Geneious	gene	99565	99981	.	-	.	
+NC_020296	Geneious	CDS	99565	99981	.	-	0	Name=cytidine deaminase CDS
+NC_020296	Geneious	Polymorphism	99591	99591	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99591	99591	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	99642	99642	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99642	99642	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	99846	99846	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99846	99846	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	99990	99990	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	99990	99990	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	99994	99996	.	.	.	Name=CGA
+NC_020296	Geneious	Polymorphism	99994	99996	.	.	.	Name=CGA
+NC_020296	Geneious	Polymorphism	100003	100004	.	.	.	Name=CG
+NC_020296	Geneious	Polymorphism	100003	100004	.	.	.	Name=CG
+NC_020296	Geneious	Polymorphism	100006	100006	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100006	100006	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100014	100014	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100014	100014	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100020	100020	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100020	100020	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100027	100027	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100027	100027	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100029	100029	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100029	100029	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100033	100033	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100033	100033	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100040	100040	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100040	100040	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100056	100056	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100056	100056	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100071	100071	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100071	100071	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100085	100085	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100085	100085	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100093	100093	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100093	100093	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100097	100097	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100097	100097	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100101	100101	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100101	100101	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100104	100104	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100104	100104	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100123	100123	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100123	100123	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100139	100191	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	100139	100191	.	.	.	Name=
+NC_020296	Geneious	Polymorphism	100272	100272	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100272	100272	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100274	100274	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100274	100274	.	.	.	Name=G
+NC_020296	Geneious	gene	100364	100759	.	-	.	
+NC_020296	Geneious	CDS	100364	100759	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	100432	100432	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100432	100432	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100454	100454	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100454	100454	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100511	100511	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100511	100511	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100514	100514	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100514	100514	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	100595	100595	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667413.59
+NC_020296	Geneious	Polymorphism	100597	100597	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667413.59
+NC_020296	Geneious	Polymorphism	100595	100595	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667413.60
+NC_020296	Geneious	Polymorphism	100597	100597	.	.	.	Name=CCT;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585667413.60
+NC_020296	Geneious	Polymorphism	100662	100662	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100662	100662	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100676	100676	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	100676	100676	.	.	.	Name=T
+NC_020296	Geneious	gene	100707	100868	.	-	.	
+NC_020296	Geneious	CDS	100707	100868	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	100716	100716	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100716	100716	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100725	100725	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100725	100725	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	100730	100730	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	100730	100730	.	.	.	Name=G
+NC_020296	Geneious	gene	100798	102288	.	-	.	
+NC_020296	Geneious	CDS	100798	102288	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	102798	103151	.	+	.	
+NC_020296	Geneious	CDS	102798	103151	.	+	0	Name=helix-turn-helix transcriptional regulator CDS
+NC_020296	Geneious	gene	103187	103417	.	-	.	
+NC_020296	Geneious	CDS	103187	103417	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	103268	103268	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	103268	103268	.	.	.	Name=G
+NC_020296	Geneious	gene	103661	104083	.	+	.	
+NC_020296	Geneious	CDS	103661	104083	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	104141	105274	.	+	.	
+NC_020296	Geneious	CDS	104141	105274	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	105753	106043	.	-	.	
+NC_020296	Geneious	CDS	105753	106043	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	106087	106371	.	-	.	
+NC_020296	Geneious	CDS	106087	106371	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	106537	106950	.	+	.	Name=arfB gene
+NC_020296	Geneious	CDS	106537	106950	.	+	0	Name=arfB CDS
+NC_020296	Geneious	gene	107105	107527	.	+	.	
+NC_020296	Geneious	CDS	107105	107527	.	+	0	Name=putative toxin-antitoxin system toxin component%2CPIN family CDS
+NC_020296	Geneious	gene	107531	107746	.	+	.	
+NC_020296	Geneious	CDS	107531	107746	.	+	0	Name=toxin-antitoxin system HicB family antitoxin CDS
+NC_020296	Geneious	gene	107767	108585	.	+	.	
+NC_020296	Geneious	CDS	107767	108585	.	+	0	Name=Rpn family recombination-promoting nuclease/putative transposase CDS
+NC_020296	Geneious	gene	108733	109503	.	+	.	
+NC_020296	Geneious	CDS	108733	109503	.	+	0	Name=Rpn family recombination-promoting nuclease/putative transposase CDS
+NC_020296	Geneious	Polymorphism	109857	109857	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109857	109857	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109864	109864	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109864	109864	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109873	109873	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	109873	109873	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	109877	109877	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109877	109877	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109907	109907	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	109907	109907	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	109910	109910	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109910	109910	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	109912	109913	.	.	.	Name=AG
+NC_020296	Geneious	Polymorphism	109912	109913	.	.	.	Name=AG
+NC_020296	Geneious	Polymorphism	109932	109932	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	109932	109932	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	109946	109946	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	109946	109946	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	109983	109983	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	109983	109983	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110013	110013	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	110013	110013	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	110019	110019	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110019	110019	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110049	110049	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	110049	110049	.	.	.	Name=G
+NC_020296	Geneious	gene	110068	110283	.	+	.	
+NC_020296	Geneious	CDS	110068	110283	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	Polymorphism	110085	110085	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110085	110085	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110112	110112	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110112	110112	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110142	110142	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110142	110142	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110175	110175	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	110175	110175	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	110178	110178	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	110178	110178	.	.	.	Name=G
+NC_020296	Geneious	Polymorphism	110193	110193	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	110193	110193	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	110205	110205	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	110205	110205	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	110221	110221	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110241	110241	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	110243	110243	.	.	.	Name=C
+NC_020296	Geneious	Polymorphism	110256	110256	.	.	.	Name=A
+NC_020296	Geneious	Polymorphism	110271	110271	.	.	.	Name=T
+NC_020296	Geneious	Polymorphism	110273	110273	.	.	.	Name=A
+NC_020296	Geneious	gene	110367	110516	.	-	.	
+NC_020296	Geneious	CDS	110367	110516	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	110524	111786	.	-	.	
+NC_020296	Geneious	CDS	110524	111786	.	-	0	Name=Y-family DNA polymerase CDS
+NC_020296	Geneious	gene	111783	112217	.	-	.	Name=umuD gene
+NC_020296	Geneious	CDS	111783	112217	.	-	0	Name=umuD CDS
+NC_020296	Geneious	gene	112352	113182	.	+	.	
+NC_020296	Geneious	CDS	112352	113182	.	+	0	Name=Rpn family recombination-promoting nuclease/putative transposase CDS
+NC_020296	Geneious	Polymorphism	112420	112420	.	.	.	Name=A
+NC_020296	Geneious	gene	113239	113463	.	-	.	
+NC_020296	Geneious	CDS	113239	113463	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	113953	114423	.	+	.	
+NC_020296	Geneious	CDS	113953	114423	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	114514	115284	.	+	.	
+NC_020296	Geneious	CDS	114514	115284	.	+	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	115503	116540	.	-	.	
+NC_020296	Geneious	CDS	115503	116540	.	-	0	Name=hypothetical protein CDS
+NC_020296	Geneious	gene	116636	116830	.	-	.	
+NC_020296	Geneious	CDS	116636	116830	.	-	0	Name=hypothetical protein CDS

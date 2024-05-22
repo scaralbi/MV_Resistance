@@ -1,0 +1,79 @@
+Name,Minimum,Maximum,Length,CDS,product,CDS Position,Change,locus_tag,Polymorphism Type,Protein Effect,Variant Nucleotide(s),Variant Frequency,protein_id,Reference Nucleotide(s),Amino Acid Change,Codon Change,Reference Frequency
+C,285611,285611,1,sll1201 CDS,hypothetical protein,328,A -> C,SYNGTS_0261,SNP (transversion),Substitution,C,51.2%,BAK49009.1,A,L -> V,TTG -> GTG,48.8%
+TCG,3064023,3064025,2,sll0789 CDS,OmpR subfamily protein Rre34/CopR,403,CCA -> TCG,SYNGTS_2746,Substitution,Substitution,TCG,51.9% -> 52.4%,BAK51494.1,CCA,W -> R,TGG -> CGA,
+G,1904817,1904817,1,,,,A -> G,,SNP (transition),,G,52.7%,,A,,,47.3%
+T,1971351,1971351,1,slr1683 CDS,transposase,381,C -> T,SYNGTS_1798,SNP (transition),None,T,52.7%,BAK50546.1,C,,GGC -> GGT,46.7%
+T,1971333,1971333,1,slr1683 CDS,transposase,363,C -> T,SYNGTS_1798,SNP (transition),None,T,53.0%,BAK50546.1,C,,ATC -> ATT,47.0%
+T,1971432,1971432,1,slr1684 CDS,transposase,7,C -> T,SYNGTS_1799,SNP (transition),Truncation,T,53.5%,BAK50547.1,C,,,46.5%
+C,3347589,3347589,1,slr0665 CDS,hypothetical protein,84,T -> C,SYNGTS_2985,SNP (transition),None,C,53.5%,BAK51733.1,T,,ACT -> ACC,46.5%
+GTC,3064029,3064031,2,sll0789 CDS,OmpR subfamily protein Rre34/CopR,397,TTG -> GTC,SYNGTS_2746,Substitution,Substitution,GTC,53.7% -> 53.8%,BAK51494.1,TTG,Q -> D,CAA -> GAC,
+C,1971423,1971423,1,,,,G -> C,,SNP (transversion),,C,53.8%,,G,,,46.2%
+G,1210995,1210995,1,sll1774 CDS,hypothetical protein,243,A -> G,SYNGTS_1089,SNP (transition),None,G,54.4%,BAK49837.1,A,,CGT -> CGC,45.6%
+G,1971310,1971310,1,slr1683 CDS,transposase,340,A -> G,SYNGTS_1798,SNP (transition),Substitution,G,54.4%,BAK50546.1,A,R -> G,AGA -> GGA,45.6%
+T,1971226,1971226,1,slr1683 CDS,transposase,256,C -> T,SYNGTS_1798,SNP (transition),Substitution,T,54.6%,BAK50546.1,C,R -> W,CGG -> TGG,45.4%
+A,1971482,1971482,1,slr1684 CDS,transposase,57,G -> A,SYNGTS_1799,SNP (transition),None,A,54.6%,BAK50547.1,G,,AGG -> AGA,45.2%
+G,3063912,3063912,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,516,A -> G,SYNGTS_2746,SNP (transition),None,G,54.7%,BAK51494.1,A,,CTT -> CTC,45.3%
+A,1971399,1971399,1,,,,G -> A,,SNP (transition),,A,55.0%,,G,,,45.0%
+C,1971544,1971544,1,slr1684 CDS,transposase,119,T -> C,SYNGTS_1799,SNP (transition),Substitution,C,55.2%,BAK50547.1,T,V -> A,GTA -> GCA,44.8%
+A,1971525,1971525,1,slr1684 CDS,transposase,100,G -> A,SYNGTS_1799,SNP (transition),Substitution,A,55.5%,BAK50547.1,G,G -> R,GGA -> AGA,44.5%
+A,386406,386406,1,slr1084 CDS,hypothetical protein,230,T -> A,SYNGTS_0362,SNP (transversion),Substitution,A,55.7%,BAK49110.1,T,V -> D,GTT -> GAT,44.3%
+C,2996629,2996629,1,ssl0172 CDS,transposase,269,T -> C,SYNGTS_2692,SNP (transition),Extension,C,55.8%,BAK51440.1,T,,,44.0%
+CGGCG,5,4,0,sds CDS,solanesyl diphosphate synthase,205,+CGGCG,SYNGTS_0001,Insertion,Frame Shift,CGGCG,56.5%,BAK51920.1,,,,
+A,1210451,1210451,1,,,,G -> A,,SNP (transition),,A,56.9%,,G,,,43.1%
+A,1453979,1453979,1,slr1712 CDS,hypothetical protein,261,G -> A,SYNGTS_1319,SNP (transition),None,A,57.1%,BAK50067.1,G,,ACG -> ACA,41.2%
+T,1453940,1453940,1,slr1712 CDS,hypothetical protein,222,C -> T,SYNGTS_1319,SNP (transition),None,T,57.2%,BAK50067.1,C,,GAC -> GAT,42.8%
+T,3063900,3063900,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,528,C -> T,SYNGTS_2746,SNP (transition),None,T,59.0%,BAK51494.1,C,,CAG -> CAA,41.0%
+G,2997411,2997411,1,sll0092 CDS,transposase,332,A -> G,SYNGTS_2693,SNP (transition),Substitution,G,59.2%,BAK51441.1,A,I -> T,ATA -> ACA,40.8%
+T,1210509,1210509,1,sll1774 CDS,hypothetical protein,729,C -> T,SYNGTS_1089,SNP (transition),None,T,60.2%,BAK49837.1,C,,GAG -> GAA,39.8%
+A,1210632,1210632,1,sll1774 CDS,hypothetical protein,606,G -> A,SYNGTS_1089,SNP (transition),None,A,61.0%,BAK49837.1,G,,GTC -> GTT,39.0%
+A,1210893,1210893,1,sll1774 CDS,hypothetical protein,345,G -> A,SYNGTS_1089,SNP (transition),None,A,62.4%,BAK49837.1,G,,CAC -> CAT,37.6%
+G,1454192,1454192,1,slr1712 CDS,hypothetical protein,474,A -> G,SYNGTS_1319,SNP (transition),None,G,63.4%,BAK50067.1,A,,GTA -> GTG,36.6%
+C,1454193,1454193,1,slr1712 CDS,hypothetical protein,475,T -> C,SYNGTS_1319,SNP (transition),None,C,63.5%,BAK50067.1,T,,TTG -> CTG,36.5%
+G,3063578,3063578,1,sll0790 CDS,sensory transduction histidine kinase Hik31,165,A -> G,SYNGTS_2745,SNP (transition),None,G,63.6%,BAK51493.1,A,,ACT -> ACC,36.4%
+T,3063581,3063581,1,sll0790 CDS,sensory transduction histidine kinase Hik31,162,C -> T,SYNGTS_2745,SNP (transition),None,T,63.9%,BAK51493.1,C,,GGG -> GGA,36.1%
+A,3063589,3063589,1,sll0790 CDS,sensory transduction histidine kinase Hik31,154,G -> A,SYNGTS_2745,SNP (transition),None,A,63.9%,BAK51493.1,G,,CTA -> TTA,36.1%
+A,3063590,3063590,1,sll0790 CDS,sensory transduction histidine kinase Hik31,153,G -> A,SYNGTS_2745,SNP (transition),None,A,63.9%,BAK51493.1,G,,TCC -> TCT,36.1%
+A,3063852,3063852,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,576,G -> A,SYNGTS_2746,SNP (transition),None,A,64.0%,BAK51494.1,G,,GTC -> GTT,36.0%
+G,3063864,3063864,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,564,A -> G,SYNGTS_2746,SNP (transition),None,G,64.1%,BAK51494.1,A,,TCT -> TCC,35.9%
+T,3063584,3063584,1,sll0790 CDS,sensory transduction histidine kinase Hik31,159,C -> T,SYNGTS_2745,SNP (transition),None,T,64.3%,BAK51493.1,C,,GCG -> GCA,35.7%
+A,3063783,3063783,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,645,G -> A,SYNGTS_2746,SNP (transition),None,A,64.3%,BAK51494.1,G,,ACC -> ACT,35.7%
+A,3062555,3062555,1,sll0790 CDS,sensory transduction histidine kinase Hik31,1188,G -> A,SYNGTS_2745,SNP (transition),None,A,64.4%,BAK51493.1,G,,GAC -> GAT,35.6%
+TAA,3063596,3063598,2,sll0790 CDS,sensory transduction histidine kinase Hik31,145,AAG -> TAA,SYNGTS_2745,Substitution,None,TAA,64.4% -> 65.3%,BAK51493.1,AAG,,CTT -> TTA,
+G,3063565,3063565,1,sll0790 CDS,sensory transduction histidine kinase Hik31,178,A -> G,SYNGTS_2745,SNP (transition),None,G,64.6%,BAK51493.1,A,,TTG -> CTG,35.4%
+G,3063593,3063593,1,sll0790 CDS,sensory transduction histidine kinase Hik31,150,A -> G,SYNGTS_2745,SNP (transition),None,G,65.4%,BAK51493.1,A,,ACT -> ACC,34.6%
+T,3063599,3063599,1,sll0790 CDS,sensory transduction histidine kinase Hik31,144,C -> T,SYNGTS_2745,SNP (transition),None,T,65.6%,BAK51493.1,C,,GAG -> GAA,34.4%
+C,3063814,3063814,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,614,T -> C,SYNGTS_2746,SNP (transition),Substitution,C,66.2%,BAK51494.1,T,E -> G,GAG -> GGG,33.8%
+C,3063542,3063542,1,sll0790 CDS,sensory transduction histidine kinase Hik31,201,T -> C,SYNGTS_2745,SNP (transition),None,C,66.6%,BAK51493.1,T,,CCA -> CCG,33.3%
+C,1210896,1210896,1,sll1774 CDS,hypothetical protein,342,T -> C,SYNGTS_1089,SNP (transition),None,C,66.7%,BAK49837.1,T,,TTA -> TTG,33.3%
+A,3062606,3062606,1,sll0790 CDS,sensory transduction histidine kinase Hik31,1137,G -> A,SYNGTS_2745,SNP (transition),None,A,66.7%,BAK51493.1,G,,GGC -> GGT,33.3%
+C,3064284,3064284,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,144,G -> C,SYNGTS_2746,SNP (transversion),None,C,66.8%,BAK51494.1,G,,ACC -> ACG,33.2%
+C,1971231,1971231,1,slr1683 CDS,transposase,261,T -> C,SYNGTS_1798,SNP (transition),None,C,67.0%,BAK50546.1,T,,AGT -> AGC,33.0%
+T,3064281,3064281,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,147,C -> T,SYNGTS_2746,SNP (transition),None,T,67.2%,BAK51494.1,C,,CTG -> CTA,32.8%
+C,3063524,3063524,1,sll0790 CDS,sensory transduction histidine kinase Hik31,219,T -> C,SYNGTS_2745,SNP (transition),None,C,67.4%,BAK51493.1,T,,TCA -> TCG,32.6%
+C,1453958,1453958,1,slr1712 CDS,hypothetical protein,240,T -> C,SYNGTS_1319,SNP (transition),None,C,68.0%,BAK50067.1,T,,TAT -> TAC,32.0%
+G,3064092,3064092,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,336,A -> G,SYNGTS_2746,SNP (transition),None,G,68.4%,BAK51494.1,A,,GCT -> GCC,31.6%
+A,3063671,3063671,1,sll0790 CDS,sensory transduction histidine kinase Hik31,72,T -> A,SYNGTS_2745,SNP (transversion),None,A,68.6%,BAK51493.1,T,,CTA -> CTT,31.4%
+G,3064164,3064164,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,264,A -> G,SYNGTS_2746,SNP (transition),None,G,68.6%,BAK51494.1,A,,GAT -> GAC,31.4%
+T,3063674,3063674,1,sll0790 CDS,sensory transduction histidine kinase Hik31,69,C -> T,SYNGTS_2745,SNP (transition),None,T,68.7%,BAK51493.1,C,,GGG -> GGA,31.1%
+G,3064113,3064113,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,315,A -> G,SYNGTS_2746,SNP (transition),None,G,69.0%,BAK51494.1,A,,TTT -> TTC,31.0%
+A,3064122,3064122,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,306,G -> A,SYNGTS_2746,SNP (transition),None,A,69.0%,BAK51494.1,G,,ATC -> ATT,31.0%
+C,3064248,3064248,1,sll0789 CDS,OmpR subfamily protein Rre34/CopR,180,T -> C,SYNGTS_2746,SNP (transition),None,C,69.3%,BAK51494.1,T,,TCA -> TCG,30.7%
+A,3064638,3064638,1,sll0788 CDS,hypothetical protein,387,C -> A,SYNGTS_2747,SNP (transversion),Substitution,A,71.9%,BAK51495.1,C,E -> D,GAG -> GAT,28.1%
+G,1453817,1453817,1,slr1712 CDS,hypothetical protein,99,A -> G,SYNGTS_1319,SNP (transition),None,G,72.2%,BAK50067.1,A,,CCA -> CCG,27.8%
+G,3064864,3064864,1,sll0788 CDS,hypothetical protein,161,A -> G,SYNGTS_2747,SNP (transition),Substitution,G,72.2%,BAK51495.1,A,I -> T,ATT -> ACT,27.8%
+C,1454021,1454021,1,slr1712 CDS,hypothetical protein,303,T -> C,SYNGTS_1319,SNP (transition),None,C,74.0%,BAK50067.1,T,,GAT -> GAC,26.0%
+T,1454261,1454261,1,slr1712 CDS,hypothetical protein,543,C -> T,SYNGTS_1319,SNP (transition),None,T,74.7%,BAK50067.1,C,,ATC -> ATT,25.3%
+C,1453844,1453844,1,slr1712 CDS,hypothetical protein,126,G -> C,SYNGTS_1319,SNP (transversion),None,C,75.2%,BAK50067.1,G,,CGG -> CGC,24.8%
+C,1210827,1210827,1,sll1774 CDS,hypothetical protein,411,T -> C,SYNGTS_1089,SNP (transition),None,C,75.4%,BAK49837.1,T,,TTA -> TTG,24.4%
+G,1210832,1210832,1,sll1774 CDS,hypothetical protein,406,A -> G,SYNGTS_1089,SNP (transition),None,G,75.8%,BAK49837.1,A,,TTA -> CTA,24.2%
+C,1453890,1453890,1,slr1712 CDS,hypothetical protein,172,T -> C,SYNGTS_1319,SNP (transition),None,C,76.8%,BAK50067.1,T,,TTG -> CTG,23.2%
+C,1210644,1210644,1,sll1774 CDS,hypothetical protein,594,T -> C,SYNGTS_1089,SNP (transition),None,C,77.4%,BAK49837.1,T,,AAA -> AAG,22.5%
+T,1210740,1210740,1,sll1774 CDS,hypothetical protein,498,C -> T,SYNGTS_1089,SNP (transition),None,T,77.4%,BAK49837.1,C,,CGG -> CGA,22.6%
+G,1453856,1453856,1,slr1712 CDS,hypothetical protein,138,A -> G,SYNGTS_1319,SNP (transition),None,G,77.9%,BAK50067.1,A,,CTA -> CTG,22.1%
+G,1454024,1454024,1,slr1712 CDS,hypothetical protein,306,A -> G,SYNGTS_1319,SNP (transition),None,G,79.3%,BAK50067.1,A,,TTA -> TTG,20.7%
+G,1453976,1453976,1,slr1712 CDS,hypothetical protein,258,A -> G,SYNGTS_1319,SNP (transition),None,G,80.9%,BAK50067.1,A,,AAA -> AAG,19.1%
+CTA,1454124,1454126,2,slr1712 CDS,hypothetical protein,406,TTG -> CTA,SYNGTS_1319,Substitution,None,CTA,81.1% -> 81.6%,BAK50067.1,TTG,,TTG -> CTA,
+C,1453772,1453772,1,slr1712 CDS,hypothetical protein,54,T -> C,SYNGTS_1319,SNP (transition),None,C,81.4%,BAK50067.1,T,,GCT -> GCC,18.6%
+G,488230,488230,1,slr1609 CDS,long-chain-fatty-acid CoA ligase,764,T -> G,SYNGTS_0448,SNP (transversion),Substitution,G,100.0%,BAK49196.1,T,F -> C,TTC -> TGC,
+T,842060,842060,1,rpl3 CDS,50S ribosomal protein L3,554,C -> T,SYNGTS_0775,SNP (transition),Substitution,T,100.0%,BAK49523.1,C,R -> Q,CGG -> CAG,
+G,1943745,1943745,1,slr1174 CDS,hypothetical protein,343,C -> G,SYNGTS_1775,SNP (transversion),Substitution,G,100.0%,BAK50523.1,C,R -> G,CGC -> GGC,

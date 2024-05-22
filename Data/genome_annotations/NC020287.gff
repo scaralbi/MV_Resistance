@@ -1,0 +1,364 @@
+##gff-version 3
+##source-version geneious 2023.0.3
+##sequence-region	NC_020287	1	100749
+NC_020287	Geneious	region	1	100749	.	+	0	Is_circular=true
+NC_020287	Geneious	source	1	100749	.	+	.	Name=Moscow wildtype genome source Synechocystis sp. PCC 6803
+NC_020287	Geneious	gene	1	85	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699620.63
+NC_020287	Geneious	gene	98966	100749	.	-	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699620.63
+NC_020287	Geneious	CDS	1	85	.	-	0	Name=AAA family ATPase CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699620.64
+NC_020287	Geneious	CDS	98966	100749	.	-	0	Name=AAA family ATPase CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699620.64
+NC_020287	Geneious	gene	706	1287	.	-	.	
+NC_020287	Geneious	CDS	706	1287	.	-	0	Name=IS701 family transposase CDS
+NC_020287	Geneious	gene	1399	1827	.	-	.	
+NC_020287	Geneious	CDS	1399	1827	.	-	0	Name=type II toxin-antitoxin system VapC family toxin CDS
+NC_020287	Geneious	gene	1799	2032	.	-	.	
+NC_020287	Geneious	CDS	1799	2032	.	-	0	Name=DNA-binding protein CDS
+NC_020287	Geneious	Polymorphism	2186	2186	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2186	2186	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2234	2234	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2234	2234	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2271	2271	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2276	2276	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2278	2278	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2278	2278	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2281	2281	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2281	2281	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2283	2283	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2283	2283	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2331	2331	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2331	2331	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2337	2337	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2337	2337	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2371	2371	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2371	2371	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2385	2385	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2385	2385	.	.	.	Name=C
+NC_020287	Geneious	gene	2399	2965	.	+	.	
+NC_020287	Geneious	CDS	2399	2965	.	+	0	Name=site-specific integrase CDS
+NC_020287	Geneious	Polymorphism	2413	2413	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2413	2413	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2428	2428	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2428	2428	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2440	2440	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2440	2440	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2452	2452	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2452	2452	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2464	2465	.	.	.	Name=TATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.65
+NC_020287	Geneious	Polymorphism	2467	2467	.	.	.	Name=TATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.65
+NC_020287	Geneious	Polymorphism	2464	2465	.	.	.	Name=TATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.66
+NC_020287	Geneious	Polymorphism	2467	2467	.	.	.	Name=TATC;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.66
+NC_020287	Geneious	Polymorphism	2476	2476	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2476	2476	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2482	2482	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2483	2483	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2483	2483	.	.	.	Name=AGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.67
+NC_020287	Geneious	Polymorphism	2485	2485	.	.	.	Name=AGG;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699621.67
+NC_020287	Geneious	Polymorphism	2503	2503	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2506	2506	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2506	2506	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2524	2524	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2524	2524	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2533	2533	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2533	2533	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2536	2536	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2536	2536	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2539	2539	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2539	2539	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2545	2545	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2545	2545	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2551	2551	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2551	2551	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2561	2561	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2561	2561	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2575	2575	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2590	2590	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2590	2590	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2635	2635	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2662	2662	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2662	2662	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2669	2671	.	.	.	Name=
+NC_020287	Geneious	Polymorphism	2669	2671	.	.	.	Name=
+NC_020287	Geneious	Polymorphism	2679	2681	.	.	.	Name=GCT
+NC_020287	Geneious	Polymorphism	2679	2681	.	.	.	Name=GCT
+NC_020287	Geneious	Polymorphism	2690	2690	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2690	2690	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2704	2704	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2704	2704	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2728	2728	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2728	2728	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2764	2764	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2764	2764	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2767	2767	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2767	2767	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2779	2779	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2779	2779	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	2783	2785	.	.	.	Name=GAA
+NC_020287	Geneious	Polymorphism	2783	2785	.	.	.	Name=GAA
+NC_020287	Geneious	Polymorphism	2800	2800	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2824	2824	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2824	2824	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2830	2830	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2830	2830	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2842	2842	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2842	2842	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2848	2848	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2848	2848	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2857	2857	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2857	2857	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	2881	2881	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2884	2884	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2900	2900	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2905	2905	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	2908	2908	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	2914	2914	.	.	.	Name=G
+NC_020287	Geneious	gene	3041	3364	.	-	.	
+NC_020287	Geneious	CDS	3041	3364	.	-	0	Name=YlcI/YnfO family protein CDS
+NC_020287	Geneious	gene	3367	3819	.	-	.	
+NC_020287	Geneious	CDS	3367	3819	.	-	0	Name=putative toxin-antitoxin system toxin component%2CPIN family CDS
+NC_020287	Geneious	gene	4241	5257	.	+	.	
+NC_020287	Geneious	CDS	4241	5257	.	+	0	Name=IS4-like element IS4Sa family transposase CDS
+NC_020287	Geneious	gene	5340	6284	.	-	.	
+NC_020287	Geneious	CDS	5340	6284	.	-	0	Name=WYL domain-containing protein CDS
+NC_020287	Geneious	gene	6373	8517	.	+	.	Name=cas3 gene
+NC_020287	Geneious	CDS	6373	8517	.	+	0	Name=cas3 CDS
+NC_020287	Geneious	gene	8531	11458	.	+	.	Name=cas10d gene
+NC_020287	Geneious	CDS	8531	11458	.	+	0	Name=cas10d CDS
+NC_020287	Geneious	gene	11524	12513	.	+	.	Name=cas7d gene
+NC_020287	Geneious	CDS	11524	12513	.	+	0	Name=cas7d CDS
+NC_020287	Geneious	gene	12674	13438	.	+	.	Name=cas5d gene
+NC_020287	Geneious	CDS	12674	13438	.	+	0	Name=cas5d CDS
+NC_020287	Geneious	gene	13441	14229	.	+	.	Name=cas6 gene
+NC_020287	Geneious	CDS	13441	14229	.	+	0	Name=cas6 CDS
+NC_020287	Geneious	gene	14222	14794	.	+	.	Name=cas4 gene
+NC_020287	Geneious	CDS	14222	14794	.	+	0	Name=cas4 CDS
+NC_020287	Geneious	gene	14804	15781	.	+	.	Name=cas1d gene
+NC_020287	Geneious	CDS	14804	15781	.	+	0	Name=cas1d CDS
+NC_020287	Geneious	gene	15813	16097	.	+	.	Name=cas2 gene
+NC_020287	Geneious	CDS	15813	16097	.	+	0	Name=cas2 CDS
+NC_020287	Geneious	repeat_region	16310	17502	.	+	.	Name=repeat region
+NC_020287	Geneious	Polymorphism	16563	16584	.	.	.	Name=
+NC_020287	Geneious	Polymorphism	16585	16598	.	.	.	Name=
+NC_020287	Geneious	Polymorphism	17027	17038	.	.	.	Name=
+NC_020287	Geneious	gene	17867	19783	.	+	.	
+NC_020287	Geneious	CDS	17867	19783	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	19929	21659	.	+	.	
+NC_020287	Geneious	CDS	19929	21659	.	+	0	Name=DUF262 domain-containing protein CDS
+NC_020287	Geneious	gene	21707	22096	.	+	.	
+NC_020287	Geneious	CDS	21707	22096	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	22119	22487	.	+	.	
+NC_020287	Geneious	CDS	22119	22487	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	22526	23110	.	-	.	
+NC_020287	Geneious	CDS	22526	23110	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	23576	23796	.	-	.	
+NC_020287	Geneious	CDS	23576	23796	.	-	0	Name=DUF6036 family nucleotidyltransferase CDS
+NC_020287	Geneious	gene	23953	25209	.	-	.	
+NC_020287	Geneious	CDS	23953	25209	.	-	0	Name=VWA-like domain-containing protein CDS
+NC_020287	Geneious	gene	25206	26231	.	-	.	
+NC_020287	Geneious	CDS	25206	26231	.	-	0	Name=MoxR family ATPase CDS
+NC_020287	Geneious	gene	26451	26954	.	-	.	
+NC_020287	Geneious	CDS	26451	26954	.	-	0	Name=GNAT family N-acetyltransferase CDS
+NC_020287	Geneious	gene	26938	27240	.	-	.	
+NC_020287	Geneious	CDS	26938	27240	.	-	0	Name=DUF1778 domain-containing protein CDS
+NC_020287	Geneious	gene	27529	27743	.	-	.	
+NC_020287	Geneious	CDS	27529	27743	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	27953	28270	.	+	.	
+NC_020287	Geneious	CDS	27953	28270	.	+	0	Name=DUF86 domain-containing protein CDS
+NC_020287	Geneious	gene	28300	28641	.	-	.	
+NC_020287	Geneious	CDS	28300	28641	.	-	0	Name=DUF5615 family PIN-like protein CDS
+NC_020287	Geneious	gene	28638	28970	.	-	.	
+NC_020287	Geneious	CDS	28638	28970	.	-	0	Name=DUF433 domain-containing protein CDS
+NC_020287	Geneious	gene	29023	29196	.	+	.	
+NC_020287	Geneious	CDS	29023	29196	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	29242	29391	.	-	.	
+NC_020287	Geneious	CDS	29242	29391	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	29423	29698	.	+	.	
+NC_020287	Geneious	CDS	29423	29698	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	29890	30084	.	+	.	
+NC_020287	Geneious	CDS	29890	30084	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	30248	33124	.	+	.	
+NC_020287	Geneious	CDS	30248	33124	.	+	0	Name=DUF3854 domain-containing protein CDS
+NC_020287	Geneious	gene	33492	33779	.	-	.	
+NC_020287	Geneious	CDS	33492	33779	.	-	0	Name=putative addiction module antidote protein CDS
+NC_020287	Geneious	gene	33790	34080	.	-	.	
+NC_020287	Geneious	CDS	33790	34080	.	-	0	Name=type II toxin-antitoxin system RelE/ParE family toxin CDS
+NC_020287	Geneious	gene	34198	34449	.	+	.	
+NC_020287	Geneious	CDS	34198	34449	.	+	0	Name=AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS
+NC_020287	Geneious	gene	34440	34802	.	+	.	
+NC_020287	Geneious	CDS	34440	34802	.	+	0	Name=type II toxin-antitoxin system PemK/MazF family toxin CDS
+NC_020287	Geneious	gene	34868	35122	.	-	.	
+NC_020287	Geneious	CDS	34868	35122	.	-	0	Name=DUF1819 family protein CDS
+NC_020287	Geneious	gene	35155	35739	.	-	.	
+NC_020287	Geneious	CDS	35155	35739	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	35732	36313	.	-	.	
+NC_020287	Geneious	CDS	35732	36313	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	37846	38163	.	-	.	
+NC_020287	Geneious	CDS	37846	38163	.	-	0	Name=putative toxin-antitoxin system toxin component%2CPIN family CDS
+NC_020287	Geneious	gene	38238	38969	.	-	.	
+NC_020287	Geneious	CDS	38238	38969	.	-	0	Name=DUF4386 domain-containing protein CDS
+NC_020287	Geneious	gene	39020	39241	.	-	.	
+NC_020287	Geneious	CDS	39020	39241	.	-	0	Name=AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS
+NC_020287	Geneious	gene	39446	40093	.	+	.	
+NC_020287	Geneious	CDS	39446	40093	.	+	0	Name=recombinase family protein CDS
+NC_020287	Geneious	gene	40654	41247	.	-	.	
+NC_020287	Geneious	CDS	40654	41247	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	41850	42020	.	-	.	
+NC_020287	Geneious	CDS	41850	42020	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	42378	42620	.	-	.	
+NC_020287	Geneious	CDS	42378	42620	.	-	0	Name=Rho termination factor N-terminal domain-containing protein CDS
+NC_020287	Geneious	gene	42725	43231	.	+	.	
+NC_020287	Geneious	CDS	42725	43231	.	+	0	Name=helix-turn-helix domain-containing protein CDS
+NC_020287	Geneious	gene	43313	43780	.	-	.	
+NC_020287	Geneious	CDS	43313	43780	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	45151	45843	.	+	.	
+NC_020287	Geneious	CDS	45151	45843	.	+	0	Name=HNH endonuclease CDS
+NC_020287	Geneious	gene	46032	46334	.	+	.	
+NC_020287	Geneious	CDS	46032	46334	.	+	0	Name=HNH endonuclease CDS
+NC_020287	Geneious	Polymorphism	46073	46073	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	46073	46073	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	46094	46094	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46094	46094	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46102	46103	.	.	.	Name=TC
+NC_020287	Geneious	Polymorphism	46102	46103	.	.	.	Name=TC
+NC_020287	Geneious	Polymorphism	46133	46133	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46133	46133	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46142	46142	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46142	46142	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46151	46151	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46151	46151	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46156	46156	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46156	46156	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46159	46160	.	.	.	Name=AG
+NC_020287	Geneious	Polymorphism	46159	46160	.	.	.	Name=AG
+NC_020287	Geneious	Polymorphism	46162	46163	.	.	.	Name=AG
+NC_020287	Geneious	Polymorphism	46162	46163	.	.	.	Name=AG
+NC_020287	Geneious	Polymorphism	46166	46166	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	46166	46166	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	46187	46187	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46187	46187	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46193	46193	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46193	46193	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46212	46212	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	46212	46212	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	46235	46235	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46235	46235	.	.	.	Name=G
+NC_020287	Geneious	Polymorphism	46237	46237	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46237	46237	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	46242	46242	.	.	.	Name=TTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699671.68
+NC_020287	Geneious	Polymorphism	46244	46244	.	.	.	Name=TTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699671.68
+NC_020287	Geneious	Polymorphism	46242	46242	.	.	.	Name=TTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699671.69
+NC_020287	Geneious	Polymorphism	46244	46244	.	.	.	Name=TTA;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585699671.69
+NC_020287	Geneious	Polymorphism	46267	46268	.	.	.	Name=AC
+NC_020287	Geneious	Polymorphism	46267	46268	.	.	.	Name=AC
+NC_020287	Geneious	Polymorphism	46294	46294	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	46294	46294	.	.	.	Name=C
+NC_020287	Geneious	gene	46391	47035	.	+	.	
+NC_020287	Geneious	CDS	46391	47035	.	+	0	Name=MerR family transcriptional regulator CDS
+NC_020287	Geneious	gene	47032	48798	.	+	.	
+NC_020287	Geneious	CDS	47032	48798	.	+	0	Name=macro domain-containing protein CDS
+NC_020287	Geneious	gene	49138	50406	.	+	.	Name=csx2 gene
+NC_020287	Geneious	CDS	49138	50406	.	+	0	Name=csx2 CDS
+NC_020287	Geneious	gene	50482	51597	.	-	.	
+NC_020287	Geneious	CDS	50482	51597	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	51606	53993	.	-	.	
+NC_020287	Geneious	CDS	51606	53993	.	-	0	Name=TIGR03986 family CRISPR-associated RAMP protein CDS
+NC_020287	Geneious	gene	53995	54555	.	-	.	Name=csx19 gene
+NC_020287	Geneious	CDS	53995	54555	.	-	0	Name=csx19 CDS
+NC_020287	Geneious	gene	54555	56123	.	-	.	
+NC_020287	Geneious	CDS	54555	56123	.	-	0	Name=RAMP superfamily CRISPR-associated protein CDS
+NC_020287	Geneious	gene	56128	58503	.	-	.	
+NC_020287	Geneious	CDS	56128	58503	.	-	0	Name=RAMP superfamily CRISPR-associated protein CDS
+NC_020287	Geneious	gene	58506	60182	.	-	.	
+NC_020287	Geneious	CDS	58506	60182	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	60512	61612	.	+	.	Name=cas6 gene
+NC_020287	Geneious	CDS	60512	61612	.	+	0	Name=cas6 CDS
+NC_020287	Geneious	gene	61606	61920	.	-	.	Name=csx18 gene
+NC_020287	Geneious	CDS	61606	61920	.	-	0	Name=csx18 CDS
+NC_020287	Geneious	gene	61917	62252	.	-	.	
+NC_020287	Geneious	CDS	61917	62252	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	62423	63433	.	+	.	Name=cas1 gene
+NC_020287	Geneious	CDS	62423	63433	.	+	0	Name=cas1 CDS
+NC_020287	Geneious	gene	63443	63724	.	+	.	Name=cas2 gene
+NC_020287	Geneious	CDS	63443	63724	.	+	0	Name=cas2 CDS
+NC_020287	Geneious	gene	63824	64168	.	+	.	
+NC_020287	Geneious	CDS	63824	64168	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	64211	64465	.	-	.	
+NC_020287	Geneious	CDS	64211	64465	.	-	0	Name=hemolysin XhlA family protein CDS
+NC_020287	Geneious	gene	64537	65577	.	-	.	
+NC_020287	Geneious	CDS	64537	65577	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	repeat_region	66100	70220	.	+	.	Name=repeat region
+NC_020287	Geneious	Polymorphism	66855	66931	.	.	.	Name=
+NC_020287	Geneious	Polymorphism	69009	69021	.	.	.	Name=CTAGCCTTTGTGG
+NC_020287	Geneious	Polymorphism	69009	69021	.	.	.	Name=CTAGCCTTTGTGG
+NC_020287	Geneious	Polymorphism	69027	69027	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69027	69027	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69031	69031	.	.	.	Name=T
+NC_020287	Geneious	Polymorphism	69033	69033	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69082	69085	.	.	.	Name=TTTT
+NC_020287	Geneious	Polymorphism	69082	69085	.	.	.	Name=TTTT
+NC_020287	Geneious	Polymorphism	69088	69088	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69088	69088	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69092	69093	.	.	.	Name=CT
+NC_020287	Geneious	Polymorphism	69092	69093	.	.	.	Name=CT
+NC_020287	Geneious	Polymorphism	69095	69095	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69095	69095	.	.	.	Name=C
+NC_020287	Geneious	Polymorphism	69099	69099	.	.	.	Name=A
+NC_020287	Geneious	Polymorphism	69099	69099	.	.	.	Name=A
+NC_020287	Geneious	gene	70320	70901	.	-	.	
+NC_020287	Geneious	CDS	70320	70901	.	-	0	Name=HD domain-containing protein CDS
+NC_020287	Geneious	gene	70925	72370	.	-	.	
+NC_020287	Geneious	CDS	70925	72370	.	-	0	Name=TIGR03985 family CRISPR-associated protein CDS
+NC_020287	Geneious	gene	72599	73531	.	+	.	
+NC_020287	Geneious	CDS	72599	73531	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	73646	75034	.	+	.	
+NC_020287	Geneious	CDS	73646	75034	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	75041	76033	.	+	.	
+NC_020287	Geneious	CDS	75041	76033	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	76084	77217	.	+	.	
+NC_020287	Geneious	CDS	76084	77217	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	77263	77490	.	+	.	
+NC_020287	Geneious	CDS	77263	77490	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	77645	79375	.	-	.	
+NC_020287	Geneious	CDS	77645	79375	.	-	0	Name=RAMP superfamily CRISPR-associated protein CDS
+NC_020287	Geneious	gene	79638	80033	.	-	.	
+NC_020287	Geneious	CDS	79638	80033	.	-	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	80072	80851	.	-	.	Name=cmr4 gene
+NC_020287	Geneious	CDS	80072	80851	.	-	0	Name=cmr4 CDS
+NC_020287	Geneious	gene	80943	81323	.	+	.	
+NC_020287	Geneious	CDS	80943	81323	.	+	0	Name=peptidase CDS
+NC_020287	Geneious	gene	81347	82459	.	-	.	
+NC_020287	Geneious	CDS	81347	82459	.	-	0	Name=type III-B CRISPR module-associated protein Cmr3 CDS
+NC_020287	Geneious	gene	82641	85580	.	-	.	Name=cas10 gene
+NC_020287	Geneious	CDS	82641	85580	.	-	0	Name=cas10 CDS
+NC_020287	Geneious	gene	85704	86072	.	+	.	Name=csx18 gene
+NC_020287	Geneious	CDS	85704	86072	.	+	0	Name=csx18 CDS
+NC_020287	Geneious	gene	86069	87058	.	+	.	Name=cas1 gene
+NC_020287	Geneious	CDS	86069	87058	.	+	0	Name=cas1 CDS
+NC_020287	Geneious	gene	87062	87340	.	+	.	Name=cas2 gene
+NC_020287	Geneious	CDS	87062	87340	.	+	0	Name=cas2 CDS
+NC_020287	Geneious	repeat_region	87547	90400	.	+	.	Name=repeat region
+NC_020287	Geneious	gene	90518	90658	.	+	.	
+NC_020287	Geneious	CDS	90518	90658	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	90707	91096	.	+	.	
+NC_020287	Geneious	CDS	90707	91096	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	91115	91630	.	+	.	
+NC_020287	Geneious	CDS	91115	91630	.	+	0	Name=AAA family ATPase CDS
+NC_020287	Geneious	gene	91688	92053	.	+	.	
+NC_020287	Geneious	CDS	91688	92053	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	92160	92786	.	+	.	
+NC_020287	Geneious	CDS	92160	92786	.	+	0	Name=alpha-ketoglutarate-dependent dioxygenase AlkB CDS
+NC_020287	Geneious	gene	92811	93683	.	+	.	
+NC_020287	Geneious	CDS	92811	93683	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	93790	94380	.	+	.	
+NC_020287	Geneious	CDS	93790	94380	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	94615	95964	.	+	.	
+NC_020287	Geneious	CDS	94615	95964	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	95942	96457	.	+	.	
+NC_020287	Geneious	CDS	95942	96457	.	+	0	Name=hypothetical protein CDS
+NC_020287	Geneious	gene	96567	97583	.	+	.	
+NC_020287	Geneious	CDS	96567	97583	.	+	0	Name=family 10 glycosylhydrolase CDS
+NC_020287	Geneious	gene	97688	98149	.	-	.	
+NC_020287	Geneious	CDS	97688	98149	.	-	0	Name=ATP-binding domain-containing protein CDS
+NC_020287	Geneious	gene	98223	98582	.	+	.	
+NC_020287	Geneious	CDS	98223	98582	.	+	0	Name=IS630 transposase-related protein CDS
+NC_020287	Geneious	gene	98492	99070	.	+	.	
+NC_020287	Geneious	CDS	98492	99070	.	+	0	Name=IS630 family transposase CDS

@@ -1,0 +1,38 @@
+LOCUS       sll1180_amplicon-sequenc 698 bp ds-DNA     linear       27-JUL-2023
+DEFINITION  .
+KEYWORDS    "accession:BA000022.2"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: BA000022
+            Accession: BA000022.2 Description: Synechocystis sp. PCC 6803 DNA,
+            complete genome
+FEATURES             Location/Qualifiers
+     source          1..698
+                     /label="Synechocystis PCC6803 genome"
+     primer          1..21
+                     /label="sll1180_F"
+                     /note="sequence: ggtaaaggaggtagcccaatc"
+     CDS             complement(1..692)
+                     /label="hlyB CDS (HlyB family)"
+     gene            complement(1..692)
+                     /label="hlyB gene"
+     CDS             complement(1..692)
+                     /label="HlyB"
+                     /translation="MSLTIADYQSFLREIEPFAQLPAPAIAEIAAKLRPLRFRMGQIILARGKLANNVYFLVSGQARLLGYDPGTGYPATMALLQNGAVIGDNNAIRNVPCETAIASTETICASLTRDEFLALVDKYPELARVYRHQCGRVELFDLLGEQLQRTAQGNVDLRQLTLEMLPQSQVYELQPGSHSLPSDLPDPERLWLVSSGELEQCPRGSALPDPDSALVLKAQTLVRLIGLPPL"
+     misc_feature    276..278
+                     /label="L139P"
+     primer          complement(677..698)
+                     /label="sll1180_R"
+                     /note="sequence: gttgctatgagtctgaccattg"
+ORIGIN
+        1 ggtaaaggag gtagcccaat caaacggaca agggtttggg ccttgagcac caaggcagag
+       61 tctggatcag gcaaagcgct accccgggga cattgctcca attcaccact actcaccaac
+      121 caaagtcttt cgggatcggg caaatcactg ggcaaactgt ggctaccggg ttgcaactcg
+      181 taaacctgac tctggggcaa catttccagg gttagctggc gcaaatccac attgccttgg
+      241 gcggtgcgtt gtagctgttc ccctaataaa tcgaatagtt ccacccgacc gcattggtgg
+      301 cgataaaccc tggctagttc aggatactta tctaccaaag ctaaaaactc gtccctagtg
+      361 aggctggcgc aaatagtttc cgtagaggcg atcgccgttt cacaggggac atttctgatg
+      421 gcgttgttat ccccaatcac tgccccattc tggagcaaag ccatggtggc ggggtaacca
+      481 gtgccggggt cgtaaccgag tagtcttgct tgcccactga ctaagaaata aacattattg
+      541 gccaactttc cccgggcaag aattatctgt cccatgcgaa accttagcgg cctcagtttt
+      601 gccgctatct cggcgatcgc cggggcagga agttgagcaa agggttcaat ttcccgcaag
+      661 aaggattgat aatcggcaat ggtcagactc atagcaac
+//

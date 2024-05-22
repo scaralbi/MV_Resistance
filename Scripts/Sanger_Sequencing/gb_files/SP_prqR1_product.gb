@@ -1,0 +1,36 @@
+LOCUS       prqR_product_2762979-276 920 bp ds-DNA     linear       03-MAY-2023
+DEFINITION  .
+KEYWORDS    BA000022
+COMMENT     2762979
+
+FEATURES             Location/Qualifiers
+     source          1..920
+                     /label="Synechocystis PCC 6803 genome"
+     Promoter        1..180
+                     /label="PprqR"
+     RBS             171..175
+                     /label="RBS"
+     CDS1            185..748
+                     /label="slr0895 (prqR)"
+     Ribozyme        809..829
+                     /label="putative hairpin"
+     CDS2            882..920
+                     /label="slr0896 (prqA)"
+ORIGIN
+        1 gatcaactgg atgcaactca ttgtaaattt tctccgcggt aatcttcaaa ttattgcgcc
+       61 ccggtgaact tgacttccga ccgaCCGGAC GGTATCTTGA AAGTGTCCAA CCAACTGGAC
+      121 GGTTTAATTA TTTCCAGGTC TTCTGTCAAT TTAATATTTG CATTATCTGC GGAGGCGAAA
+      181 TTATatggtt tctggaaaaa ggcttcgttc caagtccatc caacccagcc aactactaac
+      241 tgcggctaat caagtcattg ttagtcaagg ggtggacgcc ctcaccttgg atgcggtggc
+      301 tagtgaagca ggggtgagca aaggcggatt gttacactac tttcccacca aggaggcttt
+      361 aattgcgggc atggttcagc aggccctaga caggtttgtg gaaacattgc atcaggaact
+      421 tgccaatgat ccagcccccg acaccccagg gcattgggtt agggcttata ttcgagcctc
+      481 agcgctagac gaccaggaaa attatgaact ccatttcaat ttgctggccg caaacttcac
+      541 caatcctgaa ttgttggccc ccatgcgaca tttttggcaa gagtgccatg ggcagattat
+      601 ggctagcggg ctcgatccgg ccgtagcaac ggtgattcga ttagctatgg acggtctttg
+      661 gttaacccac ttacacggtt ttgctcccct ggaagacccc ctgcgctccc aggtcattgc
+      721 cactgctctg aaactggccc agctatagtt tcccaatttt tcatcttttg ccgacgtttg
+      781 ccaaatggtt tccagcgctg gttggtggct ctagggaata tctttagaga aaatttgttt
+      841 tttcatattt aataactatt ttagttcttt gggtcaatgc tatgacagat atttcaatgc
+      901 gatttggcat gcaagcagag
+//

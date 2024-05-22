@@ -1,0 +1,11 @@
+##gff-version 3
+##source-version geneious 2023.0.3
+##sequence-region	NC_020289	1	2378
+NC_020289	Geneious	region	1	2378	.	+	0	Is_circular=true
+NC_020289	Geneious	source	1	2378	.	+	.	Name=Moscow wildtype genome source Synechocystis sp. PCC 6803
+NC_020289	Geneious	gene	648	1658	.	+	.	
+NC_020289	Geneious	CDS	648	1658	.	+	0	Name=protein rep CDS
+NC_020289	Geneious	gene	1857	2138	.	+	.	
+NC_020289	Geneious	CDS	1857	2138	.	+	0	Name=hypothetical protein CDS
+NC_020289	Geneious	gene	2159	2320	.	+	.	
+NC_020289	Geneious	CDS	2159	2320	.	+	0	Name=hypothetical protein CDS
