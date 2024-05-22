@@ -1,6 +1,10 @@
 # MV Resistance Project
-  - Dat+a
+  - [Data](/Data)
+    - Whole genome sequencing
+    - $PLACEHOLDER$
   - Scripts
+    - [DNA Sequencing Results Plotters](#dna-sequencing-results-plotters)
+    - [Oxygen electrode measurements plotter](#oxygen-electrode-measurements-plotter)
   - Figures
   - Text
 
