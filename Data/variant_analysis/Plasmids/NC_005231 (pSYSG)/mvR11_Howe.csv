@@ -1,0 +1,103 @@
+Name,Document Name,Minimum,Maximum,Length,Direction,GO_function,Amino Acid Change,CDS,CDS Position,Variant Frequency,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant P-Value (approximate),CDS Position Within Codon,GO_process,locus_tag,old_locus_tag,EC_number,gene,product,Reference Frequency,Reference Nucleotide(s),Variant Nucleotide(s),protein_id
+type I restriction endonuclease subunit R CDS,mvR11_Howe,1,44343,2970,reverse,GO:0005524 - ATP binding [Evidence IEA]; GO:0016887 - ATP hydrolysis activity [Evidence IEA]; GO:0003677 - DNA binding [Evidence IEA]; GO:0004386 - helicase activity [Evidence IEA]; GO:0009035 - type I site-specific deoxyribonuclease activity [Evidence IEA],,,,,,,,,,,,,SGL_RS01125,sll8049,3.1.21.3,,type I restriction endonuclease subunit R,,,,WP_011153818.1
+WD40 repeat domain-containing protein CDS,mvR11_Howe,32698,36411,3714,forward,GO:0005515 - protein binding [Evidence IEA],,,,,,,,,,,,,SGL_RS01315,slr8038,,,WD40 repeat domain-containing protein,,,,WP_011153809.1
+alkaline phosphatase PhoX CDS,mvR11_Howe,25147,27345,2199,forward,,,,,,,,,,,,,,SGL_RS01275,slr8030,,,alkaline phosphatase PhoX,,,,WP_011153801.1
+class I SAM-dependent DNA methyltransferase CDS,mvR11_Howe,6652,8619,1968,reverse,GO:0008168 - methyltransferase activity [Evidence IEA]; GO:1904047 - S-adenosyl-L-methionine binding [Evidence IEA],,,,,,,,,,,,,SGL_RS01170,sll8009,,,class I SAM-dependent DNA methyltransferase,,,,
+hypothetical protein CDS,mvR11_Howe,39500,40969,1470,forward,,,,,,,,,,,,,,SGL_RS01335,slr8044,,,hypothetical protein,,,,WP_223211248.1
+hypothetical protein CDS,mvR11_Howe,13695,15104,1410,reverse,,,,,,,,,,,,,,SGL_RS01220,sll8018,,,hypothetical protein,,,,WP_223211249.1
+restriction endonuclease subunit S CDS,mvR11_Howe,4652,6046,1395,reverse,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,GO:0006304 - DNA modification [Evidence IEA],SGL_RS01155,sll8006,3.1.21.-,,restriction endonuclease subunit S,,,,WP_011153777.1
+carboxylesterase family protein CDS,mvR11_Howe,19938,21278,1341,forward,,,,,,,,,,,,,,SGL_RS01245,slr8023,,,carboxylesterase family protein,,,,WP_011153794.1
+hypothetical protein CDS,mvR11_Howe,15590,16915,1326,reverse,,,,,,,,,,,,,,SGL_RS01225,sll8019,,,hypothetical protein,,,,WP_223211250.1
+GNAT family N-acetyltransferase CDS,mvR11_Howe,31402,32598,1197,forward,"GO:0016747 - acyltransferase activity, transferring groups other than amino-acyl groups [Evidence IEA]; GO:0008080 - N-acetyltransferase activity [Evidence IEA]",,,,,,,,,,,,,SGL_RS20230,,2.3.1.-,,GNAT family N-acetyltransferase,,,,WP_199303656.1
+IS630 family transposase CDS,mvR11_Howe,41056,41903,848,forward,GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS18575,,,,IS630 family transposase,,,,
+IS630 family transposase CDS,mvR11_Howe,38568,39415,848,reverse,GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS18570,,,,IS630 family transposase,,,,
+macro domain-containing protein CDS,mvR11_Howe,1920,2966,1047,reverse,,,,,,,,,,,,,,SGL_RS01130,sll8001,,,macro domain-containing protein,,,,WP_011153772.1
+nitronate monooxygenase CDS,mvR11_Howe,29006,30040,1035,reverse,"GO:0010181 - FMN binding [Evidence IEA]; GO:0016703 - oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases) [Evidence IEA]",,,,,,,,,,,,,SGL_RS01295,sll8034,1.13.12.-,,nitronate monooxygenase,,,,WP_011153805.1
+ParB/RepB/Spo0J family partition protein CDS,mvR11_Howe,10998,11867,870,forward,,,,,,,,,,,,,,SGL_RS01205,slr8016,,,ParB/RepB/Spo0J family partition protein,,,,WP_011153787.1
+class I SAM-dependent methyltransferase CDS,mvR11_Howe,18529,19311,783,forward,GO:0008168 - methyltransferase activity [Evidence IEA]; GO:1904047 - S-adenosyl-L-methionine binding [Evidence IEA],,,,,,,,,,,,,SGL_RS01235,slr8021,2.1.-.-,,class I SAM-dependent methyltransferase,,,,WP_011153792.1
+HNH endonuclease CDS,mvR11_Howe,37299,38048,750,reverse,,,,,,,,,,,,,,SGL_RS01320,sll8040,,,HNH endonuclease,,,,WP_011153811.1
+Crp/Fnr family transcriptional regulator CDS,mvR11_Howe,17687,18409,723,reverse,GO:0030552 - cAMP binding [Evidence IEA]; GO:0003700 - DNA-binding transcription factor activity [Evidence IEA],,,,,,,,,,,,GO:0006355 - regulation of DNA-templated transcription [Evidence IEA],SGL_RS01230,sll8020,,,Crp/Fnr family transcriptional regulator,,,,WP_011153791.1
+SprT family zinc-dependent metalloprotease CDS,mvR11_Howe,42203,42913,711,reverse,GO:0046872 - metal ion binding [Evidence IEA]; GO:0008237 - metallopeptidase activity [Evidence IEA],,,,,,,,,,,,GO:0006508 - proteolysis [Evidence IEA],SGL_RS01355,sll8048,3.4.-.-,,SprT family zinc-dependent metalloprotease,,,,WP_011153817.1
+DUF4433 domain-containing protein CDS,mvR11_Howe,2983,3621,639,reverse,,,,,,,,,,,,,,SGL_RS01135,sll8002,,,DUF4433 domain-containing protein,,,,WP_011153773.1
+nuoB CDS,mvR11_Howe,<27401,28012,>612,reverse,GO:0051536 - iron-sulfur cluster binding [Evidence IEA]; GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; GO:0048038 - quinone binding [Evidence IEA],,,,,,,,,,,,,SGL_RS01280,ndhK2,,nuoB,NADH-quinone oxidoreductase subunit NuoB,,,,
+ParA family protein CDS,mvR11_Howe,10395,10994,600,forward,GO:0005524 - ATP binding [Evidence IEA],,,,,,,,,,,,,SGL_RS01200,slr8015,,,ParA family protein,,,,WP_011153786.1
+recombinase family protein CDS,mvR11_Howe,24295,24861,567,forward,GO:0003677 - DNA binding [Evidence IEA]; GO:0000150 - DNA strand exchange activity [Evidence IEA],,,,,,,,,,,,GO:0006310 - DNA recombination [Evidence IEA],SGL_RS01270,slr8029,,,recombinase family protein,,,,WP_011153800.1
+hypothetical protein CDS,mvR11_Howe,12618,13181,564,reverse,,,,,,,,,,,,,,SGL_RS01215,sll8017,,,hypothetical protein,,,,WP_199303651.1
+zeta toxin family protein CDS,mvR11_Howe,3836,4372,537,reverse,GO:0005524 - ATP binding [Evidence IEA]; GO:0016301 - kinase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS01145,sll8004,,,zeta toxin family protein,,,,WP_041428288.1
+MarR family transcriptional regulator CDS,mvR11_Howe,22461,22985,525,forward,GO:0003677 - DNA binding [Evidence IEA]; GO:0003700 - DNA-binding transcription factor activity [Evidence IEA],,,,,,,,,,,,,SGL_RS01255,slr8026,,,MarR family transcriptional regulator,,,,WP_011153797.1
+hypothetical protein CDS,mvR11_Howe,21810,22325,516,reverse,,,,,,,,,,,,,,SGL_RS01250,sll8025,,,hypothetical protein,,,,WP_011153796.1
+DUF6653 family protein CDS,mvR11_Howe,30084,30587,504,reverse,,,,,,,,,,,,,,SGL_RS01300,sll8035,,,DUF6653 family protein,,,,WP_011153806.1
+"putative toxin-antitoxin system toxin component,PIN family CDS",mvR11_Howe,23434,23859,426,reverse,GO:0005515 - protein binding [Evidence IEA];GO:0004521 - RNA endonuclease activity [Evidence IEA],,,,,,,,,,,,,SGL_RS01260,sll8027,,,"putative toxin-antitoxin system toxin component,PIN family",,,,WP_011153798.1
+PIN domain-containing protein CDS,mvR11_Howe,9948,10373,426,forward,,,,,,,,,,,,,,SGL_RS01195,slr8014,,,PIN domain-containing protein,,,,WP_011153785.1
+GNAT family N-acetyltransferase CDS,mvR11_Howe,30954,31376,423,forward,GO:0008080 - N-acetyltransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS19695,,,,GNAT family N-acetyltransferase,,,,WP_223211247.1
+hypothetical protein CDS,mvR11_Howe,9205,9621,417,reverse,,,,,,,,,,,,,,SGL_RS01185,sll8012,,,hypothetical protein,,,,WP_011153783.1
+DUF5615 family PIN-like protein CDS,mvR11_Howe,8821,9195,375,reverse,,,,,,,,,,,,,,SGL_RS01180,sll8011,,,DUF5615 family PIN-like protein,,,,WP_011153782.1
+DUF5615 family PIN-like protein CDS,mvR11_Howe,6043,6393,351,reverse,,,,,,,,,,,,,,SGL_RS01160,sll8007,,,DUF5615 family PIN-like protein,,,,WP_011153778.1
+YdhR family protein CDS,mvR11_Howe,28120,28461,342,reverse,,,,,,,,,,,,,,SGL_RS01285,sll8032,,,YdhR family protein,,,,WP_011153803.1
+hypothetical protein CDS,mvR11_Howe,42903,43241,339,reverse,,,,,,,,,,,,,,SGL_RS01360,,,,hypothetical protein,,,,WP_041428293.1
+cupin domain-containing protein CDS,mvR11_Howe,19356,19691,336,forward,,,,,,,,,,,,,,SGL_RS01240,slr8022,,,cupin domain-containing protein,,,,WP_011153793.1
+hypothetical protein CDS,mvR11_Howe,28521,28823,303,reverse,,,,,,,,,,,,,,SGL_RS01290,sll8033,,,hypothetical protein,,,,WP_223211246.1
+hypothetical protein CDS,mvR11_Howe,36679,36978,300,reverse,,,,,,,,,,,,,,SGL_RS19310,,,,hypothetical protein,,,,WP_158299060.1
+hypothetical protein CDS,mvR11_Howe,38411,38557,147,forward,,,,,,,,,,,,,,SGL_RS19395,,,,hypothetical protein,,,,WP_158299062.1
+nucleotidyltransferase family protein CDS,mvR11_Howe,4365,4655,291,reverse,,,,,,,,,,,,,,SGL_RS01150,ssl8005,,,nucleotidyltransferase family protein,,,,WP_011153776.1
+DUF2281 domain-containing protein CDS,mvR11_Howe,9713,9940,228,forward,,,,,,,,,,,,,,SGL_RS01190,ssr8013,,,DUF2281 domain-containing protein,,,,WP_011153784.1
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS,mvR11_Howe,23856,24077,222,reverse,,,,,,,,,,,,,,SGL_RS01265,ssl8028,,,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,,,,WP_011153799.1
+DUF433 domain-containing protein CDS,mvR11_Howe,6377,6601,225,reverse,,,,,,,,,,,,,,SGL_RS01165,ssl8008,,,DUF433 domain-containing protein,,,,WP_011153779.1
+TetR/AcrR family transcriptional regulator CDS,mvR11_Howe,<23002,>23196,>195,reverse,,,,,,,,,,,,,,SGL_RS20225,,,,TetR/AcrR family transcriptional regulator,,,,
+hypothetical protein CDS,mvR11_Howe,3660,3839,180,reverse,,,,,,,,,,,,,,SGL_RS01140,ssl8003,,,hypothetical protein,,,,WP_011153774.1
+gene,mvR11_Howe,1,44343,2970,reverse,,,,,,,,,,,,,,SGL_RS01125,sll8049,,,,,,,
+gene,mvR11_Howe,32698,36411,3714,forward,,,,,,,,,,,,,,SGL_RS01315,slr8038,,,,,,,
+gene,mvR11_Howe,25147,27345,2199,forward,,,,,,,,,,,,,,SGL_RS01275,slr8030,,,,,,,
+gene,mvR11_Howe,6652,8619,1968,reverse,,,,,,,,,,,,,,SGL_RS01170,sll8009,,,,,,,
+gene,mvR11_Howe,39500,40969,1470,forward,,,,,,,,,,,,,,SGL_RS01335,slr8044,,,,,,,
+gene,mvR11_Howe,13695,15104,1410,reverse,,,,,,,,,,,,,,SGL_RS01220,sll8018,,,,,,,
+gene,mvR11_Howe,4652,6046,1395,reverse,,,,,,,,,,,,,,SGL_RS01155,sll8006,,,,,,,
+gene,mvR11_Howe,19938,21278,1341,forward,,,,,,,,,,,,,,SGL_RS01245,slr8023,,,,,,,
+gene,mvR11_Howe,15590,16915,1326,reverse,,,,,,,,,,,,,,SGL_RS01225,sll8019,,,,,,,
+gene,mvR11_Howe,31402,32598,1197,forward,,,,,,,,,,,,,,SGL_RS20230,,,,,,,,
+gene,mvR11_Howe,41056,41903,848,forward,,,,,,,,,,,,,,SGL_RS18575,,,,,,,,
+gene,mvR11_Howe,38568,39415,848,reverse,,,,,,,,,,,,,,SGL_RS18570,,,,,,,,
+gene,mvR11_Howe,1920,2966,1047,reverse,,,,,,,,,,,,,,SGL_RS01130,sll8001,,,,,,,
+gene,mvR11_Howe,29006,30040,1035,reverse,,,,,,,,,,,,,,SGL_RS01295,sll8034,,,,,,,
+gene,mvR11_Howe,10998,11867,870,forward,,,,,,,,,,,,,,SGL_RS01205,slr8016,,,,,,,
+gene,mvR11_Howe,18529,19311,783,forward,,,,,,,,,,,,,,SGL_RS01235,slr8021,,,,,,,
+gene,mvR11_Howe,37299,38048,750,reverse,,,,,,,,,,,,,,SGL_RS01320,sll8040,,,,,,,
+gene,mvR11_Howe,17687,18409,723,reverse,,,,,,,,,,,,,,SGL_RS01230,sll8020,,,,,,,
+gene,mvR11_Howe,42203,42913,711,reverse,,,,,,,,,,,,,,SGL_RS01355,sll8048,,,,,,,
+gene,mvR11_Howe,2983,3621,639,reverse,,,,,,,,,,,,,,SGL_RS01135,sll8002,,,,,,,
+nuoB gene,mvR11_Howe,<27401,28012,>612,reverse,,,,,,,,,,,,,,SGL_RS01280,ndhK2,,nuoB,,,,,
+gene,mvR11_Howe,10395,10994,600,forward,,,,,,,,,,,,,,SGL_RS01200,slr8015,,,,,,,
+gene,mvR11_Howe,24295,24861,567,forward,,,,,,,,,,,,,,SGL_RS01270,slr8029,,,,,,,
+gene,mvR11_Howe,12618,13181,564,reverse,,,,,,,,,,,,,,SGL_RS01215,sll8017,,,,,,,
+gene,mvR11_Howe,3836,4372,537,reverse,,,,,,,,,,,,,,SGL_RS01145,sll8004,,,,,,,
+gene,mvR11_Howe,22461,22985,525,forward,,,,,,,,,,,,,,SGL_RS01255,slr8026,,,,,,,
+gene,mvR11_Howe,21810,22325,516,reverse,,,,,,,,,,,,,,SGL_RS01250,sll8025,,,,,,,
+gene,mvR11_Howe,30084,30587,504,reverse,,,,,,,,,,,,,,SGL_RS01300,sll8035,,,,,,,
+gene,mvR11_Howe,23434,23859,426,reverse,,,,,,,,,,,,,,SGL_RS01260,sll8027,,,,,,,
+gene,mvR11_Howe,9948,10373,426,forward,,,,,,,,,,,,,,SGL_RS01195,slr8014,,,,,,,
+gene,mvR11_Howe,30954,31376,423,forward,,,,,,,,,,,,,,SGL_RS19695,,,,,,,,
+gene,mvR11_Howe,9205,9621,417,reverse,,,,,,,,,,,,,,SGL_RS01185,sll8012,,,,,,,
+gene,mvR11_Howe,8821,9195,375,reverse,,,,,,,,,,,,,,SGL_RS01180,sll8011,,,,,,,
+gene,mvR11_Howe,6043,6393,351,reverse,,,,,,,,,,,,,,SGL_RS01160,sll8007,,,,,,,
+gene,mvR11_Howe,28120,28461,342,reverse,,,,,,,,,,,,,,SGL_RS01285,sll8032,,,,,,,
+gene,mvR11_Howe,42903,43241,339,reverse,,,,,,,,,,,,,,SGL_RS01360,,,,,,,,
+gene,mvR11_Howe,19356,19691,336,forward,,,,,,,,,,,,,,SGL_RS01240,slr8022,,,,,,,
+gene,mvR11_Howe,28521,28823,303,reverse,,,,,,,,,,,,,,SGL_RS01290,sll8033,,,,,,,
+gene,mvR11_Howe,36679,36978,300,reverse,,,,,,,,,,,,,,SGL_RS19310,,,,,,,,
+gene,mvR11_Howe,38411,38557,147,forward,,,,,,,,,,,,,,SGL_RS19395,,,,,,,,
+gene,mvR11_Howe,4365,4655,291,reverse,,,,,,,,,,,,,,SGL_RS01150,ssl8005,,,,,,,
+gene,mvR11_Howe,9713,9940,228,forward,,,,,,,,,,,,,,SGL_RS01190,ssr8013,,,,,,,
+gene,mvR11_Howe,23856,24077,222,reverse,,,,,,,,,,,,,,SGL_RS01265,ssl8028,,,,,,,
+gene,mvR11_Howe,6377,6601,225,reverse,,,,,,,,,,,,,,SGL_RS01165,ssl8008,,,,,,,
+gene,mvR11_Howe,<23002,>23196,>195,reverse,,,,,,,,,,,,,,SGL_RS20225,,,,,,,,
+gene,mvR11_Howe,3660,3839,180,reverse,,,,,,,,,,,,,,SGL_RS01140,ssl8003,,,,,,,
+G,mvR11_Howe,2,2,1,none,,I -> T,type I restriction endonuclease subunit R CDS,1913,21.1%,A -> G,ATC -> ACC,19,SNP (transition),Substitution,6.9E-9,2,,SGL_RS01125,,,,type I restriction endonuclease subunit R,26.3%,A,G,WP_011153818.1
+GTCTATCTTGTCGGTGA,mvR11_Howe,2,2,1,none,,,type I restriction endonuclease subunit R CDS,1913,26.3%,A -> GTCTATCTTGTCGGTGA,,19,Insertion,Frame Shift,7.5E-8,2,,SGL_RS01125,,,,type I restriction endonuclease subunit R,,A,GTCTATCTTGTCGGTGA,WP_011153818.1
+TCTTGTCGGTGA,mvR11_Howe,3,2,0,none,,I -> ITDKI,type I restriction endonuclease subunit R CDS,1913,26.3%,+TCTTGTCGGTGA,"ATC -> ATC,ACC,GAC,AAG,ATC",19,Insertion,Insertion,1.8E-11,2,,SGL_RS01125,,,,type I restriction endonuclease subunit R,,,TCTTGTCGGTGA,WP_011153818.1
+GATC,mvR11_Howe,4,4,1,none,,Q -> QI,type I restriction endonuclease subunit R CDS,1911,20.0%,C -> GATC,"CAG -> CAG,ATC",20,Insertion,Insertion,1.9E-11,3,,SGL_RS01125,,,,type I restriction endonuclease subunit R,,C,GATC,WP_011153818.1
+T,mvR11_Howe,36139,36139,1,none,,,WD40 repeat domain-containing protein CDS,3442,27.4%,G -> T,,135,SNP (transversion),Truncation,1.7E-14,1,,SGL_RS01315,,,,WD40 repeat domain-containing protein,68.9%,G,T,WP_011153809.1
+A,mvR11_Howe,36151,36151,1,none,,L -> I,WD40 repeat domain-containing protein CDS,3454,22.8%,C -> A,CTT -> ATT,136,SNP (transversion),Substitution,3.5E-10,1,,SGL_RS01315,,,,WD40 repeat domain-containing protein,75.7%,C,A,WP_011153809.1
+A,mvR11_Howe,44340,44340,1,none,,D -> Y,type I restriction endonuclease subunit R CDS,1918,25.9%,C -> A,GAC -> TAC,27,SNP (transversion),Substitution,6.2E-15,1,,SGL_RS01125,,,,type I restriction endonuclease subunit R,18.5%,C,A,WP_011153818.1
+G,mvR11_Howe,44340,44340,1,none,,D -> H,type I restriction endonuclease subunit R CDS,1918,22.2%,C -> G,GAC -> CAC,27,SNP (transversion),Substitution,7.3E-14,1,,SGL_RS01125,,,,type I restriction endonuclease subunit R,18.5%,C,G,WP_011153818.1
+AC,mvR11_Howe,44341,44342,2,none,,T -> S,type I restriction endonuclease subunit R CDS,1916,30.8% -> 38.1%,GG -> AC,ACC -> AGT,21 -> 26,Substitution,Substitution,9.7E-18,2,,SGL_RS01125,,,,type I restriction endonuclease subunit R,,GG,AC,WP_011153818.1
+C,mvR11_Howe,44342,44342,1,none,,T -> S,type I restriction endonuclease subunit R CDS,1916,28.6%,G -> C,ACC -> AGC,21,SNP (transversion),Substitution,5.3E-15,2,,SGL_RS01125,,,,type I restriction endonuclease subunit R,19.0%,G,C,WP_011153818.1

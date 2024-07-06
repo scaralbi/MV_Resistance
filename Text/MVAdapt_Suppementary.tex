@@ -5,6 +5,7 @@
 \renewcommand\familydefault{\sfdefault} 
 \usepackage{rotating}
 \usepackage{natbib}
+\usepackage{soul}
 \bibliographystyle{agsm} %Imperial College Harvard Style
 \usepackage{authblk} %Add second authors and affiliations
 \renewcommand{\bibsection}{} %Hide 'References' header
@@ -15,7 +16,10 @@
 \usepackage{amsmath}
 \usepackage{setspace}
 \usepackage[font=singlespacing]{caption}
-
+\usepackage{listings}
+\lstset{keywordstyle=\bfseries, breaklines=true,
+postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}, basicstyle=\footnotesize, numbers=left,
+stepnumber=1, numberstyle=\tiny}
 \usepackage[usenames,dvipsnames, table, xcdraw]{xcolor}
 \usepackage{multirow}
 \definecolor{mygray}{gray}{0.1}
@@ -38,9 +42,10 @@
 %headers
 \usepackage{fancyhdr}
 
-\title{Supplementary Information}
+\title{\textbf{Supplementary Information} 
+}
 \author{Alberto Scarampi}
-\date{May 2024}
+\date{}
 \DeclareUnicodeCharacter{2212}{-}
 \setcounter{tocdepth}{3}
 \setcounter{secnumdepth}{3}
@@ -52,107 +57,69 @@
 \tableofcontents
 
 
-\section{Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}
-Methyl viologen (MV) mediates its cytotoxic effects through the production of reactive oxygen species (ROS). To assess the impact of MV on ROS generation, we employed a ROS quantification assay using cultures of \textit{Synechocystis sp.} PCC 6803 incubated with the ROS-sensitive fluorophore 2',7'-dichlorofluorescein diacetate (DCFH-DA). Given that MV can act as an electron acceptor from Photosystem I (PSI) and its mechanism of action is contingent upon photosynthetic electron flow, the assay was executed under both light and dark conditions. 
-In accordance with our hypothesis, cultures treated with 10 $\mu$M MV exhibited a significant intracellular accumulation of ROS. Notably, this ROS accumulation was markedly enhanced under light conditions, thereby corroborating that MV toxicity is mediated via a photosynthetic electron flow-dependent mechanism. 
 
-It is important to note that DCFH-DA is a non-specific ROS indicator, limiting our capacity to differentiate among various ROS types. However, prior studies have demonstrated that MV is capable of generating superoxide anions, hydrogen peroxide, and hydroxyl radicals upon interaction with PSI, both in vitro and in cyanobacterial cells in vivo.
+\section{Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}
+
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png}
-    \caption{ROS quantification assay based on the substrate DCFH-DA, which becomes fluorescent upon reaction with intracellular ROS. A) DCF fluorescence in cultures of \textit{Synechocystis} at various time points after treatment with 10 $\mu$M MV (in the dark). B) DCF fluorescence at various time points after treatment with 10 $\mu$M MV (under 40 $\mu$Em$^{-2}$s$^{-1}$ of white light illumination). C) Fold changes in DCF fluorescence between cultures treated with MV and no treatment control in the darkness and light at various time points. Error bars represent standard error of the mean from three biological replicates (individual colonies treated independently).}
+    \caption{ROS quantification assay based on the substrate DCFH-DA, which becomes fluorescent upon reaction with intracellular reactive oxygen species. A) DCF fluorescence in cultures of \textit{Synechocystis} at various time points after treatment with 10 $\mu$M methyl viologen (in the dark). B) DCF fluorescence at various time points after treatment with 10 $\mu$M MV (under 40 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$ of white light illumination). C) Fold changes in DCF fluorescence between cultures treated with methyl viologen and no treatment control in the darkness and light at various time points. Error bars represent standard error of the mean from three biological replicates (individual colonies treated independently).}
     \label{fig:spectraMV1}
 \end{figure}
 
 \section{Adaptation to methyl viologen is not due to its abiotic degration over time}
-\textit{Synechocystis} cells were able to resume growing after growth-inhibiting treatments with MV. However such growth resumption could have been a result of the abiotic chemical degradation of methyl viologen inside the flasks, especially given that the growth curves were performed for a considerably long time at 30 degrees and in the presence of light. To discard this hypothesis, three cultures from adapted flasks were re-diluted, alongside unadapted controls and their susceptibility against addition of methyl viologen from a freshly prepared stock was quantified in a new growth curve. As demonstrated in Figure \ref{fig:freshstock}, previously adapted cultures were insensitive to addition of fresh methyl viologen, which instead expectedly inhibited the growth of wild-type, "unadapted'' cultures. This confirmd that spontaneous degradation of methyl viologen was not responsible for the observed adaptation, which may be then due to the evolution of biotic resistance mechanisms. 
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png}
-    \caption{Growth curves of three independent unadapted (A) and MV-adapted (B) cultures of \textit{Synechocystis sp.} PCC 6803 growing at 30 $\circ$ under constant illumination (intensity = 100 $\mu Em^{-2}s^{-1}$) in the absence (green trace) and upon addition of 6 $\mu M$ of methyl viologen (from a fresh stock) during exponential growth (purple trace). Shaded regions represent standard deviations from three biological replicates.}
+    \caption{Growth curves of three independent unadapted (A) and MV-adapted (B) cultures of \textit{Synechocystis sp.} PCC 6803 growing at 30$^\circ$C under constant illumination (intensity = 100 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$) in the absence (green trace) and upon addition of 6 $\mu M$  methyl viologen (from a fresh stock) during exponential growth (purple trace). Shaded regions represent standard errors over the means from three biological replicates.}
     \label{fig:freshstock}
 \end{figure}
 
-Figure \ref{fig:spectraMV1} shows the absorbance spectra of unadapted (A) and adapted (B) strains after treatment with methyl viologen after 6 days of growth. Addition of methyl viologen to unadapted strains dramatically altered the pigment content of the strains, resulting in no detectable chlorophyll peaks. On the other hand, adapted strains were able to tolerate fresh addition of methyl viologen. Addition of methyl viologen to these strains results in non-lethal loss of chlorophyll concentration per cell compared to non-treated controls. 
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png}
-    \caption{Absorbance spectra of unadapted (A) and adapted (B) cultures of \textit{Synechocystis sp.} PCC 6803 after 6 days of growth at 30 $\circ$ under constant illumination (intensity = 100 $\mu Em^{-2}s^{-1}$) in the absence (green trace) and upon addition  of 6 $\mu M$ of methyl viologen during exponential growth (purple trace). Shaded regions represent standard errors from three biological replicates.}
+    \caption{Absorbance spectra of unadapted (A) and adapted (B) cultures of \textit{Synechocystis sp.} PCC 6803 after 6 days of growth at 30$^\circ$C under constant illumination (intensity = 100 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$) in the absence (green trace) and upon addition  of 6 $\mu$M methyl viologen during mod-log phase (purple trace). Shaded regions represent standard errors over the means from three biological replicates.}
     \label{fig:spectraMV1}
 \end{figure}
 
-\section{Spot plates of Strains Grown in BG11 without or with MV (6 $\mu$M)}
-During the spontaneous evolution experiments, the cultures had been growing for over a month and had been exposed to muluiple selective pressures. Therefore in the different flask, different subpopulations could have been present, complicating future DNA sequencing analyses. To overcome this limitations, adapted and unadapted cultures were spotted at different dilutions on BG11 plates containing no or 6 $\mu M$ of methyl viologen. As shown in Figure \ref{fig:spotassayMV}, only previously adapted strains (labelled with "mvR'') were able to survive on methyl viologen containing plates. This allowed to isolate individual colonies, which were then inoculated, grown and their gDNA sent for sequencing.
+\section{Spot plates of strains grown in BG11 without or with MV (6 $\mu$M)}
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing}
-    \caption{Spot plates of 2 unadapted (first two columns on each plates) and 5 adapted (columns 3 to 7) cultures of \textit{Synechocystis sp.} PCC 6803 in BG11 plates without methyl viologen (A) and with the addition of 6 $\mu M$ of methyl viologen (B). Rows correspond to consecutive 10-fold serial dilutions of culture inocula (all starting at on OD750 = 1). Plates were grown at 30 $\circ$ under constant illumination (intensity = 100 $\mu Em^{-2}s^{-1}$) for 10 days.}
+    \caption{Spot plates of 2 unadapted (first two columns on each plates) and 5 adapted (columns 3 to 7) cultures of \textit{Synechocystis sp.} PCC 6803 in BG11 plates without methyl viologen (A) and with the addition of 6 $\mu$M  methyl viologen (B). Rows correspond to consecutive 10-fold serial dilutions of culture inocula (all starting at on OD$_{750}$ = 1). Plates were grown at 30$^\circ$C under constant illumination (intensity = 100 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$) for 10 days.}
     \label{fig:spotassayMV}
-\end{figure}
-
-\section{Chronoamperometries strain by strain}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\hsize]{../Figures/MV_adaptation/MVR_chronoamp_panels_all}
-    \caption{Chronoamperometry of all strains in the presence (bottom subtiles) and absence of 6 $\mu$M MV. White and gray panels represent periods of illumination and darkness respectively. }
-    \label{fig:spotassayMV}
-\end{figure}
-
-
-\section{Quantification of methyl viologen resistance in adapted strains}
-
-The susceptibility of wild-type and resistant strains to varying concentrations of methyl viologen was evaluated by measuring cell density spectrophotometrically over time. Growth rates during the exponential phase were plotted as a function of the methyl viologen concentration for various strains, as depicted in Figure \ref{fig:oxyelectrode}A. A typical inverse sigmoidal relationship was observed between growth rate and methyl viologen concentration, aligning with dose-response expectations typical for an antibiotic agent such as methyl viologen..
-
-The wild-type strains displayed a marked sensitivity to methyl viologen, with growth inhibition observed at concentrations as low as 2 $\mu$M. In contrast, the resistant strains exhibited a notable diversity in their tolerance levels. This might not be surprising, given that each mutant strain evolved its resistance independently, potentially leading to varied underlying genotypic changes and resultant phenotypic manifestations. The half-maximal effective concentration (EC50) values, denoting the concentration of methyl viologen at which the growth rate was reduced by 50$\%$, were derived for each strain. The comparison of these values provided a quantitative metric for resistance (Figure \ref{fig:oxyelectrode}B).
-On average, resistant strains showcased an approximate 20-fold increase in tolerance to methyl viologen compared to the wild-type. Remarkably, certain adapted strains (MVR4) displayed almost a 30-fold enhancement in their tolerance limits. Such findings underscore the significant adaptive potential inherent in cyanobacteria and the varied genetic avenues they might employ to counteract the deleterious effects of methyl viologen.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\hsize]{../Figures/MV_adaptation/EC50.pdf}
-    \caption{Analysis of growth rate dynamics in the presence of methyl viologen. \textbf{A)} Exponential phase growth rates plotted against methyl viologen concentrations for a range of wild-type and resistant strains. \textbf{B)} The derived half-maximal effective concentrations (EC50) of methyl viologen across different strains, showcasing their respective tolerance levels.}
-    \label{fig:oxyelectrode}
 \end{figure}
 
 
 \section{Addition of methyl viologen at various growth phases}
 
-To investigate whether adaptation to methyl viologen depends on the growth stage at which cells are at during the treatment, an additional growth curve was performed during which methyl viologen treatment was added at different cell phases. 
-As shown in Figure \ref{fig:MVgrowthstages}, in this case only one culture  managed to adapt to the methyl viologen treatment. This culture was treated during expionential phase.  
-The higher the number of cells during the MV treatment, the more likely it would be that in the population there are some resistant cells already which then get enriched. Perhaps what is happening is that during expoential phase, genome replication rate is at its highest and this - together also with the mutagenic effects of the ROS produced by MV - might lead to an enhanced mutation rate in the cells and thus evolution of adapted strains.
-
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf}
-    \caption{Growth curves of \textit{Synechocystis sp.} PCC 6803 strains grown at 30 $\circ$ under constant illumination (intensity = 40 $\mu Em^{-2}s^{-1}$) in the absence (red trace) and upon addition  of 6 $\mu$M of methyl viologen during various growth stages (as indicated by the arrows colored according to the legend on top right).}
+    \caption{Growth curves of \textit{Synechocystis sp.} PCC 6803 strains grown at 30 $^\circ$C under constant illumination (intensity = 40 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$) in the absence (red trace) and upon addition  of 6 $\mu$M  methyl viologen during various growth stages (as indicated by the arrows colored according to the legend on top right).}
     \label{fig:MVgrowthstages}
 \end{figure}
 
 
-\section{PrqA is not essential for spontaneous evolution of MV resistance}
+\section{The gene \textit{prqA} is not essential for spontaneous evolution of MV resistance}
 
-Previous findings have identified that a mutation in the DNA-binding domain of the PrqR repressor led to resistance to methyl viologen. Because PrqR was found to repress the multidrug and toxin extrusion (MATE) protein PrqA, it was suggested that this protein was involded in the detoxification of methyl viologen via extrusion mechanisms. In order to validate whether PrqA is involved in the resistance against methyl viologen, wild-type, mutant and complemented prqA strains were subjected to the same growth profile as above to observe if there were any diffences regarding the spontaneous evolution against methyl viologen for the different strains. 
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\hsize]{../Figures/MV_adaptation/syn_prqA_MVadapt.png}
-    \caption{Growth curves of wild-type, $\Delta$prqA and complemented $\Delta$prqA strains of \textit{Synechocystis sp.} PCC 6803 grown at 30 $\circ$ under constant illumination (intensity = 100 $\mu Em^{-2}s^{-1}$) in the absence (green trace) and upon addition  of 6 $\mu M$ of methyl viologen during exponential growth (purple trace).}
+    \includegraphics[width=\hsize]{../Figures/MV_adaptation/prqA_MvADapt_multipanel.png}
+    \caption{Growth curves of wild-type, $\Delta$\textit{prqA} and complemented $\Delta$\textit{prqA} strains of \textit{Synechocystis sp.} PCC 6803 grown at 30 $^\circ$C under constant illumination (intensity = 100 $\mu$mol$\cdot$m$^{-2}\cdot$s$^{-1}$) in the absence (green trace) and upon addition  of 6 $\mu M$  methyl viologen during exponential growth (purple trace).}
     \label{fig:prqAMV}
 \end{figure}
 
-As demonstrated in Figure \ref{fig:prqAMV}, the presence, absence or heterologous expression of PrqA, did not affect the spontaneous evolution of methyl viologen resistance. This suggests that PrqA is not necessary to develop resistance against MV and therefore may not be involved in its extrusion. 
+
+\section{Whole genome sequencing and bioinformatic analyses}
 
 
-\section{Comparative Genomic Analysis of Wild-Type and Methyl Viologen Resistant Strains}
-
-The genomes of wild-type and MV-resistant \textit{Synechocystis} strains were sequenced to elucidate the genetic determinants potentially underpinning MV resistance. 
-
-
-\subsection{Genome Sequencing QC Report}
+\subsection{Genome sequencing QC report}
 
 \begin{table}[H]
     \centering
@@ -186,13 +153,9 @@ The mutations were then filtered to identify only non-synonymous ones which resu
 \begin{figure}[H]
     \centering
     \includegraphics[width=\hsize]{../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png}
-    \caption{Trimmed and paired reads from whole genome sequencing experiments of \textit{Synechocystis} "Nixon'' wild-type aligned to reference "Kazusa'' strain (NC000911). Numbered are mutation events found within coding sequences of the reference genome.}
+    \caption{Trimmed and paired reads from whole genome sequencing experiments of \textit{Synechocystis} "Nixon'' wild-type aligned to the reference GT-"Kazusa'' strain (NC000911). Numbered are mutation events found within coding sequences of the reference genome.}
     \label{fig:WTN_NC000911}
 \end{figure}
-
-For both wild-type strains, the aligned reads covered 100$\%$ of the reference genome sequences, indicating that the genomic sequencing was succesfull.
-Approximately 20 mutations in coding regions were identified for both the Howe and Nixon wild-type strains. Many mutations were found in transposases, which is unsurprising given the highly evolvable nature of these mobile genetic elements. Many mutations also had moderately small variant frequencies values, indicating that such mutationswere either artifacts of sequencing or not fully segregated mutations. Cyanobacteria, have a high degree of poliploidy in their genomes so this might explain why.
-
 
 \begin{figure}[H]
     \centering
@@ -200,10 +163,6 @@ Approximately 20 mutations in coding regions were identified for both the Howe a
     \caption{Trimmed and paired reads from whole genome sequencing experiments of \textit{Synechocystis} "Howe'' wild-type aligned to reference "Kazusa'' strain (NC000911). Numbered are mutation events found within coding sequences of the reference genome.}
     \label{fig:WTH_NC000911}
 \end{figure}
-
-The Nixon wild-type strain appeared to have a mutation in the type II secretion system F family protein (pilC). Such mutation corresponded to a  deletion from (G)9 to (G)8, leading to a Frame Shift. Such mutation has been identified previously as an artefact due to repetitive G nucleotides and misannotations in the database. Analogously, the Howe substrain exhibited an - at first surprising -  substitution in photosystem I. Such mutation has also been identified previously as a misannotation of the reference genome sequence NC000911. In order to identify genotypic differences between the "Howe'' and "Nixon'' substrains, all variants identified were filtered to retain only the ones that were unique between the two substrains. This was performed for each of the reference sequence that the reads were aligned to. The analysis revealed that both strains have mutations in transposase genes, suggesting potential genomic instability or changes in the frequency of genomic rearrangements.
-"Nixon" has mutations affecting sugar transport and secretion systems, potentially altering its carbohydrate metabolism and interactions with the environment.
-"Howe" has mutations affecting motility and respiratory processes, suggesting potential changes in movement and energy metabolism.
 
     \begin{table}[H]
         \centering
@@ -244,7 +203,6 @@ The Nixon wild-type strain appeared to have a mutation in the type II secretion 
         \caption{Unique mutations found in WT "Nixon''}
     \end{table}
 
-Interestingly the "Nixon'' substrains harbours a deletion in the glycosyltransferase family 4 protein, and a frame shift in the sugar porter family MFS transporter protein (sll0771).
 
     \begin{table}[H]
         \centering
@@ -281,11 +239,9 @@ Interestingly the "Nixon'' substrains harbours a deletion in the glycosyltransfe
     \end{table}
 
 
-In the "Howe'' substrain a deletion in the type IV pilus twitching motility protein PilT and a substitution in in PilM were indentified. These might underlye the non-motile phenotype of the "Howe'' substrains. 
-The genetic differences identified between the Nixon and Howe substrains provide a foundation for understanding their distinct phenotypic behaviors. Nixon's mutations in sugar transport and metabolism genes align with its inability to grow in the presence of sugar in light conditions. In contrast, Howe's mutations related to motility and respiratory processes correspond with its non-motile phenotype and capability to grow photoheterotrophically. 
 
 
-\subsection{Sequenced Strains Compared to Various Substrains}
+\subsection{Sequenced strains compared to various substrains}
 
 To visualise the SNPs similarity between various strains, a principal component analysis (PCA)  was performed, where the feature matrix was constructed to represent each strain as a row and each reference genome as a column. The entries in this matrix were the total SNP counts for each strain against each reference genome. Thus, the PCA effectively reduced the multidimensional space spanned by the different reference genomes into a lower-dimensional representation. The PCA plot positions each strain based on its SNP profile across different reference genomes. Strains that are genomically similar in terms of SNP counts against multiple reference genomes would appear closer in the reduced-dimensional space.
 
@@ -303,12 +259,393 @@ Therefore PCA analysis indicated that strains with the "Howe" and "Nixon" suffix
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\hsize]{../Figures/MV_adaptation/SNPolimorphism.png}
-    \caption{Allelic frequency distribution of bases at the locus underlying the L139P mutation in sll1180 in wild-type and MV-resistant Synechocystis strains. The respective sequencing coverage for each strain is indicated above the bars. Bases are colour-coded as per the legend on the right}
-    \label{fig:SNPS}
+    \includegraphics[width=\hsize]{../Figures/WGS/variant_frequency_fraction_comparison_3bins.png}
+    \caption{3 bins, 0.3 and 0.6 as thresholds}
+    \label{fig:3bins}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\hsize]{../Figures/WGS/variant_frequency_fraction_comparison_4bins.png}
+    \caption{4 bins, 0.25 and 0.75 as thresholds}
+    \label{fig:4bins}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\hsize]{../Figures/WGS/variant_frequency_fraction_comparison_5bins.png}
+    \caption{5 bins, 0.2 and 0.8 as thresholds}
+    \label{fig:5bins}
 \end{figure}
 
 
+
+\section{Extended methods}
+
+\subsection{Buffers and media}
+
+\subsubsection{0.25 M EDTA stock solution - pH8}
+To prepare 100 ml of 0.25 M EDTA stock solution at pH = 8 (needed for preparing BG11):
+\begin{enumerate}
+	\item Weigh 9.305 g of Na$_2$EDTA (FW 372.2)
+	\item Dissolve in $\approx$80 mL of DI water
+	\item Adjust pH to 8 with concentrated NaOH
+	\item Top up to final volume (100 mL) with deionised water
+	\item Autoclave
+\end{enumerate}
+
+
+\subsubsection{1M Tris/HCl buffer - pH8}
+To obtain 100 ml a 1M Tris/HCl buffer (required to prepare the pre-lysis buffer ``Smoker B’’ for gDNA extraction):
+\begin{enumerate}
+	\item Weigth 12.11 g of Tris
+	\item Dissolve in $\approx$80 ml of deionised water
+	\item Mix with magnetic stirrer until fully dissolved
+	\item Adjust pH to 8 with concentrated HCl
+	\item Top up to final volume (100 mL) with deionised water
+	\item Autoclave
+\end{enumerate} 
+
+\subsubsection{Lysis buffer for gDNA extraction (``Smoker B’’)}\label{SBuffer}
+Smoker B (SB) buffer was used in the pre-lysis step for genomic DNA extraction of cyanobacteria (tested for \textit{Synechocystis} and \textit{Chroococcidiopsis}). It contains lyophilised lysozyme powder from chicken egg whites for cell lysis, and RNAse and proteinase K to degrade unwanted RNA and protein materials, respectively. Lysozyme powder, RNAse and proteinase K were kept in the freezer (-20$^{\circ}$C). To prepare the buffer, the components listed in Table \ref{table:smokerB} were added in a 15 mL Falcon tube and vortex until fully dissolved. For genomic extraction, each sample requires 170 $\mu$l of Smoker B buffer. The solution was not autoclaved. Previously autoclaved water and stocks were used to prepare the solution fresh on the day of the experiment. 
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    \textbf{Ingredient} & \textbf{[Working]} & \textbf{[Stock]} & \textbf{\begin{tabular}[c]{@{}c@{}}Amount to add \\ (Final volume = 10 mL)\end{tabular}} \\ \hline
+    \begin{tabular}[c]{@{}c@{}}1M Tris/HCl \\ buffer (pH8)\end{tabular} & 50 mM & 1000 mM & 500 $\mu$l \\ \hline
+    \begin{tabular}[c]{@{}c@{}}0.5M EDTA \\ stock solution\end{tabular} & 50 mM & 500 mM & 1 ml \\ \hline
+    Triton X-100 & 1 \% (v/v) & 100 \% (v/v) & 100 $\mu$l \\ \hline
+    \begin{tabular}[c]{@{}c@{}}Lysozyme \\ (lyophilized powder)\end{tabular} & \begin{tabular}[c]{@{}c@{}}800,000 \\ (units/ml)\end{tabular} & \begin{tabular}[c]{@{}c@{}}$>=$40,000 \\ units/mg powder\end{tabular} & 200 mg \\ \hline
+    RNAse & 0.01 mg/ml & 10 & 10 mg \\ \hline
+    DIH$_2$O & to final volume & N.A. & 8.39 ml \\ \hline
+    \end{tabular}
+    \caption{Ingredients and their working concentrations for preparing the buffer ``Smoker B''}
+    \label{table:smokerB}
+    \end{table}
+
+
+    \subsubsection{Photoautotrophic growth medium and plates (BG11)}
+    The standard cyanobacterial photoautotrophic medium (BG11) was prepared according to a protocol adapted from \citep{Rippka1979}. The medium comprises various stocks that are prepared separately, autoclaved for sterility, and subsequently combined to achieve the desired working concentrations. 
+    
+    \paragraph{To prepare 1 L of liquid medium:}
+    \begin{enumerate}
+        \item Prepare all the stock solutions (except NaOH-TES) listed in Table \ref{Tab:BG11rec} in Duran bottles of appropriate sizes
+        \item Autoclave all the stock solutions to minimise contaminations during long-term storage
+        \item Add $\approx$ 100 mL of DI water into a 1L Duran bottle
+        \item Pour in all the stock solutions (except sodium bicarbonate and NaOH-TES buffer), \underline{in the order} and with the volumes listed in Table \ref{Tab:BG11rec}
+        \item Top up to $\approx$ 900 mL with additional DI water
+        \item Submerge a pH probe in the solution, add a stirring bar inside the bottle, and place it on a magnetic stirrer mixing continously. Adjust pH with concentrated HCl until pH = 7.8
+        \item Autoclave 
+        \item After the solution has cooled down to room temperature, add 10 mL of \textit{previously autoclaved} bicarbonate stock solution
+        \item Top up to 1L with \underline{previously autoclaved} DI water
+        \item Store at room temperature (if no antibiotics inside) and away from direct sunlight
+    \end{enumerate} 
+    
+    \paragraph{To prepare solid BG11 plates:} make 500 mL of 2X BG11 stock solution, 500 mL of 3\% agar solution and then mix them to obtain a 1X-BG11 + 1.5\% agar solution as detailed below:
+    \begin{enumerate}
+        \item Prepare and autoclave all the stock solutions as for the liquid medium \ul{with the addition of NaOH-TES buffer}.
+        \item Add $\approx$ 100 mL of DI water into a 1L Duran bottle
+        \item Pour in all the stock solutions (\ul{except} sodium bicarbonate), \underline{in the order} and with the volumes listed in Table \ref{Tab:BG11rec}. To prepare a 2X BG11 solution, use the same volumes of stocks as listed for 1X-BG11 but top up to half of the final 1X-BG11 volume (500 mL)
+        \item Top up to $\approx$ 400 mL with DI water
+        \item Adjusting pH is not required for solid BG11 (as it contains NaOH-TES buffer)
+        \item Prepare 500 mL of 3\% agar solution (2X) by dissolving 15g of agar in 500 mL of DI water in a 500 mL Duran bottle 
+        \item Autoclave the 2X BG11 and agar solutions
+        \item Add 10 mL of \underline{previously autoclaved} bicarbonate stock in the bottle containing 2X-BG11
+        \item Top up to precisely 500 mL with \underline{previously autoclaved} DI water
+        \item Melt the agar solution (with a microwave), pour 500 mL of melted agar into the 1L Duran bottle containing the 2X BG11 solution. \textbf{To prevent explosions:} \ul{only add the melted agar solution into the 2X-BG11-containing bottle and not vice versa.}
+        \item Mix the solution and pour into Petri dishes when still hot. If antibiotics are required, only add them when the solution reaches $\approx$50$^\circ$C.
+        \item Wait until the plates solidify and store (up to 3 months) in a dark fridge.
+    \end{enumerate} 
+    
+    % \usepackage{multirow}
+    \begin{table}[H]
+    \begin{tabular}{c|ccccc|c}
+    \hline
+    \textbf{Stock}                                                                                & \multicolumn{1}{c|}{\textbf{Component}}                                      & \multicolumn{1}{c|}{\textbf{[Stock]}} & \multicolumn{1}{c|}{\textbf{[Working]}} & \multicolumn{1}{c|}{\textbf{Amount}} & \textbf{Units} & \textbf{V\textsubscript{final}}                                    \\ \hline
+    \multirow{5}{*}{\begin{tabular}[c]{@{}c@{}}100X-\\ BG11 \\ (100X)\end{tabular}}                  & NaNO\textsubscript{3}                                                        & 1.76 M                                & 17.6 mM                                 & 149.6                                & g              & \multirow{5}{*}{1L}                                                \\
+                                                                                                     & MgSO\textsubscript{4}$\cdot$7H\textsubscript{2}O                             & 30 mM                                 & 0.3 mM                                  & 7.49                                 & g              &                                                                    \\
+                                                                                                     & CaCl\textsubscript{2}                                                        & 32.4 mM                               & 0.324 mM                                & 3.6                                  & g              &                                                                    \\
+                                                                                                     & Citric Acid                                                                  & 3.1 mM                                & 31 $\mu$M                               & 0.6                                  & g              &                                                                    \\
+                                                                                                     & \begin{tabular}[c]{@{}c@{}}EDTA stock \\ (pH 8.0)\end{tabular}               & 250 mM                                & 2.5 mM                                  & 1.12                                 & mL             &                                                                    \\ \hline
+    \begin{tabular}[c]{@{}c@{}}sodium\\ bicarbonate \\ (100X)\end{tabular}                           & Na\textsubscript{2}HCO\textsubscript{3}                                      & 1 M                                   & 10 mM                                   & 84.01                                & g              & 1L                                                                 \\ \hline
+    \multirow{6}{*}{\begin{tabular}[c]{@{}c@{}}Trace \\ elements \\ (1000X)\end{tabular}}            & H$_3$BO$_3$                                                                  & 46 mM                                 & 46 $\mu$M                               & 286                                  & mg             & \multirow{6}{*}{\begin{tabular}[c]{@{}c@{}}100 \\ mL\end{tabular}} \\
+                                                                                                     & MnCl$_2$ $\cdot$ 4H$_2$O                                                     & 9.1 mM                                & 9.1 $\mu$M                              & 181                                  & mg             &                                                                    \\
+                                                                                                     & ZnSO$\cdot$ 7H$_2$O                                                  & 765 $\mu$M                            & 765 pM                                  & 22                                   & mg             &                                                                    \\
+                                                                                                     & Na$_2$MoO$_4$ $\cdot$ 2H$_2$O                                                & 1.61 mM                               & 1.61 $\mu$M                             & 39                                   & mg             &                                                                    \\
+                                                                                                     & CuSO$4$ $\cdot$ 5H$2$O                                                       & 320.4 $\mu$M                          & 320.4 pM                                & 8                                    & mg             &                                                                    \\
+                                                                                                     & Co(NO$3$)$_2$ $\cdot$ 6H$2$O                                                    & 172 $\mu$M                            & 172 pM                                  & 5                                    & mg             &                                                                    \\ \hline
+    \begin{tabular}[c]{@{}c@{}}Phosphate\\  buffer \\ (1000X)\end{tabular}                           & K$_2$HPO$_4$                                                                 & 175.1 mM                              & 0.175 mM                                & \multicolumn{1}{c}{3.05}            & g              & \begin{tabular}[c]{@{}c@{}}100 \\ mL\end{tabular}                  \\ \hline
+    \begin{tabular}[c]{@{}c@{}}sodium \\ carbonate \\ (1000X)\end{tabular}                           & Na\textsubscript{2}CO\textsubscript{3}                                       & 188.7 mM                              & 0.189 mM                                & \multicolumn{1}{c}{2}               & g              & \begin{tabular}[c]{@{}c@{}}100\\ mL\end{tabular}                   \\ \hline
+    \begin{tabular}[c]{@{}c@{}}Ferric citrate \\ buffer (1000X)\end{tabular}                         & C$_6$H$_5$FeO$_7$                                                            & 24.5 mM                               & 0.245 mM                                & \multicolumn{1}{c}{0.6}             & g              & \begin{tabular}[c]{@{}c@{}}100 \\ mL\end{tabular}                  \\ \hline
+    \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}TES-NaOH \\ pH8.2 (100X) \end{tabular}} & TES free acid                                                                & 1 M                                   & 10 mM                                   & 90                                   & g              & \multirow{2}{*}{1L}                                                \\
+                                                                                                     & NaOH                                                                         & 1 M                                   & \multicolumn{3}{c|}{add until pH 8.2 is obtained}                                               &                                                                    \\ \hline
+    \multirow{7}{*}{\begin{tabular}[c]{@{}c@{}}BG11 (1X)\\ BG11 (2X) \end{tabular}}                            & 100X-BG11 stock                                                              & 100X                                  & 1X                                      & 10                                   & mL             & \multirow{7}{*}{\begin{tabular}[c]{@{}c@{}}1L (liquid)\\ 0.5L (solid)\textsuperscript{\textbf{1}} \end{tabular}}                                                \\
+                                                                                                                                                                                                 & carbonate stock                                                              & 1000X                                 & 1X                                      & 1                                    & mL             &                                                                    \\
+                                                                                                     & phosphate buffer                                                             & 1000X                                 & 1X                                      & 1                                    & mL             &                                                                    \\
+                                                                                                     & trace elements stock                                                         & 1000X                                 & 1X                                      & 1                                    & mL             &                                                                    \\
+                                                                                                     & ferric citrate stock                                                         & 1000X                                 & 1X                                      & 1                                    & mL             &                                                                    \\
+                                                                                                     & TES-NaOH buffer\textsuperscript{\textbf{2}} & 1000X                                 & 1X                                      & 10                                   & mL             &  
+    \\                                                                                                 
+                                                                                                    & bicarbonate stock\textsuperscript{\textbf{3}}                                                            & 100X                                  & 1X                                      & 10                                   & mL             &                                                                                                                                      \\ \hline
+                                                                                                     
+                                                                                                     
+    \end{tabular}
+    \caption[Recipe for preparing BG11 medium]{Recipe for preparing BG11 medium. Stocks are prepared and autoclaved separately, and then added (with the exception of sodium bicarbonate) into a 1L Duran bottle to prepare 1X BG11. Adjust the pH to 7.8 with concentrated HCl when preparing liquid BG11 (1X) medium.\\ \textsuperscript{\textbf{1}}Top up with \ul{previously autoclaved} DI water to a final volume of 1L for 1X-BG11 liquid medium or 500 mL for 2X-BG11 solution for making solid plates.\\ \textsuperscript{\textbf{2}}NaOH-TES buffer is only added when preparing solid BG11 plates. \\ \textsuperscript{\textbf{3}}Sodium bicarbonate stock solution is sterilised separately and added after autoclaving the BG11-containing 1L Duran bottle.}
+    \label{Tab:BG11rec}
+    
+\end{table}
+
+\section{Code}
+
+
+\subsection{Comare variants across strains}
+
+\begin{lstlisting}[language=Python]
+    import pandas as pd
+    from Bio import SeqIO
+    import numpy as np
+    from pycirclize import Circos
+    from pycirclize.parser import Gff
+    from pycirclize.utils import ColorCycler
+    import matplotlib.pyplot as plt
+    from matplotlib.patches import Patch
+    from matplotlib.lines import Line2D
+    import os
+    import re
+        
+    def wrap_text(text, max_length):
+        """
+        Wrap the text every max_length characters.
+        Parameters:
+            text (str): The text to wrap.
+            max_length (int): The maximum line length.
+        Returns:
+            wrapped_text (str): The wrapped text.
+        """
+        return '\n'.join(text[i:i+max_length] for i in range(0, len(text), max_length))
+
+    def min_percentage(s):
+        """Return the smallest percentage value in a string."""
+        if pd.isna(s):
+            return 0
+        if not isinstance(s, str):
+            s = str(s)
+        # Extract all values from the string
+        values = re.findall(r"(\d+(?:\.\d+)?%?)", s)
+        
+        # Convert to float, and if the value was a percentage, divide by 100
+        floats = [float(x.rstrip('%')) if '%' in x else float(x) * 100 for x in values]
+        
+        return min(floats) if floats else 0
+
+    def adjust_positions(positions, min_distance):
+        """
+        Adjust positions to ensure a minimum distance between each position so 
+        that mutated gene labels do not overlap
+
+        Parameters:
+            positions (list): List of positions, sorted in ascending order
+            min_distance (int): Minimum distance that should 
+            be between each position
+
+        Returns:
+            new_positions (list): List of adjusted positions
+        """
+        new_positions = positions.copy()
+        for i in range(len(new_positions) - 1):
+            # Check if distance to next position is less than min_distance
+            if new_positions[i + 1] - new_positions[i] < min_distance:
+                # Adjust next position
+                new_positions[i + 1] = new_positions[i] + min_distance
+
+        # need to iterate until no more adjustments are needed,
+        # because an adjustment can cause a position to encroach on its next neighbor.
+        # If any adjustment is made, then the loop is run again.
+        if new_positions != positions:
+            new_positions = adjust_positions(new_positions, min_distance)
+
+        return new_positions
+
+    def plot_mutation_circos(ref):
+        # Load mutation data
+        all_data = pd.read_csv(f"../Data/variant_analysis/{ref}_filtered_mutations.csv")
+        # Load the .gff file
+        gbk = Gff(f"../Data/genome_annotations/{ref}.gff")
+        # Initialize the Circos plot
+        circos = Circos(sectors={gbk.name: gbk.range_size})
+        sector = circos.get_sector(gbk.name)
+
+        # Plot outer track with xticks
+        major_ticks_interval = 1000000
+        minor_ticks_interval = 100000
+        outer_track = sector.add_track((75, 77))
+        outer_track.axis(fc="lightgrey")
+        outer_track.xticks_by_interval(
+            major_ticks_interval, label_formatter=lambda v: f"{v/ 10 ** 6:.1f} Mb"
+        )
+        outer_track.xticks_by_interval(minor_ticks_interval, tick_length=1, show_label=False)
+        # Extract unique strains from the first dataset
+        all_strains = all_data['Strain'].unique()
+        print(all_strains)
+        # Define colors for each strain
+        colors = ['tomato', 'skyblue', 'magenta', 'green', 'purple', 'brown', 'orange', 'lightgreen', 'cadetblue']
+        strain_color = {strain: color for strain, color in zip(all_strains, colors)}
+
+        # Group mutations by 'CDS' and select the first row from each group
+        # grouped_mutations = all_data.groupby('product').first().reset_index()
+        grouped_mutations = all_data[all_data['Protein Effect'].notna() & all_data['Protein Effect'].ne('')].groupby(['locus_tag', 'Minimum', 'Change']).first().reset_index()
+        # Create a mapping of strains and frequencies per mutation
+        # mutation_strain_map = all_data.groupby(['locus_tag', 'Minimum', 'Change']).agg({'Strain': lambda x: ', '.join(x), 'Variant Frequency': lambda x: ', '.join(x)}).to_dict(orient='index')
+
+        mutation_strain_map = all_data.groupby(['locus_tag', 'Minimum', 'Change']).agg({
+            'Strain': lambda x: ', '.join(x), 
+            'Variant Frequency': lambda x: ', '.join(map(str, x))
+        }).to_dict(orient='index')
+
+        # Group by 'locus_tag' and get the first entry for each unique gene
+        unique_grouped_mutations = grouped_mutations.groupby('locus_tag').first()
+
+        labels = [f"{row['product']}" for _, row in unique_grouped_mutations.iterrows()]
+        pos_list = unique_grouped_mutations["Minimum"].values.tolist()
+        # Initialize new_labels and pos_list_CDSonly as empty lists
+        new_labels = []
+        pos_list_CDSonly = []
+        # Step 1: Define mutation_details before the loop
+        mutation_details = []
+        for i, (index, row) in enumerate(grouped_mutations.iterrows(), start=1):
+            freq = min_percentage(row['Variant Frequency'])
+            if freq >= 75:
+                label = f"{i}) {row['locus_tag']}" if row['Protein Effect'] not in [None, ''] else ''
+                label_table = f"{i}) {row['locus_tag']}"
+                new_labels.append(label)
+                pos_list_CDSonly.append(row['Minimum'])  # Add this position to pos_list_CDSonly
+                # Append mutation details to the dataframe
+                # Step 2: Append mutation details to mutation_details
+                amino_acid_change = row['Amino Acid Change']
+                if not amino_acid_change:
+                    amino_acid_change = "fs"
+                mutation_strain_freq = mutation_strain_map.get((row['locus_tag'], row['Minimum'], row['Change']), {})
+                mutation_details.append({
+                    "Mutation": label_table,
+                    "Gene": row['product'],
+                    "Position": row['CDS Position'],
+                    "Change": amino_acid_change,
+                    "Strain": wrap_text(mutation_strain_freq.get('Strain', ''), 15),
+                    "Variant Frequency": wrap_text(mutation_strain_freq.get('Variant Frequency', ''), 15)
+                })
+            else:
+                new_labels.append('')
+                pos_list_CDSonly.append(row['Minimum'])  # Add this position to pos_list_CDSonly
+        # Plot a track for each strain
+        for i, strain in enumerate(all_strains):
+            strain_data = all_data[all_data['Strain'] == strain]
+            radial_range = (69 - i*5, 73 - i*5)
+            strain_track = sector.add_track(radial_range, r_pad_ratio=0.1)
+            strain_track.axis(fc=strain_color[strain],alpha=0.4)
+            for index, mutation in strain_data.iterrows():
+                strain_track.rect(mutation['Minimum']-0, mutation['Minimum']+1000, fc="white", ec=strain_color[strain], alpha=0.8, lw=1)
+                #strain_track.scatter([mutation['Minimum']
+                # ], [50], color="black", s=10, marker=".", linewidths =0.5, ec="black")
+        # Add the outermost track with labels for mutations
+        label_track = sector.add_track((82, 85))  # Adjust the radial range as needed
+
+        # Use new_labels instead of labels
+        pos_list = grouped_mutations["Minimum"].values.tolist()
+        # Plot outer xticks (labels)
+        label_track.xticks(
+            pos_list,
+            new_labels,
+            outer=True,   # Make sure labels are plotted outside
+            tick_length=0,  # Set tick_length to 0 so ticks won't show up
+            label_margin=1,
+            label_orientation="vertical",  # Set label orientation to vertical
+            label_size= 10,
+        )
+        # Save the Circos plot
+        fig_circos = circos.plotfig()
+        _ = circos.ax.legend(
+            handles=[
+                Patch(color="gray", label=f"{ref}", alpha=0.6, edgecolor="black"),
+                Patch(color="tomato", label="mvR1", alpha=0.6, edgecolor="black"),
+                Patch(color="skyblue", label="mvR2", alpha=0.6, edgecolor="black"),
+                Patch(color="magenta", label="mvR3", alpha=0.6, edgecolor="black"),
+                Patch(color="green", label="mvR6", alpha=0.6, edgecolor="black"),
+                Patch(color="purple", label="mvR9", alpha=0.6, edgecolor="black"),
+                Patch(color="brown", label="mvR10", alpha=0.6, edgecolor="black"),
+                Patch(color="orange", label="mvR11", alpha=0.6, edgecolor="black"),
+                Patch(color="lightgreen", label="mvR12", alpha=0.6, edgecolor="black"),
+            ],
+            bbox_to_anchor=(0.5, 0.5),
+            loc="center",
+            ncols=1,
+            fontsize=10,
+        )
+        fig_circos.savefig(f"../Figures/WGS/{ref}_mutants_vs_WT_genome_views_New3.svg", dpi=600)
+        # Step 3: Use mutation_details to generate the table
+        headers = list(mutation_details[1].keys())  # Convert dict_keys to list
+        cell_text = [list(d.values()) for d in mutation_details]  # Get cell values
+        fig = plt.figure(figsize=(15,10), dpi=300)
+        ax = plt.subplot()
+        # Determine maximum text length in each column and use it as width
+        column_widths = [
+            max(len(str(x)) for x in column) * 8 if header in ["Amino Acid Change", "product"] else max(len(str(x)) for x in column) * 1
+            for column, header in zip(zip(*([headers] + cell_text)), headers)  # Adding header to cell_text for each column
+        ]
+        # Calculate positions based on column widths
+        positions = np.cumsum([0] + column_widths)  # Here we include the rightmost border
+        ncols = len(headers)
+        nrows = len(cell_text)
+        print(f"Mutations found:{nrows}")
+        # Add 1 for headers and adjust limits according to column widths
+        ax.set_xlim(0, sum(column_widths))
+        ax.set_ylim(0, nrows + 1)
+        # Add table's main text
+        for i in range(nrows):
+            for j, text in enumerate(cell_text[i]):
+                ax.annotate(
+                    xy=(positions[j] + 0.5 * column_widths[j], nrows - i - 0.5),  # Adjust Y position for text to align it in the center of the bounding box
+                    text=text,
+                    ha='center',
+                    va='center',       
+                    fontsize=10  # Make header text larger
+                )
+        # Add column names
+        for index, header in enumerate(headers):
+            ax.annotate(
+                xy=(positions[index] + 0.5 * column_widths[index], nrows + 0.5),  # Adjust Y position for header text to align it in the center of the bounding box - for 20 mutation change 1 to 0.5
+                text=header,
+                ha='center',
+                va='center',
+                weight='heavy',  # Make header text bold
+                fontsize=12  # Make header text larger
+            )
+        # Add dividing lines
+        ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [nrows, nrows], lw=1.5, color='black', marker='', zorder=4)
+        ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [0, 0], lw=1.5, color='black', marker='', zorder=4)
+        for x in range(1, nrows):
+            ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [x, x], lw=1.15, color='gray', ls='--', zorder=3 , marker='')
+        # Add vertical grid lines but exclude the outermost ones
+        for j in range(1, ncols):  # Excluding outermost vertical lines
+            ax.plot([positions[j], positions[j]], [0, nrows], color='gray', linewidth=1.15, ls='--', zorder=3 , marker='')
+        ax.set_axis_off()
+        plt.savefig(
+            f"..Data/Figures/WGS/Table_Mutants2_{ref}.png",
+            dpi=900,
+            transparent=False,
+            bbox_inches='tight'
+        )
+        print(f"Table Saved succesfully as: ../Figures/WGS/Table2_{ref}.png")
+
+        return
+    if __name__ == "__main__":
+        import argparse
+        parser = argparse.ArgumentParser(description='Filter mutations and plot a circos diagram.')
+        parser.add_argument('-ref', help='The reference genome.')
+        args = parser.parse_args()
+        plot_mutation_circos(args.ref)
+\end{lstlisting}
 
 
 \end{document}

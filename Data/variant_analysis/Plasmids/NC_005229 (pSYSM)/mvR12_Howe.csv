@@ -1,0 +1,546 @@
+Name,Document Name,Minimum,Maximum,Length,Direction,GO_function,Amino Acid Change,CDS,CDS Position,Variant Frequency,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant P-Value (approximate),CDS Position Within Codon,GO_process,locus_tag,old_locus_tag,EC_number,gene,product,Reference Frequency,Reference Nucleotide(s),Variant Nucleotide(s),protein_id
+DUF262 domain-containing protein CDS,mvR12_Howe,1,119895,1524,reverse,,,,,,,,,,,,,,SGL_RS00005,sll5132,,,DUF262 domain-containing protein,,,,WP_011153668.1
+LamG-like jellyroll fold domain-containing protein CDS,mvR12_Howe,2528,13921,11394,forward,,,,,,,,,,,,,,SGL_RS00020,slr5005,,,LamG-like jellyroll fold domain-containing protein,,,,WP_011153542.1
+response regulator CDS,mvR12_Howe,61202,64831,3630,reverse,,,,,,,,,,,,,GO:0000160 - phosphorelay signal transductionsystem [Evidence IEA],SGL_RS00275,sll5060,,,response regulator,,,,WP_011153597.1
+NACHT domain-containing NTPase CDS,mvR12_Howe,57972,60323,2352,forward,,,,,,,,,,,,,,SGL_RS00265,slr5058,,,NACHT domain-containing NTPase,,,,WP_011153595.1
+cellulose synthase operon protein YhjQ/BcsQ CDS,mvR12_Howe,50111,52333,2223,reverse,,,,,,,,,,,,,,SGL_RS00235,sll5052,,,cellulose synthase operon protein YhjQ/BcsQ,,,,WP_011153589.1
+DNA phosphorothioation-associated putative methyltransferase CDS,mvR12_Howe,28096,30168,2073,reverse,,,,,,,,,,,,,,SGL_RS00125,sll5026,,,DNA phosphorothioation-associated putative methyltransferase,,,,WP_011153563.1
+AAA family ATPase CDS,mvR12_Howe,82309,84186,1878,reverse,GO:0005524 - ATP binding [Evidence IEA]; GO:0016887 - ATP hydrolysis activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00385,sll5083,,,AAA family ATPase,,,,WP_011153620.1
+hypothetical protein CDS,mvR12_Howe,18822,20513,1692,forward,,,,,,,,,,,,,,SGL_RS00060,slr5013,,,hypothetical protein,,,,WP_011153550.1
+hypothetical protein CDS,mvR12_Howe,69335,70810,1476,reverse,,,,,,,,,,,,,,SGL_RS00315,sll5069,,,hypothetical protein,,,,WP_011153606.1
+hypothetical protein CDS,mvR12_Howe,44338,45855,1518,reverse,,,,,,,,,,,,,,SGL_RS00210,sll5047,,,hypothetical protein,,,,WP_011153584.1
+hypothetical protein CDS,mvR12_Howe,100798,102288,1491,reverse,,,,,,,,,,,,,,SGL_RS00510,sll5109,,,hypothetical protein,,,,WP_011153646.1
+PLP-dependent aminotransferase family protein CDS,mvR12_Howe,85552,86997,1446,reverse,GO:0030170 - pyridoxal phosphate binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00400,sll5086,,,PLP-dependent aminotransferase family protein,,,,WP_041428264.1
+HNH endonuclease domain-containing protein CDS,mvR12_Howe,21843,23219,1377,forward,,,,,,,,,,,,,,SGL_RS00075,slr5016,,,HNH endonuclease domain-containing protein,,,,WP_011153553.1
+glycosyltransferase family 2 protein CDS,mvR12_Howe,54911,56281,1371,forward,,,,,,,,,,,,,,SGL_RS00255,slr5056,,,glycosyltransferase family 2 protein,,,,WP_011153593.1
+NAD(P)/FAD-dependent oxidoreductase CDS,mvR12_Howe,91355,92692,1338,forward,GO:0009055 - electron transfer activity [Evidence IEA]; GO:0016491 - oxidoreductase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00435,slr5093,1.-.-.-,,NAD(P)/FAD-dependent oxidoreductase,,,,WP_223211231.1
+oligosaccharide flippase family protein CDS,mvR12_Howe,46945,48288,1344,reverse,,,,,,,,,,,,,,SGL_RS00220,sll5049,,,oligosaccharide flippase family protein,,,,WP_011153586.1
+FAD-dependent oxidoreductase CDS,mvR12_Howe,35079,36365,1287,reverse,GO:0016491 - oxidoreductase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00160,sll5036,,,FAD-dependent oxidoreductase,,,,WP_011153573.1
+Y-family DNA polymerase CDS,mvR12_Howe,110524,111786,1263,reverse,,,,,,,,,,,,,,SGL_RS00575,sll5122,,,Y-family DNA polymerase,,,,WP_011153659.1
+chrA CDS,mvR12_Howe,36906,38144,1239,forward,GO:0015109 - chromate transmembrane transporter activity [Evidence IEA],,,,,,,,,,,,GO:0015703 - chromate transport [Evidence IEA],SGL_RS00170,slr5038,,chrA,chromate efflux transporter,,,,WP_011153575.1
+glycosyltransferase CDS,mvR12_Howe,48291,49505,1215,reverse,GO:0016757 - glycosyltransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00225,sll5050,2.4.-.-,,glycosyltransferase,,,,WP_041428272.1
+AAA family ATPase CDS,mvR12_Howe,25994,27175,1182,forward,GO:0005524 - ATP binding [Evidence IEA]; GO:0016887 - ATP hydrolysis activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00110,slr5023,,,AAA family ATPase,,,,WP_011153560.1
+IS4-like element IS4Sa family transposase CDS,mvR12_Howe,117345,118361,1017,reverse,GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,GO:0006313 - DNA transposition [Evidence IEA],SGL_RS00620,sll5131,,,IS4-like element IS4Sa family transposase,,,,WP_010872287.1
+cysteine desulfurase family protein CDS,mvR12_Howe,24798,25955,1158,forward,GO:0030170 - pyridoxal phosphate binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00105,slr5022,,,cysteine desulfurase family protein,,,,WP_011153559.1
+hypothetical protein CDS,mvR12_Howe,104141,105274,1134,forward,,,,,,,,,,,,,,SGL_RS00530,slr5112,,,hypothetical protein,,,,WP_011153649.1
+glycosyltransferase family 4 protein CDS,mvR12_Howe,45852,46940,1089,reverse,GO:0016757 - glycosyltransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00215,sll5048,2.4.-.-,,glycosyltransferase family 4 protein,,,,WP_011153585.1
+hypothetical protein CDS,mvR12_Howe,115503,116540,1038,reverse,,,,,,,,,,,,,,SGL_RS00605,sll5128,,,hypothetical protein,,,,WP_011153665.1
+WYL domain-containing transcriptional regulator CDS,mvR12_Howe,93862,94866,1005,reverse,,,,,,,,,,,,,,SGL_RS00455,sll5097,,,WYL domain-containing transcriptional regulator,,,,WP_011153634.1
+glycosyltransferase family 2 protein CDS,mvR12_Howe,41411,42397,987,reverse,GO:0016757 - glycosyltransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00195,sll5043,2.4.-.-,,glycosyltransferase family 2 protein,,,,WP_011153580.1
+glycosyltransferase CDS,mvR12_Howe,53037,54026,990,forward,,,,,,,,,,,,,,SGL_RS00245,slr5054,2.4.-.-,,glycosyltransferase,,,,WP_011153591.1
+LAGLIDADG endonuclease CDS,mvR12_Howe,20523,21479,957,reverse,,,,,,,,,,,,,,SGL_RS00065,sll5014,,,LAGLIDADG endonuclease,,,,WP_011153551.1
+sugar transferase CDS,mvR12_Howe,56854,57807,954,reverse,,,,,,,,,,,,,,SGL_RS00260,sll5057,,,sugar transferase,,,,WP_011153594.1
+sulfotransferase CDS,mvR12_Howe,43343,44293,951,reverse,GO:0050656 - 3'-phosphoadenosine 5'-phosphosulfate binding [Evidence IEA]; GO:0008146 - sulfotransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00205,sll5046,2.8.2.-,,sulfotransferase,,,,WP_011153583.1
+ion channel CDS,mvR12_Howe,76050,76988,939,forward,,,,,,,,,,,,,,SGL_RS00355,slr5078,,,ion channel,,,,WP_011153615.1
+DUF4007 family protein CDS,mvR12_Howe,17880,18800,921,forward,,,,,,,,,,,,,,SGL_RS00055,slr5012,,,DUF4007 family protein,,,,WP_011153549.1
+metal-dependent hydrolase CDS,mvR12_Howe,88902,89759,858,reverse,,,,,,,,,,,,,,SGL_RS00415,sll5089,,,metal-dependent hydrolase,,,,WP_223211230.1
+response regulator CDS,mvR12_Howe,60291,61199,909,reverse,,,,,,,,,,,,,GO:0000160 - phosphorelay signal transductionsystem [Evidence IEA],SGL_RS00270,sll5059,,,response regulator,,,,WP_011153596.1
+sulfotransferase CDS,mvR12_Howe,40411,41316,906,reverse,GO:0050656 - 3'-phosphoadenosine 5'-phosphosulfate binding [Evidence IEA]; GO:0008146 - sulfotransferase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00190,sll5042,2.8.2.-,,sulfotransferase,,,,WP_041428258.1
+Rpn family recombination-promoting nuclease/putative transposase CDS,mvR12_Howe,107767,108585,819,forward,,,,,,,,,,,,,,SGL_RS00560,slr5118,,,Rpn family recombination-promoting nuclease/putative transposase,,,,WP_011153655.1
+ARMT1-like domain-containing protein CDS,mvR12_Howe,32015,32836,822,reverse,,,,,,,,,,,,,,SGL_RS00140,sll5030,,,ARMT1-like domain-containing protein,,,,WP_011153567.1
+Rpn family recombination-promoting nuclease/putative transposase CDS,mvR12_Howe,80783,81613,831,forward,,,,,,,,,,,,,,SGL_RS00375,slr5082,,,Rpn family recombination-promoting nuclease/putative transposase,,,,WP_011153619.1
+IS5 family transposase CDS,mvR12_Howe,38907,39641,735,forward,GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00180,slr5040,,,IS5 family transposase,,,,WP_223211235.1
+Rpn family recombination-promoting nuclease/putative transposase CDS,mvR12_Howe,112352,113182,831,forward,,,,,,,,,,,,,,SGL_RS00585,slr5124,,,Rpn family recombination-promoting nuclease/putative transposase,,,,WP_011153661.1
+alpha/beta hydrolase CDS,mvR12_Howe,78057,78881,825,reverse,GO:0016787 - hydrolase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00365,sll5080,,,alpha/beta hydrolase,,,,WP_011153617.1
+Rpn family recombination-promoting nuclease/putative transposase CDS,mvR12_Howe,75147,75929,783,forward,,,,,,,,,,,,,,SGL_RS00350,slr5077,,,Rpn family recombination-promoting nuclease/putative transposase,,,,WP_011153614.1
+WecB/TagA/CpsF family glycosyltransferase CDS,mvR12_Howe,54119,54910,792,forward,,,,,,,,,,,,,,SGL_RS00250,slr5055,,,WecB/TagA/CpsF family glycosyltransferase,,,,WP_011153592.1
+IS701 family transposase CDS,mvR12_Howe,31397,32062,666,forward,GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00135,slr5029,,,IS701 family transposase,,,,WP_011153566.1
+YwqG family protein CDS,mvR12_Howe,79505,80293,789,reverse,,,,,,,,,,,,,,SGL_RS00370,sll5081,,,YwqG family protein,,,,WP_011153618.1
+Rpn family recombination-promoting nuclease/putative transposase CDS,mvR12_Howe,108733,109503,771,forward,,,,,,,,,,,,,,SGL_RS00565,slr5119,,,Rpn family recombination-promoting nuclease/putative transposase,,,,WP_011153656.1
+hypothetical protein CDS,mvR12_Howe,114514,115284,771,forward,,,,,,,,,,,,,,SGL_RS00600,slr5127,,,hypothetical protein,,,,WP_011153664.1
+glucose 1-dehydrogenase CDS,mvR12_Howe,77192,77944,753,reverse,GO:0016491 - oxidoreductase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00360,sll5079,1.1.1.47,,glucose 1-dehydrogenase,,,,WP_173327395.1
+hypothetical protein CDS,mvR12_Howe,72425,73159,735,forward,,,,,,,,,,,,,,SGL_RS00330,slr5073,,,hypothetical protein,,,,WP_011153610.1
+transposase CDS,mvR12_Howe,<39663,40259,>597,reverse,GO:0003677 - DNA binding [Evidence IEA]; GO:0004803 - transposase activity [Evidence IEA],,,,,,,,,,,,GO:0006313 - DNA transposition [Evidence IEA],SGL_RS00185,sll5041,,,transposase,,,,
+transposase CDS,mvR12_Howe,65758,66480,723,reverse,,,,,,,,,,,,,,SGL_RS00290,sll5063,,,transposase,,,,WP_143705300.1
+glycosyltransferase family 25 protein CDS,mvR12_Howe,42442,43161,720,reverse,,,,,,,,,,,,,,SGL_RS00200,sll5044,,,glycosyltransferase family 25 protein,,,,WP_041428259.1
+SDR family oxidoreductase CDS,mvR12_Howe,88114,88830,717,forward,GO:0016491 - oxidoreductase activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00410,slr5088,1.-.-.-,,SDR family oxidoreductase,,,,WP_011153625.1
+thermonuclease family protein CDS,mvR12_Howe,84439,85110,672,reverse,,,,,,,,,,,,,,SGL_RS00390,sll5084,,,thermonuclease family protein,,,,WP_223211228.1
+DUF3365 domain-containing protein CDS,mvR12_Howe,34001,34624,624,reverse,,,,,,,,,,,,,,SGL_RS00155,sll5034,,,DUF3365 domain-containing protein,,,,WP_011153571.1
+ParA family protein CDS,mvR12_Howe,67362,67976,615,reverse,GO:0005524 - ATP binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00300,sll5066,,,ParA family protein,,,,WP_011153603.1
+ParA family protein CDS,mvR12_Howe,98614,99219,606,forward,GO:0005524 - ATP binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00490,slr5105,,,ParA family protein,,,,WP_011153642.1
+nucleotidyl transferase AbiEii/AbiGii toxin family protein CDS,mvR12_Howe,96554,97156,603,forward,,,,,,,,,,,,,,SGL_RS00475,slr5102,,,nucleotidyl transferase AbiEii/AbiGii toxin family protein,,,,WP_011153639.1
+DUF1524 domain-containing protein CDS,mvR12_Howe,116886,117293,408,reverse,,,,,,,,,,,,,,SGL_RS00615,sll5130,,,DUF1524 domain-containing protein,,,,WP_011153667.1
+site-specific integrase CDS,mvR12_Howe,16603,17166,564,forward,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,GO:0015074 - DNA integration [Evidence IEA]; GO:0006310 - DNA recombination [Evidence IEA],SGL_RS00045,slr5010,,,site-specific integrase,,,,WP_011153547.1
+DUF4276 family protein CDS,mvR12_Howe,27175,27735,561,forward,,,,,,,,,,,,,,SGL_RS00115,slr5024,,,DUF4276 family protein,,,,WP_011153561.1
+hypothetical protein CDS,mvR12_Howe,89699,90253,555,reverse,,,,,,,,,,,,,,SGL_RS00420,sll5090,,,hypothetical protein,,,,WP_011153627.1
+hypothetical protein CDS,mvR12_Howe,14579,15133,555,reverse,,,,,,,,,,,,,,SGL_RS00030,sll5006,,,hypothetical protein,,,,WP_011153543.1
+dihydrofolate reductase family protein CDS,mvR12_Howe,74510,75055,546,reverse,,,,,,,,,,,,,,SGL_RS00345,sll5076,,,dihydrofolate reductase family protein,,,,WP_011153613.1
+DUF3122 domain-containing protein CDS,mvR12_Howe,33422,33961,540,reverse,,,,,,,,,,,,,,SGL_RS00150,sll5033,,,DUF3122 domain-containing protein,,,,WP_011153570.1
+ATP-binding protein CDS,mvR12_Howe,68050,68574,525,reverse,GO:0005524 - ATP binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00305,sll5067,,,ATP-binding protein,,,,WP_011153604.1
+hypothetical protein CDS,mvR12_Howe,30677,31183,507,reverse,,,,,,,,,,,,,,SGL_RS19675,,,,hypothetical protein,,,,WP_223211234.1
+DUF4079 domain-containing protein CDS,mvR12_Howe,32865,33350,486,reverse,,,,,,,,,,,,,,SGL_RS00145,sll5032,,,DUF4079 domain-containing protein,,,,
+hypothetical protein CDS,mvR12_Howe,100364,100759,396,reverse,,,,,,,,,,,,,,SGL_RS19305,,,,hypothetical protein,,,,WP_223211237.1
+hypothetical protein CDS,mvR12_Howe,113953,114423,471,forward,,,,,,,,,,,,,,SGL_RS00595,slr5126,,,hypothetical protein,,,,WP_011153663.1
+hypothetical protein CDS,mvR12_Howe,65331,65786,456,reverse,,,,,,,,,,,,,,SGL_RS00285,sll5062,,,hypothetical protein,,,,WP_011153599.1
+DUF6088 family protein CDS,mvR12_Howe,96124,96561,438,forward,,,,,,,,,,,,,,SGL_RS00470,slr5101,,,DUF6088 family protein,,,,WP_011153638.1
+hypothetical protein CDS,mvR12_Howe,574,1017,444,reverse,,,,,,,,,,,,,,SGL_RS00010,sll5002,,,hypothetical protein,,,,WP_223211233.1
+umuD CDS,mvR12_Howe,111783,112217,435,reverse,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00580,sll5123,2.7.7.7,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,,,,WP_011153660.1
+cyanoexosortase A system-associated protein CDS,mvR12_Howe,52552,52992,441,forward,,,,,,,,,,,,,,SGL_RS00240,slr5053,,,cyanoexosortase A system-associated protein,,,,WP_011153590.1
+type II toxin-antitoxin system VapC family toxin CDS,mvR12_Howe,92805,93236,432,reverse,,,,,,,,,,,,,,SGL_RS00440,sll5094,,,type II toxin-antitoxin system VapC family toxin,,,,WP_011153631.1
+arsenate reductase family protein CDS,mvR12_Howe,97790,98212,423,reverse,,,,,,,,,,,,,,SGL_RS00485,sll5104,,,arsenate reductase family protein,,,,WP_011153856.1
+hypothetical protein CDS,mvR12_Howe,103661,104083,423,forward,,,,,,,,,,,,,,SGL_RS00525,slr5111,,,hypothetical protein,,,,WP_199303660.1
+"putative toxin-antitoxin system toxin component,PIN family CDS",mvR12_Howe,107105,107527,423,forward,GO:0005515 - protein binding [Evidence IEA];GO:0004521 - RNA endonuclease activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00550,slr5116,,,"putative toxin-antitoxin system toxin component,PIN family",,,,WP_011153653.1
+DUF2267 domain-containing protein CDS,mvR12_Howe,87601,88020,420,forward,,,,,,,,,,,,,,SGL_RS00405,slr5087,,,DUF2267 domain-containing protein,,,,WP_011153624.1
+VOC family protein CDS,mvR12_Howe,73728,74147,420,reverse,,,,,,,,,,,,,,SGL_RS00340,sll5075,,,VOC family protein,,,,WP_011153612.1
+cytidine deaminase CDS,mvR12_Howe,99565,99981,417,reverse,GO:0004126 - cytidine deaminase activity [Evidence IEA]; GO:0008270 - zinc ion binding [Evidence IEA],,,,,,,,,,,,GO:0009972 - cytidine deamination [Evidence IEA],SGL_RS00500,sll5107,3.5.4.5,,cytidine deaminase,,,,WP_011153644.1
+arfB CDS,mvR12_Howe,106537,106950,414,forward,GO:0003747 - translation release factor activity [Evidence IEA],,,,,,,,,,,,GO:0006415 - translational termination [Evidence IEA],SGL_RS00545,slr5115,3.1.1.29,arfB,alternative ribosome rescue aminoacyl-tRNA hydrolase ArfB,,,,WP_011153652.1
+DUF5615 family PIN-like protein CDS,mvR12_Howe,1136,1540,405,reverse,,,,,,,,,,,,,,SGL_RS00015,sll5003,,,DUF5615 family PIN-like protein,,,,WP_011153540.1
+hypothetical protein CDS,mvR12_Howe,68904,69296,393,reverse,,,,,,,,,,,,,,SGL_RS19300,,,,hypothetical protein,,,,WP_223211236.1
+hypothetical protein CDS,mvR12_Howe,49707,50099,393,forward,,,,,,,,,,,,,,SGL_RS00230,slr5051,,,hypothetical protein,,,,WP_011153588.1
+DUF302 domain-containing protein CDS,mvR12_Howe,36483,36866,384,forward,,,,,,,,,,,,,,SGL_RS00165,slr5037,,,DUF302 domain-containing protein,,,,WP_011153574.1
+PAS domain S-box protein CDS,mvR12_Howe,64868,65245,378,reverse,,,,,,,,,,,,,,SGL_RS00280,sll5061,,,PAS domain S-box protein,,,,WP_011153598.1
+helix-turn-helix transcriptional regulator CDS,mvR12_Howe,102801,103151,351,forward,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00515,slr5110,,,helix-turn-helix transcriptional regulator,,,,WP_223211232.1
+helix-turn-helix transcriptional regulator CDS,mvR12_Howe,71474,71818,345,forward,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00320,slr5071,,,helix-turn-helix transcriptional regulator,,,,WP_011153608.1
+DUF86 domain-containing protein CDS,mvR12_Howe,23562,23903,342,forward,,,,,,,,,,,,,,SGL_RS00085,slr5018,,,DUF86 domain-containing protein,,,,WP_011153555.1
+metalloregulator ArsR/SmtB family transcription factor CDS,mvR12_Howe,34736,35074,339,reverse,GO:0003677 - DNA binding [Evidence IEA]; GO:0003700 - DNA-binding transcription factor activity [Evidence IEA],,,,,,,,,,,,GO:0006355 - regulation of DNA-templated transcription [Evidence IEA],SGL_RS18475,,,,metalloregulator ArsR/SmtB family transcription factor,,,,WP_011153572.1
+hypothetical protein CDS,mvR12_Howe,85167,85469,303,forward,,,,,,,,,,,,,,SGL_RS00395,slr5085,,,hypothetical protein,,,,WP_223211229.1
+ATP-binding protein CDS,mvR12_Howe,14340,14639,300,reverse,,,,,,,,,,,,,,SGL_RS00025,,,,ATP-binding protein,,,,WP_041428257.1
+nucleotidyltransferase domain-containing protein CDS,mvR12_Howe,23255,23572,318,forward,GO:0016779 - nucleotidyltransferase activity[Evidence IEA],,,,,,,,,,,,,SGL_RS00080,slr5017,,,nucleotidyltransferase domain-containing protein,,,,WP_011153554.1
+HigA family addiction module antitoxin CDS,mvR12_Howe,24473,24787,315,forward,GO:0003677 - DNA binding [Evidence IEA],,,,,,,,,,,,,SGL_RS00100,slr5021,,,HigA family addiction module antitoxin,,,,WP_011153558.1
+HNH endonuclease CDS,mvR12_Howe,66782,67072,291,reverse,,,,,,,,,,,,,,SGL_RS18485,,,,HNH endonuclease,,,,WP_011153601.1
+HNH endonuclease CDS,mvR12_Howe,95256,95549,294,reverse,,,,,,,,,,,,,,SGL_RS18510,,,,HNH endonuclease,,,,WP_011153636.1
+DUF433 domain-containing protein CDS,mvR12_Howe,1515,1820,306,reverse,,,,,,,,,,,,,,SGL_RS20220,,,,DUF433 domain-containing protein,,,,WP_199303662.1
+hypothetical protein CDS,mvR12_Howe,106087,106371,285,reverse,,,,,,,,,,,,,,SGL_RS00540,ssl5114,,,hypothetical protein,,,,WP_011153651.1
+HNH endonuclease CDS,mvR12_Howe,30281,30574,294,reverse,,,,,,,,,,,,,,SGL_RS18470,,,,HNH endonuclease,,,,WP_011153564.1
+hypothetical protein CDS,mvR12_Howe,38437,38730,294,reverse,,,,,,,,,,,,,,SGL_RS00175,ssl5039,,,hypothetical protein,,,,WP_011153576.1
+type II toxin-antitoxin system RelE/ParE family toxin CDS,mvR12_Howe,24181,24462,282,forward,,,,,,,,,,,,,,SGL_RS00095,ssr5020,,,type II toxin-antitoxin system RelE/ParE family toxin,,,,WP_011153557.1
+hypothetical protein CDS,mvR12_Howe,105753,106043,291,reverse,,,,,,,,,,,,,,SGL_RS00535,ssl5113,,,hypothetical protein,,,,WP_011153650.1
+type II toxin-antitoxin system prevent-host-death family antitoxin CDS,mvR12_Howe,93233,93520,288,reverse,,,,,,,,,,,,,GO:0008219 - cell death [Evidence IEA],SGL_RS00445,ssl5095,,,type II toxin-antitoxin system prevent-host-death family antitoxin,,,,WP_011153632.1
+hypothetical protein CDS,mvR12_Howe,21479,21760,282,reverse,,,,,,,,,,,,,,SGL_RS00070,ssl5015,,,hypothetical protein,,,,WP_011153552.1
+hypothetical protein CDS,mvR12_Howe,71972,72238,267,forward,,,,,,,,,,,,,,SGL_RS19365,,,,hypothetical protein,,,,WP_158299050.1
+IS1 family transposase CDS,mvR12_Howe,56357,>56617,>261,reverse,,,,,,,,,,,,,,SGL_RS19680,,,,IS1 family transposase,,,,
+hypothetical protein CDS,mvR12_Howe,15233,15481,249,reverse,,,,,,,,,,,,,,SGL_RS00035,ssl5007,,,hypothetical protein,,,,WP_011153544.1
+hypothetical protein CDS,mvR12_Howe,103187,103417,231,reverse,,,,,,,,,,,,,,SGL_RS00520,,,,hypothetical protein,,,,WP_041428267.1
+hypothetical protein CDS,mvR12_Howe,90353,90601,249,reverse,,,,,,,,,,,,,,SGL_RS00425,ssl5091,,,hypothetical protein,,,,WP_011153628.1
+hypothetical protein CDS,mvR12_Howe,90973,91218,246,forward,,,,,,,,,,,,,,SGL_RS00430,ssr5092,,,hypothetical protein,,,,WP_011153629.1
+hypothetical protein CDS,mvR12_Howe,15996,16235,240,forward,,,,,,,,,,,,,,SGL_RS00040,ssr5009,,,hypothetical protein,,,,WP_011153546.1
+hypothetical protein CDS,mvR12_Howe,99216,99449,234,forward,,,,,,,,,,,,,,SGL_RS00495,ssr5106,,,hypothetical protein,,,,WP_011153643.1
+hypothetical protein CDS,mvR12_Howe,113239,113463,225,reverse,,,,,,,,,,,,,,SGL_RS00590,ssl5125,,,hypothetical protein,,,,WP_011153662.1
+hypothetical protein CDS,mvR12_Howe,110068,110283,216,forward,,,,,,,,,,,,,,SGL_RS00570,ssr5121,,,hypothetical protein,,,,WP_011153658.1
+DUF167 domain-containing protein CDS,mvR12_Howe,17218,17439,222,forward,,,,,,,,,,,,,,SGL_RS00050,ssr5011,,,DUF167 domain-containing protein,,,,WP_011153548.1
+toxin-antitoxin system HicB family antitoxin CDS,mvR12_Howe,107531,107746,216,forward,,,,,,,,,,,,,,SGL_RS00555,ssr5117,,,toxin-antitoxin system HicB family antitoxin,,,,WP_011153654.1
+hypothetical protein CDS,mvR12_Howe,<100710,100868,>159,reverse,,,,,,,,,,,,,,SGL_RS19685,,,,hypothetical protein,,,,
+hypothetical protein CDS,mvR12_Howe,67163,67378,216,reverse,,,,,,,,,,,,,,SGL_RS00295,ssl5065,,,hypothetical protein,,,,WP_011153602.1
+hypothetical protein CDS,mvR12_Howe,73270,73485,216,forward,,,,,,,,,,,,,,SGL_RS00335,ssr5074,,,hypothetical protein,,,,WP_011153611.1
+hypothetical protein CDS,mvR12_Howe,97277,97492,216,forward,,,,,,,,,,,,,,SGL_RS00480,,,,hypothetical protein,,,,WP_041428265.1
+recombinase family protein CDS,mvR12_Howe,93656,93865,210,reverse,GO:0003677 - DNA binding [Evidence IEA]; GO:0000150 - DNA strand exchange activity [Evidence IEA],,,,,,,,,,,,,SGL_RS00450,ssl5096,,,recombinase family protein,,,,WP_011153633.1
+hypothetical protein CDS,mvR12_Howe,95697,95903,207,reverse,,,,,,,,,,,,,,SGL_RS00465,ssl5100,,,hypothetical protein,,,,WP_011153637.1
+hypothetical protein CDS,mvR12_Howe,<69247,69408,>162,reverse,,,,,,,,,,,,,,SGL_RS18490,,,,hypothetical protein,,,,
+DUF433 domain-containing protein CDS,mvR12_Howe,27859,28053,195,reverse,,,,,,,,,,,,,,SGL_RS00120,ssl5025,,,DUF433 domain-containing protein,,,,WP_011153562.1
+hypothetical protein CDS,mvR12_Howe,116636,116830,195,reverse,,,,,,,,,,,,,,SGL_RS00610,ssl5129,,,hypothetical protein,,,,WP_011153666.1
+aminotransferase class V-fold PLP-dependent enzyme CDS,mvR12_Howe,23890,>24063,>174,forward,,,,,,,,,,,,,,SGL_RS00090,ssr5019,,,aminotransferase class V-fold PLP-dependent enzyme,,,,
+hypothetical protein CDS,mvR12_Howe,81723,81878,156,reverse,,,,,,,,,,,,,,SGL_RS19370,,,,hypothetical protein,,,,WP_158299051.1
+gene,mvR12_Howe,1,119895,1524,reverse,,,,,,,,,,,,,,SGL_RS00005,sll5132,,,,,,,
+gene,mvR12_Howe,2528,13921,11394,forward,,,,,,,,,,,,,,SGL_RS00020,slr5005,,,,,,,
+gene,mvR12_Howe,61202,64831,3630,reverse,,,,,,,,,,,,,,SGL_RS00275,sll5060,,,,,,,
+gene,mvR12_Howe,57972,60323,2352,forward,,,,,,,,,,,,,,SGL_RS00265,slr5058,,,,,,,
+gene,mvR12_Howe,50111,52333,2223,reverse,,,,,,,,,,,,,,SGL_RS00235,sll5052,,,,,,,
+gene,mvR12_Howe,28096,30168,2073,reverse,,,,,,,,,,,,,,SGL_RS00125,sll5026,,,,,,,
+gene,mvR12_Howe,82309,84186,1878,reverse,,,,,,,,,,,,,,SGL_RS00385,sll5083,,,,,,,
+gene,mvR12_Howe,18822,20513,1692,forward,,,,,,,,,,,,,,SGL_RS00060,slr5013,,,,,,,
+gene,mvR12_Howe,69335,70810,1476,reverse,,,,,,,,,,,,,,SGL_RS00315,sll5069,,,,,,,
+gene,mvR12_Howe,44338,45855,1518,reverse,,,,,,,,,,,,,,SGL_RS00210,sll5047,,,,,,,
+gene,mvR12_Howe,100798,102288,1491,reverse,,,,,,,,,,,,,,SGL_RS00510,sll5109,,,,,,,
+gene,mvR12_Howe,85552,86997,1446,reverse,,,,,,,,,,,,,,SGL_RS00400,sll5086,,,,,,,
+gene,mvR12_Howe,21843,23219,1377,forward,,,,,,,,,,,,,,SGL_RS00075,slr5016,,,,,,,
+gene,mvR12_Howe,54911,56281,1371,forward,,,,,,,,,,,,,,SGL_RS00255,slr5056,,,,,,,
+gene,mvR12_Howe,91355,92692,1338,forward,,,,,,,,,,,,,,SGL_RS00435,slr5093,,,,,,,
+gene,mvR12_Howe,46945,48288,1344,reverse,,,,,,,,,,,,,,SGL_RS00220,sll5049,,,,,,,
+gene,mvR12_Howe,35079,36365,1287,reverse,,,,,,,,,,,,,,SGL_RS00160,sll5036,,,,,,,
+gene,mvR12_Howe,110524,111786,1263,reverse,,,,,,,,,,,,,,SGL_RS00575,sll5122,,,,,,,
+chrA gene,mvR12_Howe,36906,38144,1239,forward,,,,,,,,,,,,,,SGL_RS00170,slr5038,,chrA,,,,,
+gene,mvR12_Howe,48291,49505,1215,reverse,,,,,,,,,,,,,,SGL_RS00225,sll5050,,,,,,,
+gene,mvR12_Howe,25994,27175,1182,forward,,,,,,,,,,,,,,SGL_RS00110,slr5023,,,,,,,
+gene,mvR12_Howe,117345,118361,1017,reverse,,,,,,,,,,,,,,SGL_RS00620,sll5131,,,,,,,
+gene,mvR12_Howe,24798,25955,1158,forward,,,,,,,,,,,,,,SGL_RS00105,slr5022,,,,,,,
+gene,mvR12_Howe,104141,105274,1134,forward,,,,,,,,,,,,,,SGL_RS00530,slr5112,,,,,,,
+gene,mvR12_Howe,45852,46940,1089,reverse,,,,,,,,,,,,,,SGL_RS00215,sll5048,,,,,,,
+gene,mvR12_Howe,115503,116540,1038,reverse,,,,,,,,,,,,,,SGL_RS00605,sll5128,,,,,,,
+gene,mvR12_Howe,93862,94866,1005,reverse,,,,,,,,,,,,,,SGL_RS00455,sll5097,,,,,,,
+gene,mvR12_Howe,41411,42397,987,reverse,,,,,,,,,,,,,,SGL_RS00195,sll5043,,,,,,,
+gene,mvR12_Howe,53037,54026,990,forward,,,,,,,,,,,,,,SGL_RS00245,slr5054,,,,,,,
+gene,mvR12_Howe,20523,21479,957,reverse,,,,,,,,,,,,,,SGL_RS00065,sll5014,,,,,,,
+gene,mvR12_Howe,56854,57807,954,reverse,,,,,,,,,,,,,,SGL_RS00260,sll5057,,,,,,,
+gene,mvR12_Howe,43343,44293,951,reverse,,,,,,,,,,,,,,SGL_RS00205,sll5046,,,,,,,
+gene,mvR12_Howe,76050,76988,939,forward,,,,,,,,,,,,,,SGL_RS00355,slr5078,,,,,,,
+gene,mvR12_Howe,17880,18800,921,forward,,,,,,,,,,,,,,SGL_RS00055,slr5012,,,,,,,
+gene,mvR12_Howe,88902,89759,858,reverse,,,,,,,,,,,,,,SGL_RS00415,sll5089,,,,,,,
+gene,mvR12_Howe,60291,61199,909,reverse,,,,,,,,,,,,,,SGL_RS00270,sll5059,,,,,,,
+gene,mvR12_Howe,40411,41316,906,reverse,,,,,,,,,,,,,,SGL_RS00190,sll5042,,,,,,,
+gene,mvR12_Howe,107767,108585,819,forward,,,,,,,,,,,,,,SGL_RS00560,slr5118,,,,,,,
+gene,mvR12_Howe,32015,32836,822,reverse,,,,,,,,,,,,,,SGL_RS00140,sll5030,,,,,,,
+gene,mvR12_Howe,80783,81613,831,forward,,,,,,,,,,,,,,SGL_RS00375,slr5082,,,,,,,
+gene,mvR12_Howe,38907,39641,735,forward,,,,,,,,,,,,,,SGL_RS00180,slr5040,,,,,,,
+gene,mvR12_Howe,112352,113182,831,forward,,,,,,,,,,,,,,SGL_RS00585,slr5124,,,,,,,
+gene,mvR12_Howe,78057,78881,825,reverse,,,,,,,,,,,,,,SGL_RS00365,sll5080,,,,,,,
+gene,mvR12_Howe,75147,75929,783,forward,,,,,,,,,,,,,,SGL_RS00350,slr5077,,,,,,,
+gene,mvR12_Howe,54119,54910,792,forward,,,,,,,,,,,,,,SGL_RS00250,slr5055,,,,,,,
+gene,mvR12_Howe,31397,32062,666,forward,,,,,,,,,,,,,,SGL_RS00135,slr5029,,,,,,,
+gene,mvR12_Howe,79505,80293,789,reverse,,,,,,,,,,,,,,SGL_RS00370,sll5081,,,,,,,
+gene,mvR12_Howe,108733,109503,771,forward,,,,,,,,,,,,,,SGL_RS00565,slr5119,,,,,,,
+gene,mvR12_Howe,114514,115284,771,forward,,,,,,,,,,,,,,SGL_RS00600,slr5127,,,,,,,
+gene,mvR12_Howe,77192,77944,753,reverse,,,,,,,,,,,,,,SGL_RS00360,sll5079,,,,,,,
+gene,mvR12_Howe,72425,73159,735,forward,,,,,,,,,,,,,,SGL_RS00330,slr5073,,,,,,,
+gene,mvR12_Howe,<39663,40259,>597,reverse,,,,,,,,,,,,,,SGL_RS00185,sll5041,,,,,,,
+gene,mvR12_Howe,65758,66480,723,reverse,,,,,,,,,,,,,,SGL_RS00290,sll5063,,,,,,,
+gene,mvR12_Howe,42442,43161,720,reverse,,,,,,,,,,,,,,SGL_RS00200,sll5044,,,,,,,
+gene,mvR12_Howe,88114,88830,717,forward,,,,,,,,,,,,,,SGL_RS00410,slr5088,,,,,,,
+gene,mvR12_Howe,84439,85110,672,reverse,,,,,,,,,,,,,,SGL_RS00390,sll5084,,,,,,,
+gene,mvR12_Howe,34001,34624,624,reverse,,,,,,,,,,,,,,SGL_RS00155,sll5034,,,,,,,
+gene,mvR12_Howe,67362,67976,615,reverse,,,,,,,,,,,,,,SGL_RS00300,sll5066,,,,,,,
+gene,mvR12_Howe,98614,99219,606,forward,,,,,,,,,,,,,,SGL_RS00490,slr5105,,,,,,,
+gene,mvR12_Howe,96554,97156,603,forward,,,,,,,,,,,,,,SGL_RS00475,slr5102,,,,,,,
+gene,mvR12_Howe,116886,117293,408,reverse,,,,,,,,,,,,,,SGL_RS00615,sll5130,,,,,,,
+gene,mvR12_Howe,16603,17166,564,forward,,,,,,,,,,,,,,SGL_RS00045,slr5010,,,,,,,
+gene,mvR12_Howe,27175,27735,561,forward,,,,,,,,,,,,,,SGL_RS00115,slr5024,,,,,,,
+gene,mvR12_Howe,89699,90253,555,reverse,,,,,,,,,,,,,,SGL_RS00420,sll5090,,,,,,,
+gene,mvR12_Howe,14579,15133,555,reverse,,,,,,,,,,,,,,SGL_RS00030,sll5006,,,,,,,
+gene,mvR12_Howe,74510,75055,546,reverse,,,,,,,,,,,,,,SGL_RS00345,sll5076,,,,,,,
+gene,mvR12_Howe,33422,33961,540,reverse,,,,,,,,,,,,,,SGL_RS00150,sll5033,,,,,,,
+gene,mvR12_Howe,68050,68574,525,reverse,,,,,,,,,,,,,,SGL_RS00305,sll5067,,,,,,,
+gene,mvR12_Howe,30677,31183,507,reverse,,,,,,,,,,,,,,SGL_RS19675,,,,,,,,
+gene,mvR12_Howe,32865,33350,486,reverse,,,,,,,,,,,,,,SGL_RS00145,sll5032,,,,,,,
+gene,mvR12_Howe,100364,100759,396,reverse,,,,,,,,,,,,,,SGL_RS19305,,,,,,,,
+gene,mvR12_Howe,113953,114423,471,forward,,,,,,,,,,,,,,SGL_RS00595,slr5126,,,,,,,
+gene,mvR12_Howe,65331,65786,456,reverse,,,,,,,,,,,,,,SGL_RS00285,sll5062,,,,,,,
+gene,mvR12_Howe,96124,96561,438,forward,,,,,,,,,,,,,,SGL_RS00470,slr5101,,,,,,,
+gene,mvR12_Howe,574,1017,444,reverse,,,,,,,,,,,,,,SGL_RS00010,sll5002,,,,,,,
+umuD gene,mvR12_Howe,111783,112217,435,reverse,,,,,,,,,,,,,,SGL_RS00580,sll5123,,umuD,,,,,
+gene,mvR12_Howe,52552,52992,441,forward,,,,,,,,,,,,,,SGL_RS00240,slr5053,,,,,,,
+gene,mvR12_Howe,92805,93236,432,reverse,,,,,,,,,,,,,,SGL_RS00440,sll5094,,,,,,,
+gene,mvR12_Howe,97790,98212,423,reverse,,,,,,,,,,,,,,SGL_RS00485,sll5104,,,,,,,
+gene,mvR12_Howe,103661,104083,423,forward,,,,,,,,,,,,,,SGL_RS00525,slr5111,,,,,,,
+gene,mvR12_Howe,107105,107527,423,forward,,,,,,,,,,,,,,SGL_RS00550,slr5116,,,,,,,
+gene,mvR12_Howe,87601,88020,420,forward,,,,,,,,,,,,,,SGL_RS00405,slr5087,,,,,,,
+gene,mvR12_Howe,73728,74147,420,reverse,,,,,,,,,,,,,,SGL_RS00340,sll5075,,,,,,,
+gene,mvR12_Howe,99565,99981,417,reverse,,,,,,,,,,,,,,SGL_RS00500,sll5107,,,,,,,
+arfB gene,mvR12_Howe,106537,106950,414,forward,,,,,,,,,,,,,,SGL_RS00545,slr5115,,arfB,,,,,
+gene,mvR12_Howe,1136,1540,405,reverse,,,,,,,,,,,,,,SGL_RS00015,sll5003,,,,,,,
+gene,mvR12_Howe,68904,69296,393,reverse,,,,,,,,,,,,,,SGL_RS19300,,,,,,,,
+gene,mvR12_Howe,49707,50099,393,forward,,,,,,,,,,,,,,SGL_RS00230,slr5051,,,,,,,
+gene,mvR12_Howe,36483,36866,384,forward,,,,,,,,,,,,,,SGL_RS00165,slr5037,,,,,,,
+gene,mvR12_Howe,64868,65245,378,reverse,,,,,,,,,,,,,,SGL_RS00280,sll5061,,,,,,,
+gene,mvR12_Howe,102801,103151,351,forward,,,,,,,,,,,,,,SGL_RS00515,slr5110,,,,,,,
+gene,mvR12_Howe,71474,71818,345,forward,,,,,,,,,,,,,,SGL_RS00320,slr5071,,,,,,,
+gene,mvR12_Howe,23562,23903,342,forward,,,,,,,,,,,,,,SGL_RS00085,slr5018,,,,,,,
+gene,mvR12_Howe,34736,35074,339,reverse,,,,,,,,,,,,,,SGL_RS18475,,,,,,,,
+gene,mvR12_Howe,85167,85469,303,forward,,,,,,,,,,,,,,SGL_RS00395,slr5085,,,,,,,
+gene,mvR12_Howe,14340,14639,300,reverse,,,,,,,,,,,,,,SGL_RS00025,,,,,,,,
+gene,mvR12_Howe,23255,23572,318,forward,,,,,,,,,,,,,,SGL_RS00080,slr5017,,,,,,,
+gene,mvR12_Howe,24473,24787,315,forward,,,,,,,,,,,,,,SGL_RS00100,slr5021,,,,,,,
+gene,mvR12_Howe,66782,67072,291,reverse,,,,,,,,,,,,,,SGL_RS18485,,,,,,,,
+gene,mvR12_Howe,95256,95549,294,reverse,,,,,,,,,,,,,,SGL_RS18510,,,,,,,,
+gene,mvR12_Howe,1515,1820,306,reverse,,,,,,,,,,,,,,SGL_RS20220,,,,,,,,
+gene,mvR12_Howe,106087,106371,285,reverse,,,,,,,,,,,,,,SGL_RS00540,ssl5114,,,,,,,
+gene,mvR12_Howe,30281,30574,294,reverse,,,,,,,,,,,,,,SGL_RS18470,,,,,,,,
+gene,mvR12_Howe,38437,38730,294,reverse,,,,,,,,,,,,,,SGL_RS00175,ssl5039,,,,,,,
+gene,mvR12_Howe,24181,24462,282,forward,,,,,,,,,,,,,,SGL_RS00095,ssr5020,,,,,,,
+gene,mvR12_Howe,105753,106043,291,reverse,,,,,,,,,,,,,,SGL_RS00535,ssl5113,,,,,,,
+gene,mvR12_Howe,93233,93520,288,reverse,,,,,,,,,,,,,,SGL_RS00445,ssl5095,,,,,,,
+gene,mvR12_Howe,21479,21760,282,reverse,,,,,,,,,,,,,,SGL_RS00070,ssl5015,,,,,,,
+gene,mvR12_Howe,71972,72238,267,forward,,,,,,,,,,,,,,SGL_RS19365,,,,,,,,
+gene,mvR12_Howe,56357,>56617,>261,reverse,,,,,,,,,,,,,,SGL_RS19680,,,,,,,,
+gene,mvR12_Howe,15233,15481,249,reverse,,,,,,,,,,,,,,SGL_RS00035,ssl5007,,,,,,,
+gene,mvR12_Howe,103187,103417,231,reverse,,,,,,,,,,,,,,SGL_RS00520,,,,,,,,
+gene,mvR12_Howe,90353,90601,249,reverse,,,,,,,,,,,,,,SGL_RS00425,ssl5091,,,,,,,
+gene,mvR12_Howe,90973,91218,246,forward,,,,,,,,,,,,,,SGL_RS00430,ssr5092,,,,,,,
+gene,mvR12_Howe,15996,16235,240,forward,,,,,,,,,,,,,,SGL_RS00040,ssr5009,,,,,,,
+gene,mvR12_Howe,99216,99449,234,forward,,,,,,,,,,,,,,SGL_RS00495,ssr5106,,,,,,,
+gene,mvR12_Howe,113239,113463,225,reverse,,,,,,,,,,,,,,SGL_RS00590,ssl5125,,,,,,,
+gene,mvR12_Howe,110068,110283,216,forward,,,,,,,,,,,,,,SGL_RS00570,ssr5121,,,,,,,
+gene,mvR12_Howe,17218,17439,222,forward,,,,,,,,,,,,,,SGL_RS00050,ssr5011,,,,,,,
+gene,mvR12_Howe,107531,107746,216,forward,,,,,,,,,,,,,,SGL_RS00555,ssr5117,,,,,,,
+gene,mvR12_Howe,<100710,100868,>159,reverse,,,,,,,,,,,,,,SGL_RS19685,,,,,,,,
+gene,mvR12_Howe,67163,67378,216,reverse,,,,,,,,,,,,,,SGL_RS00295,ssl5065,,,,,,,
+gene,mvR12_Howe,73270,73485,216,forward,,,,,,,,,,,,,,SGL_RS00335,ssr5074,,,,,,,
+gene,mvR12_Howe,97277,97492,216,forward,,,,,,,,,,,,,,SGL_RS00480,,,,,,,,
+gene,mvR12_Howe,93656,93865,210,reverse,,,,,,,,,,,,,,SGL_RS00450,ssl5096,,,,,,,
+gene,mvR12_Howe,95697,95903,207,reverse,,,,,,,,,,,,,,SGL_RS00465,ssl5100,,,,,,,
+gene,mvR12_Howe,<69247,69408,>162,reverse,,,,,,,,,,,,,,SGL_RS18490,,,,,,,,
+gene,mvR12_Howe,27859,28053,195,reverse,,,,,,,,,,,,,,SGL_RS00120,ssl5025,,,,,,,
+gene,mvR12_Howe,116636,116830,195,reverse,,,,,,,,,,,,,,SGL_RS00610,ssl5129,,,,,,,
+gene,mvR12_Howe,23890,>24063,>174,forward,,,,,,,,,,,,,,SGL_RS00090,ssr5019,,,,,,,
+gene,mvR12_Howe,81723,81878,156,reverse,,,,,,,,,,,,,,SGL_RS19370,,,,,,,,
+A,mvR12_Howe,2,2,1,none,,R -> L,DUF262 domain-containing protein CDS,26,23.4%,C -> A,CGT -> CTT,47,SNP (transversion),Substitution,1.2E-19,2,,SGL_RS00005,,,,DUF262 domain-containing protein,29.8%,C,A,WP_011153668.1
+T,mvR12_Howe,3,3,1,none,,R -> S,DUF262 domain-containing protein CDS,25,20.4%,G -> T,CGT -> AGT,49,SNP (transversion),Substitution,4.4E-17,1,,SGL_RS00005,,,,DUF262 domain-containing protein,46.9%,G,T,WP_011153668.1
+TACGC,mvR12_Howe,5,4,0,none,,,DUF262 domain-containing protein CDS,24,26.0%,+TACGC,,50,Insertion,Frame Shift,1.4E-25,3,,SGL_RS00005,,,,DUF262 domain-containing protein,,,TACGC,WP_011153668.1
+A,mvR12_Howe,14511,14511,1,none,,E -> D,ATP-binding protein CDS,129,43.5%,T -> A,GAA -> GAT,1222,SNP (transversion),Substitution,3.0E-18,3,,SGL_RS00025,,,,ATP-binding protein,56.4%,T,A,WP_041428257.1
+T,mvR12_Howe,14516,14516,1,none,,L -> M,ATP-binding protein CDS,124,43.5%,G -> T,CTG -> ATG,1247,SNP (transversion),Substitution,3.8E-45,1,,SGL_RS00025,,,,ATP-binding protein,56.5%,G,T,WP_041428257.1
+T,mvR12_Howe,14577,14577,1,none,,,ATP-binding protein CDS,63,40.0%,C -> T,GGG -> GGA,1287,SNP (transition),None,7.6E-32,3,,SGL_RS00025,,,,ATP-binding protein,59.7%,C,T,WP_041428257.1
+T,mvR12_Howe,14627,14627,1,none,,G -> S,ATP-binding protein CDS,13,45.8%,C -> T,GGC -> AGC,1202,SNP (transition),Substitution,0.0,1,,SGL_RS00025,,,,ATP-binding protein,54.1%,C,T,WP_041428257.1
+T,mvR12_Howe,14627,14627,1,none,,,hypothetical protein CDS,507,45.8%,C -> T,AAG -> AAA,1202,SNP (transition),None,0.0,3,,SGL_RS00030,,,,hypothetical protein,54.1%,C,T,WP_011153543.1
+G,mvR12_Howe,14648,14648,1,none,,,hypothetical protein CDS,486,35.2%,T -> G,ATA -> ATC,1065,SNP (transversion),None,8.8E-54,3,,SGL_RS00030,,,,hypothetical protein,64.8%,T,G,WP_011153543.1
+G,mvR12_Howe,14681,14681,1,none,,,hypothetical protein CDS,453,33.0%,C -> G,GCG -> GCC,857,SNP (transversion),None,2.2E-35,3,,SGL_RS00030,,,,hypothetical protein,67.0%,C,G,WP_011153543.1
+A,mvR12_Howe,14690,14690,1,none,,,hypothetical protein CDS,444,31.0%,G -> A,TCC -> TCT,799,SNP (transition),None,8.1E-14,3,,SGL_RS00030,,,,hypothetical protein,68.8%,G,A,WP_011153543.1
+A,mvR12_Howe,14732,14732,1,none,,,hypothetical protein CDS,402,36.3%,G -> A,CCC -> CCT,736,SNP (transition),None,6.4E-175,3,,SGL_RS00030,,,,hypothetical protein,63.7%,G,A,WP_011153543.1
+C,mvR12_Howe,14744,14744,1,none,,I -> M,hypothetical protein CDS,390,35.4%,G -> C,ATC -> ATG,737,SNP (transversion),Substitution,5.8E-168,3,,SGL_RS00030,,,,hypothetical protein,64.3%,G,C,WP_011153543.1
+A,mvR12_Howe,14753,14753,1,none,,,hypothetical protein CDS,381,71.3%,G -> A,ACC -> ACT,724,SNP (transition),None,0.0,3,,SGL_RS00030,,,,hypothetical protein,28.7%,G,A,WP_011153543.1
+C,mvR12_Howe,14780,14780,1,none,,,hypothetical protein CDS,354,70.8%,A -> C,GGT -> GGG,662,SNP (transversion),None,0.0,3,,SGL_RS00030,,,,hypothetical protein,29.2%,A,C,WP_011153543.1
+G,mvR12_Howe,14801,14801,1,none,,,hypothetical protein CDS,333,33.4%,C -> G,GCG -> GCC,640,SNP (transversion),None,1.0E-75,3,,SGL_RS00030,,,,hypothetical protein,66.4%,C,G,WP_011153543.1
+C,mvR12_Howe,14813,14813,1,none,,,hypothetical protein CDS,321,68.8%,T -> C,GAA -> GAG,631,SNP (transition),None,0.0,3,,SGL_RS00030,,,,hypothetical protein,30.9%,T,C,WP_011153543.1
+A,mvR12_Howe,14834,14834,1,none,,,hypothetical protein CDS,300,66.3%,G -> A,GAC -> GAT,605,SNP (transition),None,0.0,3,,SGL_RS00030,,,,hypothetical protein,33.7%,G,A,WP_011153543.1
+TCCT,mvR12_Howe,14885,14888,3,none,,ER -> EG,hypothetical protein CDS,246,53.8% -> 55.0%,CCGC -> TCCT,"GAG,CGG -> GAA,GGA",475 -> 481,Substitution,Substitution,6.2E-131,3,,SGL_RS00030,,,,hypothetical protein,,CCGC,TCCT,WP_011153543.1
+T,mvR12_Howe,14899,14899,1,none,,V -> I,hypothetical protein CDS,235,55.8%,C -> T,GTC -> ATC,475,SNP (transition),Substitution,4.0E-135,1,,SGL_RS00030,,,,hypothetical protein,43.6%,C,T,WP_011153543.1
+G,mvR12_Howe,14940,14940,1,none,,G -> A,hypothetical protein CDS,194,36.0%,C -> G,GGA -> GCA,481,SNP (transversion),Substitution,5.3E-27,2,,SGL_RS00030,,,,hypothetical protein,63.8%,C,G,WP_011153543.1
+T,mvR12_Howe,15410,15410,1,none,,,hypothetical protein CDS,72,49.2%,C -> T,GCG -> GCA,1387,SNP (transition),None,1.1E-240,3,,SGL_RS00035,,,,hypothetical protein,50.7%,C,T,WP_011153544.1
+T,mvR12_Howe,15436,15436,1,none,,V -> I,hypothetical protein CDS,46,47.2%,C -> T,GTT -> ATT,1406,SNP (transition),Substitution,5.7E-221,1,,SGL_RS00035,,,,hypothetical protein,52.6%,C,T,WP_011153544.1
+G,mvR12_Howe,15592,15592,1,none,,,,,34.5%,A -> G,,1290,SNP (transition),,2.6E-34,,,,,,,,65.5%,A,G,
+T,mvR12_Howe,15595,15595,1,none,,,,,34.2%,C -> T,,1297,SNP (transition),,2.2E-33,,,,,,,,65.7%,C,T,
+A,mvR12_Howe,15646,15646,1,none,,,,,31.2%,G -> A,,1377,SNP (transition),,1.0E-72,,,,,,,,16.2%,G,A,
+A,mvR12_Howe,15704,15704,1,none,,,,,59.0%,G -> A,,1144,SNP (transition),,0.0,,,,,,,,41.0%,G,A,
+C,mvR12_Howe,15735,15735,1,none,,,,,79.0%,A -> C,,917,SNP (transversion),,0.0,,,,,,,,21.0%,A,C,
+C,mvR12_Howe,15753,15753,1,none,,,,,75.1%,G -> C,,835,SNP (transversion),,0.0,,,,,,,,24.1%,G,C,
+C,mvR12_Howe,15790,15790,1,none,,,,,73.8%,T -> C,,745,SNP (transition),,0.0,,,,,,,,26.2%,T,C,
+A,mvR12_Howe,15832,15832,1,none,,,,,67.2%,G -> A,,597,SNP (transition),,0.0,,,,,,,,32.7%,G,A,
+C,mvR12_Howe,15873,15873,1,none,,,,,52.5%,T -> C,,448,SNP (transition),,1.7E-52,,,,,,,,47.5%,T,C,
+A,mvR12_Howe,15875,15875,1,none,,,,,52.1%,G -> A,,445,SNP (transition),,3.6E-34,,,,,,,,47.9%,G,A,
+T,mvR12_Howe,15878,15878,1,none,,,,,51.9%,C -> T,,439,SNP (transition),,2.8E-33,,,,,,,,48.1%,C,T,
+G,mvR12_Howe,15882,15882,1,none,,,,,49.8%,A -> G,,430,SNP (transition),,4.7E-28,,,,,,,,50.2%,A,G,
+A,mvR12_Howe,15884,15884,1,none,,,,,48.6%,G -> A,,422,SNP (transition),,3.3E-13,,,,,,,,51.2%,G,A,
+T,mvR12_Howe,16438,16438,1,none,,,,,27.1%,C -> T,,586,SNP (transition),,3.2E-21,,,,,,,,72.7%,C,T,
+A,mvR12_Howe,16454,16454,1,none,,,,,64.5%,T -> A,,716,SNP (transversion),,1.3E-40,,,,,,,,35.5%,T,A,
+G,mvR12_Howe,16482,16482,1,none,,,,,29.1%,T -> G,,845,SNP (transversion),,1.3E-10,,,,,,,,70.8%,T,G,
+G,mvR12_Howe,16501,16501,1,none,,,,,74.0%,T -> G,,1030,SNP (transversion),,1.3E-109,,,,,,,,25.9%,T,G,
+C,mvR12_Howe,16528,16528,1,none,,,,,40.4%,T -> C,,1225,SNP (transition),,5.1E-94,,,,,,,,20.1%,T,C,
+G,mvR12_Howe,16528,16528,1,none,,,,,39.3%,T -> G,,1225,SNP (transversion),,9.6E-9,,,,,,,,20.1%,T,G,
+C,mvR12_Howe,16565,16565,1,none,,,,,22.0%,G -> C,,1460,SNP (transversion),,1.2E-85,,,,,,,,77.9%,G,C,
+A,mvR12_Howe,16572,16572,1,none,,,,,24.1%,G -> A,,1445,SNP (transition),,1.9E-104,,,,,,,,75.8%,G,A,
+C,mvR12_Howe,16575,16575,1,none,,,,,60.4%,T -> C,,1454,SNP (transition),,0.0,,,,,,,,39.5%,T,C,
+CC,mvR12_Howe,16588,16587,0,none,,,,,24.4%,+CC,,1466,Insertion,,4.1E-169,,,,,,,,,,CC,
+A,mvR12_Howe,16591,16591,1,none,,,,,42.7%,T -> A,,1474,SNP (transversion),,1.4E-132,,,,,,,,53.2%,T,A,
+CAT,mvR12_Howe,16592,16594,3,none,,,,,33.2% -> 33.5%,TGA -> CAT,,1449 -> 1466,Substitution,,6.7E-98,,,,,,,,,TGA,CAT,
+T,mvR12_Howe,16595,16595,1,none,,,,,60.4%,A -> T,,1469,SNP (transversion),,0.0,,,,,,,,38.9%,A,T,
+C,mvR12_Howe,16686,16686,1,none,,,site-specific integrase CDS,84,45.4%,T -> C,CCT -> CCC,1558,SNP (transition),None,1.4E-165,3,,SGL_RS00045,,,,site-specific integrase,54.6%,T,C,WP_011153547.1
+A,mvR12_Howe,16689,16689,1,none,,,site-specific integrase CDS,87,36.2%,G -> A,AGG -> AGA,1561,SNP (transition),None,3.0E-125,3,,SGL_RS00045,,,,site-specific integrase,54.6%,G,A,WP_011153547.1
+G,mvR12_Howe,16698,16698,1,none,,,site-specific integrase CDS,96,36.5%,C -> G,CTC -> CTG,1561,SNP (transversion),None,1.5E-87,3,,SGL_RS00045,,,,site-specific integrase,63.2%,C,G,WP_011153547.1
+C,mvR12_Howe,16707,16707,1,none,,,site-specific integrase CDS,105,44.5%,T -> C,GGT -> GGC,1544,SNP (transition),None,2.9E-105,3,,SGL_RS00045,,,,site-specific integrase,55.2%,T,C,WP_011153547.1
+G,mvR12_Howe,16731,16731,1,none,,,site-specific integrase CDS,129,37.5%,C -> G,CGC -> CGG,1583,SNP (transversion),None,8.4E-28,3,,SGL_RS00045,,,,site-specific integrase,62.3%,C,G,WP_011153547.1
+G,mvR12_Howe,16737,16737,1,none,,,site-specific integrase CDS,135,46.4%,A -> G,GGA -> GGG,1592,SNP (transition),None,1.1E-34,3,,SGL_RS00045,,,,site-specific integrase,53.3%,A,G,WP_011153547.1
+A,mvR12_Howe,16740,16740,1,none,,,site-specific integrase CDS,138,46.6%,G -> A,GAG -> GAA,1585,SNP (transition),None,2.0E-35,3,,SGL_RS00045,,,,site-specific integrase,53.2%,G,A,WP_011153547.1
+ACT,mvR12_Howe,16741,16743,2,none,,A -> T,site-specific integrase CDS,139,35.4% -> 35.5%,GCC -> ACT,GCC -> ACT,1582 -> 1589,Substitution,Substitution,1.4E-22,1,,SGL_RS00045,,,,site-specific integrase,,GCC,ACT,WP_011153547.1
+A,mvR12_Howe,16827,16827,1,none,,,site-specific integrase CDS,225,34.3%,G -> A,GTG -> GTA,1423,SNP (transition),None,0.0,3,,SGL_RS00045,,,,site-specific integrase,65.7%,G,A,WP_011153547.1
+T,mvR12_Howe,16834,16834,1,none,,T -> S,site-specific integrase CDS,232,82.8%,A -> T,ACC -> TCC,1415,SNP (transversion),Substitution,0.0,1,,SGL_RS00045,,,,site-specific integrase,17.2%,A,T,WP_011153547.1
+G,mvR12_Howe,16839,16839,1,none,,,site-specific integrase CDS,237,57.6%,A -> G,CCA -> CCG,1387,SNP (transition),None,0.0,3,,SGL_RS00045,,,,site-specific integrase,42.3%,A,G,WP_011153547.1
+T,mvR12_Howe,16896,16896,1,none,,,site-specific integrase CDS,294,65.2%,G -> T,TCG -> TCT,1085,SNP (transversion),None,0.0,3,,SGL_RS00045,,,,site-specific integrase,34.8%,G,T,WP_011153547.1
+C,mvR12_Howe,16914,16914,1,none,,,site-specific integrase CDS,312,64.5%,T -> C,GGT -> GGC,991,SNP (transition),None,0.0,3,,SGL_RS00045,,,,site-specific integrase,24.8%,T,C,WP_011153547.1
+T,mvR12_Howe,16932,16932,1,none,,,site-specific integrase CDS,330,59.1%,C -> T,CAC -> CAT,980,SNP (transition),None,1.1E-311,3,,SGL_RS00045,,,,site-specific integrase,40.8%,C,T,WP_011153547.1
+T,mvR12_Howe,16933,16933,1,none,,L -> F,site-specific integrase CDS,331,33.1%,C -> T,CTT -> TTT,974,SNP (transition),Substitution,5.8E-318,1,,SGL_RS00045,,,,site-specific integrase,66.9%,C,T,WP_011153547.1
+C,mvR12_Howe,16953,16953,1,none,,,site-specific integrase CDS,351,28.7%,T -> C,CAT -> CAC,902,SNP (transition),None,2.7E-213,3,,SGL_RS00045,,,,site-specific integrase,71.0%,T,C,WP_011153547.1
+T,mvR12_Howe,16971,16971,1,none,,,site-specific integrase CDS,369,24.8%,C -> T,GCC -> GCT,876,SNP (transition),None,1.1E-143,3,,SGL_RS00045,,,,site-specific integrase,75.1%,C,T,WP_011153547.1
+G,mvR12_Howe,16974,16974,1,none,,,site-specific integrase CDS,372,23.4%,T -> G,ACT -> ACG,870,SNP (transversion),None,3.7E-130,3,,SGL_RS00045,,,,site-specific integrase,76.4%,T,G,WP_011153547.1
+T,mvR12_Howe,16977,16977,1,none,,,site-specific integrase CDS,375,22.7%,C -> T,GAC -> GAT,875,SNP (transition),None,2.3E-106,3,,SGL_RS00045,,,,site-specific integrase,77.3%,C,T,WP_011153547.1
+G,mvR12_Howe,16980,16980,1,none,,,site-specific integrase CDS,378,47.3%,A -> G,AGA -> AGG,884,SNP (transition),None,3.0E-74,3,,SGL_RS00045,,,,site-specific integrase,52.4%,A,G,WP_011153547.1
+G,mvR12_Howe,16995,16995,1,none,,,site-specific integrase CDS,393,75.1%,A -> G,GGA -> GGG,855,SNP (transition),None,2.0E-97,3,,SGL_RS00045,,,,site-specific integrase,24.9%,A,G,WP_011153547.1
+C,mvR12_Howe,17016,17016,1,none,,,site-specific integrase CDS,414,76.1%,T -> C,CGT -> CGC,883,SNP (transition),None,8.9E-17,3,,SGL_RS00045,,,,site-specific integrase,23.6%,T,C,WP_011153547.1
+C,mvR12_Howe,17019,17019,1,none,,,site-specific integrase CDS,417,76.3%,T -> C,CGT -> CGC,897,SNP (transition),None,2.2E-17,3,,SGL_RS00045,,,,site-specific integrase,23.7%,T,C,WP_011153547.1
+T,mvR12_Howe,31378,31378,1,none,,,,,61.8%,A -> T,,589,SNP (transversion),,0.0,,,,,,,,38.2%,A,T,
+C,mvR12_Howe,31386,31386,1,none,,,,,41.8%,G -> C,,634,SNP (transversion),,0.0,,,,,,,,58.2%,G,C,
+G,mvR12_Howe,31417,31417,1,none,,,IS701 family transposase CDS,21,72.1%,A -> G,GCA -> GCG,797,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,27.9%,A,G,WP_011153566.1
+T,mvR12_Howe,31454,31454,1,none,,,IS701 family transposase CDS,58,24.0%,C -> T,CTG -> TTG,958,SNP (transition),None,0.0,1,,SGL_RS00135,,,,IS701 family transposase,76.0%,C,T,WP_011153566.1
+T,mvR12_Howe,31473,31473,1,none,,P -> L,IS701 family transposase CDS,77,27.0%,C -> T,CCA -> CTA,1015,SNP (transition),Substitution,0.0,2,,SGL_RS00135,,,,IS701 family transposase,72.9%,C,T,WP_011153566.1
+G,mvR12_Howe,31500,31500,1,none,,K -> R,IS701 family transposase CDS,104,27.5%,A -> G,AAA -> AGA,1053,SNP (transition),Substitution,0.0,2,,SGL_RS00135,,,,IS701 family transposase,72.4%,A,G,WP_011153566.1
+A,mvR12_Howe,31519,31519,1,none,,M -> I,IS701 family transposase CDS,123,78.9%,G -> A,ATG -> ATA,1078,SNP (transition),Substitution,0.0,3,,SGL_RS00135,,,,IS701 family transposase,21.1%,G,A,WP_011153566.1
+C,mvR12_Howe,31544,31544,1,none,,,IS701 family transposase CDS,148,23.0%,T -> C,TTA -> CTA,1129,SNP (transition),None,0.0,1,,SGL_RS00135,,,,IS701 family transposase,77.0%,T,C,WP_011153566.1
+A,mvR12_Howe,31569,31569,1,none,,G -> E,IS701 family transposase CDS,173,27.9%,G -> A,GGA -> GAA,1170,SNP (transition),Substitution,0.0,2,,SGL_RS00135,,,,IS701 family transposase,71.8%,G,A,WP_011153566.1
+T,mvR12_Howe,31600,31600,1,none,,,IS701 family transposase CDS,204,48.8%,C -> T,TTC -> TTT,1197,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,51.2%,C,T,WP_011153566.1
+C,mvR12_Howe,31622,31622,1,none,,,IS701 family transposase CDS,226,28.2%,T -> C,TTA -> CTA,1156,SNP (transition),None,0.0,1,,SGL_RS00135,,,,IS701 family transposase,71.7%,T,C,WP_011153566.1
+G,mvR12_Howe,31634,31634,1,none,,K -> E,IS701 family transposase CDS,238,81.2%,A -> G,AAA -> GAA,1162,SNP (transition),Substitution,0.0,1,,SGL_RS00135,,,,IS701 family transposase,18.2%,A,G,WP_011153566.1
+T,mvR12_Howe,31728,31728,1,none,,T -> I,IS701 family transposase CDS,332,25.1%,C -> T,ACA -> ATA,1228,SNP (transition),Substitution,0.0,2,,SGL_RS00135,,,,IS701 family transposase,74.8%,C,T,WP_011153566.1
+G,mvR12_Howe,31819,31819,1,none,,,IS701 family transposase CDS,423,25.9%,A -> G,GGA -> GGG,1363,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,73.9%,A,G,WP_011153566.1
+A,mvR12_Howe,31897,31897,1,none,,,IS701 family transposase CDS,501,27.1%,G -> A,ACG -> ACA,1386,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,72.7%,G,A,WP_011153566.1
+A,mvR12_Howe,31937,31937,1,none,,G -> S,IS701 family transposase CDS,541,25.8%,G -> A,GGT -> AGT,1341,SNP (transition),Substitution,0.0,1,,SGL_RS00135,,,,IS701 family transposase,73.8%,G,A,WP_011153566.1
+A,mvR12_Howe,31955,31955,1,none,,V -> I,IS701 family transposase CDS,559,25.4%,G -> A,GTA -> ATA,1372,SNP (transition),Substitution,0.0,1,,SGL_RS00135,,,,IS701 family transposase,74.4%,G,A,WP_011153566.1
+T,mvR12_Howe,32005,32005,1,none,,,IS701 family transposase CDS,609,80.3%,C -> T,GCC -> GCT,1386,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,19.6%,C,T,WP_011153566.1
+,mvR12_Howe,32038,32038,1,none,,,IS701 family transposase CDS,642,22.2%,-A,,1367,Deletion,Frame Shift,0.0,3,,SGL_RS00135,,,,IS701 family transposase,,A,,WP_011153566.1
+,mvR12_Howe,32038,32038,1,none,,,ARMT1-like domain-containing protein CDS,799,22.2%,-A,,1367,Deletion,Frame Shift,0.0,1,,SGL_RS00140,,,,ARMT1-like domain-containing protein,,A,,WP_011153567.1
+T,mvR12_Howe,32042,32042,1,none,,R -> W,IS701 family transposase CDS,646,35.5%,C -> T,CGG -> TGG,1366,SNP (transition),Substitution,0.0,1,,SGL_RS00135,,,,IS701 family transposase,64.3%,C,T,WP_011153566.1
+T,mvR12_Howe,32042,32042,1,none,,,ARMT1-like domain-containing protein CDS,795,35.5%,C -> T,CCG -> CCA,1366,SNP (transition),None,0.0,3,,SGL_RS00140,,,,ARMT1-like domain-containing protein,64.3%,C,T,WP_011153567.1
+T,mvR12_Howe,32047,32047,1,none,,,IS701 family transposase CDS,651,21.6%,C -> T,AGC -> AGT,1363,SNP (transition),None,0.0,3,,SGL_RS00135,,,,IS701 family transposase,78.2%,C,T,WP_011153566.1
+T,mvR12_Howe,32047,32047,1,none,,A -> T,ARMT1-like domain-containing protein CDS,790,21.6%,C -> T,GCT -> ACT,1363,SNP (transition),Substitution,0.0,1,,SGL_RS00140,,,,ARMT1-like domain-containing protein,78.2%,C,T,WP_011153567.1
+G,mvR12_Howe,32061,32061,1,none,,,IS701 family transposase CDS,665,80.8%,A -> G,,1396,SNP (transition),Extension,0.0,2,,SGL_RS00135,,,,IS701 family transposase,19.1%,A,G,WP_011153566.1
+G,mvR12_Howe,32061,32061,1,none,,L -> P,ARMT1-like domain-containing protein CDS,776,80.8%,A -> G,CTA -> CCA,1396,SNP (transition),Substitution,0.0,2,,SGL_RS00140,,,,ARMT1-like domain-containing protein,19.1%,A,G,WP_011153567.1
+T,mvR12_Howe,32149,32149,1,none,,D -> N,ARMT1-like domain-containing protein CDS,688,28.7%,C -> T,GAT -> AAT,811,SNP (transition),Substitution,0.0,1,,SGL_RS00140,,,,ARMT1-like domain-containing protein,71.1%,C,T,WP_011153567.1
+,mvR12_Howe,32168,32168,1,none,,,ARMT1-like domain-containing protein CDS,669,23.2%,(A)7 -> (A)6,,682,Deletion (tandem repeat),Frame Shift,1.9E-175,3,,SGL_RS00140,,,,ARMT1-like domain-containing protein,,A,,WP_011153567.1
+A,mvR12_Howe,38787,38787,1,none,,,,,23.5%,T -> A,,749,SNP (transversion),,5.1E-129,,,,,,,,75.6%,T,A,
+T,mvR12_Howe,38864,38864,1,none,,,,,55.0%,C -> T,,2348,SNP (transition),,0.0,,,,,,,,41.7%,C,T,
+A,mvR12_Howe,38891,38891,1,none,,,,,47.8%,T -> A,,2805,SNP (transversion),,0.0,,,,,,,,52.2%,T,A,
+C,mvR12_Howe,38918,38918,1,none,,,IS5 family transposase CDS,12,36.8%,T -> C,CCT -> CCC,3096,SNP (transition),None,0.0,3,,SGL_RS00180,,,,IS5 family transposase,63.2%,T,C,WP_223211235.1
+C,mvR12_Howe,39542,39542,1,none,,,IS5 family transposase CDS,636,56.7%,T -> C,CGT -> CGC,2900,SNP (transition),None,0.0,3,,SGL_RS00180,,,,IS5 family transposase,43.2%,T,C,WP_223211235.1
+G,mvR12_Howe,39560,39560,1,none,,,IS5 family transposase CDS,654,70.8%,A -> G,AAA -> AAG,2524,SNP (transition),None,0.0,3,,SGL_RS00180,,,,IS5 family transposase,27.3%,A,G,WP_223211235.1
+A,mvR12_Howe,39593,39593,1,none,,,IS5 family transposase CDS,687,43.6%,C -> A,ACC -> ACA,1894,SNP (transversion),None,0.0,3,,SGL_RS00180,,,,IS5 family transposase,56.4%,C,A,WP_223211235.1
+G,mvR12_Howe,39623,39623,1,none,,I -> M,IS5 family transposase CDS,717,72.5%,C -> G,ATC -> ATG,1326,SNP (transversion),Substitution,0.0,3,,SGL_RS00180,,,,IS5 family transposase,22.8%,C,G,WP_223211235.1
+A,mvR12_Howe,39664,39664,1,none,,S -> F,transposase CDS,596,28.7%,G -> A,TCC -> TTC,544,SNP (transition),Substitution,8.9E-86,2,,SGL_RS00185,,,,transposase,68.8%,G,A,
+T,mvR12_Howe,44685,44685,1,none,,P -> T,hypothetical protein CDS,1171,23.1%,G -> T,CCC -> ACC,199,SNP (transversion),Substitution,2.6E-18,1,,SGL_RS00210,,,,hypothetical protein,75.4%,G,T,WP_011153584.1
+T,mvR12_Howe,44691,44691,1,none,,R -> S,hypothetical protein CDS,1165,20.7%,G -> T,CGC -> AGC,203,SNP (transversion),Substitution,9.0E-12,1,,SGL_RS00210,,,,hypothetical protein,76.8%,G,T,WP_011153584.1
+A,mvR12_Howe,44700,44700,1,none,,A -> S,hypothetical protein CDS,1156,24.6%,C -> A,GCC -> TCC,207,SNP (transversion),Substitution,2.0E-21,1,,SGL_RS00210,,,,hypothetical protein,75.4%,C,A,WP_011153584.1
+C,mvR12_Howe,44704,44704,1,none,,,hypothetical protein CDS,1152,21.8%,A -> C,GTT -> GTG,216,SNP (transversion),None,1.8E-21,3,,SGL_RS00210,,,,hypothetical protein,78.2%,A,C,WP_011153584.1
+C,mvR12_Howe,66830,66830,1,none,,,HNH endonuclease CDS,243,49.1%,G -> C,CGC -> CGG,485,SNP (transversion),None,7.5E-30,3,,SGL_RS18485,,,,HNH endonuclease,50.9%,G,C,WP_011153601.1
+A,mvR12_Howe,66878,66878,1,none,,,HNH endonuclease CDS,195,56.2%,G -> A,CCC -> CCT,553,SNP (transition),None,7.4E-33,3,,SGL_RS18485,,,,HNH endonuclease,43.4%,G,A,WP_011153601.1
+G,mvR12_Howe,66908,66908,1,none,,,HNH endonuclease CDS,165,58.4%,A -> G,CAT -> CAC,599,SNP (transition),None,1.5E-41,3,,SGL_RS18485,,,,HNH endonuclease,41.4%,A,G,WP_011153601.1
+C,mvR12_Howe,66917,66917,1,none,,,HNH endonuclease CDS,156,57.6%,T -> C,GCA -> GCG,620,SNP (transition),None,2.0E-40,3,,SGL_RS18485,,,,HNH endonuclease,42.4%,T,C,WP_011153601.1
+G,mvR12_Howe,69199,69199,1,none,,I -> T,hypothetical protein CDS,98,52.8%,A -> G,ATC -> ACC,515,SNP (transition),Substitution,1.7E-9,2,,SGL_RS19300,,,,hypothetical protein,47.0%,A,G,WP_223211236.1
+G,mvR12_Howe,69205,69205,1,none,,F -> S,hypothetical protein CDS,92,53.4%,A -> G,TTC -> TCC,534,SNP (transition),Substitution,1.7E-10,2,,SGL_RS19300,,,,hypothetical protein,46.6%,A,G,WP_223211236.1
+T,mvR12_Howe,69213,69213,1,none,,,hypothetical protein CDS,84,55.0%,C -> T,ACG -> ACA,558,SNP (transition),None,3.0E-13,3,,SGL_RS19300,,,,hypothetical protein,45.0%,C,T,WP_223211236.1
+A,mvR12_Howe,72083,72083,1,none,,A -> T,hypothetical protein CDS,112,75.6%,G -> A,GCC -> ACC,997,SNP (transition),Substitution,1.9E-17,1,,SGL_RS19365,,,,hypothetical protein,24.4%,G,A,WP_158299050.1
+G,mvR12_Howe,72104,72104,1,none,,L -> V,hypothetical protein CDS,133,72.9%,C -> G,CTC -> GTC,958,SNP (transversion),Substitution,9.5E-11,1,,SGL_RS19365,,,,hypothetical protein,27.1%,C,G,WP_158299050.1
+T,mvR12_Howe,73344,73344,1,none,,,hypothetical protein CDS,75,29.8%,C -> T,TTC -> TTT,416,SNP (transition),None,7.3E-13,3,,SGL_RS00335,,,,hypothetical protein,70.2%,C,T,WP_011153611.1
+C,mvR12_Howe,73362,73362,1,none,,,hypothetical protein CDS,93,37.2%,T -> C,TCT -> TCC,454,SNP (transition),None,7.9E-9,3,,SGL_RS00335,,,,hypothetical protein,62.8%,T,C,WP_011153611.1
+A,mvR12_Howe,73407,73407,1,none,,,hypothetical protein CDS,138,37.9%,C -> A,ATC -> ATA,446,SNP (transversion),None,1.8E-9,3,,SGL_RS00335,,,,hypothetical protein,62.1%,C,A,WP_011153611.1
+T,mvR12_Howe,73423,73423,1,none,,M -> L,hypothetical protein CDS,154,37.5%,A -> T,ATG -> TTG,437,SNP (transversion),Substitution,6.7E-9,1,,SGL_RS00335,,,,hypothetical protein,62.2%,A,T,WP_011153611.1
+C,mvR12_Howe,73443,73443,1,none,,L -> F,hypothetical protein CDS,174,37.8%,G -> C,TTG -> TTC,423,SNP (transversion),Substitution,5.4E-9,3,,SGL_RS00335,,,,hypothetical protein,62.2%,G,C,WP_011153611.1
+C,mvR12_Howe,73445,73445,1,none,,I -> T,hypothetical protein CDS,176,37.6%,T -> C,ATT -> ACT,425,SNP (transition),Substitution,7.9E-9,2,,SGL_RS00335,,,,hypothetical protein,62.4%,T,C,WP_011153611.1
+T,mvR12_Howe,81025,81025,1,none,,,Rpn family recombination-promoting nuclease/putative transposase CDS,243,22.4%,C -> T,CGC -> CGT,1254,SNP (transition),None,5.2E-22,3,,SGL_RS00375,,,,Rpn family recombination-promoting nuclease/putative transposase,77.6%,C,T,WP_011153619.1
+C,mvR12_Howe,81058,81058,1,none,,,Rpn family recombination-promoting nuclease/putative transposase CDS,276,37.3%,T -> C,GTT -> GTC,1251,SNP (transition),None,7.6E-46,3,,SGL_RS00375,,,,Rpn family recombination-promoting nuclease/putative transposase,33.5%,T,C,WP_011153619.1
+C,mvR12_Howe,81079,81079,1,none,,,Rpn family recombination-promoting nuclease/putative transposase CDS,297,75.7%,T -> C,AAT -> AAC,1260,SNP (transition),None,2.0E-77,3,,SGL_RS00375,,,,Rpn family recombination-promoting nuclease/putative transposase,23.4%,T,C,WP_011153619.1
+A,mvR12_Howe,81262,81262,1,none,,,Rpn family recombination-promoting nuclease/putative transposase CDS,480,64.9%,G -> A,GAG -> GAA,666,SNP (transition),None,6.6E-39,3,,SGL_RS00375,,,,Rpn family recombination-promoting nuclease/putative transposase,35.1%,G,A,WP_011153619.1
+C,mvR12_Howe,84610,84610,1,none,,,thermonuclease family protein CDS,501,79.0%,G -> C,GGC -> GGG,1069,SNP (transversion),None,1.2E-29,3,,SGL_RS00390,,,,thermonuclease family protein,21.0%,G,C,WP_223211228.1
+A,mvR12_Howe,84616,84616,1,none,,,thermonuclease family protein CDS,495,78.4%,G -> A,GTC -> GTT,1047,SNP (transition),None,7.8E-27,3,,SGL_RS00390,,,,thermonuclease family protein,21.4%,G,A,WP_223211228.1
+T,mvR12_Howe,84619,84619,1,none,,,thermonuclease family protein CDS,492,78.1%,C -> T,GGG -> GGA,1043,SNP (transition),None,8.3E-26,3,,SGL_RS00390,,,,thermonuclease family protein,21.7%,C,T,WP_223211228.1
+C,mvR12_Howe,84625,84625,1,none,,,thermonuclease family protein CDS,486,77.2%,T -> C,GAA -> GAG,1011,SNP (transition),None,5.6E-22,3,,SGL_RS00390,,,,thermonuclease family protein,22.7%,T,C,WP_223211228.1
+T,mvR12_Howe,84631,84631,1,none,,,thermonuclease family protein CDS,480,76.4%,C -> T,GGG -> GGA,979,SNP (transition),None,3.1E-19,3,,SGL_RS00390,,,,thermonuclease family protein,23.5%,C,T,WP_223211228.1
+A,mvR12_Howe,84643,84643,1,none,,,thermonuclease family protein CDS,468,74.9%,G -> A,ACC -> ACT,910,SNP (transition),None,1.7E-14,3,,SGL_RS00390,,,,thermonuclease family protein,24.7%,G,A,WP_223211228.1
+C,mvR12_Howe,84646,84646,1,none,,I -> M,thermonuclease family protein CDS,465,74.1%,T -> C,ATA -> ATG,903,SNP (transition),Substitution,1.4E-12,3,,SGL_RS00390,,,,thermonuclease family protein,25.9%,T,C,WP_223211228.1
+A,mvR12_Howe,84790,84790,1,none,,,thermonuclease family protein CDS,321,56.0%,G -> A,TGC -> TGT,507,SNP (transition),None,9.0E-30,3,,SGL_RS00390,,,,thermonuclease family protein,44.0%,G,A,WP_223211228.1
+GAT,mvR12_Howe,84796,84798,2,none,,L -> I,thermonuclease family protein CDS,313,61.4% -> 63.1%,CAA -> GAT,TTG -> ATC,573 -> 594,Substitution,Substitution,4.0E-75,1,,SGL_RS00390,,,,thermonuclease family protein,,CAA,GAT,WP_223211228.1
+T,mvR12_Howe,84835,84835,1,none,,,thermonuclease family protein CDS,276,76.2%,G -> T,GCC -> GCA,955,SNP (transversion),None,0.0,3,,SGL_RS00390,,,,thermonuclease family protein,23.8%,G,T,WP_223211228.1
+C,mvR12_Howe,84859,84859,1,none,,,thermonuclease family protein CDS,252,79.8%,G -> C,GTC -> GTG,1210,SNP (transversion),None,0.0,3,,SGL_RS00390,,,,thermonuclease family protein,20.2%,G,C,WP_223211228.1
+G,mvR12_Howe,84910,84910,1,none,,,thermonuclease family protein CDS,201,84.2%,C -> G,GTG -> GTC,1619,SNP (transversion),None,0.0,3,,SGL_RS00390,,,,thermonuclease family protein,15.7%,C,G,WP_223211228.1
+C,mvR12_Howe,84918,84918,1,none,,T -> A,thermonuclease family protein CDS,193,84.5%,T -> C,ACC -> GCC,1634,SNP (transition),Substitution,0.0,1,,SGL_RS00390,,,,thermonuclease family protein,15.5%,T,C,WP_223211228.1
+C,mvR12_Howe,84945,84945,1,none,,K -> E,thermonuclease family protein CDS,166,84.7%,T -> C,AAG -> GAG,1626,SNP (transition),Substitution,0.0,1,,SGL_RS00390,,,,thermonuclease family protein,15.2%,T,C,WP_223211228.1
+C,mvR12_Howe,85004,85004,1,none,,D -> G,thermonuclease family protein CDS,107,83.3%,T -> C,GAC -> GGC,1480,SNP (transition),Substitution,0.0,2,,SGL_RS00390,,,,thermonuclease family protein,16.7%,T,C,WP_223211228.1
+G,mvR12_Howe,85010,85010,1,none,,S -> T,thermonuclease family protein CDS,101,83.7%,C -> G,AGT -> ACT,1503,SNP (transversion),Substitution,0.0,2,,SGL_RS00390,,,,thermonuclease family protein,16.2%,C,G,WP_223211228.1
+G,mvR12_Howe,85012,85012,1,none,,,thermonuclease family protein CDS,99,83.2%,A -> G,AAT -> AAC,1492,SNP (transition),None,0.0,3,,SGL_RS00390,,,,thermonuclease family protein,16.4%,A,G,WP_223211228.1
+C,mvR12_Howe,85045,85045,1,none,,F -> L,thermonuclease family protein CDS,66,83.8%,A -> C,TTT -> TTG,1538,SNP (transversion),Substitution,0.0,3,,SGL_RS00390,,,,thermonuclease family protein,16.2%,A,C,WP_223211228.1
+G,mvR12_Howe,85095,85095,1,none,,A -> P,thermonuclease family protein CDS,16,81.4%,C -> G,GCG -> CCG,1434,SNP (transversion),Substitution,0.0,1,,SGL_RS00390,,,,thermonuclease family protein,18.1%,C,G,WP_223211228.1
+AT,mvR12_Howe,85158,85159,2,none,,,,,75.3% -> 75.4%,CC -> AT,,987 -> 997,Substitution,,0.0,,,,,,,,,CC,AT,
+G,mvR12_Howe,85208,85208,1,none,,,hypothetical protein CDS,42,56.6%,A -> G,CTA -> CTG,579,SNP (transition),None,0.0,3,,SGL_RS00395,,,,hypothetical protein,43.4%,A,G,WP_223211229.1
+ATC,mvR12_Howe,85221,85223,2,none,,L -> I,hypothetical protein CDS,55,47.9% -> 49.5%,CTT -> ATC,CTT -> ATC,455 -> 470,Substitution,Substitution,6.3E-121,1,,SGL_RS00395,,,,hypothetical protein,,CTT,ATC,WP_223211229.1
+AA,mvR12_Howe,85229,85228,0,none,,,hypothetical protein CDS,63,37.8%,+AA,,407,Insertion,Frame Shift,1.0E-8,3,,SGL_RS00395,,,,hypothetical protein,,,AA,WP_223211229.1
+C,mvR12_Howe,89103,89103,1,none,,,metal-dependent hydrolase CDS,657,47.6%,T -> C,GTA -> GTG,437,SNP (transition),None,3.5E-24,3,,SGL_RS00415,,,,metal-dependent hydrolase,52.2%,T,C,WP_223211230.1
+A,mvR12_Howe,89106,89106,1,none,,,metal-dependent hydrolase CDS,654,50.5%,G -> A,TTC -> TTT,463,SNP (transition),None,8.6E-32,3,,SGL_RS00415,,,,metal-dependent hydrolase,49.5%,G,A,WP_223211230.1
+A,mvR12_Howe,89117,89117,1,none,,,metal-dependent hydrolase CDS,643,59.0%,G -> A,CTG -> TTG,561,SNP (transition),None,3.9E-91,1,,SGL_RS00415,,,,metal-dependent hydrolase,41.0%,G,A,WP_223211230.1
+G,mvR12_Howe,89127,89127,1,none,,,metal-dependent hydrolase CDS,633,63.7%,A -> G,GCT -> GCC,628,SNP (transition),None,1.7E-125,3,,SGL_RS00415,,,,metal-dependent hydrolase,36.3%,A,G,WP_223211230.1
+G,mvR12_Howe,89178,89178,1,none,,,metal-dependent hydrolase CDS,582,72.5%,A -> G,CGT -> CGC,749,SNP (transition),None,1.7E-162,3,,SGL_RS00415,,,,metal-dependent hydrolase,27.4%,A,G,WP_223211230.1
+T,mvR12_Howe,89190,89190,1,none,,,metal-dependent hydrolase CDS,570,71.7%,C -> T,CCG -> CCA,757,SNP (transition),None,4.5E-159,3,,SGL_RS00415,,,,metal-dependent hydrolase,28.3%,C,T,WP_223211230.1
+A,mvR12_Howe,89208,89208,1,none,,,metal-dependent hydrolase CDS,552,72.8%,C -> A,GGG -> GGT,747,SNP (transversion),None,2.8E-164,3,,SGL_RS00415,,,,metal-dependent hydrolase,27.2%,C,A,WP_223211230.1
+G,mvR12_Howe,89232,89232,1,none,,,metal-dependent hydrolase CDS,528,70.1%,A -> G,TTT -> TTC,663,SNP (transition),None,3.2E-171,3,,SGL_RS00415,,,,metal-dependent hydrolase,29.9%,A,G,WP_223211230.1
+G,mvR12_Howe,89244,89244,1,none,,,metal-dependent hydrolase CDS,516,66.6%,A -> G,TTT -> TTC,574,SNP (transition),None,1.5E-96,3,,SGL_RS00415,,,,metal-dependent hydrolase,33.4%,A,G,WP_223211230.1
+G,mvR12_Howe,89247,89247,1,none,,,metal-dependent hydrolase CDS,513,65.4%,A -> G,TAT -> TAC,575,SNP (transition),None,1.2E-91,3,,SGL_RS00415,,,,metal-dependent hydrolase,34.6%,A,G,WP_223211230.1
+A,mvR12_Howe,89250,89250,1,none,,,metal-dependent hydrolase CDS,510,64.1%,G -> A,GGC -> GGT,549,SNP (transition),None,2.1E-82,3,,SGL_RS00415,,,,metal-dependent hydrolase,35.2%,G,A,WP_223211230.1
+GAG,mvR12_Howe,89259,89261,2,none,,I -> L,metal-dependent hydrolase CDS,499,57.1% -> 58.8%,AAT -> GAG,ATT -> CTC,457 -> 464,Substitution,Substitution,6.5E-14,1,,SGL_RS00415,,,,metal-dependent hydrolase,,AAT,GAG,WP_223211230.1
+C,mvR12_Howe,90203,90203,1,none,,,hypothetical protein CDS,51,27.4%,T -> C,AAA -> AAG,1155,SNP (transition),None,8.6E-10,3,,SGL_RS00420,,,,hypothetical protein,72.5%,T,C,WP_011153627.1
+A,mvR12_Howe,90211,90211,1,none,,,hypothetical protein CDS,43,52.1%,G -> A,CTG -> TTG,1163,SNP (transition),None,1.2E-130,1,,SGL_RS00420,,,,hypothetical protein,47.7%,G,A,WP_011153627.1
+C,mvR12_Howe,90236,90236,1,none,,,hypothetical protein CDS,18,27.8%,T -> C,AAA -> AAG,1179,SNP (transition),None,5.5E-11,3,,SGL_RS00420,,,,hypothetical protein,71.8%,T,C,WP_011153627.1
+C,mvR12_Howe,90257,90257,1,none,,,,,53.2%,T -> C,,1114,SNP (transition),,4.1E-89,,,,,,,,46.7%,T,C,
+C,mvR12_Howe,90353,90353,1,none,,,hypothetical protein CDS,249,47.0%,T -> C,TAA -> TAG,742,SNP (transition),None,1.6E-18,3,,SGL_RS00425,,,,hypothetical protein,52.3%,T,C,WP_011153628.1
+A,mvR12_Howe,90392,90392,1,none,,,hypothetical protein CDS,210,62.2%,G -> A,ATC -> ATT,608,SNP (transition),None,9.1E-29,3,,SGL_RS00425,,,,hypothetical protein,37.8%,G,A,WP_011153628.1
+C,mvR12_Howe,90398,90398,1,none,,,hypothetical protein CDS,204,60.5%,T -> C,CGA -> CGG,574,SNP (transition),None,1.7E-23,3,,SGL_RS00425,,,,hypothetical protein,39.4%,T,C,WP_011153628.1
+T,mvR12_Howe,90416,90416,1,none,,,hypothetical protein CDS,186,58.0%,G -> T,GGC -> GGA,526,SNP (transversion),None,3.3E-17,3,,SGL_RS00425,,,,hypothetical protein,41.6%,G,T,WP_011153628.1
+A,mvR12_Howe,90529,90529,1,none,,,hypothetical protein CDS,73,52.7%,G -> A,CTG -> TTG,482,SNP (transition),None,7.3E-9,1,,SGL_RS00425,,,,hypothetical protein,47.1%,G,A,WP_011153628.1
+C,mvR12_Howe,95307,95307,1,none,,,HNH endonuclease CDS,243,23.0%,A -> C,CGT -> CGG,383,SNP (transversion),None,2.7E-33,3,,SGL_RS18510,,,,HNH endonuclease,77.0%,A,C,WP_011153636.1
+A,mvR12_Howe,95322,95322,1,none,,,HNH endonuclease CDS,228,27.9%,G -> A,CAC -> CAT,394,SNP (transition),None,1.1E-69,3,,SGL_RS18510,,,,HNH endonuclease,72.1%,G,A,WP_011153636.1
+G,mvR12_Howe,95329,95329,1,none,,L -> P,HNH endonuclease CDS,221,33.1%,A -> G,CTC -> CCC,420,SNP (transition),Substitution,7.9E-86,2,,SGL_RS18510,,,,HNH endonuclease,66.9%,A,G,WP_011153636.1
+C,mvR12_Howe,95339,95339,1,none,,L -> V,HNH endonuclease CDS,211,35.0%,A -> C,TTA -> GTA,460,SNP (transversion),Substitution,1.9E-118,1,,SGL_RS18510,,,,HNH endonuclease,65.0%,A,C,WP_011153636.1
+C,mvR12_Howe,95369,95369,1,none,,S -> G,HNH endonuclease CDS,181,41.6%,T -> C,AGT -> GGT,603,SNP (transition),Substitution,9.0E-206,1,,SGL_RS18510,,,,HNH endonuclease,58.2%,T,C,WP_011153636.1
+G,mvR12_Howe,95405,95405,1,none,,F -> L,HNH endonuclease CDS,145,60.3%,A -> G,TTC -> CTC,648,SNP (transition),Substitution,6.1E-216,1,,SGL_RS18510,,,,HNH endonuclease,39.5%,A,G,WP_011153636.1
+T,mvR12_Howe,95406,95406,1,none,,,HNH endonuclease CDS,144,38.9%,C -> T,CGG -> CGA,648,SNP (transition),None,1.2E-197,3,,SGL_RS18510,,,,HNH endonuclease,61.1%,C,T,WP_011153636.1
+C,mvR12_Howe,95418,95418,1,none,,,HNH endonuclease CDS,132,60.6%,T -> C,GAA -> GAG,642,SNP (transition),None,8.3E-216,3,,SGL_RS18510,,,,HNH endonuclease,39.4%,T,C,WP_011153636.1
+C,mvR12_Howe,95424,95424,1,none,,,HNH endonuclease CDS,126,38.7%,T -> C,TTA -> TTG,639,SNP (transition),None,5.2E-193,3,,SGL_RS18510,,,,HNH endonuclease,61.3%,T,C,WP_011153636.1
+A,mvR12_Howe,95445,95445,1,none,,,HNH endonuclease CDS,105,58.1%,C -> A,CCG -> CCT,571,SNP (transversion),None,1.6E-176,3,,SGL_RS18510,,,,HNH endonuclease,41.9%,C,A,WP_011153636.1
+T,mvR12_Howe,95448,95448,1,none,,,HNH endonuclease CDS,102,32.9%,C -> T,AAG -> AAA,569,SNP (transition),None,1.7E-131,3,,SGL_RS18510,,,,HNH endonuclease,67.0%,C,T,WP_011153636.1
+A,mvR12_Howe,95466,95466,1,none,,,HNH endonuclease CDS,84,30.1%,G -> A,TGC -> TGT,545,SNP (transition),None,5.7E-124,3,,SGL_RS18510,,,,HNH endonuclease,69.9%,G,A,WP_011153636.1
+A,mvR12_Howe,95471,95471,1,none,,R -> W,HNH endonuclease CDS,79,27.6%,G -> A,CGG -> TGG,529,SNP (transition),Substitution,4.3E-91,1,,SGL_RS18510,,,,HNH endonuclease,72.2%,G,A,WP_011153636.1
+A,mvR12_Howe,95484,95484,1,none,,,HNH endonuclease CDS,66,29.1%,G -> A,AAC -> AAT,484,SNP (transition),None,1.9E-40,3,,SGL_RS18510,,,,HNH endonuclease,49.8%,G,A,WP_011153636.1
+ATG,mvR12_Howe,95484,95486,2,none,,N -> H,HNH endonuclease CDS,64,20.9% -> 21.3%,GTT -> ATG,AAC -> CAT,475 -> 484,Substitution,Substitution,1.9E-29,1,,SGL_RS18510,,,,HNH endonuclease,,GTT,ATG,WP_011153636.1
+A,mvR12_Howe,95490,95490,1,none,,,HNH endonuclease CDS,60,44.7%,G -> A,TCC -> TCT,443,SNP (transition),None,5.4E-32,3,,SGL_RS18510,,,,HNH endonuclease,55.3%,G,A,WP_011153636.1
+C,mvR12_Howe,97598,97598,1,none,,,,,24.2%,G -> C,,314,SNP (transversion),,1.5E-79,,,,,,,,74.8%,G,C,
+C,mvR12_Howe,97601,97601,1,none,,,,,20.1%,T -> C,,339,SNP (transition),,7.3E-92,,,,,,,,79.9%,T,C,
+A,mvR12_Howe,97602,97602,1,none,,,,,28.0%,G -> A,,347,SNP (transition),,7.8E-127,,,,,,,,67.7%,G,A,
+C,mvR12_Howe,97826,97826,1,none,,,arsenate reductase family protein CDS,387,79.1%,G -> C,CTC -> CTG,1066,SNP (transversion),None,0.0,3,,SGL_RS00485,,,,arsenate reductase family protein,20.6%,G,C,WP_011153856.1
+G,mvR12_Howe,98865,98865,1,none,,,ParA family protein CDS,252,75.1%,A -> G,CTA -> CTG,1051,SNP (transition),None,0.0,3,,SGL_RS00490,,,,ParA family protein,24.8%,A,G,WP_011153642.1
+T,mvR12_Howe,98874,98874,1,none,,,ParA family protein CDS,261,74.8%,G -> T,CTG -> CTT,1036,SNP (transversion),None,0.0,3,,SGL_RS00490,,,,ParA family protein,25.2%,G,T,WP_011153642.1
+C,mvR12_Howe,98907,98907,1,none,,,ParA family protein CDS,294,75.5%,G -> C,TCG -> TCC,1021,SNP (transversion),None,0.0,3,,SGL_RS00490,,,,ParA family protein,24.5%,G,C,WP_011153642.1
+G,mvR12_Howe,98913,98913,1,none,,,ParA family protein CDS,300,74.9%,A -> G,CCA -> CCG,992,SNP (transition),None,0.0,3,,SGL_RS00490,,,,ParA family protein,24.9%,A,G,WP_011153642.1
+C,mvR12_Howe,98922,98922,1,none,,,ParA family protein CDS,309,75.0%,G -> C,CTG -> CTC,1010,SNP (transversion),None,0.0,3,,SGL_RS00490,,,,ParA family protein,24.7%,G,C,WP_011153642.1
+CTG,mvR12_Howe,98926,98928,2,none,,,ParA family protein CDS,313,73.5% -> 74.7%,TTA -> CTG,TTA -> CTG,1024 -> 1032,Substitution,None,0.0,1,,SGL_RS00490,,,,ParA family protein,,TTA,CTG,WP_011153642.1
+CC,mvR12_Howe,98934,98935,2,none,,,ParA family protein CDS,321,74.5% -> 74.8%,TT -> CC,"GCT,TTG -> GCC,CTG",1012 -> 1013,Substitution,None,0.0,3,,SGL_RS00490,,,,ParA family protein,,TT,CC,WP_011153642.1
+GC,mvR12_Howe,98940,98941,2,none,,IL -> ML,ParA family protein CDS,327,73.9%,AT -> GC,"ATA,TTG -> ATG,CTG",1011 -> 1013,Substitution,Substitution,0.0,3,,SGL_RS00490,,,,ParA family protein,,AT,GC,WP_011153642.1
+A,mvR12_Howe,98946,98946,1,none,,,ParA family protein CDS,333,73.9%,C -> A,ACC -> ACA,1011,SNP (transversion),None,0.0,3,,SGL_RS00490,,,,ParA family protein,26.0%,C,A,WP_011153642.1
+C,mvR12_Howe,98956,98956,1,none,,,ParA family protein CDS,343,73.9%,T -> C,TTG -> CTG,995,SNP (transition),None,0.0,1,,SGL_RS00490,,,,ParA family protein,25.9%,T,C,WP_011153642.1
+T,mvR12_Howe,98985,98985,1,none,,,ParA family protein CDS,372,73.4%,G -> T,CGG -> CGT,980,SNP (transversion),None,0.0,3,,SGL_RS00490,,,,ParA family protein,26.6%,G,T,WP_011153642.1
+,mvR12_Howe,99990,99990,1,none,,,,,59.0%,-T,,746,Deletion,,8.9E-197,,,,,,,,,T,,
+CGA,mvR12_Howe,99994,99996,3,none,,,,,60.2% -> 61.1%,ATG -> CGA,,723 -> 729,Substitution,,0.0,,,,,,,,,ATG,CGA,
+CG,mvR12_Howe,100003,100004,2,none,,,,,66.7% -> 67.1%,TA -> CG,,703,Substitution,,0.0,,,,,,,,,TA,CG,
+T,mvR12_Howe,100006,100006,1,none,,,,,66.7%,C -> T,,697,SNP (transition),,0.0,,,,,,,,33.1%,C,T,
+T,mvR12_Howe,100014,100014,1,none,,,,,65.3%,C -> T,,672,SNP (transition),,0.0,,,,,,,,34.7%,C,T,
+T,mvR12_Howe,100020,100020,1,none,,,,,63.7%,C -> T,,652,SNP (transition),,0.0,,,,,,,,36.3%,C,T,
+T,mvR12_Howe,100027,100027,1,none,,,,,60.8%,A -> T,,620,SNP (transversion),,2.0E-317,,,,,,,,38.9%,A,T,
+G,mvR12_Howe,100029,100029,1,none,,,,,60.6%,A -> G,,614,SNP (transition),,2.2E-312,,,,,,,,39.4%,A,G,
+T,mvR12_Howe,100033,100033,1,none,,,,,59.4%,C -> T,,596,SNP (transition),,5.6E-293,,,,,,,,40.6%,C,T,
+G,mvR12_Howe,100040,100040,1,none,,,,,57.0%,A -> G,,575,SNP (transition),,1.7E-263,,,,,,,,43.0%,A,G,
+C,mvR12_Howe,100056,100056,1,none,,,,,50.3%,T -> C,,527,SNP (transition),,7.1E-194,,,,,,,,49.7%,T,C,
+T,mvR12_Howe,100071,100071,1,none,,,,,40.8%,C -> T,,441,SNP (transition),,2.0E-112,,,,,,,,59.2%,C,T,
+C,mvR12_Howe,100085,100085,1,none,,,,,27.9%,T -> C,,358,SNP (transition),,4.0E-29,,,,,,,,72.1%,T,C,
+TC,mvR12_Howe,100186,100187,2,none,,,,,27.5% -> 28.2%,GG -> TC,,360 -> 365,Substitution,,7.0E-9,,,,,,,,,GG,TC,
+AAG,mvR12_Howe,100189,100191,3,none,,,,,29.9% -> 31.5%,TTT -> AAG,,374 -> 381,Substitution,,7.3E-19,,,,,,,,,TTT,AAG,
+T,mvR12_Howe,100373,100373,1,none,,,hypothetical protein CDS,387,62.8%,C -> T,GCG -> GCA,916,SNP (transition),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,29.0%,C,T,WP_223211237.1
+G,mvR12_Howe,100409,100409,1,none,,,hypothetical protein CDS,351,23.3%,C -> G,GTG -> GTC,890,SNP (transversion),None,1.5E-209,3,,SGL_RS19305,,,,hypothetical protein,76.6%,C,G,WP_223211237.1
+G,mvR12_Howe,100432,100432,1,none,,E -> Q,hypothetical protein CDS,328,67.4%,C -> G,GAG -> CAG,829,SNP (transversion),Substitution,0.0,1,,SGL_RS19305,,,,hypothetical protein,32.6%,C,G,WP_223211237.1
+T,mvR12_Howe,100438,100438,1,none,,V -> M,hypothetical protein CDS,322,28.6%,C -> T,GTG -> ATG,832,SNP (transition),Substitution,1.5E-108,1,,SGL_RS19305,,,,hypothetical protein,71.3%,C,T,WP_223211237.1
+G,mvR12_Howe,100454,100454,1,none,,,hypothetical protein CDS,306,66.2%,C -> G,CCG -> CCC,804,SNP (transversion),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,33.5%,C,G,WP_223211237.1
+G,mvR12_Howe,100511,100511,1,none,,,hypothetical protein CDS,249,58.1%,A -> G,TAT -> TAC,965,SNP (transition),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,41.9%,A,G,WP_223211237.1
+A,mvR12_Howe,100514,100514,1,none,,,hypothetical protein CDS,246,57.5%,G -> A,TAC -> TAT,974,SNP (transition),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,42.4%,G,A,WP_223211237.1
+A,mvR12_Howe,100567,100567,1,none,,H -> Y,hypothetical protein CDS,193,27.8%,G -> A,CAC -> TAC,1114,SNP (transition),Substitution,5.3E-42,1,,SGL_RS19305,,,,hypothetical protein,72.2%,G,A,WP_223211237.1
+A,mvR12_Howe,100592,100592,1,none,,,hypothetical protein CDS,168,32.4%,G -> A,GGC -> GGT,1233,SNP (transition),None,2.0E-73,3,,SGL_RS19305,,,,hypothetical protein,67.5%,G,A,WP_223211237.1
+CCT,mvR12_Howe,100595,100597,2,none,,,hypothetical protein CDS,163,77.7% -> 78.4%,TCG -> CCT,CGA -> AGG,1221 -> 1232,Substitution,None,0.0,1,,SGL_RS19305,,,,hypothetical protein,,TCG,CCT,WP_223211237.1
+A,mvR12_Howe,100610,100610,1,none,,,hypothetical protein CDS,150,43.5%,G -> A,CGC -> CGT,1214,SNP (transition),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,56.3%,G,A,WP_223211237.1
+T,mvR12_Howe,100619,100619,1,none,,,hypothetical protein CDS,141,36.0%,C -> T,CCG -> CCA,1217,SNP (transition),None,1.3E-96,3,,SGL_RS19305,,,,hypothetical protein,64.0%,C,T,WP_223211237.1
+G,mvR12_Howe,100662,100662,1,none,,I -> T,hypothetical protein CDS,98,75.9%,A -> G,ATC -> ACC,1024,SNP (transition),Substitution,0.0,2,,SGL_RS19305,,,,hypothetical protein,24.1%,A,G,WP_223211237.1
+T,mvR12_Howe,100676,100676,1,none,,,hypothetical protein CDS,84,73.3%,C -> T,ACG -> ACA,936,SNP (transition),None,0.0,3,,SGL_RS19305,,,,hypothetical protein,26.7%,C,T,WP_223211237.1
+A,mvR12_Howe,100689,100689,1,none,,T -> I,hypothetical protein CDS,71,36.5%,G -> A,ACC -> ATC,882,SNP (transition),Substitution,4.5E-14,2,,SGL_RS19305,,,,hypothetical protein,63.0%,G,A,WP_223211237.1
+A,mvR12_Howe,100692,100692,1,none,,S -> L,hypothetical protein CDS,68,32.6%,G -> A,TCG -> TTG,863,SNP (transition),Substitution,2.8E-73,2,,SGL_RS19305,,,,hypothetical protein,67.2%,G,A,WP_223211237.1
+T,mvR12_Howe,100727,100727,1,none,,,hypothetical protein CDS,33,27.0%,C -> T,CCG -> CCA,570,SNP (transition),None,2.0E-20,3,,SGL_RS19305,,,,hypothetical protein,70.4%,C,T,WP_223211237.1
+T,mvR12_Howe,100727,100727,1,none,,G -> R,hypothetical protein CDS,142,27.0%,C -> T,GGA -> AGA,570,SNP (transition),Substitution,2.0E-20,1,,SGL_RS19685,,,,hypothetical protein,70.4%,C,T,
+T,mvR12_Howe,108903,108903,1,none,,,Rpn family recombination-promoting nuclease/putative transposase CDS,171,60.8%,C -> T,CAC -> CAT,637,SNP (transition),None,4.4E-8,3,,SGL_RS00565,,,,Rpn family recombination-promoting nuclease/putative transposase,39.2%,C,T,WP_011153656.1
+T,mvR12_Howe,109873,109873,1,none,,,,,42.1%,G -> T,,456,SNP (transversion),,4.3E-27,,,,,,,,57.9%,G,T,
+C,mvR12_Howe,109877,109877,1,none,,,,,46.7%,T -> C,,505,SNP (transition),,1.1E-41,,,,,,,,52.7%,T,C,
+G,mvR12_Howe,109907,109907,1,none,,,,,60.3%,A -> G,,717,SNP (transition),,2.1E-278,,,,,,,,39.6%,A,G,
+C,mvR12_Howe,109910,109910,1,none,,,,,61.1%,T -> C,,725,SNP (transition),,3.1E-289,,,,,,,,38.5%,T,C,
+AG,mvR12_Howe,109912,109913,2,none,,,,,61.8% -> 62.1%,GT -> AG,,740 -> 752,Substitution,,1.4E-302,,,,,,,,,GT,AG,
+T,mvR12_Howe,109932,109932,1,none,,,,,67.0%,C -> T,,883,SNP (transition),,0.0,,,,,,,,32.6%,C,T,
+A,mvR12_Howe,109946,109946,1,none,,,,,70.7%,G -> A,,982,SNP (transition),,0.0,,,,,,,,29.0%,G,A,
+T,mvR12_Howe,109983,109983,1,none,,,,,77.1%,C -> T,,1229,SNP (transition),,0.0,,,,,,,,22.7%,C,T,
+G,mvR12_Howe,110013,110013,1,none,,,,,80.9%,A -> G,,1343,SNP (transition),,0.0,,,,,,,,19.0%,A,G,
+T,mvR12_Howe,110019,110019,1,none,,,,,80.4%,C -> T,,1317,SNP (transition),,0.0,,,,,,,,19.3%,C,T,
+T,mvR12_Howe,110045,110044,0,none,,,,,78.5%,(T)2 -> (T)3,,1352,Insertion (tandem repeat),,0.0,,,,,,,,,,T,
+G,mvR12_Howe,110049,110049,1,none,,,,,81.6%,T -> G,,1366,SNP (transversion),,0.0,,,,,,,,18.2%,T,G,
+T,mvR12_Howe,110085,110085,1,none,,,hypothetical protein CDS,18,82.3%,C -> T,GGC -> GGT,1414,SNP (transition),None,0.0,3,,SGL_RS00570,,,,hypothetical protein,17.6%,C,T,WP_011153658.1
+C,mvR12_Howe,111439,111439,1,none,,,Y-family DNA polymerase CDS,348,23.9%,T -> C,ACA -> ACG,331,SNP (transition),None,8.8E-90,3,,SGL_RS00575,,,,Y-family DNA polymerase,76.1%,T,C,WP_011153659.1
+G,mvR12_Howe,111457,111457,1,none,,,Y-family DNA polymerase CDS,330,28.8%,A -> G,ACT -> ACC,358,SNP (transition),None,2.1E-156,3,,SGL_RS00575,,,,Y-family DNA polymerase,70.9%,A,G,WP_011153659.1
+G,mvR12_Howe,111466,111466,1,none,,,Y-family DNA polymerase CDS,321,31.8%,C -> G,CTG -> CTC,362,SNP (transversion),None,1.2E-191,3,,SGL_RS00575,,,,Y-family DNA polymerase,67.7%,C,G,WP_011153659.1
+G,mvR12_Howe,111472,111472,1,none,,,Y-family DNA polymerase CDS,315,33.8%,C -> G,GCG -> GCC,364,SNP (transversion),None,1.4E-196,3,,SGL_RS00575,,,,Y-family DNA polymerase,66.2%,C,G,WP_011153659.1
+G,mvR12_Howe,111502,111502,1,none,,,Y-family DNA polymerase CDS,285,38.6%,A -> G,CCT -> CCC,383,SNP (transition),None,1.8E-261,3,,SGL_RS00575,,,,Y-family DNA polymerase,61.4%,A,G,WP_011153659.1
+T,mvR12_Howe,111594,111594,1,none,,E -> K,Y-family DNA polymerase CDS,193,23.8%,C -> T,GAG -> AAG,311,SNP (transition),Substitution,2.5E-91,1,,SGL_RS00575,,,,Y-family DNA polymerase,76.2%,C,T,WP_011153659.1
+G,mvR12_Howe,111605,111605,1,none,,R -> P,Y-family DNA polymerase CDS,182,21.3%,C -> G,CGA -> CCA,296,SNP (transversion),Substitution,2.0E-62,2,,SGL_RS00575,,,,Y-family DNA polymerase,78.7%,C,G,WP_011153659.1
+T,mvR12_Howe,117257,117257,1,none,,A -> T,DUF1524 domain-containing protein CDS,37,22.0%,C -> T,GCA -> ACA,214,SNP (transition),Substitution,9.2E-26,1,,SGL_RS00615,,,,DUF1524 domain-containing protein,58.9%,C,T,WP_011153667.1
+T,mvR12_Howe,117259,117259,1,none,,,DUF1524 domain-containing protein CDS,35,39.5%,C -> T,,238,SNP (transition),Truncation,1.1E-93,2,,SGL_RS00615,,,,DUF1524 domain-containing protein,51.3%,C,T,WP_011153667.1
+A,mvR12_Howe,117263,117263,1,none,,I -> F,DUF1524 domain-containing protein CDS,31,33.0%,T -> A,ATC -> TTC,351,SNP (transversion),Substitution,9.2E-116,1,,SGL_RS00615,,,,DUF1524 domain-containing protein,61.0%,T,A,WP_011153667.1
+A,mvR12_Howe,117266,117266,1,none,,H -> Y,DUF1524 domain-containing protein CDS,28,20.6%,G -> A,CAT -> TAT,417,SNP (transition),Substitution,5.6E-100,1,,SGL_RS00615,,,,DUF1524 domain-containing protein,42.4%,G,A,WP_011153667.1
+T,mvR12_Howe,117266,117266,1,none,,H -> N,DUF1524 domain-containing protein CDS,28,26.4%,G -> T,CAT -> AAT,417,SNP (transversion),Substitution,2.9E-108,1,,SGL_RS00615,,,,DUF1524 domain-containing protein,42.4%,G,T,WP_011153667.1
+G,mvR12_Howe,117267,117267,1,none,,E -> D,DUF1524 domain-containing protein CDS,27,30.3%,C -> G,GAG -> GAC,466,SNP (transversion),Substitution,1.3E-193,3,,SGL_RS00615,,,,DUF1524 domain-containing protein,36.7%,C,G,WP_011153667.1
+T,mvR12_Howe,117269,117269,1,none,,E -> K,DUF1524 domain-containing protein CDS,25,22.5%,C -> T,GAG -> AAG,528,SNP (transition),Substitution,1.2E-178,1,,SGL_RS00615,,,,DUF1524 domain-containing protein,46.8%,C,T,WP_011153667.1
+A,mvR12_Howe,117273,117273,1,none,,E -> D,DUF1524 domain-containing protein CDS,21,20.0%,C -> A,GAG -> GAT,639,SNP (transversion),Substitution,1.7E-196,3,,SGL_RS00615,,,,DUF1524 domain-containing protein,59.5%,C,A,WP_011153667.1
+GA,mvR12_Howe,117275,117274,0,none,,,DUF1524 domain-containing protein CDS,20,25.5%,+GA,,648,Insertion,Frame Shift,8.0E-207,2,,SGL_RS00615,,,,DUF1524 domain-containing protein,,,GA,WP_011153667.1
+A,mvR12_Howe,117576,117576,1,none,,L -> F,IS4-like element IS4Sa family transposase CDS,786,20.8%,C -> A,TTG -> TTT,3194,SNP (transversion),Substitution,0.0,3,,SGL_RS00620,,,,IS4-like element IS4Sa family transposase,79.2%,C,A,WP_010872287.1
+T,mvR12_Howe,118363,118363,1,none,,,,,20.2%,G -> T,,2319,SNP (transversion),,0.0,,,,,,,,79.8%,G,T,
+C,mvR12_Howe,118449,118449,1,none,,P -> A,DUF262 domain-containing protein CDS,1474,20.7%,G -> C,CCA -> GCA,588,SNP (transversion),Substitution,6.6E-144,1,,SGL_RS00005,,,,DUF262 domain-containing protein,49.0%,G,C,WP_011153668.1
+A,mvR12_Howe,118450,118450,1,none,,E -> D,DUF262 domain-containing protein CDS,1473,30.5%,C -> A,GAG -> GAT,577,SNP (transversion),Substitution,3.3E-258,3,,SGL_RS00005,,,,DUF262 domain-containing protein,30.0%,C,A,WP_011153668.1
+G,mvR12_Howe,118453,118453,1,none,,,DUF262 domain-containing protein CDS,1470,20.5%,A -> G,ATT -> ATC,516,SNP (transition),None,5.7E-133,3,,SGL_RS00005,,,,DUF262 domain-containing protein,56.0%,A,G,WP_011153668.1
+A,mvR12_Howe,118455,118455,1,none,,I -> F,DUF262 domain-containing protein CDS,1468,20.9%,T -> A,ATT -> TTT,473,SNP (transversion),Substitution,2.7E-96,1,,SGL_RS00005,,,,DUF262 domain-containing protein,67.2%,T,A,WP_011153668.1
+GTT,mvR12_Howe,118456,118458,2,none,,E -> N,DUF262 domain-containing protein CDS,1465,20.5% -> 23.0%,CTC -> GTT,GAG -> AAC,400 -> 449,Substitution,Substitution,2.3E-113,1,,SGL_RS00005,,,,DUF262 domain-containing protein,,CTC,GTT,WP_011153668.1
+T,mvR12_Howe,118461,118461,1,none,,Y -> N,DUF262 domain-containing protein CDS,1462,30.0%,A -> T,TAT -> AAT,343,SNP (transversion),Substitution,3.3E-88,1,,SGL_RS00005,,,,DUF262 domain-containing protein,64.1%,A,T,WP_011153668.1
+T,mvR12_Howe,118464,118464,1,none,,A -> T,DUF262 domain-containing protein CDS,1459,32.6%,C -> T,GCC -> ACC,288,SNP (transition),Substitution,1.5E-93,1,,SGL_RS00005,,,,DUF262 domain-containing protein,47.9%,C,T,WP_011153668.1
+A,mvR12_Howe,118466,118466,1,none,,N -> I,DUF262 domain-containing protein CDS,1457,34.6%,T -> A,AAT -> ATT,228,SNP (transversion),Substitution,2.6E-81,2,,SGL_RS00005,,,,DUF262 domain-containing protein,57.5%,T,A,WP_011153668.1
+A,mvR12_Howe,118469,118469,1,none,,K -> I,DUF262 domain-containing protein CDS,1454,40.2%,T -> A,AAA -> ATA,169,SNP (transversion),Substitution,2.3E-62,2,,SGL_RS00005,,,,DUF262 domain-containing protein,59.8%,T,A,WP_011153668.1
+GA,mvR12_Howe,118472,118473,2,none,,G -> S,DUF262 domain-containing protein CDS,1450,23.2% -> 25.2%,CC -> GA,GGA -> TCA,142 -> 151,Substitution,Substitution,2.2E-23,1,,SGL_RS00005,,,,DUF262 domain-containing protein,,CC,GA,WP_011153668.1
+C,mvR12_Howe,119894,119894,1,none,,T -> S,DUF262 domain-containing protein CDS,29,39.5%,G -> C,ACT -> AGT,38,SNP (transversion),Substitution,4.6E-28,2,,SGL_RS00005,,,,DUF262 domain-containing protein,15.8%,G,C,WP_011153668.1

@@ -5,7 +5,7 @@ import os
 def filter_mutations(strains, ref):
 
     # Load the csv file
-    df = pd.read_csv(f'Data/variant_analysis/{ref}_allmutations.csv')
+    df = pd.read_csv(f'../Data/variant_analysis/{ref}_allmutations.csv')
 
     # Print the column names
     print("Variant analysis data imported succesfully")
@@ -52,7 +52,7 @@ def filter_mutations(strains, ref):
     new_df = new_df.drop(columns='comparison_key')
 
     # Save new_df as a csv file
-    new_df.to_csv(f'Data/variant_analysis/{ref}_filtered_mutations.csv', index=False)
+    new_df.to_csv(f'../Data/variant_analysis/{ref}_filtered_mutations.csv', index=False)
 
     return 
 

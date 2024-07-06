@@ -74,10 +74,10 @@ def adjust_positions(positions, min_distance):
 def plot_mutation_circos(ref):
 
     # Load mutation data
-    all_data = pd.read_csv(f"Data/variant_analysis/{ref}_filtered_mutations.csv")
+    all_data = pd.read_csv(f"../Data/variant_analysis/{ref}_filtered_mutations.csv")
 
     # Load the .gff file
-    gbk = Gff(f"Data/genome_annotations/{ref}.gff")
+    gbk = Gff(f"../Data/genome_annotations/{ref}.gff")
 
     # Initialize the Circos plot
     circos = Circos(sectors={gbk.name: gbk.range_size})
@@ -170,7 +170,7 @@ def plot_mutation_circos(ref):
         strain_track = sector.add_track(radial_range, r_pad_ratio=0.1)
         strain_track.axis(fc=strain_color[strain],alpha=0.4)
         for index, mutation in strain_data.iterrows():
-            if mutation['Coverage'] >= 30:
+            if mutation['Minimum'] >= 1:
                 strain_track.rect(mutation['Minimum']-0, mutation['Minimum']+1000, fc="black", ec="black", lw=1)
             else:
                 strain_track.rect(mutation['Minimum']-0, mutation['Minimum']+1000, fc="white", ec="white", alpha=0.8, lw=1)
@@ -208,15 +208,15 @@ def plot_mutation_circos(ref):
     fig_circos = circos.plotfig()
     _ = circos.ax.legend(
         handles=[
-            Patch(color="gray", label="Synechocystis \n sp. PCC 6803", alpha=0.6, edgecolor="black"),
-            Patch(color="tomato", label="mvR01", alpha=0.6, edgecolor="black"),
-            Patch(color="skyblue", label="mvR02", alpha=0.6, edgecolor="black"),
-            Patch(color="magenta", label="mvR03", alpha=0.6, edgecolor="black"),
-            Patch(color="green", label="mvR06", alpha=0.6, edgecolor="black"),
-            Patch(color="purple", label="mvR09", alpha=0.6, edgecolor="black"),
-            Patch(color="brown", label="mvR10", alpha=0.6, edgecolor="black"),
-            Patch(color="orange", label="mvR11", alpha=0.6, edgecolor="black"),
-            Patch(color="lightgreen", label="mvR12", alpha=0.6, edgecolor="black"),
+            Patch(color="gray", label="NC_000911", alpha=0.6, edgecolor="black"),
+            Patch(color="tomato", label="mvR01_Nixon", alpha=0.6, edgecolor="black"),
+            Patch(color="skyblue", label="mvR02_Nixon", alpha=0.6, edgecolor="black"),
+            Patch(color="magenta", label="mvR03_Nixon", alpha=0.6, edgecolor="black"),
+            Patch(color="green", label="mvR06_Nixon", alpha=0.6, edgecolor="black"),
+            Patch(color="purple", label="mvR09_Howe", alpha=0.6, edgecolor="black"),
+            Patch(color="brown", label="mvR10_Howe", alpha=0.6, edgecolor="black"),
+            Patch(color="orange", label="mvR11_Howe", alpha=0.6, edgecolor="black"),
+            Patch(color="lightgreen", label="mvR12_Howe", alpha=0.6, edgecolor="black"),
         ],
         bbox_to_anchor=(0.5, 0.5),
         loc="center",
@@ -224,7 +224,7 @@ def plot_mutation_circos(ref):
         fontsize=10,
     )
 
-    fig_circos.savefig(f"Figures/WGS/{ref}_mutants_vs_WT_genome_views.svg", dpi=600)
+    fig_circos.savefig(f"../Figures/WGS/{ref}_mutants_vs_WT_genome_viewsNew.svg", dpi=600)
 
 
     # Step 3: Use mutation_details to generate the table
@@ -287,12 +287,12 @@ def plot_mutation_circos(ref):
 
     ax.set_axis_off()
     plt.savefig(
-        f"Figures/WGS/Table_Mutants_{ref}.svg",
+        f"../Figures/WGS/Table_Mutants_{ref}.svg",
         dpi=900,
         transparent=False,
         bbox_inches='tight'
     )
-    print(f"Table Saved succesfully as: Figures/WGS/Table_{ref}.svg")
+    print(f"Table Saved succesfully as: ../Figures/WGS/TableNew_{ref}.svg")
 
     return
 

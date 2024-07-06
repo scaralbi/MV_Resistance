@@ -10,6 +10,7 @@ from matplotlib.lines import Line2D
 import os
 import re
 
+    
 def wrap_text(text, max_length):
     """
     Wrap the text every max_length characters.
@@ -24,11 +25,6 @@ def wrap_text(text, max_length):
     return '\n'.join(text[i:i+max_length] for i in range(0, len(text), max_length))
 
 
-# def min_percentage(s):
-#     """Return the smallest percentage value in a string."""
-#     # Extract all percentages from the string
-#     percentages = [float(x) for x in re.findall(r"(\d+(?:\.\d+)?)%", s)]
-#     return min(percentages) if percentages else 0
 
 def min_percentage(s):
     """Return the smallest percentage value in a string."""
@@ -63,9 +59,9 @@ def adjust_positions(positions, min_distance):
             # Adjust next position
             new_positions[i + 1] = new_positions[i] + min_distance
 
-    # We need to iterate until no more adjustments are needed,
+    # need to iterate until no more adjustments are needed,
     # because an adjustment can cause a position to encroach on its next neighbor.
-    # If we make any adjustments, we'll run the loop again.
+    # If any adjustment is made, then the loop is run again.
     if new_positions != positions:
         new_positions = adjust_positions(new_positions, min_distance)
 
@@ -74,10 +70,10 @@ def adjust_positions(positions, min_distance):
 def plot_mutation_circos(ref):
 
     # Load mutation data
-    all_data = pd.read_csv(f"Data/variant_analysis/{ref}_filtered_mutations.csv")
+    all_data = pd.read_csv(f"../Data/variant_analysis/{ref}_filtered_mutations.csv")
 
     # Load the .gff file
-    gbk = Gff(f"Data/genome_annotations/{ref}.gff")
+    gbk = Gff(f"../Data/genome_annotations/{ref}.gff")
 
     # Initialize the Circos plot
     circos = Circos(sectors={gbk.name: gbk.range_size})
@@ -116,10 +112,6 @@ def plot_mutation_circos(ref):
     }).to_dict(orient='index')
 
 
-
-    # # Now create the labels and pos_list from this grouped data
-    # labels = [f"{row['product']}" for _, row in grouped_mutations.iterrows()]
-    # pos_list = grouped_mutations["Minimum"].values.tolist()
 
     # Group by 'locus_tag' and get the first entry for each unique gene
     unique_grouped_mutations = grouped_mutations.groupby('locus_tag').first()
@@ -188,7 +180,6 @@ def plot_mutation_circos(ref):
     # Adjust positions to ensure minimum distance of usually works well with 25000
 #    pos_list_CDSonly = adjust_positions(sorted(pos_list), 500)
 
-
     # Plot outer xticks (labels)
     label_track.xticks(
         pos_list,
@@ -221,7 +212,7 @@ def plot_mutation_circos(ref):
         fontsize=10,
     )
 
-    fig_circos.savefig(f"Figures/WGS/{ref}_mutants_vs_WT_genome_views.svg", dpi=600)
+    fig_circos.savefig(f"../Figures/WGS/{ref}_mutants_vs_WT_genome_views_New3.svg", dpi=600)
 
 
     # Step 3: Use mutation_details to generate the table
@@ -284,12 +275,12 @@ def plot_mutation_circos(ref):
 
     ax.set_axis_off()
     plt.savefig(
-        f"Figures/WGS/Table_Mutants_{ref}.png",
+        f"..Data/Figures/WGS/Table_Mutants2_{ref}.png",
         dpi=900,
         transparent=False,
         bbox_inches='tight'
     )
-    print(f"Table Saved succesfully as: Figures/WGS/Table_{ref}.png")
+    print(f"Table Saved succesfully as: ../Figures/WGS/Table2_{ref}.png")
 
     return
 

@@ -1,11 +1,19 @@
-\contentsline {section}{\numberline {1}Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}{1}{section.1}%
-\contentsline {section}{\numberline {2}Adaptation to methyl viologen is not due to its abiotic degration over time}{2}{section.2}%
-\contentsline {section}{\numberline {3}Spot plates of Strains Grown in BG11 without or with MV (6 $\mu $M)}{4}{section.3}%
-\contentsline {section}{\numberline {4}Chronoamperometries strain by strain}{6}{section.4}%
-\contentsline {section}{\numberline {5}Quantification of methyl viologen resistance in adapted strains}{6}{section.5}%
-\contentsline {section}{\numberline {6}Addition of methyl viologen at various growth phases}{7}{section.6}%
-\contentsline {section}{\numberline {7}PrqA is not essential for spontaneous evolution of MV resistance}{8}{section.7}%
-\contentsline {section}{\numberline {8}Comparative Genomic Analysis of Wild-Type and Methyl Viologen Resistant Strains}{9}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Genome Sequencing QC Report}{10}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Sequenced Strains Compared to Various Substrains}{14}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}SNPs Polimorphism}{16}{subsection.8.3}%
+\contentsline {section}{\numberline {1}Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}{2}{section.1}%
+\contentsline {section}{\numberline {2}Adaptation to methyl viologen is not due to its abiotic degration over time}{3}{section.2}%
+\contentsline {section}{\numberline {3}Spot plates of strains grown in BG11 without or with MV (6 $\mu $M)}{4}{section.3}%
+\contentsline {section}{\numberline {4}Addition of methyl viologen at various growth phases}{5}{section.4}%
+\contentsline {section}{\numberline {5}The gene \textit {prqA} is not essential for spontaneous evolution of MV resistance}{6}{section.5}%
+\contentsline {section}{\numberline {6}Whole genome sequencing and bioinformatic analyses}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Genome sequencing QC report}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Sequenced strains compared to various substrains}{11}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}SNPs Polimorphism}{12}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Extended methods}{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Buffers and media}{14}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}0.25 M EDTA stock solution - pH8}{14}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}1M Tris/HCl buffer - pH8}{15}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Lysis buffer for gDNA extraction (``Smoker B’’)}{15}{subsubsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.4}Photoautotrophic growth medium and plates (BG11)}{15}{subsubsection.7.1.4}%
+\contentsline {paragraph}{To prepare 1 L of liquid medium:}{16}{subsubsection.7.1.4}%
+\contentsline {paragraph}{To prepare solid BG11 plates:}{16}{Item.21}%
+\contentsline {section}{\numberline {8}Code}{19}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Comare variants across strains}{19}{subsection.8.1}%
