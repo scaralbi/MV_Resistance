@@ -1,0 +1,182 @@
+Name,Minimum,Maximum,Length,# Intervals,Amino Acid Change,CDS Position,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant Frequency,Variant P-Value (approximate)
+C,119894,119894,1,1,T -> S,29,G -> C,ACT -> AGT,95,SNP (transversion),Substitution,26.3%,4.7E-43
+T,119894,119894,1,1,T -> N,29,G -> T,ACT -> AAT,95,SNP (transversion),Substitution,20.0%,7.5E-35
+TT,119893,119894,2,1,T -> K,29,AG -> TT,ACT -> AAA,95 -> 103,Substitution,Substitution,32.0% -> 34.7%,1.1E-53
+TT,119892,119892,1,1,,31,C -> TT,,116,Insertion,Frame Shift,23.3%,4.1E-34
+A,118469,118469,1,1,K -> I,1454,T -> A,AAA -> ATA,374,SNP (transversion),Substitution,27.8%,8.9E-66
+A,118466,118466,1,1,N -> I,1457,T -> A,AAT -> ATT,457,SNP (transversion),Substitution,26.5%,1.1E-84
+T,118464,118464,1,1,A -> T,1459,C -> T,GCC -> ACC,530,SNP (transition),Substitution,26.4%,6.3E-124
+T,118461,118461,1,1,Y -> N,1462,A -> T,TAT -> AAT,621,SNP (transversion),Substitution,28.0%,1.7E-158
+GTT,118456,118458,2,2,E -> N,1465,CTC -> GTT,GAG -> AAC,708 -> 783,Substitution,Substitution,19.7% -> 21.8%,1.6E-153
+G,118453,118453,1,1,,1470,A -> G,ATT -> ATC,909,SNP (transition),None,23.7%,3.6E-240
+A,118450,118450,1,1,E -> D,1473,C -> A,GAG -> GAT,1012,SNP (transversion),Substitution,25.4%,1.1E-320
+C,118449,118449,1,1,P -> A,1474,G -> C,CCA -> GCA,1024,SNP (transversion),Substitution,27.7%,0.0
+T,117269,117269,1,1,E -> K,25,C -> T,GAG -> AAG,823,SNP (transition),Substitution,29.6%,0.0
+G,117267,117267,1,1,E -> D,27,C -> G,GAG -> GAC,756,SNP (transversion),Substitution,25.0%,6.9E-243
+A,117266,117266,1,1,H -> Y,28,G -> A,CAT -> TAT,703,SNP (transition),Substitution,23.3%,7.1E-151
+A,117263,117263,1,1,I -> F,31,T -> A,ATC -> TTC,629,SNP (transversion),Substitution,28.3%,4.2E-180
+T,117259,117259,1,1,,35,C -> T,,446,SNP (transition),Truncation,28.9%,1.2E-107
+G,111502,111502,1,1,,285,A -> G,CCT -> CCC,722,SNP (transition),None,28.7%,5.1E-312
+G,111472,111472,1,1,,315,C -> G,GCG -> GCC,670,SNP (transversion),None,23.4%,6.1E-237
+G,111466,111466,1,1,,321,C -> G,CTG -> CTC,645,SNP (transversion),None,21.2%,5.8E-187
+G,111457,111457,1,1,,330,A -> G,ACT -> ACC,637,SNP (transition),None,20.6%,7.9E-177
+G,110049,110049,1,1,,,T -> G,,2368,SNP (transversion),,74.3%,0.0
+T,110045,110044,0,1,,,(T)2 -> (T)3,,2362,Insertion (tandem repeat),,70.7%,0.0
+T,110019,110019,1,1,,,C -> T,,2170,SNP (transition),,73.6%,0.0
+G,110013,110013,1,1,,,A -> G,,2159,SNP (transition),,73.7%,0.0
+T,109983,109983,1,1,,,C -> T,,1985,SNP (transition),,71.1%,0.0
+A,109946,109946,1,1,,,G -> A,,1684,SNP (transition),,57.2%,0.0
+T,109932,109932,1,1,,,C -> T,,1442,SNP (transition),,58.4%,0.0
+AG,109912,109913,2,1,,,GT -> AG,,1225 -> 1237,Substitution,,50.9% -> 51.6%,0.0
+C,109910,109910,1,1,,,T -> C,,1195,SNP (transition),,50.0%,7.5E-322
+G,109907,109907,1,1,,,A -> G,,1184,SNP (transition),,49.7%,3.4E-315
+C,109877,109877,1,1,,,T -> C,,883,SNP (transition),,34.5%,2.8E-10
+A,100689,100689,1,1,T -> I,71,G -> A,ACC -> ATC,1286,SNP (transition),Substitution,34.3%,3.4E-59
+T,100676,100676,1,1,,84,C -> T,ACG -> ACA,1388,SNP (transition),None,64.5%,0.0
+G,100662,100662,1,1,I -> T,98,A -> G,ATC -> ACC,1556,SNP (transition),Substitution,67.1%,0.0
+A,100610,100610,1,1,,150,G -> A,CGC -> CGT,1876,SNP (transition),None,42.1%,0.0
+CCT,100595,100597,2,2,,163,TCG -> CCT,CGA -> AGG,1877 -> 1884,Substitution,None,68.3% -> 68.6%,0.0
+A,100514,100514,1,1,,246,G -> A,TAC -> TAT,1578,SNP (transition),None,50.1%,0.0
+G,100511,100511,1,1,,249,A -> G,TAT -> TAC,1579,SNP (transition),None,50.9%,0.0
+G,100454,100454,1,1,,306,C -> G,CCG -> CCC,1308,SNP (transversion),None,57.3%,0.0
+T,100438,100438,1,1,V -> M,322,C -> T,GTG -> ATG,1356,SNP (transition),Substitution,22.0%,6.7E-154
+G,100432,100432,1,1,E -> Q,328,C -> G,GAG -> CAG,1339,SNP (transversion),Substitution,58.4%,0.0
+G,100409,100409,1,1,,351,C -> G,GTG -> GTC,1452,SNP (transversion),None,24.4%,0.0
+T,100402,100402,1,1,V -> I,358,C -> T,GTC -> ATC,1495,SNP (transition),Substitution,39.4%,0.0
+T,100373,100373,1,1,,387,C -> T,GCG -> GCA,1522,SNP (transition),None,52.0%,0.0
+C,100361,100361,1,1,,,T -> C,,1555,SNP (transition),,57.1%,0.0
+,100359,100359,1,1,,,(T)3 -> (T)2,,1541,Deletion (tandem repeat),,56.8%,0.0
+G,100274,100274,1,1,,,C -> G,,1389,SNP (transversion),,55.7%,0.0
+A,100272,100272,1,1,,,G -> A,,1369,SNP (transition),,55.8%,0.0
+AG,100190,100191,2,1,,,TT -> AG,,767 -> 769,Substitution,,20.5% -> 20.8%,3.4E-10
+T,100071,100071,1,1,,,C -> T,,818,SNP (transition),,28.2%,7.0E-66
+C,100056,100056,1,1,,,T -> C,,921,SNP (transition),,37.4%,4.7E-137
+G,100040,100040,1,1,,,A -> G,,964,SNP (transition),,42.5%,1.1E-187
+T,100033,100033,1,1,,,C -> T,,963,SNP (transition),,44.9%,5.0E-248
+G,100029,100029,1,1,,,A -> G,,983,SNP (transition),,45.9%,4.4E-264
+T,100027,100027,1,1,,,A -> T,,990,SNP (transversion),,47.5%,1.6E-283
+A,99642,99642,1,1,P -> S,340,G -> A,CCA -> TCA,1385,SNP (transition),Substitution,63.9%,0.0
+G,99522,99522,1,1,,,A -> G,,1328,SNP (transition),,59.7%,0.0
+G,99484,99484,1,1,,,C -> G,,1027,SNP (transversion),,51.5%,0.0
+,99482,99482,1,1,,,-C,,1018,Deletion,,47.5%,1.6E-123
+C,99478,99478,1,1,,,T -> C,,990,SNP (transition),,48.7%,0.0
+G,99474,99474,1,1,,,A -> G,,981,SNP (transition),,47.9%,0.0
+T,99472,99472,1,1,,,C -> T,,978,SNP (transition),,48.5%,0.0
+C,99465,99465,1,1,,,T -> C,,977,SNP (transition),,48.9%,5.2E-252
+AGCA,99450,99453,4,1,,,GTTG -> AGCA,,1017 -> 1030,Substitution,,47.1% -> 48.4%,2.4E-124
+A,99446,99446,1,1,,231,G -> A,CAG -> CAA,1039,SNP (transition),None,49.3%,1.3E-138
+G,99439,99439,1,1,N -> S,224,A -> G,AAT -> AGT,1033,SNP (transition),Substitution,47.5%,3.1E-125
+C,99423,99423,1,1,,208,T -> C,TTA -> CTA,1060,SNP (transition),None,47.6%,9.2E-91
+C,98956,98956,1,1,,343,T -> C,TTG -> CTG,1566,SNP (transition),None,61.0%,0.0
+A,98946,98946,1,1,,333,C -> A,ACC -> ACA,1534,SNP (transversion),None,60.8%,0.0
+GC,98940,98941,2,1,IL -> ML,327,AT -> GC,"ATA,TTG -> ATG,CTG",1503 -> 1510,Substitution,Substitution,60.4% -> 60.7%,0.0
+CC,98934,98935,2,1,,321,TT -> CC,"GCT,TTG -> GCC,CTG",1521 -> 1525,Substitution,None,61.8% -> 61.9%,0.0
+CTG,98926,98928,2,2,,313,TTA -> CTG,TTA -> CTG,1512 -> 1514,Substitution,None,61.0% -> 61.7%,0.0
+C,98922,98922,1,1,,309,G -> C,CTG -> CTC,1491,SNP (transversion),None,62.4%,0.0
+G,98913,98913,1,1,,300,A -> G,CCA -> CCG,1463,SNP (transition),None,61.5%,0.0
+C,98907,98907,1,1,,294,G -> C,TCG -> TCC,1474,SNP (transversion),None,61.7%,0.0
+T,98874,98874,1,1,,261,G -> T,CTG -> CTT,1529,SNP (transversion),None,62.8%,0.0
+G,98865,98865,1,1,,252,A -> G,CTA -> CTG,1550,SNP (transition),None,62.4%,0.0
+C,97618,97618,1,1,,,T -> C,,841,SNP (transition),,34.0%,0.0
+A,95490,95490,1,1,,60,G -> A,TCC -> TCT,940,SNP (transition),None,33.8%,7.2E-42
+A,95484,95484,1,1,,66,G -> A,AAC -> AAT,984,SNP (transition),None,36.9%,1.0E-57
+A,95471,95471,1,1,R -> W,79,G -> A,CGG -> TGG,1010,SNP (transition),Substitution,21.0%,1.2E-87
+A,95466,95466,1,1,,84,G -> A,TGC -> TGT,1000,SNP (transition),None,22.7%,7.3E-121
+T,95448,95448,1,1,,102,C -> T,AAG -> AAA,1009,SNP (transition),None,25.8%,2.2E-129
+A,95445,95445,1,1,,105,C -> A,CCG -> CCT,1012,SNP (transversion),None,46.4%,2.2E-153
+C,95424,95424,1,1,,126,T -> C,TTA -> TTG,1106,SNP (transition),None,31.5%,1.9E-172
+C,95418,95418,1,1,,132,T -> C,GAA -> GAG,1132,SNP (transition),None,48.9%,3.5E-193
+T,95406,95406,1,1,,144,C -> T,CGG -> CGA,1138,SNP (transition),None,31.0%,1.2E-172
+G,95405,95405,1,1,F -> L,145,A -> G,TTC -> CTC,1136,SNP (transition),Substitution,49.2%,3.4E-197
+C,95369,95369,1,1,S -> G,181,T -> C,AGT -> GGT,1098,SNP (transition),Substitution,32.2%,2.7E-179
+C,95339,95339,1,1,L -> V,211,A -> C,TTA -> GTA,836,SNP (transversion),Substitution,23.7%,4.7E-44
+G,95329,95329,1,1,L -> P,221,A -> G,CTC -> CCC,772,SNP (transition),Substitution,22.8%,2.8E-25
+C,90257,90257,1,1,,,T -> C,,1736,SNP (transition),,45.8%,1.6E-77
+A,90211,90211,1,1,,43,G -> A,CTG -> TTG,1895,SNP (transition),None,46.0%,9.4E-144
+G,89244,89244,1,1,,516,A -> G,TTT -> TTC,1034,SNP (transition),None,47.4%,4.7E-7
+G,89232,89232,1,1,,528,A -> G,TTT -> TTC,1104,SNP (transition),None,51.9%,3.2E-16
+A,89208,89208,1,1,,552,C -> A,GGG -> GGT,1171,SNP (transversion),None,32.6%,5.2E-9
+T,89190,89190,1,1,,570,C -> T,CCG -> CCA,1195,SNP (transition),None,32.0%,6.2E-8
+G,89178,89178,1,1,,582,A -> G,CGT -> CGC,1203,SNP (transition),None,54.5%,5.0E-25
+A,89117,89117,1,1,,643,G -> A,CTG -> TTG,915,SNP (transition),None,23.2%,5.4E-9
+ATC,85221,85223,2,2,L -> I,55,CTT -> ATC,CTT -> ATC,1019 -> 1047,Substitution,Substitution,37.1% -> 38.1%,1.6E-263
+G,85208,85208,1,1,,42,A -> G,CTA -> CTG,1189,SNP (transition),None,45.8%,0.0
+G,81280,81280,1,1,,498,A -> G,CGA -> CGG,1275,SNP (transition),None,26.9%,1.3E-9
+A,81262,81262,1,1,,480,G -> A,GAG -> GAA,1187,SNP (transition),None,56.6%,1.3E-31
+C,81058,81058,1,1,,276,T -> C,GTT -> GTC,1827,SNP (transition),None,38.5%,3.1E-74
+T,81025,81025,1,1,,243,C -> T,CGC -> CGT,1836,SNP (transition),None,24.0%,6.0E-41
+A,72083,72083,1,1,A -> T,112,G -> A,GCC -> ACC,1786,SNP (transition),Substitution,70.3%,7.5E-11
+C,66917,66917,1,1,,156,T -> C,GCA -> GCG,1117,SNP (transition),None,50.1%,1.9E-12
+G,66908,66908,1,1,,165,A -> G,CAT -> CAC,1093,SNP (transition),None,48.4%,5.4E-9
+A,66878,66878,1,1,,195,G -> A,CCC -> CCT,1014,SNP (transition),None,44.8%,1.4E-18
+C,44704,44704,1,1,,1152,A -> C,GTT -> GTG,454,SNP (transversion),None,22.0%,5.3E-53
+A,39664,39664,1,1,S -> F,596,G -> A,TCC -> TTC,959,SNP (transition),Substitution,23.1%,3.4E-140
+G,39623,39623,1,1,I -> M,717,C -> G,ATC -> ATG,1994,SNP (transversion),Substitution,66.8%,0.0
+A,39593,39593,1,1,,687,C -> A,ACC -> ACA,2918,SNP (transversion),None,40.0%,0.0
+G,39560,39560,1,1,,654,A -> G,AAA -> AAG,3927,SNP (transition),None,64.7%,0.0
+T,32149,32149,1,1,D -> N,688,C -> T,GAT -> AAT,1403,SNP (transition),Substitution,23.3%,0.0
+T,32047,32047,1,1,,651,C -> T,AGC -> AGT,2312,SNP (transition),None,21.2%,0.0
+T,32047,32047,1,1,A -> T,790,C -> T,GCT -> ACT,2312,SNP (transition),Substitution,21.2%,0.0
+,32038,32038,1,1,,642,-A,,2318,Deletion,Frame Shift,21.4%,0.0
+,32038,32038,1,1,,799,-A,,2318,Deletion,Frame Shift,21.4%,0.0
+T,31600,31600,1,1,,204,C -> T,TTC -> TTT,2280,SNP (transition),None,41.8%,0.0
+A,31569,31569,1,1,G -> E,173,G -> A,GGA -> GAA,2230,SNP (transition),Substitution,23.6%,0.0
+C,31544,31544,1,1,,148,T -> C,TTA -> CTA,2262,SNP (transition),None,23.3%,0.0
+G,31500,31500,1,1,K -> R,104,A -> G,AAA -> AGA,2118,SNP (transition),Substitution,22.8%,0.0
+T,31473,31473,1,1,P -> L,77,C -> T,CCA -> CTA,2041,SNP (transition),Substitution,23.5%,0.0
+T,31454,31454,1,1,,58,C -> T,CTG -> TTG,1990,SNP (transition),None,23.0%,0.0
+G,31417,31417,1,1,,21,A -> G,GCA -> GCG,1668,SNP (transition),None,63.1%,0.0
+C,31386,31386,1,1,,,G -> C,,1372,SNP (transversion),,35.7%,0.0
+T,31378,31378,1,1,,,A -> T,,1306,SNP (transversion),,52.9%,0.0
+G,16980,16980,1,1,,378,A -> G,AGA -> AGG,1594,SNP (transition),None,41.8%,3.8E-88
+T,16977,16977,1,1,,375,C -> T,GAC -> GAT,1594,SNP (transition),None,20.5%,2.9E-158
+G,16974,16974,1,1,,372,T -> G,ACT -> ACG,1602,SNP (transversion),None,21.1%,2.0E-168
+T,16971,16971,1,1,,369,C -> T,GCC -> GCT,1600,SNP (transition),None,22.6%,4.5E-190
+C,16953,16953,1,1,,351,T -> C,CAT -> CAC,1693,SNP (transition),None,26.2%,2.4E-302
+T,16933,16933,1,1,L -> F,331,C -> T,CTT -> TTT,1799,SNP (transition),Substitution,30.6%,0.0
+G,16839,16839,1,1,,237,A -> G,CCA -> CCG,2335,SNP (transition),None,56.0%,0.0
+A,16827,16827,1,1,,225,G -> A,GTG -> GTA,2400,SNP (transition),None,36.5%,0.0
+G,16698,16698,1,1,,96,C -> G,CTC -> CTG,2512,SNP (transversion),None,33.6%,4.2E-106
+A,16689,16689,1,1,,87,G -> A,AGG -> AGA,2474,SNP (transition),None,33.6%,1.8E-160
+T,16595,16595,1,1,,,A -> T,,2284,SNP (transversion),,54.0%,0.0
+CAT,16592,16594,3,1,,,TGA -> CAT,,2244 -> 2267,Substitution,,30.4% -> 30.9%,9.0E-118
+A,16591,16591,1,1,,,T -> A,,2277,SNP (transversion),,36.6%,1.2E-187
+CC,16588,16587,0,1,,,+CC,,2261,Insertion,,21.1%,6.6E-236
+C,16575,16575,1,1,,,T -> C,,2264,SNP (transition),,54.9%,0.0
+A,16572,16572,1,1,,,G -> A,,2249,SNP (transition),,22.1%,4.9E-214
+C,16565,16565,1,1,,,G -> C,,2240,SNP (transversion),,20.4%,3.3E-182
+C,16528,16528,1,1,,,T -> C,,1927,SNP (transition),,35.3%,2.1E-96
+G,16501,16501,1,1,,,T -> G,,1678,SNP (transversion),,63.3%,6.6E-156
+A,16454,16454,1,1,,,T -> A,,1294,SNP (transversion),,48.7%,6.3E-11
+A,15884,15884,1,1,,,G -> A,,902,SNP (transition),,43.2%,1.1E-56
+G,15882,15882,1,1,,,A -> G,,919,SNP (transition),,43.9%,1.7E-60
+T,15878,15878,1,1,,,C -> T,,957,SNP (transition),,45.1%,5.0E-101
+A,15875,15875,1,1,,,G -> A,,972,SNP (transition),,46.4%,1.5E-110
+C,15873,15873,1,1,,,T -> C,,967,SNP (transition),,46.8%,1.0E-149
+A,15832,15832,1,1,,,G -> A,,1261,SNP (transition),,57.3%,0.0
+C,15790,15790,1,1,,,T -> C,,1532,SNP (transition),,63.6%,0.0
+C,15753,15753,1,1,,,G -> C,,1703,SNP (transversion),,65.7%,0.0
+A,15660,15660,1,1,,,G -> A,,2253,SNP (transition),,26.9%,2.2E-40
+T,15657,15657,1,1,,,G -> T,,2276,SNP (transversion),,27.0%,1.4E-41
+A,15646,15646,1,1,,,G -> A,,2370,SNP (transition),,27.8%,4.4E-20
+T,15595,15595,1,1,,,C -> T,,2221,SNP (transition),,31.9%,3.5E-13
+T,15436,15436,1,1,V -> I,46,C -> T,GTT -> ATT,2415,SNP (transition),Substitution,41.3%,2.9E-195
+T,15410,15410,1,1,,72,C -> T,GCG -> GCA,2366,SNP (transition),None,43.6%,4.1E-224
+T,14899,14899,1,1,V -> I,235,C -> T,GTC -> ATC,624,SNP (transition),Substitution,22.3%,1.5E-11
+TCCT,14885,14888,3,2,ER -> EG,246,CCGC -> TCCT,"GAG,CGG -> GAA,GGA",598 -> 609,Substitution,Substitution,23.6% -> 24.1%,1.6E-14
+A,14834,14834,1,1,,300,G -> A,GAC -> GAT,861,SNP (transition),None,47.9%,0.0
+C,14813,14813,1,1,,321,T -> C,GAA -> GAG,915,SNP (transition),None,51.9%,0.0
+G,14801,14801,1,1,,333,C -> G,GCG -> GCC,951,SNP (transversion),None,24.1%,5.2E-88
+C,14780,14780,1,1,,354,A -> C,GGT -> GGG,1035,SNP (transversion),None,55.8%,0.0
+A,14753,14753,1,1,,381,G -> A,ACC -> ACT,1140,SNP (transition),None,59.6%,0.0
+C,14744,14744,1,1,I -> M,390,G -> C,ATC -> ATG,1168,SNP (transversion),Substitution,31.8%,1.2E-287
+A,14732,14732,1,1,,402,G -> A,CCC -> CCT,1202,SNP (transition),None,31.4%,3.5E-291
+A,14690,14690,1,1,,444,G -> A,TCC -> TCT,1233,SNP (transition),None,29.5%,4.7E-81
+G,14681,14681,1,1,,453,C -> G,GCG -> GCC,1286,SNP (transversion),None,30.3%,9.4E-121
+G,14648,14648,1,1,,486,T -> G,ATA -> ATC,1608,SNP (transversion),None,34.1%,1.9E-151
+T,14627,14627,1,1,G -> S,13,C -> T,GGC -> AGC,1725,SNP (transition),Substitution,38.1%,0.0
+T,14627,14627,1,1,,507,C -> T,AAG -> AAA,1725,SNP (transition),None,38.1%,0.0
+AT,14507,14508,2,1,,132,GC -> AT,"GGG,CTA -> GGA,TTA",1844 -> 1850,Substitution,None,35.4% -> 35.6%,1.3E-140
+A,14487,14487,1,1,,153,G -> A,TCC -> TCT,1721,SNP (transition),None,34.4%,2.3E-79
+AG,14438,14439,2,1,,201,GA -> AG,"TAT,CTG -> TAC,TTG",1218 -> 1227,Substitution,None,61.1% -> 61.2%,8.2E-52
+GTACGC,5,4,0,1,T -> TRT,24,+GTACGC,"ACG -> ACG,CGT,ACG",136,Insertion,Insertion,23.5%,7.7E-42

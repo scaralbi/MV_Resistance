@@ -1,0 +1,5 @@
+Name,Minimum,Maximum,Length,# Intervals,Amino Acid Change,CDS Position,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant Frequency,Variant P-Value (approximate)
+TGA,44341,44343,2,2,T -> S,1915,GGT -> TGA,ACC -> TCA,45 -> 63,Substitution,Substitution,15.9% -> 22.2%,1.3E-23
+GTGATC,4,4,1,1,,1911,C -> GTGATC,,92,Insertion,Frame Shift,21.7%,1.4E-44
+TCTTGTCGGTGA,3,2,0,1,I -> ITDKI,1913,+TCTTGTCGGTGA,"ATC -> ATC,ACC,GAC,AAG,ATC",75,Insertion,Insertion,20.0%,3.7E-26
+CT,1,2,2,1,I -> K,1913,GA -> CT,ATC -> AAG,39 -> 75,Substitution,Substitution,23.1% -> 25.3%,4.6E-21

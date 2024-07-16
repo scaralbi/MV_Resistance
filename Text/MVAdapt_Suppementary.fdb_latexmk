@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1719901454.25634 "/Users/scaralbi/Desktop/MV_Resistance/Text/MVAdapt_Suppementary.tex" "MVAdapt_Suppementary.pdf" "MVAdapt_Suppementary" 1719901483.69989 0
+["pdflatex"] 1721061289.77174 "/Users/scaralbi/Desktop/MV_Resistance/Text/MVAdapt_Suppementary.tex" "MVAdapt_Suppementary.pdf" "MVAdapt_Suppementary" 1721061319.54046 0
   "../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png" 1697027994.36 183684 7a4946ca91f71fcecac313aff7fcbac2 ""
   "../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png" 1696860431 89722 e87f6ee54f4ab60ed0a00b16ec21fb47 ""
   "../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png" 1688059269.53 1475002 0bb69ffa24fd24e87a6f3378cc3bd6df ""
@@ -13,7 +13,7 @@
   "../Figures/WGS/variant_frequency_fraction_comparison_5bins.png" 1717689442.97976 728110 e49502a99fe2a178224e7fb919d5656a ""
   "../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png" 1689603388.15 7196829 b9b81df67d37bec9a9c0bb35ea57d2bf ""
   "../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png" 1689603721.02 7139151 8ce028c35026b59b80482b28b8ac5d17 ""
-  "/Users/scaralbi/Desktop/MV_Resistance/Text/MVAdapt_Suppementary.tex" 1719901424.51692 53371 615081545b09406c5ee112a3bd7c8a71 ""
+  "/Users/scaralbi/Desktop/MV_Resistance/Text/MVAdapt_Suppementary.tex" 1720333063.77541 53362 2ec835c05531e2f80cf34580b803bfb7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -210,10 +210,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713100081.88436 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713100027 8221422 4c51d5cce0c59bac24ed06015d85f6c9 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "MVAdapt_Suppementary.aux" 1719901483.57285 13589 6a35177e2b398c36a306bba86bb998c3 "pdflatex"
-  "MVAdapt_Suppementary.out" 1719901483.57443 4760 e142f8a3dc5073d1b450b6e7a59b9d92 "pdflatex"
-  "MVAdapt_Suppementary.tex" 1719901424.51692 53371 615081545b09406c5ee112a3bd7c8a71 ""
-  "MVAdapt_Suppementary.toc" 1719901483.57473 1980 ad91e7506539c97bd6e9bb13c4af5576 "pdflatex"
+  "MVAdapt_Suppementary.aux" 1721061319.41087 13582 f383daa0b98ba897019b0d24d9bc8a47 "pdflatex"
+  "MVAdapt_Suppementary.out" 1721061319.41261 4722 d07a3d03b70c583fc13373746c6a6e9a "pdflatex"
+  "MVAdapt_Suppementary.tex" 1720333063.77541 53362 2ec835c05531e2f80cf34580b803bfb7 ""
+  "MVAdapt_Suppementary.toc" 1721061319.41301 1973 6d293afad961c82a07308098d8c57d41 "pdflatex"
   (generated)
   "MVAdapt_Suppementary.aux"
   "MVAdapt_Suppementary.log"

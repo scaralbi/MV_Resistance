@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.14)  2 JUL 2024 08:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.14)  15 JUL 2024 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -864,24 +864,24 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 File: lstlang1.sty 2024/02/21 1.10 listings language file
 ) [18]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 405.
+(Font)              scaled to size 9.49997pt on input line 404.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 406.
+(Font)              scaled to size 9.49997pt on input line 405.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 419.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 418.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 419.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 439.
+(Font)              scaled to size 9.49997pt on input line 418.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 438.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 439.
+(Font)              scaled to size 9.49997pt on input line 438.
  [19] [20] [21] [22]
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 617.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 616.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 617.
+(Font)              scaled to size 9.49997pt on input line 616.
  [23]
 
 Package natbib Warning: There were undefined citations.
@@ -896,7 +896,7 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MVAdapt_Suppementary.out' has not changed.
-(rerunfilecheck)             Checksum: E142F8A3DC5073D1B450B6E7A59B9D92;4760.
+(rerunfilecheck)             Checksum: D07A3D03B70C583FC13373746C6A6E9A;4722.
  ) 
 Here is how much of TeX's memory you used:
  27576 strings out of 474116
@@ -907,7 +907,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,22n,87p,937b,2144s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on MVAdapt_Suppementary.pdf (24 pages, 22221775 bytes).
+Output written on MVAdapt_Suppementary.pdf (24 pages, 22221749 bytes).
 PDF statistics:
  657 PDF objects out of 1000 (max. 8388607)
  577 compressed objects within 6 object streams

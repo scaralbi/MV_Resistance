@@ -1,0 +1,71 @@
+Name,Document Name,Minimum,Maximum,Length,Direction,GO_function,GO_process,locus_tag,old_locus_tag,EC_number,gene,product,protein_id,GO_component,Amino Acid Change,CDS,CDS Position,CDS Position Within Codon,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Reference Frequency,Reference Nucleotide(s),Variant Frequency,Variant Nucleotide(s),Variant P-Value (approximate)
+A,wt_Nixon,1,1,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,85,1,G -> A,CTA -> TTA,67,SNP (transition),None,13.40%,G,34.30%,A,7.60E-43
+CC,wt_Nixon,1,103306,2,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,87,3,GT -> CC,"CTA,CAA,ATG,TCT,AGG,GCT,AAG,GAA,TTA,ACG,ACG,GTG,GTG,GGG,AAT,TTT,GCC,AAT,ATC,CAA,GCG,GGG,CAA,ACC,CTG,AAA,TTA,GCA,GGC,ATT,TGG,AAA,GAA,CAT,CCC,AAA,TAC,GGT,TCT,CAG,TTC,CAG,GTC,AAT,AAT,TAC,CAC,GAA,ACC,AAG,CCA,GCT,ACG,TTG,ACG,GGC,ATT,GAA,AAA,TAC,CTA,GGC,AGT,GGC,CTA,ATC,AAA,GGG,GTA,GGG,CCG,GTG,ACA,GCG,AAA,AGA,ATT,GTG,GCT,CAT,TTT,GGT,TTG,GAA,ACC,CTG,GAA,ATT,ATT,GAG,GGG,GAG,AGC,GAT,CGC,CTG,ATG,GAA,GTA,ACA,GGC,ATT,GGC,AAG,AAA,CGG,GTC,AGG,ATG,ATT,CAA,AGA,GCA,TGG,GCG,GAA,CAG,AAA,GCG,ATT,AAA,GAA,GTG,ATG,CTT,TTC,CTC,CAG,GGC,CAT,GGG,GTA,TCC,ACC,ACC,TAC,GCA,GTC,AAA,ATT,TAT,AAA,GAA,TAT,GGA,GAT,GAT,GCA,ATC,CGG,GTT,GTG,ACC,CAT,AAC,CCC,TAC,CAA,TTG,GCG,GAC,GAT,ATT,TTT,GGT,ATT,GGT,TTT,CTA,ACG,GCG,GAT,AAG,ATT,GCC,CAA,CAG,GTC,GGC,ATT,GAC,CCC,ACG,TCT,AAG,TTT,CGT,TAT,CGG,GCA,GGA,ATT,CTC,CAT,ACC,CTT,GGG,GAA,GCG,GCG,GAA,CAG,GGC,CAT,TGT,TAT,CTC,CCC,CAA,CCA,GAA,TTG,ATC,AAA,GCG,GCG,ATC,GCC,AAG,TTG,AGT,ACG,GAA,GAA,TAT,GAA,GCA,ATG,GCA,GAG,GCA,TTA,CTA,GCG,GTA,ATT,GAG,GAA,ATG,GTG,GCA,GTG,CAG,GAT,TTG,ATA,CGG,GAA,ATA,TTA,AGT,GAG,GAG,GAA,ATA,TTG,CTA,TTC,AAG,CCC,ACT,TTT,TAT,CAT,ACG,GAA,TGC,AAA,TTG,GCC,GGT,TAT,GTG,AAG,CAA,AAG,TTA,GTT,AAT,AGC,CAA,ATT,ATT,GAC,ATA,GAT,AGA,GTA,AAA,ACC,TGG,ATT,AAC,CGT,TAT,ACA,GAC,AAA,AAT,GAA,CTG,GAA,TTA,TCT,AAA,CAA,CAA,TAT,ACC,GCT,GTC,TTA,TTG,GCG,GCT,ACG,ACG,GGA,GTA,ATG,ATT,CTC,ACG,GGT,GGC,CCT,GGG,ACG,GGC,AAA,ACC,TTT,ACT,ACC,CGC,ACC,ATT,GTC,GCT,CTT,TGG,AGA,GCG,ATG,GGT,AAA,AAG,ATT,GGT,TTA,GCG,GCT,CCC,ACA,GGT,AGG,GCG,GCT,CAA,AGA,TTA,GGG,GAA,ATG,ACG,GGG,TTG,GAA,GCA,AAA,ACA,TTG,CAT,CGT,TTG,CTG,GAA,TTT,GAT,CCC,AAT,AGC,ATG,GGC,TTT,AAG,CGT,AAT,GAA,GAT,AAT,CCT,TTG,CCC,TTT,GAT,GCG,GTG,ATT,GTG,GAT,GAG,TCC,TCT,ATG,TTG,GAT,TTA,TTC,CTA,GCC,CAT,TCC,CTC,CTC,AAA,GCT,ATT,TCT,CCC,AAT,ACT,CAA,CTG,CTA,TTG,GTG,GGG,GAT,ATT,GAC,CAG,TTA,CCT,TCT,GTG,GGG,CCC,GGT,AGT,GTG,TTG,GGG,GAT,TTG,ATT,GCT,TCA,GAG,CAG,ATA,ACC,ATG,GTC,AGG,TTA,AAC,CAA,GTT,TTT,CGT,CAG,GCG,GCG,GCT,AGT,GCC,ATC,ATT,CGC,CAT,GCT,CAT,CAA,ATT,AAC,AGG,GGT,CAA,TAT,CCG,CCA,ATG,GAA,GCT,ATT,TCT,GAT,CAG,CCT,CTA,TCA,GAT,TGT,CTT,TGG,CAC,AAT,GGT,GGC,ACA,GAA,CCA,GAC,CAT,GGA,GTG,CAA,TTA,ATT,GGG,GAA,TTA,CTA,ACA,GAT,TTT,ATT,CCG,AAA,CAA,GGT,TTT,AAT,CTC,CTT,CAG,GAT,GTC,CAG,GTA,TTG,TGT,CCT,ATG,CAA,CGG,GGA,ATA,ATT,GGT,GCT,CGT,AAT,TTG,AAT,GCG,GTG,GTG,CAA,TCT,ATA,GTA,GTT,TCA,AAT,AAA,GCT,GAG,ACG,CTA,AAC,GCC,ACA,GTA,AGA,ACG,GAT,AAT,TTC,ATC,AAG,AGA,CGT,GTC,AAT,AGG,AGC,GTA,CAT,TCT,AGC,TCG,TTT,CAA,GGC,ACT,AAA,GTC,ATG,CTC,AAT,ATC,ATT,TAA -> CTA,CAA,ATG,TCT,AGG,GCT,AAG,GAA,TTA,ACG,ACG,GTG,GTG,GGG,AAT,TTT,GCC,AAT,ATC,CAA,GCG,GGG,CAA,ACC,CTG,AAA,TTA,GCA,GGC,ATT,TGG,AAA,GAA,CAT,CCC,AAA,TAC,GGT,TCT,CAG,TTC,CAG,GTC,AAT,AAT,TAC,CAC,GAA,ACC,AAG,CCA,GCT,ACG,TTG,ACG,GGC,ATT,GAA,AAA,TAC,CTA,GGC,AGT,GGC,CTA,ATC,AAA,GGG,GTA,GGG,CCG,GTG,ACA,GCG,AAA,AGA,ATT,GTG,GCT,CAT,TTT,GGT,TTG,GAA,ACC,CTG,GAA,ATT,ATT,GAG,GGG,GAG,AGC,GAT,CGC,CTG,ATG,GAA,GTA,ACA,GGC,ATT,GGC,AAG,AAA,CGG,GTC,AGG,ATG,ATT,CAA,AGA,GCA,TGG,GCG,GAA,CAG,AAA,GCG,ATT,AAA,GAA,GTG,ATG,CTT,TTC,CTC,CAG,GGC,CAT,GGG,GTA,TCC,ACC,ACC,TAC,GCA,GTC,AAA,ATT,TAT,AAA,GAA,TAT,GGA,GAT,GAT,GCA,ATC,CGG,GTT,GTG,ACC,CAT,AAC,CCC,TAC,CAA,TTG,GCG,GAC,GAT,ATT,TTT,GGT,ATT,GGT,TTT,CTA,ACG,GCG,GAT,AAG,ATT,GCC,CAA,CAG,GTC,GGC,ATT,GAC,CCC,ACG,TCT,AAG,TTT,CGT,TAT,CGG,GCA,GGA,ATT,CTC,CAT,ACC,CTT,GGG,GAA,GCG,GCG,GAA,CAG,GGC,CAT,TGT,TAT,CTC,CCC,CAA,CCA,GAA,TTG,ATC,AAA,GCG,GCG,ATC,GCC,AAG,TTG,AGT,ACG,GAA,GAA,TAT,GAA,GCA,ATG,GCA,GAG,GCA,TTA,CTA,GCG,GTA,ATT,GAG,GAA,ATG,GTG,GCA,GTG,CAG,GAT,TTG,ATA,CGG,GAA,ATA,TTA,AGT,GAG,GAG,GAA,ATA,TTG,CTA,TTC,AAG,CCC,ACT,TTT,TAT,CAT,ACG,GAA,TGC,AAA,TTG,GCC,GGT,TAT,GTG,AAG,CAA,AAG,TTA,GTT,AAT,AGC,CAA,ATT,ATT,GAC,ATA,GAT,AGA,GTA,AAA,ACC,TGG,ATT,AAC,CGT,TAT,ACA,GAC,AAA,AAT,GAA,CTG,GAA,TTA,TCT,AAA,CAA,CAA,TAT,ACC,GCT,GTC,TTA,TTG,GCG,GCT,ACG,ACG,GGA,GTA,ATG,ATT,CTC,ACG,GGT,GGC,CCT,GGG,ACG,GGC,AAA,ACC,TTT,ACT,ACC,CGC,ACC,ATT,GTC,GCT,CTT,TGG,AGA,GCG,ATG,GGT,AAA,AAG,ATT,GGT,TTA,GCG,GCT,CCC,ACA,GGT,AGG,GCG,GCT,CAA,AGA,TTA,GGG,GAA,ATG,ACG,GGG,TTG,GAA,GCA,AAA,ACA,TTG,CAT,CGT,TTG,CTG,GAA,TTT,GAT,CCC,AAT,AGC,ATG,GGC,TTT,AAG,CGT,AAT,GAA,GAT,AAT,CCT,TTG,CCC,TTT,GAT,GCG,GTG,ATT,GTG,GAT,GAG,TCC,TCT,ATG,TTG,GAT,TTA,TTC,CTA,GCC,CAT,TCC,CTC,CTC,AAA,GCT,ATT,TCT,CCC,AAT,ACT,CAA,CTG,CTA,TTG,GTG,GGG,GAT,ATT,GAC,CAG,TTA,CCT,TCT,GTG,GGG,CCC,GGT,AGT,GTG,TTG,GGG,GAT,TTG,ATT,GCT,TCA,GAG,CAG,ATA,ACC,ATG,GTC,AGG,TTA,AAC,CAA,GTT,TTT,CGT,CAG,GCG,GCG,GCT,AGT,GCC,ATC,ATT,CGC,CAT,GCT,CAT,CAA,ATT,AAC,AGG,GGT,CAA,TAT,CCG,CCA,ATG,GAA,GCT,ATT,TCT,GAT,CAG,CCT,CTA,TCA,GAT,TGT,CTT,TGG,CAC,AAT,GGT,GGC,ACA,GAA,CCA,GAC,CAT,GGA,GTG,CAA,TTA,ATT,GGG,GAA,TTA,CTA,ACA,GAT,TTT,ATT,CCG,AAA,CAA,GGT,TTT,AAT,CTC,CTT,CAG,GAT,GTC,CAG,GTA,TTG,TGT,CCT,ATG,CAA,CGG,GGA,ATA,ATT,GGT,GCT,CGT,AAT,TTG,AAT,GCG,GTG,GTG,CAA,TCT,ATA,GTA,GTT,TCA,AAT,AAA,GCT,GAG,ACG,CTA,AAC,GCC,ACA,GTA,AGA,ACG,GAT,AAT,TTC,ATC,AAG,AGA,CGT,GTC,AAT,AGG,AGC,GTA,CAT,TCT,AGC,TCG,TTT,CAA,GGC,ACT,AAA,GTC,ATG,CTC,AAT,ATC,ATT,TAA",67 -> 79,Substitution,None,,GT,11.4% -> 20.9%,CC,5.80E-15
+T,wt_Nixon,1,1,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,L -> I,AAA family ATPase CDS,85,1,G -> T,CTA -> ATA,67,SNP (transversion),Substitution,13.40%,G,31.30%,T,3.60E-36
+CCTAGACATTTGTAGGCG,wt_Nixon,4,4,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,82,1,G -> CCTAGACATTTGTAGGCG,,95,Insertion,Frame Shift,,G,23.20%,CCTAGACATTTGTAGGCG,1.10E-27
+GTAGGCG,wt_Nixon,5,4,0,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,82,1,#NAME?,,95,Insertion,Frame Shift,,,24.20%,GTAGGCG,6.50E-40
+C,wt_Nixon,247,247,1,none,,,,,,,,,,,,,,T -> C,,1281,SNP (transition),,55.90%,T,43.80%,C,0
+A,wt_Nixon,262,262,1,none,,,,,,,,,,,,,,G -> A,,1343,SNP (transition),,78.00%,G,21.90%,A,0
+C,wt_Nixon,272,272,1,none,,,,,,,,,,,,,,T -> C,,1414,SNP (transition),,74.10%,T,25.50%,C,0
+C,wt_Nixon,283,283,1,none,,,,,,,,,,,,,,T -> C,,1469,SNP (transition),,50.40%,T,49.40%,C,0
+A,wt_Nixon,287,287,1,none,,,,,,,,,,,,,,G -> A,,1488,SNP (transition),,75.50%,G,24.30%,A,0
+A,wt_Nixon,317,317,1,none,,,,,,,,,,,,,,G -> A,,1520,SNP (transition),,74.80%,G,24.90%,A,0
+G,wt_Nixon,721,721,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,,IS701 family transposase CDS,567,3,A -> G,GGT -> GGC,1784,SNP (transition),None,77.40%,A,22.30%,G,0
+T,wt_Nixon,827,827,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,,IS701 family transposase CDS,461,2,C -> T,,1999,SNP (transition),Truncation,76.30%,C,23.70%,T,0
+,wt_Nixon,849,849,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,,IS701 family transposase CDS,439,1,#NAME?,,2000,Deletion,Frame Shift,,T,21.40%,,0
+G,wt_Nixon,883,883,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,,IS701 family transposase CDS,405,3,A -> G,GCT -> GCC,2046,SNP (transition),None,76.00%,A,23.90%,G,0
+C,wt_Nixon,1224,1224,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,I -> V,IS701 family transposase CDS,64,1,T -> C,ATT -> GTT,1375,SNP (transition),Substitution,50.30%,T,49.50%,C,0
+G,wt_Nixon,1277,1277,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,F -> S,IS701 family transposase CDS,11,2,A -> G,TTT -> TCT,995,SNP (transition),Substitution,71.00%,A,28.90%,G,0
+T,wt_Nixon,4144,4144,1,none,,,,,,,,,,,,,,A -> T,,1117,SNP (transversion),,76.60%,A,20.60%,T,1.20E-241
+T,wt_Nixon,4152,4152,1,none,,,,,,,,,,,,,,C -> T,,1330,SNP (transition),,53.50%,C,27.10%,T,0
+G,wt_Nixon,4153,4153,1,none,,,,,,,,,,,,,,C -> G,,1341,SNP (transversion),,53.40%,C,34.20%,G,0
+G,wt_Nixon,5328,5328,1,none,,,,,,,,,,,,,,C -> G,,1536,SNP (transversion),,59.90%,C,25.30%,G,0
+A,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,23.80%,A,5.90E-33
+A,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,32.90%,A,1.60E-75
+AA,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,47.60%,AA,9.90E-109
+A,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,20.30%,A,3.80E-43
+T,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,21.70%,T,8.00E-32
+T,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,30.10%,T,5.30E-63
+A,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,25.90%,A,2.60E-55
+T,wt_Nixon,16563,16562,0,none,,,,,,,,,,,,,,#NAME?,,143,Insertion,,,,23.10%,T,9.60E-35
+A,wt_Nixon,16563,16563,1,none,,,,,,,,,,,,,,T -> A,,143,SNP (transversion),,38.50%,T,25.20%,A,3.00E-22
+C,wt_Nixon,16563,16563,1,none,,,,,,,,,,,,,,T -> C,,143,SNP (transition),,38.50%,T,26.60%,C,1.20E-38
+A,wt_Nixon,16564,16564,1,none,,,,,,,,,,,,,,C -> A,,139,SNP (transversion),,18.00%,C,59.70%,A,6.10E-144
+A,wt_Nixon,16565,16565,1,none,,,,,,,,,,,,,,G -> A,,130,SNP (transition),,53.10%,G,36.90%,A,1.20E-51
+A,wt_Nixon,16566,16566,1,none,,,,,,,,,,,,,,T -> A,,126,SNP (transversion),,11.90%,T,40.50%,A,3.00E-57
+G,wt_Nixon,16566,16566,1,none,,,,,,,,,,,,,,T -> G,,126,SNP (transversion),,11.90%,T,46.80%,G,3.50E-88
+T,wt_Nixon,16568,16568,1,none,,,,,,,,,,,,,,A -> T,,112,SNP (transversion),,73.20%,A,23.20%,T,2.40E-20
+A,wt_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> A,,95,SNP (transversion),,,C,31.60%,A,2.50E-36
+G,wt_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> G,,95,SNP (transversion),,,C,43.20%,G,8.60E-52
+T,wt_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> T,,95,SNP (transition),,,C,25.30%,T,4.20E-22
+A,wt_Nixon,16570,16570,1,none,,,,,,,,,,,,,,T -> A,,82,SNP (transversion),,45.10%,T,41.50%,A,3.90E-39
+G,wt_Nixon,16572,16572,1,none,,,,,,,,,,,,,,C -> G,,62,SNP (transversion),,19.40%,C,35.50%,G,9.30E-10
+T,wt_Nixon,16572,16572,1,none,,,,,,,,,,,,,,C -> T,,62,SNP (transition),,19.40%,C,32.30%,T,6.20E-25
+T,wt_Nixon,16573,16573,1,none,,,,,,,,,,,,,,C -> T,,54,SNP (transition),,31.50%,C,40.70%,T,3.90E-32
+AG,wt_Nixon,16576,16577,2,none,,,,,,,,,,,,,,CT -> AG,,37,Substitution,,,CT,40.5% -> 43.2%,AG,2.00E-16
+T,wt_Nixon,16580,16580,1,none,,,,,,,,,,,,,,G -> T,,37,SNP (transversion),,59.50%,G,32.40%,T,4.60E-12
+T,wt_Nixon,16582,16582,1,none,,,,,,,,,,,,,,C -> T,,47,SNP (transition),,42.60%,C,46.80%,T,1.20E-14
+A,wt_Nixon,16583,16583,1,none,,,,,,,,,,,,,,T -> A,,49,SNP (transversion),,51.00%,T,46.90%,A,2.00E-17
+T,wt_Nixon,16584,16584,1,none,,,,,,,,,,,,,,G -> T,,55,SNP (transversion),,60.00%,G,21.80%,T,1.00E-08
+C,wt_Nixon,16585,16584,0,none,,,,,,,,,,,,,,+C,,55,Insertion,,,,23.60%,C,5.30E-16
+C,wt_Nixon,16585,16585,1,none,,,,,,,,,,,,,,T -> C,,62,SNP (transition),,74.20%,T,24.20%,C,3.10E-07
+T,wt_Nixon,16588,16588,1,none,,,,,,,,,,,,,,C -> T,,71,SNP (transition),,47.90%,C,46.50%,T,3.70E-53
+A,wt_Nixon,16589,16589,1,none,,,,,,,,,,,,,,G -> A,,72,SNP (transition),,6.90%,G,54.20%,A,2.50E-58
+T,wt_Nixon,16589,16589,1,none,,,,,,,,,,,,,,G -> T,,72,SNP (transversion),,6.90%,G,34.70%,T,2.40E-17
+C,wt_Nixon,16590,16590,1,none,,,,,,,,,,,,,,A -> C,,74,SNP (transversion),,47.30%,A,44.60%,C,7.60E-46
+C,wt_Nixon,16591,16591,1,none,,,,,,,,,,,,,,T -> C,,76,SNP (transition),,11.80%,T,67.10%,C,8.40E-73
+A,wt_Nixon,16592,16592,1,none,,,,,,,,,,,,,,G -> A,,79,SNP (transition),,11.40%,G,54.40%,A,9.00E-56
+G,wt_Nixon,16595,16595,1,none,,,,,,,,,,,,,,T -> G,,97,SNP (transversion),,12.40%,T,70.10%,G,5.50E-119
+C,wt_Nixon,16596,16596,1,none,,,,,,,,,,,,,,G -> C,,104,SNP (transversion),,68.30%,G,25.00%,C,3.10E-31
+C,wt_Nixon,16597,16596,0,none,,,,,,,,,,,,,,+C,,104,Insertion,,,,65.40%,C,2.20E-122
+A,wt_Nixon,16598,16598,1,none,,,,,,,,,,,,,,G -> A,,125,SNP (transition),,6.40%,G,87.20%,A,1.10E-231
+T,wt_Nixon,30037,30036,0,none,,,SGL_RS18535,,,,hypothetical protein,,,,hypothetical protein CDS,107,2,(T)5 -> (T)6,,730,Insertion (tandem repeat),Frame Shift,,,20.30%,T,5.60E-99
+A,wt_Nixon,30059,30059,1,none,,,SGL_RS18535,,,,hypothetical protein,,,,hypothetical protein CDS,84,3,G -> A,ACC -> ACT,732,SNP (transition),None,75.30%,G,23.50%,A,2.50E-142
+C,wt_Nixon,30112,30112,1,none,,,SGL_RS18535,,,,hypothetical protein,,,N -> D,hypothetical protein CDS,31,1,T -> C,AAT -> GAT,758,SNP (transition),Substitution,74.50%,T,24.30%,C,1.70E-172
+A,wt_Nixon,30117,30117,1,none,,,SGL_RS18535,,,,hypothetical protein,,,A -> V,hypothetical protein CDS,26,2,G -> A,GCT -> GTT,744,SNP (transition),Substitution,76.10%,G,23.70%,A,3.90E-146
+G,wt_Nixon,30132,30132,1,none,,,SGL_RS18535,,,,hypothetical protein,,,G -> A,hypothetical protein CDS,11,2,C -> G,GGC -> GCC,709,SNP (transversion),Substitution,76.70%,C,22.60%,G,1.60E-129
+G,wt_Nixon,30143,30143,1,none,,,,,,,,,,,,,,A -> G,,690,SNP (transition),,77.70%,A,22.00%,G,1.80E-121
+T,wt_Nixon,30147,30147,1,none,,,,,,,,,,,,,,C -> T,,676,SNP (transition),,79.40%,C,20.60%,T,7.10E-107
+T,wt_Nixon,101657,101657,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,S -> Y,AAA family ATPase CDS,1736,2,G -> T,TCT -> TAT,2337,SNP (transversion),Substitution,51.50%,G,22.00%,T,0
+C,wt_Nixon,103304,103304,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,Q -> R,AAA family ATPase CDS,89,2,T -> C,CAA -> CGA,94,SNP (transition),Substitution,48.90%,T,24.50%,C,2.20E-32
+CC,wt_Nixon,103306,103307,2,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,L -> R,AAA family ATPase CDS,86,2,TA -> CC,CTA -> CGG,48 -> 79,Substitution,Substitution,,TA,13.9% -> 22.9%,CC,2.20E-14

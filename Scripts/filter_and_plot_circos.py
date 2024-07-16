@@ -144,7 +144,7 @@ def plot_mutation_circos(ref):
             mutation_details.append({
                 "Mutation": label_table,
                 "Gene": row['product'],
-                "Position": row['CDS Position'],
+                "Position": row['Minimum'],
                 "Change": amino_acid_change,
                 "Strain": wrap_text(mutation_strain_freq.get('Strain', ''), 15),
                 "Variant Frequency": wrap_text(mutation_strain_freq.get('Variant Frequency', ''), 15)

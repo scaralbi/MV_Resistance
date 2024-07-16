@@ -1,5 +1,5 @@
 \contentsline {section}{\numberline {1}Methyl viologen treatment leads to enhanced light-dependent intracellular ROS accumulation}{2}{section.1}%
-\contentsline {section}{\numberline {2}Adaptation to methyl viologen is not due to its abiotic degration over time}{3}{section.2}%
+\contentsline {section}{\numberline {2}Adaptation to methyl viologen is not due to its degration over time}{3}{section.2}%
 \contentsline {section}{\numberline {3}Spot plates of strains grown in BG11 without or with MV (6 $\mu $M)}{4}{section.3}%
 \contentsline {section}{\numberline {4}Addition of methyl viologen at various growth phases}{5}{section.4}%
 \contentsline {section}{\numberline {5}The gene \textit {prqA} is not essential for spontaneous evolution of MV resistance}{6}{section.5}%
@@ -16,4 +16,4 @@
 \contentsline {paragraph}{To prepare 1 L of liquid medium:}{16}{subsubsection.7.1.4}%
 \contentsline {paragraph}{To prepare solid BG11 plates:}{16}{Item.21}%
 \contentsline {section}{\numberline {8}Code}{19}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Comare variants across strains}{19}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.1}Compare variants across strains}{19}{subsection.8.1}%

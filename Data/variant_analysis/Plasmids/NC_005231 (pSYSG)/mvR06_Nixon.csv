@@ -1,0 +1,4 @@
+Name,Minimum,Maximum,Length,Amino Acid Change,CDS Position,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant Frequency,Variant P-Value (approximate)
+C,44342,44342,1,T -> S,1916,G -> C,ACC -> AGC,70,SNP (transversion),Substitution,28.6%,1.5E-43
+T,15550,15550,1,,,G -> T,,625,SNP (transversion),,20.0%,4.8E-50
+TGATC,5,4,0,,1911,+TGATC,,127,Insertion,Frame Shift,25.2%,5.5E-54

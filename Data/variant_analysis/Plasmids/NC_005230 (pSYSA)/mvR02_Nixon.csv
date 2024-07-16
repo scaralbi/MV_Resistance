@@ -1,0 +1,286 @@
+Name,Document Name,Minimum,Maximum,Length,Direction,GO_function,GO_process,locus_tag,old_locus_tag,EC_number,gene,product,protein_id,GO_component,Amino Acid Change,CDS,CDS Position,CDS Position Within Codon,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Reference Frequency,Reference Nucleotide(s),Variant Frequency,Variant Nucleotide(s),Variant P-Value (approximate)
+repeat region,mvR02_Nixon,68499,72780,4282,forward,,,,,,,,,,,,,,,,,,,,,,,
+repeat region,mvR02_Nixon,16310,19901,3592,forward,,,,,,,,,,,,,,,,,,,,,,,
+repeat region,mvR02_Nixon,90105,92958,2854,forward,,,,,,,,,,,,,,,,,,,,,,,
+AAA family ATPase CDS,mvR02_Nixon,1,103307,1869,reverse,,,SGL_RS00625,sll7106,,,AAA family ATPase,WP_011153669.1,,,,,,,,,,,,,,,
+cas10 CDS,mvR02_Nixon,85199,88138,2940,reverse,GO:0003674 - molecular_function [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS01050,sll7090,,cas10,type III-B CRISPR-associated protein Cas10/Cmr2,WP_011153758.1,,,,,,,,,,,,,,,
+cas10d CDS,mvR02_Nixon,8531,11458,2928,forward,GO:0003674 - molecular_function [Evidence IEA],,SGL_RS00680,slr7011,,cas10d,type I-D CRISPR-associated protein Cas10d/Csc3,WP_011153680.1,,,,,,,,,,,,,,,
+"plasmid replication protein, CyRepA1 family CDS",mvR02_Nixon,32647,35523,2877,forward,,,SGL_RS00795,slr7037,,,"plasmid replication protein, CyRepA1 family",WP_011153706.1,,,,,,,,,,,,,,,
+TIGR03986 family CRISPR-associated RAMP protein CDS,mvR02_Nixon,54005,56392,2388,reverse,,,SGL_RS00925,sll7063,,,TIGR03986 family CRISPR-associated RAMP protein,WP_011153732.1,,,,,,,,,,,,,,,
+RAMP superfamily CRISPR-associated protein CDS,mvR02_Nixon,58527,60902,2376,reverse,,,SGL_RS00940,sll7066,,,RAMP superfamily CRISPR-associated protein,WP_011153735.1,,,,,,,,,,,,,,,
+cas3 CDS,mvR02_Nixon,6373,8517,2145,forward,GO:0004386 - helicase activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00675,slr7010,,cas3,type I-D CRISPR-associated helicase Cas3',WP_041428276.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,20266,22182,1917,forward,,,SGL_RS00715,slr7023,,,hypothetical protein,WP_011153692.1,,,,,,,,,,,,,,,
+RAMP superfamily CRISPR-associated protein CDS,mvR02_Nixon,80203,82152,1950,reverse,,,SGL_RS01025,sll7085,,,RAMP superfamily CRISPR-associated protein,WP_242018641.1,,,,,,,,,,,,,,,
+macro domain-containing protein CDS,mvR02_Nixon,49431,51197,1767,forward,,,SGL_RS00910,slr7060,,,macro domain-containing protein,WP_011153729.1,,,,,,,,,,,,,,,
+DUF262 domain-containing protein CDS,mvR02_Nixon,22328,24058,1731,forward,,,SGL_RS00720,slr7024,,,DUF262 domain-containing protein,WP_011153693.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,60905,62581,1677,reverse,,,SGL_RS00945,sll7067,,,hypothetical protein,WP_011153736.1,,,,,,,,,,,,,,,
+IS630 family transposase CDS,mvR02_Nixon,100781,101628,848,forward,GO:0004803 - transposase activity [Evidence IEA],,SGL_RS01120,,,,IS630 family transposase,,,,,,,,,,,,,,,,
+RAMP superfamily CRISPR-associated protein CDS,mvR02_Nixon,56954,58522,1569,reverse,,,SGL_RS00935,sll7065,,,RAMP superfamily CRISPR-associated protein,WP_011153734.1,,,,,,,,,,,,,,,
+TIGR03985 family CRISPR-associated protein CDS,mvR02_Nixon,73483,74928,1446,reverse,,,SGL_RS00995,sll7078,,,TIGR03985 family CRISPR-associated protein,WP_011153747.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,76204,77592,1389,forward,,,SGL_RS01005,slr7081,,,hypothetical protein,WP_011153749.1,,,,,,,,,,,,,,,
+IS4-like element IS4Sa family transposase CDS,mvR02_Nixon,4241,5257,1017,forward,GO:0004803 - transposase activity [Evidence IEA],GO:0006313 - DNA transposition [Evidence IEA],SGL_RS00665,slr7008,,,IS4-like element IS4Sa family transposase,WP_011153677.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,97173,98522,1350,forward,,,SGL_RS01100,slr7100,,,hypothetical protein,WP_011153768.1,,,,,,,,,,,,,,,
+csx2 CDS,mvR02_Nixon,51537,52805,1269,forward,GO:0003674 - molecular_function [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00915,slr7061,,csx2,TIGR02221 family CRISPR-associated protein,WP_011153730.1,,,,,,,,,,,,,,,
+VWA-like domain-containing protein CDS,mvR02_Nixon,26352,27608,1257,reverse,,,SGL_RS00745,sll7028,,,VWA-like domain-containing protein,WP_011153697.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,78642,79775,1134,forward,,,SGL_RS01015,slr7083,,,hypothetical protein,WP_011153751.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,52881,53996,1116,reverse,,,SGL_RS00920,sll7062,,,hypothetical protein,WP_011153731.1,,,,,,,,,,,,,,,
+cas6 CDS,mvR02_Nixon,62908,64011,1104,forward,GO:0004521 - RNA endonuclease activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00950,slr7068,,cas6,CRISPR-associated endoribonuclease Cas6,WP_011153737.1,,,,,,,,,,,,,,,
+type III-B CRISPR module-associated protein Cmr3 CDS,mvR02_Nixon,83905,85017,1113,reverse,,,SGL_RS01045,sll7089,,,type III-B CRISPR module-associated protein Cmr3,WP_011153757.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,66936,67976,1041,reverse,,,SGL_RS00985,sll7075,,,hypothetical protein,WP_011153744.1,,,,,,,,,,,,,,,
+MoxR family ATPase CDS,mvR02_Nixon,27605,28630,1026,reverse,GO:0005524 - ATP binding [Evidence IEA]; GO:0016887 - ATP hydrolysis activity [Evidence IEA],,SGL_RS00750,sll7029,,,MoxR family ATPase,WP_011153698.1,,,,,,,,,,,,,,,
+family 10 glycosylhydrolase CDS,mvR02_Nixon,99125,100141,1017,forward,,,SGL_RS01110,slr7102,,,family 10 glycosylhydrolase,WP_011153770.1,,,,,,,,,,,,,,,
+cas1 CDS,mvR02_Nixon,64822,65832,1011,forward,GO:0004520 - DNA endonuclease activity [Evidence IEA]; GO:0046872 - metal ion binding [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00965,slr7071,,cas1,CRISPR-associated endonuclease Cas1,WP_011153740.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,77599,78591,993,forward,,,SGL_RS01010,slr7082,,,hypothetical protein,WP_223211239.1,,,,,,,,,,,,,,,
+WYL domain-containing protein CDS,mvR02_Nixon,5340,6284,945,reverse,GO:0003676 - nucleic acid binding [Evidence IEA],,SGL_RS00670,sll7009,,,WYL domain-containing protein,WP_011153678.1,,,,,,,,,,,,,,,
+cas1d CDS,mvR02_Nixon,14804,15781,978,forward,GO:0004520 - DNA endonuclease activity [Evidence IEA]; GO:0046872 - metal ion binding [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00705,slr7016,,cas1d,type I-D CRISPR-associated endonuclease Cas1d,WP_011153685.1,,,,,,,,,,,,,,,
+cas1 CDS,mvR02_Nixon,88627,89616,990,forward,GO:0004520 - DNA endonuclease activity [Evidence IEA]; GO:0046872 - metal ion binding [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS01060,slr7092,,cas1,CRISPR-associated endonuclease Cas1,WP_011153760.1,,,,,,,,,,,,,,,
+cas7d CDS,mvR02_Nixon,11524,12513,990,forward,GO:0003674 - molecular_function [Evidence IEA],,SGL_RS00685,slr7012,,cas7d,type I-D CRISPR-associated protein Cas7/Csc2,WP_011153681.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,75157,76089,933,forward,,,SGL_RS01000,slr7080,,,hypothetical protein,WP_011153748.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,95369,96241,873,forward,,,SGL_RS01090,slr7098,,,hypothetical protein,WP_011153766.1,,,,,,,,,,,,,,,
+cas5d CDS,mvR02_Nixon,12674,13438,765,forward,GO:0003674 - molecular_function [Evidence IEA],,SGL_RS00690,slr7013,,cas5d,type I-D CRISPR-associated protein Cas5/Csc1,WP_011153682.1,,,,,,,,,,,,,,,
+cas6 CDS,mvR02_Nixon,13441,14229,789,forward,GO:0004521 - RNA endonuclease activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00695,slr7014,,cas6,CRISPR-associated endoribonuclease Cas6,WP_011153683.1,,,,,,,,,,,,,,,
+cmr4 CDS,mvR02_Nixon,82630,83409,780,reverse,GO:0003674 - molecular_function [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS01035,sll7087,,cmr4,type III-B CRISPR module RAMP protein Cmr4,WP_041428283.1,,,,,,,,,,,,,,,
+DUF4386 domain-containing protein CDS,mvR02_Nixon,40637,41368,732,reverse,,,SGL_RS00850,sll7047,,,DUF4386 domain-containing protein,WP_011153716.1,,,,,,,,,,,,,,,
+IS701 family transposase CDS,mvR02_Nixon,706,1287,582,reverse,,,SGL_RS00635,sll7002,,,IS701 family transposase,WP_011153671.1,,,,,,,,,,,,,,,
+HNH endonuclease CDS,mvR02_Nixon,47550,48242,693,forward,,,SGL_RS00900,slr7057,,,HNH endonuclease,WP_223211244.1,,,,,,,,,,,,,,,
+ATP-binding domain-containing protein CDS,mvR02_Nixon,100246,100704,459,reverse,,,SGL_RS01115,sll7103,,,ATP-binding domain-containing protein,WP_158299058.1,,,,,,,,,,,,,,,
+recombinase family protein CDS,mvR02_Nixon,41845,42492,648,forward,GO:0003677 - DNA binding [Evidence IEA]; GO:0000150 - DNA strand exchange activity [Evidence IEA],GO:0006310 - DNA recombination [Evidence IEA],SGL_RS00860,slr7049,,,recombinase family protein,WP_011153718.1,,,,,,,,,,,,,,,
+alpha-ketoglutarate-dependent dioxygenase AlkB CDS,mvR02_Nixon,94718,95344,627,forward,,,SGL_RS01085,slr7097,,,alpha-ketoglutarate-dependent dioxygenase AlkB,WP_011153765.1,,,,,,,,,,,,,,,
+MerR family transcriptional regulator CDS,mvR02_Nixon,48790,49434,645,forward,,,SGL_RS00905,slr7059,,,MerR family transcriptional regulator,WP_011153728.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,43053,43646,594,reverse,,,SGL_RS00865,sll7050,,,hypothetical protein,WP_011153719.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,24925,25509,585,reverse,,,SGL_RS00735,sll7027,,,hypothetical protein,WP_011153696.1,,,,,,,,,,,,,,,
+HD domain-containing protein CDS,mvR02_Nixon,72878,73459,582,reverse,,,SGL_RS00990,sll7077,,,HD domain-containing protein,WP_011153746.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,96348,96938,591,forward,,,SGL_RS01095,slr7099,,,hypothetical protein,WP_011153767.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,37554,38138,585,reverse,,,SGL_RS00825,sll7043,,,hypothetical protein,WP_011153712.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,38131,38712,582,reverse,,,SGL_RS00830,sll7044,,,hypothetical protein,WP_011153713.1,,,,,,,,,,,,,,,
+cas4 CDS,mvR02_Nixon,14222,14794,573,forward,,GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00700,slr7015,3.1.12.1,cas4,CRISPR-associated protein Cas4,WP_011153684.1,,,,,,,,,,,,,,,
+site-specific integrase CDS,mvR02_Nixon,2399,2965,567,forward,GO:0003677 - DNA binding [Evidence IEA],GO:0015074 - DNA integration [Evidence IEA]; GO:0006310 - DNA recombination [Evidence IEA],SGL_RS00650,slr7005,,,site-specific integrase,WP_011153674.1,,,,,,,,,,,,,,,
+csx19 CDS,mvR02_Nixon,56394,56954,561,reverse,,,SGL_RS00930,sll7064,,csx19,CRISPR-associated protein Csx19,WP_041428280.1,,,,,,,,,,,,,,,
+AAA family ATPase CDS,mvR02_Nixon,93673,94188,516,forward,,,SGL_RS01075,slr7095,,,AAA family ATPase,WP_011153763.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,98500,99015,516,forward,,,SGL_RS01105,slr7101,,,hypothetical protein,WP_223211240.1,,,,,,,,,,,,,,,
+helix-turn-helix domain-containing protein CDS,mvR02_Nixon,45124,45630,507,forward,,,SGL_RS00885,slr7054,,,helix-turn-helix domain-containing protein,WP_223211242.1,,,,,,,,,,,,,,,
+GNAT family N-acetyltransferase CDS,mvR02_Nixon,28850,29353,504,reverse,GO:0008080 - N-acetyltransferase activity [Evidence IEA],,SGL_RS00755,sll7030,,,GNAT family N-acetyltransferase,WP_011153699.1,,,,,,,,,,,,,,,
+"putative toxin-antitoxin system toxin component,PIN family CDS",mvR02_Nixon,3367,3819,453,reverse,GO:0005515 - protein binding [Evidence IEA];GO:0004521 - RNA endonuclease activity [Evidence IEA],,SGL_RS00660,,,,"putative toxin-antitoxin system toxin component,PIN family",WP_048908403.1,,,,,,,,,,,,,,,
+type II toxin-antitoxin system VapC family toxin CDS,mvR02_Nixon,1399,1827,429,reverse,,,SGL_RS00640,sll7003,,,type II toxin-antitoxin system VapC family toxin,WP_011153672.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,24106,24495,390,forward,,,SGL_RS00725,slr7025,,,hypothetical protein,WP_223211241.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,82196,82591,396,reverse,,,SGL_RS01030,sll7086,,,hypothetical protein,WP_011153754.1,,,,,,,,,,,,,,,
+DUF6717 family protein CDS,mvR02_Nixon,93265,93654,390,forward,,,SGL_RS01070,slr7094,,,DUF6717 family protein,WP_011153762.1,,,,,,,,,,,,,,,
+peptidase CDS,mvR02_Nixon,83501,83881,381,forward,,,SGL_RS01040,slr7088,,,peptidase,WP_011153756.1,,,,,,,,,,,,,,,
+csx18 CDS,mvR02_Nixon,88262,88630,369,forward,,,SGL_RS01055,slr7091,,csx18,CRISPR-associated protein Csx18,WP_011153759.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,45712,46086,375,reverse,,,SGL_RS00890,sll7055,,,hypothetical protein,WP_223211243.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,24518,24886,369,forward,,,SGL_RS00730,slr7026,,,hypothetical protein,WP_199303580.1,,,,,,,,,,,,,,,
+type II toxin-antitoxin system PemK/MazF family toxin CDS,mvR02_Nixon,36839,37201,363,forward,GO:0003677 - DNA binding [Evidence IEA],,SGL_RS00815,slr7041,,,type II toxin-antitoxin system PemK/MazF family toxin,WP_011153710.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,94246,94611,366,forward,,,SGL_RS01080,slr7096,,,hypothetical protein,WP_199303585.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,66223,66567,345,forward,,,SGL_RS00975,slr7073,,,hypothetical protein,WP_011153742.1,,,,,,,,,,,,,,,
+DUF5615 family PIN-like protein CDS,mvR02_Nixon,30699,31040,342,reverse,,,SGL_RS00775,sll7033,,,DUF5615 family PIN-like protein,WP_011153702.1,,,,,,,,,,,,,,,
+YlcI/YnfO family protein CDS,mvR02_Nixon,3041,3364,324,reverse,,,SGL_RS00655,sll7006,,,YlcI/YnfO family protein,WP_011153675.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,64316,64651,336,reverse,,,SGL_RS00960,sll7070,,,hypothetical protein,WP_223211238.1,,,,,,,,,,,,,,,
+DUF433 domain-containing protein CDS,mvR02_Nixon,31037,31369,333,reverse,,,SGL_RS00780,sll7034,,,DUF433 domain-containing protein,WP_011153703.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,29844,30142,299,reverse,,,SGL_RS18535,,,,hypothetical protein,,,,,,,,,,,,,,,,
+HepT-like ribonuclease domain-containing protein CDS,mvR02_Nixon,30352,30669,318,forward,GO:0004540 - RNA nuclease activity [EvidenceIEA],,SGL_RS00770,slr7032,,,HepT-like ribonuclease domain-containing protein,WP_011153701.1,GO:0110001 - toxin-antitoxin complex [Evidence IEA],,,,,,,,,,,,,,
+csx18 CDS,mvR02_Nixon,64005,64319,315,reverse,,,SGL_RS00955,sll7069,,csx18,CRISPR-associated protein Csx18,WP_011153738.1,,,,,,,,,,,,,,,
+DUF1778 domain-containing protein CDS,mvR02_Nixon,29337,29639,303,reverse,,,SGL_RS00760,sll7031,,,DUF1778 domain-containing protein,WP_011153700.1,,,,,,,,,,,,,,,
+HNH endonuclease CDS,mvR02_Nixon,48431,48733,303,forward,,,SGL_RS18545,,,,HNH endonuclease,WP_011153727.1,,,,,,,,,,,,,,,
+type II toxin-antitoxin system RelE/ParE family toxin CDS,mvR02_Nixon,36189,36479,291,reverse,GO:0004540 - RNA nuclease activity [EvidenceIEA],GO:0008219 - cell death [Evidence IEA],SGL_RS00805,ssl7039,,,type II toxin-antitoxin system RelE/ParE family toxin,WP_011153708.1,,,,,,,,,,,,,,,
+cas2 CDS,mvR02_Nixon,65842,66123,282,forward,GO:0004521 - RNA endonuclease activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00970,ssr7072,,cas2,CRISPR-associated endonuclease Cas2,WP_011153741.1,,,,,,,,,,,,,,,
+addiction module antidote protein CDS,mvR02_Nixon,35891,36178,288,reverse,GO:0003677 - DNA binding [Evidence IEA],,SGL_RS00800,ssl7038,,,addiction module antidote protein,WP_011153707.1,,,,,,,,,,,,,,,
+cas2 CDS,mvR02_Nixon,15813,16097,285,forward,GO:0004521 - RNA endonuclease activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS00710,ssr7017,,cas2,CRISPR-associated endonuclease Cas2,WP_011153686.1,,,,,,,,,,,,,,,
+cas2 CDS,mvR02_Nixon,89620,89898,279,forward,GO:0004521 - RNA endonuclease activity [Evidence IEA],GO:0043571 - maintenance of CRISPR repeat elements [Evidence IEA],SGL_RS01065,ssr7093,,cas2,CRISPR-associated endonuclease Cas2,WP_011153761.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,31822,32097,276,forward,,,SGL_RS00785,ssr7035,,,hypothetical protein,WP_011153704.1,,,,,,,,,,,,,,,
+"putative toxin-antitoxin system toxin component,PIN family CDS",mvR02_Nixon,40245,40514,270,reverse,GO:0005515 - protein binding [Evidence IEA];GO:0004521 - RNA endonuclease activity [Evidence IEA],,SGL_RS00845,ssl7046,,,"putative toxin-antitoxin system toxin component,PIN family",WP_011153715.1,,,,,,,,,,,,,,,
+BrxA family protein CDS,mvR02_Nixon,37267,37521,255,reverse,,,SGL_RS00820,ssl7042,,,BrxA family protein,WP_011153711.1,,,,,,,,,,,,,,,
+hemolysin XhlA family protein CDS,mvR02_Nixon,66610,66864,255,reverse,,,SGL_RS00980,ssl7074,,,hemolysin XhlA family protein,WP_041428281.1,,,,,,,,,,,,,,,
+Rho termination factor N-terminal domain-containing protein CDS,mvR02_Nixon,44777,45019,243,reverse,,,SGL_RS00880,ssl7053,,,Rho termination factor N-terminal domain-containing protein,WP_011153722.1,,,,,,,,,,,,,,,
+DNA-binding protein CDS,mvR02_Nixon,1799,2032,234,reverse,,,SGL_RS00645,ssl7004,,,DNA-binding protein,WP_011153673.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,79821,80048,228,forward,,,SGL_RS01020,ssr7084,,,hypothetical protein,WP_011153752.1,,,,,,,,,,,,,,,
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS,mvR02_Nixon,41419,41640,222,reverse,,,SGL_RS00855,ssl7048,,,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,WP_011153717.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,32289,32483,195,forward,,,SGL_RS00790,ssr7036,,,hypothetical protein,WP_011153705.1,,,,,,,,,,,,,,,
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS,mvR02_Nixon,36654,36848,195,forward,,,SGL_RS00810,ssr7040,,,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,WP_242018640.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,26004,26195,192,reverse,,,SGL_RS00740,,,,hypothetical protein,WP_051045132.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,44249,44419,171,reverse,,,SGL_RS19385,,,,hypothetical protein,WP_158299054.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,31422,31595,174,forward,,,SGL_RS19375,,,,hypothetical protein,WP_158299052.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,31641,31790,150,reverse,,,SGL_RS19380,,,,hypothetical protein,WP_158299053.1,,,,,,,,,,,,,,,
+hypothetical protein CDS,mvR02_Nixon,93076,93216,141,forward,,,SGL_RS19390,,,,hypothetical protein,WP_158299055.1,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,1,103307,1869,reverse,,,SGL_RS00625,sll7106,,,,,,,,,,,,,,,,,,,
+cas10 gene,mvR02_Nixon,85199,88138,2940,reverse,,,SGL_RS01050,sll7090,,cas10,,,,,,,,,,,,,,,,,
+cas10d gene,mvR02_Nixon,8531,11458,2928,forward,,,SGL_RS00680,slr7011,,cas10d,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,32647,35523,2877,forward,,,SGL_RS00795,slr7037,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,54005,56392,2388,reverse,,,SGL_RS00925,sll7063,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,58527,60902,2376,reverse,,,SGL_RS00940,sll7066,,,,,,,,,,,,,,,,,,,
+cas3 gene,mvR02_Nixon,6373,8517,2145,forward,,,SGL_RS00675,slr7010,,cas3,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,20266,22182,1917,forward,,,SGL_RS00715,slr7023,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,80203,82152,1950,reverse,,,SGL_RS01025,sll7085,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,49431,51197,1767,forward,,,SGL_RS00910,slr7060,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,22328,24058,1731,forward,,,SGL_RS00720,slr7024,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,60905,62581,1677,reverse,,,SGL_RS00945,sll7067,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,100781,101628,848,forward,,,SGL_RS01120,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,56954,58522,1569,reverse,,,SGL_RS00935,sll7065,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,73483,74928,1446,reverse,,,SGL_RS00995,sll7078,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,76204,77592,1389,forward,,,SGL_RS01005,slr7081,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,4241,5257,1017,forward,,,SGL_RS00665,slr7008,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,97173,98522,1350,forward,,,SGL_RS01100,slr7100,,,,,,,,,,,,,,,,,,,
+csx2 gene,mvR02_Nixon,51537,52805,1269,forward,,,SGL_RS00915,slr7061,,csx2,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,26352,27608,1257,reverse,,,SGL_RS00745,sll7028,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,78642,79775,1134,forward,,,SGL_RS01015,slr7083,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,52881,53996,1116,reverse,,,SGL_RS00920,sll7062,,,,,,,,,,,,,,,,,,,
+cas6 gene,mvR02_Nixon,62908,64011,1104,forward,,,SGL_RS00950,slr7068,,cas6,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,83905,85017,1113,reverse,,,SGL_RS01045,sll7089,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,66936,67976,1041,reverse,,,SGL_RS00985,sll7075,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,27605,28630,1026,reverse,,,SGL_RS00750,sll7029,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,99125,100141,1017,forward,,,SGL_RS01110,slr7102,,,,,,,,,,,,,,,,,,,
+cas1 gene,mvR02_Nixon,64822,65832,1011,forward,,,SGL_RS00965,slr7071,,cas1,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,77599,78591,993,forward,,,SGL_RS01010,slr7082,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,5340,6284,945,reverse,,,SGL_RS00670,sll7009,,,,,,,,,,,,,,,,,,,
+cas1d gene,mvR02_Nixon,14804,15781,978,forward,,,SGL_RS00705,slr7016,,cas1d,,,,,,,,,,,,,,,,,
+cas1 gene,mvR02_Nixon,88627,89616,990,forward,,,SGL_RS01060,slr7092,,cas1,,,,,,,,,,,,,,,,,
+cas7d gene,mvR02_Nixon,11524,12513,990,forward,,,SGL_RS00685,slr7012,,cas7d,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,75157,76089,933,forward,,,SGL_RS01000,slr7080,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,95369,96241,873,forward,,,SGL_RS01090,slr7098,,,,,,,,,,,,,,,,,,,
+cas5d gene,mvR02_Nixon,12674,13438,765,forward,,,SGL_RS00690,slr7013,,cas5d,,,,,,,,,,,,,,,,,
+cas6 gene,mvR02_Nixon,13441,14229,789,forward,,,SGL_RS00695,slr7014,,cas6,,,,,,,,,,,,,,,,,
+cmr4 gene,mvR02_Nixon,82630,83409,780,reverse,,,SGL_RS01035,sll7087,,cmr4,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,40637,41368,732,reverse,,,SGL_RS00850,sll7047,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,706,1287,582,reverse,,,SGL_RS00635,sll7002,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,47550,48242,693,forward,,,SGL_RS00900,slr7057,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,100246,100704,459,reverse,,,SGL_RS01115,sll7103,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,41845,42492,648,forward,,,SGL_RS00860,slr7049,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,94718,95344,627,forward,,,SGL_RS01085,slr7097,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,48790,49434,645,forward,,,SGL_RS00905,slr7059,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,43053,43646,594,reverse,,,SGL_RS00865,sll7050,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,24925,25509,585,reverse,,,SGL_RS00735,sll7027,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,72878,73459,582,reverse,,,SGL_RS00990,sll7077,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,96348,96938,591,forward,,,SGL_RS01095,slr7099,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,37554,38138,585,reverse,,,SGL_RS00825,sll7043,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,38131,38712,582,reverse,,,SGL_RS00830,sll7044,,,,,,,,,,,,,,,,,,,
+cas4 gene,mvR02_Nixon,14222,14794,573,forward,,,SGL_RS00700,slr7015,,cas4,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,2399,2965,567,forward,,,SGL_RS00650,slr7005,,,,,,,,,,,,,,,,,,,
+csx19 gene,mvR02_Nixon,56394,56954,561,reverse,,,SGL_RS00930,sll7064,,csx19,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,93673,94188,516,forward,,,SGL_RS01075,slr7095,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,98500,99015,516,forward,,,SGL_RS01105,slr7101,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,45124,45630,507,forward,,,SGL_RS00885,slr7054,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,28850,29353,504,reverse,,,SGL_RS00755,sll7030,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,3367,3819,453,reverse,,,SGL_RS00660,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,1399,1827,429,reverse,,,SGL_RS00640,sll7003,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,24106,24495,390,forward,,,SGL_RS00725,slr7025,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,82196,82591,396,reverse,,,SGL_RS01030,sll7086,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,93265,93654,390,forward,,,SGL_RS01070,slr7094,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,83501,83881,381,forward,,,SGL_RS01040,slr7088,,,,,,,,,,,,,,,,,,,
+csx18 gene,mvR02_Nixon,88262,88630,369,forward,,,SGL_RS01055,slr7091,,csx18,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,45712,46086,375,reverse,,,SGL_RS00890,sll7055,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,24518,24886,369,forward,,,SGL_RS00730,slr7026,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,36839,37201,363,forward,,,SGL_RS00815,slr7041,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,94246,94611,366,forward,,,SGL_RS01080,slr7096,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,66223,66567,345,forward,,,SGL_RS00975,slr7073,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,30699,31040,342,reverse,,,SGL_RS00775,sll7033,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,3041,3364,324,reverse,,,SGL_RS00655,sll7006,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,64316,64651,336,reverse,,,SGL_RS00960,sll7070,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,31037,31369,333,reverse,,,SGL_RS00780,sll7034,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,29844,30142,299,reverse,,,SGL_RS18535,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,30352,30669,318,forward,,,SGL_RS00770,slr7032,,,,,,,,,,,,,,,,,,,
+csx18 gene,mvR02_Nixon,64005,64319,315,reverse,,,SGL_RS00955,sll7069,,csx18,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,29337,29639,303,reverse,,,SGL_RS00760,sll7031,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,48431,48733,303,forward,,,SGL_RS18545,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,36189,36479,291,reverse,,,SGL_RS00805,ssl7039,,,,,,,,,,,,,,,,,,,
+cas2 gene,mvR02_Nixon,65842,66123,282,forward,,,SGL_RS00970,ssr7072,,cas2,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,35891,36178,288,reverse,,,SGL_RS00800,ssl7038,,,,,,,,,,,,,,,,,,,
+cas2 gene,mvR02_Nixon,15813,16097,285,forward,,,SGL_RS00710,ssr7017,,cas2,,,,,,,,,,,,,,,,,
+cas2 gene,mvR02_Nixon,89620,89898,279,forward,,,SGL_RS01065,ssr7093,,cas2,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,31822,32097,276,forward,,,SGL_RS00785,ssr7035,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,40245,40514,270,reverse,,,SGL_RS00845,ssl7046,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,37267,37521,255,reverse,,,SGL_RS00820,ssl7042,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,66610,66864,255,reverse,,,SGL_RS00980,ssl7074,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,44777,45019,243,reverse,,,SGL_RS00880,ssl7053,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,1799,2032,234,reverse,,,SGL_RS00645,ssl7004,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,79821,80048,228,forward,,,SGL_RS01020,ssr7084,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,41419,41640,222,reverse,,,SGL_RS00855,ssl7048,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,32289,32483,195,forward,,,SGL_RS00790,ssr7036,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,36654,36848,195,forward,,,SGL_RS00810,ssr7040,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,26004,26195,192,reverse,,,SGL_RS00740,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,44249,44419,171,reverse,,,SGL_RS19385,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,31422,31595,174,forward,,,SGL_RS19375,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,31641,31790,150,reverse,,,SGL_RS19380,,,,,,,,,,,,,,,,,,,,
+gene,mvR02_Nixon,93076,93216,141,forward,,,SGL_RS19390,,,,,,,,,,,,,,,,,,,,
+TC,mvR02_Nixon,1,103306,2,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,87,3,GT -> TC,"CTA,CAA,ATG,TCT,AGG,GCT,AAG,GAA,TTA,ACG,ACG,GTG,GTG,GGG,AAT,TTT,GCC,AAT,ATC,CAA,GCG,GGG,CAA,ACC,CTG,AAA,TTA,GCA,GGC,ATT,TGG,AAA,GAA,CAT,CCC,AAA,TAC,GGT,TCT,CAG,TTC,CAG,GTC,AAT,AAT,TAC,CAC,GAA,ACC,AAG,CCA,GCT,ACG,TTG,ACG,GGC,ATT,GAA,AAA,TAC,CTA,GGC,AGT,GGC,CTA,ATC,AAA,GGG,GTA,GGG,CCG,GTG,ACA,GCG,AAA,AGA,ATT,GTG,GCT,CAT,TTT,GGT,TTG,GAA,ACC,CTG,GAA,ATT,ATT,GAG,GGG,GAG,AGC,GAT,CGC,CTG,ATG,GAA,GTA,ACA,GGC,ATT,GGC,AAG,AAA,CGG,GTC,AGG,ATG,ATT,CAA,AGA,GCA,TGG,GCG,GAA,CAG,AAA,GCG,ATT,AAA,GAA,GTG,ATG,CTT,TTC,CTC,CAG,GGC,CAT,GGG,GTA,TCC,ACC,ACC,TAC,GCA,GTC,AAA,ATT,TAT,AAA,GAA,TAT,GGA,GAT,GAT,GCA,ATC,CGG,GTT,GTG,ACC,CAT,AAC,CCC,TAC,CAA,TTG,GCG,GAC,GAT,ATT,TTT,GGT,ATT,GGT,TTT,CTA,ACG,GCG,GAT,AAG,ATT,GCC,CAA,CAG,GTC,GGC,ATT,GAC,CCC,ACG,TCT,AAG,TTT,CGT,TAT,CGG,GCA,GGA,ATT,CTC,CAT,ACC,CTT,GGG,GAA,GCG,GCG,GAA,CAG,GGC,CAT,TGT,TAT,CTC,CCC,CAA,CCA,GAA,TTG,ATC,AAA,GCG,GCG,ATC,GCC,AAG,TTG,AGT,ACG,GAA,GAA,TAT,GAA,GCA,ATG,GCA,GAG,GCA,TTA,CTA,GCG,GTA,ATT,GAG,GAA,ATG,GTG,GCA,GTG,CAG,GAT,TTG,ATA,CGG,GAA,ATA,TTA,AGT,GAG,GAG,GAA,ATA,TTG,CTA,TTC,AAG,CCC,ACT,TTT,TAT,CAT,ACG,GAA,TGC,AAA,TTG,GCC,GGT,TAT,GTG,AAG,CAA,AAG,TTA,GTT,AAT,AGC,CAA,ATT,ATT,GAC,ATA,GAT,AGA,GTA,AAA,ACC,TGG,ATT,AAC,CGT,TAT,ACA,GAC,AAA,AAT,GAA,CTG,GAA,TTA,TCT,AAA,CAA,CAA,TAT,ACC,GCT,GTC,TTA,TTG,GCG,GCT,ACG,ACG,GGA,GTA,ATG,ATT,CTC,ACG,GGT,GGC,CCT,GGG,ACG,GGC,AAA,ACC,TTT,ACT,ACC,CGC,ACC,ATT,GTC,GCT,CTT,TGG,AGA,GCG,ATG,GGT,AAA,AAG,ATT,GGT,TTA,GCG,GCT,CCC,ACA,GGT,AGG,GCG,GCT,CAA,AGA,TTA,GGG,GAA,ATG,ACG,GGG,TTG,GAA,GCA,AAA,ACA,TTG,CAT,CGT,TTG,CTG,GAA,TTT,GAT,CCC,AAT,AGC,ATG,GGC,TTT,AAG,CGT,AAT,GAA,GAT,AAT,CCT,TTG,CCC,TTT,GAT,GCG,GTG,ATT,GTG,GAT,GAG,TCC,TCT,ATG,TTG,GAT,TTA,TTC,CTA,GCC,CAT,TCC,CTC,CTC,AAA,GCT,ATT,TCT,CCC,AAT,ACT,CAA,CTG,CTA,TTG,GTG,GGG,GAT,ATT,GAC,CAG,TTA,CCT,TCT,GTG,GGG,CCC,GGT,AGT,GTG,TTG,GGG,GAT,TTG,ATT,GCT,TCA,GAG,CAG,ATA,ACC,ATG,GTC,AGG,TTA,AAC,CAA,GTT,TTT,CGT,CAG,GCG,GCG,GCT,AGT,GCC,ATC,ATT,CGC,CAT,GCT,CAT,CAA,ATT,AAC,AGG,GGT,CAA,TAT,CCG,CCA,ATG,GAA,GCT,ATT,TCT,GAT,CAG,CCT,CTA,TCA,GAT,TGT,CTT,TGG,CAC,AAT,GGT,GGC,ACA,GAA,CCA,GAC,CAT,GGA,GTG,CAA,TTA,ATT,GGG,GAA,TTA,CTA,ACA,GAT,TTT,ATT,CCG,AAA,CAA,GGT,TTT,AAT,CTC,CTT,CAG,GAT,GTC,CAG,GTA,TTG,TGT,CCT,ATG,CAA,CGG,GGA,ATA,ATT,GGT,GCT,CGT,AAT,TTG,AAT,GCG,GTG,GTG,CAA,TCT,ATA,GTA,GTT,TCA,AAT,AAA,GCT,GAG,ACG,CTA,AAC,GCC,ACA,GTA,AGA,ACG,GAT,AAT,TTC,ATC,AAG,AGA,CGT,GTC,AAT,AGG,AGC,GTA,CAT,TCT,AGC,TCG,TTT,CAA,GGC,ACT,AAA,GTC,ATG,CTC,AAT,ATC,ATT,TAA -> CTA,CAA,ATG,TCT,AGG,GCT,AAG,GAA,TTA,ACG,ACG,GTG,GTG,GGG,AAT,TTT,GCC,AAT,ATC,CAA,GCG,GGG,CAA,ACC,CTG,AAA,TTA,GCA,GGC,ATT,TGG,AAA,GAA,CAT,CCC,AAA,TAC,GGT,TCT,CAG,TTC,CAG,GTC,AAT,AAT,TAC,CAC,GAA,ACC,AAG,CCA,GCT,ACG,TTG,ACG,GGC,ATT,GAA,AAA,TAC,CTA,GGC,AGT,GGC,CTA,ATC,AAA,GGG,GTA,GGG,CCG,GTG,ACA,GCG,AAA,AGA,ATT,GTG,GCT,CAT,TTT,GGT,TTG,GAA,ACC,CTG,GAA,ATT,ATT,GAG,GGG,GAG,AGC,GAT,CGC,CTG,ATG,GAA,GTA,ACA,GGC,ATT,GGC,AAG,AAA,CGG,GTC,AGG,ATG,ATT,CAA,AGA,GCA,TGG,GCG,GAA,CAG,AAA,GCG,ATT,AAA,GAA,GTG,ATG,CTT,TTC,CTC,CAG,GGC,CAT,GGG,GTA,TCC,ACC,ACC,TAC,GCA,GTC,AAA,ATT,TAT,AAA,GAA,TAT,GGA,GAT,GAT,GCA,ATC,CGG,GTT,GTG,ACC,CAT,AAC,CCC,TAC,CAA,TTG,GCG,GAC,GAT,ATT,TTT,GGT,ATT,GGT,TTT,CTA,ACG,GCG,GAT,AAG,ATT,GCC,CAA,CAG,GTC,GGC,ATT,GAC,CCC,ACG,TCT,AAG,TTT,CGT,TAT,CGG,GCA,GGA,ATT,CTC,CAT,ACC,CTT,GGG,GAA,GCG,GCG,GAA,CAG,GGC,CAT,TGT,TAT,CTC,CCC,CAA,CCA,GAA,TTG,ATC,AAA,GCG,GCG,ATC,GCC,AAG,TTG,AGT,ACG,GAA,GAA,TAT,GAA,GCA,ATG,GCA,GAG,GCA,TTA,CTA,GCG,GTA,ATT,GAG,GAA,ATG,GTG,GCA,GTG,CAG,GAT,TTG,ATA,CGG,GAA,ATA,TTA,AGT,GAG,GAG,GAA,ATA,TTG,CTA,TTC,AAG,CCC,ACT,TTT,TAT,CAT,ACG,GAA,TGC,AAA,TTG,GCC,GGT,TAT,GTG,AAG,CAA,AAG,TTA,GTT,AAT,AGC,CAA,ATT,ATT,GAC,ATA,GAT,AGA,GTA,AAA,ACC,TGG,ATT,AAC,CGT,TAT,ACA,GAC,AAA,AAT,GAA,CTG,GAA,TTA,TCT,AAA,CAA,CAA,TAT,ACC,GCT,GTC,TTA,TTG,GCG,GCT,ACG,ACG,GGA,GTA,ATG,ATT,CTC,ACG,GGT,GGC,CCT,GGG,ACG,GGC,AAA,ACC,TTT,ACT,ACC,CGC,ACC,ATT,GTC,GCT,CTT,TGG,AGA,GCG,ATG,GGT,AAA,AAG,ATT,GGT,TTA,GCG,GCT,CCC,ACA,GGT,AGG,GCG,GCT,CAA,AGA,TTA,GGG,GAA,ATG,ACG,GGG,TTG,GAA,GCA,AAA,ACA,TTG,CAT,CGT,TTG,CTG,GAA,TTT,GAT,CCC,AAT,AGC,ATG,GGC,TTT,AAG,CGT,AAT,GAA,GAT,AAT,CCT,TTG,CCC,TTT,GAT,GCG,GTG,ATT,GTG,GAT,GAG,TCC,TCT,ATG,TTG,GAT,TTA,TTC,CTA,GCC,CAT,TCC,CTC,CTC,AAA,GCT,ATT,TCT,CCC,AAT,ACT,CAA,CTG,CTA,TTG,GTG,GGG,GAT,ATT,GAC,CAG,TTA,CCT,TCT,GTG,GGG,CCC,GGT,AGT,GTG,TTG,GGG,GAT,TTG,ATT,GCT,TCA,GAG,CAG,ATA,ACC,ATG,GTC,AGG,TTA,AAC,CAA,GTT,TTT,CGT,CAG,GCG,GCG,GCT,AGT,GCC,ATC,ATT,CGC,CAT,GCT,CAT,CAA,ATT,AAC,AGG,GGT,CAA,TAT,CCG,CCA,ATG,GAA,GCT,ATT,TCT,GAT,CAG,CCT,CTA,TCA,GAT,TGT,CTT,TGG,CAC,AAT,GGT,GGC,ACA,GAA,CCA,GAC,CAT,GGA,GTG,CAA,TTA,ATT,GGG,GAA,TTA,CTA,ACA,GAT,TTT,ATT,CCG,AAA,CAA,GGT,TTT,AAT,CTC,CTT,CAG,GAT,GTC,CAG,GTA,TTG,TGT,CCT,ATG,CAA,CGG,GGA,ATA,ATT,GGT,GCT,CGT,AAT,TTG,AAT,GCG,GTG,GTG,CAA,TCT,ATA,GTA,GTT,TCA,AAT,AAA,GCT,GAG,ACG,CTA,AAC,GCC,ACA,GTA,AGA,ACG,GAT,AAT,TTC,ATC,AAG,AGA,CGT,GTC,AAT,AGG,AGC,GTA,CAT,TCT,AGC,TCG,TTT,CAA,GGC,ACT,AAA,GTC,ATG,CTC,AAT,ATC,ATT,TAA",103 -> 106,Substitution,None,,GT,20.8% -> 41.7%,TC,1.0E-45
+TTGTAGGCGC,mvR02_Nixon,6,5,0,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,,AAA family ATPase CDS,81,3,+TTGTAGGCGC,,170,Insertion,Frame Shift,,,21.8%,TTGTAGGCGC,2.6E-50
+C,mvR02_Nixon,247,247,1,none,,,,,,,,,,,,,,T -> C,,2224,SNP (transition),,54.5%,T,45.4%,C,0.0
+A,mvR02_Nixon,262,262,1,none,,,,,,,,,,,,,,G -> A,,2291,SNP (transition),,77.5%,G,22.3%,A,0.0
+C,mvR02_Nixon,272,272,1,none,,,,,,,,,,,,,,T -> C,,2368,SNP (transition),,72.9%,T,26.9%,C,0.0
+C,mvR02_Nixon,283,283,1,none,,,,,,,,,,,,,,T -> C,,2463,SNP (transition),,47.7%,T,52.1%,C,0.0
+A,mvR02_Nixon,287,287,1,none,,,,,,,,,,,,,,G -> A,,2446,SNP (transition),,75.1%,G,24.4%,A,0.0
+A,mvR02_Nixon,317,317,1,none,,,,,,,,,,,,,,G -> A,,2541,SNP (transition),,72.2%,G,27.8%,A,0.0
+T,mvR02_Nixon,378,378,1,none,,,,,,,,,,,,,,C -> T,,2565,SNP (transition),,46.9%,C,30.8%,T,0.0
+C,mvR02_Nixon,1224,1224,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,I -> V,IS701 family transposase CDS,64,1,T -> C,ATT -> GTT,2108,SNP (transition),Substitution,44.1%,T,55.8%,C,0.0
+G,mvR02_Nixon,1277,1277,1,none,,,SGL_RS00635,,,,IS701 family transposase,WP_011153671.1,,F -> S,IS701 family transposase CDS,11,2,A -> G,TTT -> TCT,1496,SNP (transition),Substitution,65.0%,A,34.9%,G,0.0
+T,mvR02_Nixon,4144,4144,1,none,,,,,,,,,,,,,,A -> T,,1680,SNP (transversion),,76.0%,A,20.4%,T,1.6E-258
+A,mvR02_Nixon,4152,4152,1,none,,,,,,,,,,,,,,C -> A,,2054,SNP (transversion),,51.2%,C,23.8%,A,0.0
+T,mvR02_Nixon,4152,4152,1,none,,,,,,,,,,,,,,C -> T,,2054,SNP (transition),,51.2%,C,24.7%,T,0.0
+G,mvR02_Nixon,4153,4153,1,none,,,,,,,,,,,,,,C -> G,,2079,SNP (transversion),,49.9%,C,34.1%,G,0.0
+A,mvR02_Nixon,5273,5273,1,none,,,,,,,,,,,,,,G -> A,,4618,SNP (transition),,70.9%,G,29.0%,A,0.0
+G,mvR02_Nixon,5328,5328,1,none,,,,,,,,,,,,,,C -> G,,2343,SNP (transversion),,62.3%,C,20.5%,G,0.0
+A,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+A,,230,Insertion,,,,22.6%,A,2.1E-24
+A,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+A,,230,Insertion,,,,27.8%,A,7.3E-78
+AA,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+AA,,230,Insertion,,,,41.3%,AA,1.7E-109
+T,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+T,,230,Insertion,,,,22.2%,T,1.4E-23
+T,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+T,,230,Insertion,,,,29.6%,T,7.9E-65
+A,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+A,,230,Insertion,,,,24.3%,A,3.4E-81
+T,mvR02_Nixon,16563,16562,0,none,,,,,,,,,,,,,,+T,,230,Insertion,,,,21.3%,T,3.7E-26
+A,mvR02_Nixon,16563,16563,1,none,,,,,,,,,,,,,,T -> A,,230,SNP (transversion),,35.2%,T,21.7%,A,4.4E-27
+C,mvR02_Nixon,16563,16563,1,none,,,,,,,,,,,,,,T -> C,,230,SNP (transition),,35.2%,T,31.7%,C,3.1E-86
+A,mvR02_Nixon,16564,16564,1,none,,,,,,,,,,,,,,C -> A,,221,SNP (transversion),,15.8%,C,64.7%,A,5.3E-226
+A,mvR02_Nixon,16565,16565,1,none,,,,,,,,,,,,,,G -> A,,207,SNP (transition),,51.7%,G,41.1%,A,6.1E-95
+A,mvR02_Nixon,16566,16566,1,none,,,,,,,,,,,,,,T -> A,,197,SNP (transversion),,12.7%,T,43.7%,A,3.6E-82
+G,mvR02_Nixon,16566,16566,1,none,,,,,,,,,,,,,,T -> G,,197,SNP (transversion),,12.7%,T,43.1%,G,3.1E-97
+T,mvR02_Nixon,16568,16568,1,none,,,,,,,,,,,,,,A -> T,,172,SNP (transversion),,70.9%,A,23.3%,T,3.8E-23
+A,mvR02_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> A,,148,SNP (transversion),,0.7%,C,31.8%,A,1.5E-51
+G,mvR02_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> G,,148,SNP (transversion),,0.7%,C,45.3%,G,7.5E-53
+T,mvR02_Nixon,16569,16569,1,none,,,,,,,,,,,,,,C -> T,,148,SNP (transition),,0.7%,C,20.9%,T,6.5E-17
+A,mvR02_Nixon,16570,16570,1,none,,,,,,,,,,,,,,T -> A,,122,SNP (transversion),,50.0%,T,41.8%,A,1.0E-33
+G,mvR02_Nixon,16572,16572,1,none,,,,,,,,,,,,,,C -> G,,98,SNP (transversion),,21.4%,C,43.9%,G,7.3E-22
+T,mvR02_Nixon,16572,16572,1,none,,,,,,,,,,,,,,C -> T,,98,SNP (transition),,21.4%,C,27.6%,T,2.4E-13
+G,mvR02_Nixon,16573,16573,1,none,,,,,,,,,,,,,,C -> G,,83,SNP (transversion),,28.9%,C,28.9%,G,1.6E-12
+T,mvR02_Nixon,16573,16573,1,none,,,,,,,,,,,,,,C -> T,,83,SNP (transition),,28.9%,C,30.1%,T,2.0E-13
+A,mvR02_Nixon,16576,16576,1,none,,,,,,,,,,,,,,C -> A,,70,SNP (transversion),,21.4%,C,50.0%,A,2.1E-20
+G,mvR02_Nixon,16577,16577,1,none,,,,,,,,,,,,,,T -> G,,70,SNP (transversion),,32.9%,T,38.6%,G,4.9E-15
+T,mvR02_Nixon,16580,16580,1,none,,,,,,,,,,,,,,G -> T,,64,SNP (transversion),,29.7%,G,57.8%,T,6.1E-28
+T,mvR02_Nixon,16582,16582,1,none,,,,,,,,,,,,,,C -> T,,65,SNP (transition),,43.1%,C,47.7%,T,1.1E-14
+C,mvR02_Nixon,16585,16584,0,none,,,,,,,,,,,,,,+C,,74,Insertion,,,,24.3%,C,5.9E-7
+C,mvR02_Nixon,16585,16585,1,none,,,,,,,,,,,,,,T -> C,,84,SNP (transition),,61.9%,T,25.0%,C,1.9E-17
+T,mvR02_Nixon,16588,16588,1,none,,,,,,,,,,,,,,C -> T,,88,SNP (transition),,46.6%,C,46.6%,T,1.6E-49
+A,mvR02_Nixon,16589,16589,1,none,,,,,,,,,,,,,,G -> A,,90,SNP (transition),,12.2%,G,53.3%,A,4.7E-52
+T,mvR02_Nixon,16589,16589,1,none,,,,,,,,,,,,,,G -> T,,90,SNP (transversion),,12.2%,G,31.1%,T,2.4E-28
+C,mvR02_Nixon,16590,16590,1,none,,,,,,,,,,,,,,A -> C,,98,SNP (transversion),,58.2%,A,38.8%,C,1.7E-38
+C,mvR02_Nixon,16591,16591,1,none,,,,,,,,,,,,,,T -> C,,100,SNP (transition),,3.0%,T,77.0%,C,9.3E-125
+A,mvR02_Nixon,16592,16592,1,none,,,,,,,,,,,,,,G -> A,,101,SNP (transition),,10.9%,G,51.5%,A,4.3E-45
+C,mvR02_Nixon,16592,16592,1,none,,,,,,,,,,,,,,G -> C,,101,SNP (transversion),,10.9%,G,26.7%,C,2.9E-49
+A,mvR02_Nixon,16595,16595,1,none,,,,,,,,,,,,,,T -> A,,129,SNP (transversion),,3.9%,T,25.6%,A,7.2E-56
+G,mvR02_Nixon,16595,16595,1,none,,,,,,,,,,,,,,T -> G,,129,SNP (transversion),,3.9%,T,68.2%,G,8.9E-117
+C,mvR02_Nixon,16596,16596,1,none,,,,,,,,,,,,,,G -> C,,134,SNP (transversion),,71.6%,G,24.6%,C,9.1E-36
+G,mvR02_Nixon,16597,16596,0,none,,,,,,,,,,,,,,+G,,134,Insertion,,,,23.9%,G,2.6E-56
+C,mvR02_Nixon,16597,16596,0,none,,,,,,,,,,,,,,+C,,134,Insertion,,,,67.2%,C,3.8E-163
+A,mvR02_Nixon,16598,16598,1,none,,,,,,,,,,,,,,G -> A,,151,SNP (transition),,7.3%,G,90.7%,A,1.5E-296
+T,mvR02_Nixon,30037,30036,0,none,,,SGL_RS18535,,,,hypothetical protein,,,,hypothetical protein CDS,107,2,(T)5 -> (T)6,,1089,Insertion (tandem repeat),Frame Shift,,,21.3%,T,3.7E-159
+A,mvR02_Nixon,30059,30059,1,none,,,SGL_RS18535,,,,hypothetical protein,,,,hypothetical protein CDS,84,3,G -> A,ACC -> ACT,1129,SNP (transition),None,73.5%,G,24.4%,A,5.1E-205
+C,mvR02_Nixon,30112,30112,1,none,,,SGL_RS18535,,,,hypothetical protein,,,N -> D,hypothetical protein CDS,31,1,T -> C,AAT -> GAT,1115,SNP (transition),Substitution,71.6%,T,27.7%,C,2.9E-278
+A,mvR02_Nixon,30117,30117,1,none,,,SGL_RS18535,,,,hypothetical protein,,,A -> V,hypothetical protein CDS,26,2,G -> A,GCT -> GTT,1091,SNP (transition),Substitution,72.0%,G,27.8%,A,3.2E-273
+G,mvR02_Nixon,30132,30132,1,none,,,SGL_RS18535,,,,hypothetical protein,,,G -> A,hypothetical protein CDS,11,2,C -> G,GGC -> GCC,1071,SNP (transversion),Substitution,73.9%,C,26.1%,G,3.6E-243
+G,mvR02_Nixon,30143,30143,1,none,,,,,,,,,,,,,,A -> G,,1071,SNP (transition),,76.0%,A,23.6%,G,4.9E-209
+T,mvR02_Nixon,30147,30147,1,none,,,,,,,,,,,,,,C -> T,,1057,SNP (transition),,76.5%,C,23.0%,T,8.7E-198
+CGCGG,mvR02_Nixon,69287,69286,0,none,,,,,,,,,,,,,,+CGCGG,,136,Insertion,,,,61.8%,CGCGG,2.0E-74
+GA,mvR02_Nixon,69290,69289,0,none,,,,,,,,,,,,,,+GA,,122,Insertion,,,,22.1%,GA,3.4E-13
+G,mvR02_Nixon,69290,69289,0,none,,,,,,,,,,,,,,+G,,122,Insertion,,,,69.7%,G,2.4E-72
+G,mvR02_Nixon,69290,69290,1,none,,,,,,,,,,,,,,A -> G,,122,SNP (transition),,73.0%,A,23.8%,G,3.9E-20
+G,mvR02_Nixon,69291,69291,1,none,,,,,,,,,,,,,,C -> G,,118,SNP (transversion),,21.2%,C,46.6%,G,3.3E-34
+T,mvR02_Nixon,69291,69291,1,none,,,,,,,,,,,,,,C -> T,,118,SNP (transition),,21.2%,C,23.7%,T,1.9E-14
+G,mvR02_Nixon,69292,69292,1,none,,,,,,,,,,,,,,A -> G,,114,SNP (transition),,58.8%,A,37.7%,G,1.7E-34
+T,mvR02_Nixon,69293,69293,1,none,,,,,,,,,,,,,,C -> T,,99,SNP (transition),,21.2%,C,74.7%,T,3.2E-74
+G,mvR02_Nixon,69294,69294,1,none,,,,,,,,,,,,,,C -> G,,80,SNP (transversion),,58.8%,C,38.8%,G,9.9E-26
+G,mvR02_Nixon,69295,69295,1,none,,,,,,,,,,,,,,T -> G,,75,SNP (transversion),,53.3%,T,42.7%,G,4.6E-22
+G,mvR02_Nixon,69298,69298,1,none,,,,,,,,,,,,,,T -> G,,40,SNP (transversion),,30.0%,T,57.5%,G,4.8E-20
+G,mvR02_Nixon,69299,69299,1,none,,,,,,,,,,,,,,C -> G,,29,SNP (transversion),,27.6%,C,65.5%,G,3.4E-20
+C,mvR02_Nixon,69319,69319,1,none,,,,,,,,,,,,,,A -> C,,50,SNP (transversion),,18.0%,A,56.0%,C,3.3E-13
+T,mvR02_Nixon,69322,69322,1,none,,,,,,,,,,,,,,A -> T,,73,SNP (transversion),,23.3%,A,46.6%,T,1.4E-15
+CACTTCTGT,mvR02_Nixon,69325,69324,0,none,,,,,,,,,,,,,,+CACTTCTGT,,117,Insertion,,,,29.9%,CACTTCTGT,7.0E-13
+T,mvR02_Nixon,69325,69324,0,none,,,,,,,,,,,,,,+T,,117,Insertion,,,,35.0%,T,3.2E-20
+A,mvR02_Nixon,69327,69327,1,none,,,,,,,,,,,,,,C -> A,,146,SNP (transversion),,37.7%,C,41.8%,A,1.8E-51
+T,mvR02_Nixon,101657,101657,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,S -> Y,AAA family ATPase CDS,1736,2,G -> T,TCT -> TAT,4073,SNP (transversion),Substitution,46.4%,G,25.5%,T,0.0
+A,mvR02_Nixon,101664,101664,1,none,,,SGL_RS00625,,,,AAA family ATPase,WP_011153669.1,,V -> L,AAA family ATPase CDS,1729,1,C -> A,GTG -> TTG,2672,SNP (transversion),Substitution,57.6%,C,20.4%,A,0.0
