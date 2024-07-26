@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.14)  15 JUL 2024 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.14)  26 JUL 2024 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -594,7 +594,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip69
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 43.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box72
@@ -626,12 +626,12 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip84
 )
    defining Unicode char U+2212 (decimal 8722)
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 53.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 60.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 53.
+(Font)              scaled to size 11.39996pt on input line 60.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count337
@@ -643,24 +643,24 @@ LaTeX Warning: Label `fig:spectraMV1' multiply defined.
 )
 \openout1 = `MVAdapt_Suppementary.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count338
@@ -720,173 +720,138 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring ON on input line 60.
 (./MVAdapt_Suppementary.out) (./MVAdapt_Suppementary.out)
 \@outlinefile=\write4
 \openout4 = `MVAdapt_Suppementary.out'.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 56.
+(Font)              scaled to size 19.70294pt on input line 63.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 19.70294pt on input line 56.
+(Font)              scaled to size 19.70294pt on input line 63.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 56.
+(Font)              scaled to size 13.67995pt on input line 63.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 57.
+(Font)              scaled to size 16.41594pt on input line 66.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 57.
- (./MVAdapt_Suppementary.toc
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 1.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 5.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 11.39996pt on input line 5.
-)
-\tf@toc=\write5
-\openout5 = `MVAdapt_Suppementary.toc'.
-
-<../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png, id=92, 2890.8pt x 1252.68pt>
+(Font)              scaled to size 16.41594pt on input line 66.
+<../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png, id=47, 2890.8pt x 1252.68pt>
 File: ../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png Graphic file (type png)
 <use ../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png  used on input line 66.
+Package pdftex.def Info: ../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png  used on input line 71.
 (pdftex.def)             Requested size: 500.484pt x 216.87122pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 67.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 72.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 67.
+(Font)              scaled to size 11.39996pt on input line 72.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-<../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png, id=104, 1218.7131pt x 520.5849pt>
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png>]
+<../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png, id=63, 1218.7131pt x 520.5849pt>
 File: ../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png Graphic file (type png)
 <use ../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png  used on input line 75.
+Package pdftex.def Info: ../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png  used on input line 82.
 (pdftex.def)             Requested size: 500.484pt x 213.78275pt.
- [2 <../Figures/MV_adaptation/MV_ROS_DFCDA_Syn6803.png>]
-<../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png, id=115, 1327.23856pt x 544.1931pt>
+<../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png, id=64, 1327.23856pt x 544.1931pt>
 File: ../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png Graphic file (type png)
 <use ../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png  used on input line 83.
+Package pdftex.def Info: ../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png  used on input line 90.
 (pdftex.def)             Requested size: 500.484pt x 205.2095pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 88.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mu' on input line 88.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 88.
-
-<../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png, id=116, 1287.81125pt x 651.43375pt>
-File: ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png Graphic file (type png)
-<use ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png  used on input line 92.
-(pdftex.def)             Requested size: 500.484pt x 253.16353pt.
-[3 <../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png> <../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png>]
-<../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf, id=125, 542.025pt x 317.185pt>
+<../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf, id=65, 542.025pt x 317.185pt>
 File: ../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf Graphic file (type pdf)
 <use ../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf>
-Package pdftex.def Info: ../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf  used on input line 102.
+Package pdftex.def Info: ../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf  used on input line 100.
 (pdftex.def)             Requested size: 500.484pt x 292.88817pt.
- [4 <../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png>]
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 108.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 16.41594pt on input line 108.
-<../Figures/MV_adaptation/prqA_MvADapt_multipanel.png, id=132, 969.6225pt x 712.22086pt>
-File: ../Figures/MV_adaptation/prqA_MvADapt_multipanel.png Graphic file (type png)
-<use ../Figures/MV_adaptation/prqA_MvADapt_multipanel.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/prqA_MvADapt_multipanel.png  used on input line 113.
-(pdftex.def)             Requested size: 500.484pt x 367.62921pt.
- [5 <../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf>]
+ [2 <../Figures/MV_adaptation/growth_curves_firstevolution_Wt_6umMV.png> <../Figures/MV_adaptation/spectra_endpoint_firstevolution_Wt_6umMV.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 105.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 105.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 105.
+
+<../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png, id=74, 1287.81125pt x 651.43375pt>
+File: ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png Graphic file (type png)
+<use ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png>
+Package pdftex.def Info: ../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png  used on input line 109.
+(pdftex.def)             Requested size: 500.484pt x 253.16353pt.
+[3 <../Figures/MV_adaptation/growthcurves_growthstages_Howe.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 122.
- [6 <../Figures/MV_adaptation/prqA_MvADapt_multipanel.png (PNG copy)>]
-<../Figures/MV_adaptation/mutation_events_plot.png, id=155, 1070.19826pt x 541.3023pt>
+(Font)              scaled to size 13.67995pt on input line 117.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 123.
+ [4 <../Figures/MV_adaptation/spotplates_MVadapted_sentforsequencing.png>]
+<../Figures/MV_adaptation/mutation_events_plot.png, id=95, 1070.19826pt x 541.3023pt>
 File: ../Figures/MV_adaptation/mutation_events_plot.png Graphic file (type png)
 <use ../Figures/MV_adaptation/mutation_events_plot.png>
-Package pdftex.def Info: ../Figures/MV_adaptation/mutation_events_plot.png  used on input line 146.
+Package pdftex.def Info: ../Figures/MV_adaptation/mutation_events_plot.png  used on input line 143.
 (pdftex.def)             Requested size: 500.484pt x 253.14014pt.
-<../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png, id=156, 591.8913pt x 616.0616pt>
+ [5 <../Figures/MV_adaptation/mutation_events_plot.png>]
+<../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png, id=103, 591.8913pt x 616.0616pt>
 File: ../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png Graphic file (type png)
 <use ../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png>
-Package pdftex.def Info: ../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png  used on input line 155.
+Package pdftex.def Info: ../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png  used on input line 152.
 (pdftex.def)             Requested size: 500.484pt x 520.92873pt.
- [7 <../Figures/MV_adaptation/mutation_events_plot.png>]
-<../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png, id=166, 603.856pt x 614.4556pt>
+<../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png, id=104, 603.856pt x 614.4556pt>
 File: ../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png Graphic file (type png)
 <use ../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png>
-Package pdftex.def Info: ../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png  used on input line 162.
+Package pdftex.def Info: ../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png  used on input line 159.
 (pdftex.def)             Requested size: 500.484pt x 509.27608pt.
- [8 <../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png>]
+ [6 <../Figures/WGS/wt_Nixon_vs_NC000911_genomeview.png>]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 169.
+(Font)              scaled to size 5.69998pt on input line 166.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 172.
- [9 <../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png>] [10]
-<../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png, id=185, 867.24pt x 578.16pt>
+(Font)              scaled to size 5.69998pt on input line 169.
+ [7 <../Figures/WGS/wt_Howe_vs_NC000911_genomeview.png>]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 244.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 13.67995pt on input line 244.
+ [8]
+<../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png, id=124, 867.24pt x 578.16pt>
 File: ../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png Graphic file (type png)
 <use ../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png>
 Package pdftex.def Info: ../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png  used on input line 250.
 (pdftex.def)             Requested size: 500.484pt x 333.65685pt.
-<../Figures/WGS/variant_frequency_fraction_comparison_3bins.png, id=186, 716.07526pt x 569.60805pt>
+<../Figures/WGS/large_plasmid_analysis.png, id=125, 597.6729pt x 709.2096pt>
+File: ../Figures/WGS/large_plasmid_analysis.png Graphic file (type png)
+<use ../Figures/WGS/large_plasmid_analysis.png>
+Package pdftex.def Info: ../Figures/WGS/large_plasmid_analysis.png  used on input line 263.
+(pdftex.def)             Requested size: 500.484pt x 593.89232pt.
+ [9 <../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png>] [10 <../Figures/WGS/large_plasmid_analysis.png>]
+<../Figures/WGS/variant_frequency_fraction_comparison_3bins.png, id=138, 716.07526pt x 569.60805pt>
 File: ../Figures/WGS/variant_frequency_fraction_comparison_3bins.png Graphic file (type png)
 <use ../Figures/WGS/variant_frequency_fraction_comparison_3bins.png>
-Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_3bins.png  used on input line 262.
+Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_3bins.png  used on input line 276.
 (pdftex.def)             Requested size: 500.484pt x 398.11452pt.
- [11 <../Figures/MV_adaptation/PCA_Synechocystis_Strains_SNP_Counts.png>]
-<../Figures/WGS/variant_frequency_fraction_comparison_4bins.png, id=193, 716.31615pt x 569.60805pt>
+ [11]
+<../Figures/WGS/variant_frequency_fraction_comparison_4bins.png, id=144, 716.31615pt x 569.60805pt>
 File: ../Figures/WGS/variant_frequency_fraction_comparison_4bins.png Graphic file (type png)
 <use ../Figures/WGS/variant_frequency_fraction_comparison_4bins.png>
-Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_4bins.png  used on input line 269.
+Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_4bins.png  used on input line 283.
 (pdftex.def)             Requested size: 500.484pt x 397.97545pt.
  [12 <../Figures/WGS/variant_frequency_fraction_comparison_3bins.png>]
-<../Figures/WGS/variant_frequency_fraction_comparison_5bins.png, id=200, 716.07526pt x 569.60805pt>
+<../Figures/WGS/variant_frequency_fraction_comparison_5bins.png, id=151, 716.07526pt x 569.60805pt>
 File: ../Figures/WGS/variant_frequency_fraction_comparison_5bins.png Graphic file (type png)
 <use ../Figures/WGS/variant_frequency_fraction_comparison_5bins.png>
-Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_5bins.png  used on input line 276.
+Package pdftex.def Info: ../Figures/WGS/variant_frequency_fraction_comparison_5bins.png  used on input line 290.
 (pdftex.def)             Requested size: 500.484pt x 398.11452pt.
- [13 <../Figures/WGS/variant_frequency_fraction_comparison_4bins.png>] [14 <../Figures/WGS/variant_frequency_fraction_comparison_5bins.png>]
+ [13 <../Figures/WGS/variant_frequency_fraction_comparison_4bins.png>]
+Overfull \hbox (29.44946pt too wide) in paragraph at lines 299--299
+|[]\T1/phv/b/n/17.28 Electrochemical ev-i-dence for al-tered in-tra-cel-lu-lar light-dependent
+ []
 
-Package natbib Warning: Citation `Rippka1979' on page 15 undefined on input line 330.
-
-[15] [16]
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 366.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 367.
- [17] (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-) [18]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 404.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 405.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 418.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 418.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 438.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 438.
- [19] [20] [21] [22]
-LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 616.
-LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 616.
- [23]
-
-Package natbib Warning: There were undefined citations.
-
-[24] (./MVAdapt_Suppementary.aux)
+<../Figures/MV_adaptation/MVR_chronoamp_panels_all.png, id=159, 2748.2675pt x 1324.95pt>
+File: ../Figures/MV_adaptation/MVR_chronoamp_panels_all.png Graphic file (type png)
+<use ../Figures/MV_adaptation/MVR_chronoamp_panels_all.png>
+Package pdftex.def Info: ../Figures/MV_adaptation/MVR_chronoamp_panels_all.png  used on input line 304.
+(pdftex.def)             Requested size: 500.484pt x 241.27066pt.
+[14 <../Figures/WGS/variant_frequency_fraction_comparison_5bins.png>] [15 <../Figures/MV_adaptation/MVR_chronoamp_panels_all.png>] (./MVAdapt_Suppementary.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -896,21 +861,21 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MVAdapt_Suppementary.out' has not changed.
-(rerunfilecheck)             Checksum: D07A3D03B70C583FC13373746C6A6E9A;4722.
+(rerunfilecheck)             Checksum: A4B807F53EA9112D694769ED8DD2ED53;3849.
  ) 
 Here is how much of TeX's memory you used:
- 27576 strings out of 474116
- 506151 string characters out of 5743682
- 2380187 words of memory out of 5000000
- 49148 multiletter control sequences out of 15000+600000
- 613588 words of font info for 92 fonts, out of 8000000 for 9000
+ 26626 strings out of 474116
+ 495176 string characters out of 5743682
+ 2012187 words of memory out of 5000000
+ 48508 multiletter control sequences out of 15000+600000
+ 594431 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,22n,87p,937b,2144s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on MVAdapt_Suppementary.pdf (24 pages, 22221749 bytes).
+ 84i,17n,87p,938b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on MVAdapt_Suppementary.pdf (15 pages, 22829464 bytes).
 PDF statistics:
- 657 PDF objects out of 1000 (max. 8388607)
- 577 compressed objects within 6 object streams
- 336 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

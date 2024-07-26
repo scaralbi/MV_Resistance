@@ -1,19 +1,35 @@
-locus_tag,old_locus_tag,Strain,Minimum,Variant Frequency,Amino Acid Change,Product,protein_id,gene,CDS,Change,Coverage
-SGL_RS00045,,mvR10_Howe,16834,83.50%,T -> S,site-specific integrase,WP_011153547.1,,site-specific integrase CDS,A -> T,1219
-SGL_RS00135,,mvR10_Howe,31519,76.40%,M -> I,IS701 family transposase,WP_011153566.1,,IS701 family transposase CDS,G -> A,970
-SGL_RS19365,,mvR10_Howe,72104,75.00%,L -> V,hypothetical protein,WP_158299050.1,,hypothetical protein CDS,C -> G,863
-SGL_RS00390,,mvR10_Howe,85004,84.30%,D -> G,thermonuclease family protein,WP_223211228.1,,thermonuclease family protein CDS,T -> C,1348
-SGL_RS00390,,mvR10_Howe,85010,85.00%,S -> T,thermonuclease family protein,WP_223211228.1,,thermonuclease family protein CDS,C -> G,1337
-SGL_RS00390,,mvR10_Howe,85045,84.20%,F -> L,thermonuclease family protein,WP_223211228.1,,thermonuclease family protein CDS,A -> C,1439
-SGL_RS00390,,mvR10_Howe,85095,82.10%,A -> P,thermonuclease family protein,WP_223211228.1,,thermonuclease family protein CDS,C -> G,1359
-SGL_RS00490,,mvR10_Howe,98940,75.00%,IL -> ML,ParA family protein,WP_011153642.1,,ParA family protein CDS,AT -> GC,976 -> 983
-SGL_RS00570,,mvR10_Howe,110221,83.20%,V -> L,hypothetical protein,WP_011153658.1,,hypothetical protein CDS,G -> T,1332
-SGL_RS00570,,mvR10_Howe,110241,83.50%,L -> F,hypothetical protein,WP_011153658.1,,hypothetical protein CDS,G -> C,1306
-SGL_RS00570,,mvR10_Howe,110243,83.60%,I -> T,hypothetical protein,WP_011153658.1,,hypothetical protein CDS,T -> C,1318
-SGL_RS00570,,mvR10_Howe,110273,84.60%,R -> Q,hypothetical protein,WP_011153658.1,,hypothetical protein CDS,G -> A,1388
-SGL_RS00045,,mvR11_Howe,16834,81.20%,T -> S,site-specific integrase,WP_011153547.1,,site-specific integrase CDS,A -> T,990
-SGL_RS00135,,mvR11_Howe,31519,82.20%,M -> I,IS701 family transposase,WP_011153566.1,,IS701 family transposase CDS,G -> A,1413
-SGL_RS00135,,mvR11_Howe,31634,83.70%,K -> E,IS701 family transposase,WP_011153566.1,,IS701 family transposase CDS,A -> G,1476
-SGL_RS00045,,mvR12_Howe,16834,82.80%,T -> S,site-specific integrase,WP_011153547.1,,site-specific integrase CDS,A -> T,1415
-SGL_RS00135,,mvR12_Howe,31519,78.90%,M -> I,IS701 family transposase,WP_011153566.1,,IS701 family transposase CDS,G -> A,1078
-SGL_RS00135,,mvR12_Howe,31634,81.20%,K -> E,IS701 family transposase,WP_011153566.1,,IS701 family transposase CDS,A -> G,1162
+locus_tag,Strain,Minimum,Variant Frequency,Amino Acid Change,Product,protein_id,CDS,Change,Coverage
+SGL_RS19365,mvR10_Howe,72104,75.00%,L -> V,hypothetical protein,WP_158299050.1,hypothetical protein CDS,C -> G,863
+SGL_RS00135,mvR10_Howe,31519,76.40%,M -> I,IS701 family transposase,WP_011153566.1,IS701 family transposase CDS,G -> A,970
+SGL_RS00390,mvR10_Howe,85095,82.10%,A -> P,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1359
+SGL_RS00570,mvR10_Howe,110221,83.20%,V -> L,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> T,1332
+SGL_RS00045,mvR10_Howe,16834,83.50%,T -> S,site-specific integrase,WP_011153547.1,site-specific integrase CDS,A -> T,1219
+SGL_RS00570,mvR10_Howe,110241,83.50%,L -> F,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> C,1306
+SGL_RS00570,mvR10_Howe,110243,83.60%,I -> T,hypothetical protein,WP_011153658.1,hypothetical protein CDS,T -> C,1318
+SGL_RS00390,mvR10_Howe,85045,84.20%,F -> L,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,A -> C,1439
+SGL_RS00390,mvR10_Howe,85004,84.30%,D -> G,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1348
+SGL_RS00570,mvR10_Howe,110273,84.60%,R -> Q,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> A,1388
+SGL_RS00390,mvR10_Howe,85010,85.00%,S -> T,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1337
+SGL_RS19365,mvR12_Howe,72083,75.60%,A -> T,hypothetical protein,WP_158299050.1,hypothetical protein CDS,G -> A,997
+SGL_RS00135,mvR12_Howe,31519,78.90%,M -> I,IS701 family transposase,WP_011153566.1,IS701 family transposase CDS,G -> A,1078
+SGL_RS00140,mvR12_Howe,32061,80.80%,L -> P,ARMT1-like domain-containing protein,WP_011153567.1,ARMT1-like domain-containing protein CDS,A -> G,1396
+SGL_RS00135,mvR12_Howe,31634,81.20%,K -> E,IS701 family transposase,WP_011153566.1,IS701 family transposase CDS,A -> G,1162
+SGL_RS00390,mvR12_Howe,85095,81.40%,A -> P,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1434
+SGL_RS00045,mvR12_Howe,16834,82.80%,T -> S,site-specific integrase,WP_011153547.1,site-specific integrase CDS,A -> T,1415
+SGL_RS00390,mvR12_Howe,85004,83.30%,D -> G,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1480
+SGL_RS00390,mvR12_Howe,85010,83.70%,S -> T,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1503
+SGL_RS00390,mvR12_Howe,85045,83.80%,F -> L,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,A -> C,1538
+SGL_RS00390,mvR12_Howe,84918,84.50%,T -> A,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1634
+SGL_RS00390,mvR12_Howe,84945,84.70%,K -> E,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1626
+SGL_RS00390,mvR11_Howe,85095,76.10%,A -> P,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1070
+SGL_RS00390,mvR11_Howe,85045,77.50%,F -> L,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,A -> C,1101
+SGL_RS00390,mvR11_Howe,85004,77.60%,D -> G,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1051
+SGL_RS00390,mvR11_Howe,85010,78.10%,S -> T,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,C -> G,1057
+SGL_RS00570,mvR11_Howe,110221,79.50%,V -> L,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> T,1135
+SGL_RS00570,mvR11_Howe,110243,79.50%,I -> T,hypothetical protein,WP_011153658.1,hypothetical protein CDS,T -> C,1121
+SGL_RS00570,mvR11_Howe,110241,79.70%,L -> F,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> C,1115
+SGL_RS00570,mvR11_Howe,110273,80.70%,R -> Q,hypothetical protein,WP_011153658.1,hypothetical protein CDS,G -> A,1153
+SGL_RS00045,mvR11_Howe,16834,81.20%,T -> S,site-specific integrase,WP_011153547.1,site-specific integrase CDS,A -> T,990
+SGL_RS00390,mvR11_Howe,84945,82.10%,K -> E,thermonuclease family protein,WP_223211228.1,thermonuclease family protein CDS,T -> C,1210
+SGL_RS00135,mvR11_Howe,31519,82.20%,M -> I,IS701 family transposase,WP_011153566.1,IS701 family transposase CDS,G -> A,1413
+SGL_RS00135,mvR11_Howe,31634,83.70%,K -> E,IS701 family transposase,WP_011153566.1,IS701 family transposase CDS,A -> G,1476

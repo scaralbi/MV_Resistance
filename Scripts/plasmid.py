@@ -68,7 +68,8 @@ def create_mutation_details(grouped_mutations, mutation_strain_map):
         freq = min_percentage(row['Variant Frequency'])
         if int(freq) >= 75:
             amino_acid_change = row['Amino Acid Change'] if row['Amino Acid Change'] else "fs"
-            label = f"{row['locus_tag'],amino_acid_change}," if row['Protein Effect'] not in [None, ''] else ''
+            # label = f"{row['locus_tag'],amino_acid_change}," if row['Protein Effect'] not in [None, ''] else ''
+            label = row['product']
             # new_labels.append(row['locus_tag'])
             new_labels.append(label)
             pos_list_CDSonly.append(row['Minimum'])
@@ -157,15 +158,15 @@ def plot_circos(gff, all_data, all_strains, strain_color, grouped_mutations, new
             if min_percentage(mutation['Variant Frequency']) >= 75 and pd.notna(mutation['Protein Effect']) and mutation['Protein Effect'] != 'None':
                 strain_track.rect(mutation['Minimum'], mutation['Minimum']+1, fc="black", ec="black", lw=2)
                 plotted_mutations.append(mutation_detail)
-            #     if mutation['Minimum'] not in pos_list_CDSonly:
-            #         pos_list_CDSonly.append(mutation['Minimum'])
-            #         new_labels.append(mutation['protein_id'])
+                if mutation['Minimum'] not in pos_list_CDSonly:
+                    pos_list_CDSonly.append(mutation['Minimum'])
+                    new_labels.append(mutation['protein_id'])
             elif 50 <= min_percentage(mutation['Variant Frequency']) < 75 and pd.notna(mutation['Protein Effect']) and mutation['Protein Effect'] != 'None':
                 strain_track.rect(mutation['Minimum'], mutation['Minimum']+1, fc="darkgrey", ec="darkgrey", lw=2)
+                # plotted_mutations.append(mutation_detail)
+            elif 1 <= min_percentage(mutation['Variant Frequency']) < 50 and pd.notna(mutation['Protein Effect']) and mutation['Protein Effect'] != 'None':
+                strain_track.rect(mutation['Minimum'], mutation['Minimum']+1, fc="lightgrey", ec="lightgrey", lw=2)
             #     # plotted_mutations.append(mutation_detail)
-            # elif 1 <= min_percentage(mutation['Variant Frequency']) < 50 and pd.notna(mutation['Protein Effect']) and mutation['Protein Effect'] != 'None':
-            #     strain_track.rect(mutation['Minimum'], mutation['Minimum']+1, fc="lightgrey", ec="lightgrey", lw=2)
-            # #     # plotted_mutations.append(mutation_detail)
 
 
 

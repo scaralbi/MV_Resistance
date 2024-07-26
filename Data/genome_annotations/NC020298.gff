@@ -1,13 +1,35 @@
 ##gff-version 3
-##source-version geneious 2023.0.3
+##source-version geneious 2024.0.5
 ##sequence-region	NC_020298	1	2345
 NC_020298	Geneious	region	1	2345	.	+	0	Is_circular=true
 NC_020298	Geneious	source	1	2345	.	+	.	Name=Moscow wildtype genome source Synechocystis sp. PCC 6803
-NC_020298	Geneious	gene	1713	2345	.	+	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585651171.8
-NC_020298	Geneious	gene	1	429	.	+	.	ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585651171.8
-NC_020298	Geneious	CDS	1713	2345	.	+	0	Name=replication initiation factor domain-containing protein CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585651171.9
-NC_020298	Geneious	CDS	1	429	.	+	0	Name=replication initiation factor domain-containing protein CDS;ID=g7GYYjXErwCaybtRE2mgG5BhE6I.1689585651171.9
+NC_020298	Geneious	gene	1713	2345	.	+	.	ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407743.0
+NC_020298	Geneious	gene	1	429	.	+	.	ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407743.0
+NC_020298	Geneious	CDS	1713	2345	.	+	0	Name=replication initiation factor domain-containing protein CDS;ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407754.1
+NC_020298	Geneious	CDS	1	429	.	+	0	Name=replication initiation factor domain-containing protein CDS;ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407754.1
+NC_020298	Geneious	Polymorphism	1	1	.	.	.	Name=TAA;ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407754.2
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=TAA;ID=ucAPKs+nt4uXZKdZvSXmU6RJbiE.1721312407754.2
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=G
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	3	3	.	.	.	Name=A
+NC_020298	Geneious	Polymorphism	4	4	.	.	.	Name=AGAGTTTGTTAACG
+NC_020298	Geneious	Polymorphism	4	4	.	.	.	Name=AAGAGTTTGTTAACG
+NC_020298	Geneious	Polymorphism	4	4	.	.	.	Name=AAGAGTTTGTTAACG
 NC_020298	Geneious	gene	850	1221	.	+	.	
 NC_020298	Geneious	CDS	850	1221	.	+	0	Name=hypothetical protein CDS
-NC_020298	Geneious	Polymorphism	1211	1211	.	.	.	Name=
-NC_020298	Geneious	Polymorphism	1211	1211	.	.	.	Name=
+NC_020298	Geneious	Polymorphism	2344	2345	.	.	.	Name=AC
+NC_020298	Geneious	Polymorphism	2344	2345	.	.	.	Name=AC
+NC_020298	Geneious	Polymorphism	2345	2345	.	.	.	Name=C
+NC_020298	Geneious	Polymorphism	2345	2345	.	.	.	Name=C
+NC_020298	Geneious	Polymorphism	2345	2345	.	.	.	Name=C
+NC_020298	Geneious	Polymorphism	2345	2345	.	.	.	Name=C
