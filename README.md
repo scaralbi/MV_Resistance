@@ -1,12 +1,14 @@
-# MV Resistance Project
+# MV Resistance Project - required folder structure
   - [Data](/Data)
-    - Whole genome sequencing
-    - $PLACEHOLDER$
+    - Genome annotations
+    - Reads mapping
+    - Variant analysis
   - Scripts
-    - [DNA Sequencing Results Plotters](#dna-sequencing-results-plotters)
-    - [Oxygen electrode measurements plotter](#oxygen-electrode-measurements-plotter)
+    - Map reads to reference sequence (plot coverage and identity)
+    - Filter mutations to identify mutant-specific ones
+    - Whole genome allelic frequency analysis
+    - PLot circos diagrams of mutant-specific variants
   - Figures
-  - Text
 
 
 # DNA Sequencing Results Plotters 
@@ -55,7 +57,7 @@ The generated figure will be saved to `"Figures/WGS/{Strain}_vs_{Reference}_muta
 
 #### Execution
 
-You can run the script using Python 3. From the terminal, navigate to the directory containing the script, and run the following command:
+You can run the script using Python3. From the terminal, navigate to the directory containing the script, and run the following command:
 
 ```shell
 python3 GenSeqRefViewer.py -strain= "wt_Nixon" -ref= "NC000911"
@@ -66,7 +68,7 @@ Replace `<strain_name>` with the strain name (as labelled in the csv files) and 
 ### Outputs
 The script generates a circular diagram of a genome with the given strain and reference genome, highlighting areas of low coverage and unconserved genomic regions. The final diagram is saved as a PNG image with a high resolution (DPI=900). The filename will be of the form `"{Strain}_vs_{Reference}_mutations.png"` and it will be saved in the `"Figures/WGS/"` directory.
 
-![Genomic Visualization](./Figures/WGS/wt_Nixon_vs_NC000911_genomeview_1.png)
+![Genomic Visualization](./Figures/WGS/wt_Howe_vs_NC000911_genomeview.png)
 
 In addition, a simple pyPlot table with the information regarding the mutations is also produced:
 
