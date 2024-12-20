@@ -93,5 +93,6 @@ Experimental data such as electrochemical traces and results from spectroscopy w
 ## Chronoamperometry data analysis
 
 ## Square wave voltammetry data analysis
+This matlab script ([SWVplotter.m](Scripts/SWVplotter.m)) was used to analyse and plot data from square wave voltammetries (SWV). 
 
 ## Growth curve plotter
