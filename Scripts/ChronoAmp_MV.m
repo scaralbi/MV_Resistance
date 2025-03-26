@@ -80,19 +80,8 @@ letters = char(65:64+(N));  % Where N is the number of strains
 % Create a new figure
 hFig = figure;
 figure(1)
-% Set the units to millimeters
-% set(hFig, 'Units', 'centimeters');
-
-% Set the figure position and size: [left bottom width height]
-% % This will make the figure 174 mm by 234 mm (Deisred size for Journal "Photosynthesis Research")
-% figWidth = 17.4;
-% figHeight = 23.4;
-% set(hFig, 'Position', [10, 10, figWidth, figHeight]);  
-
-
 % Create a 2x1 tiled layout to separate the top 2x2 and bottom 2x5 grids
 t1 = tiledlayout(5, 2, 'TileSpacing', 'Tight', 'Padding', 'Tight');
-
 % Create  plots for the 2x2 layout
 %Plot 1,1
 nexttile
